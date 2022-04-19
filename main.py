@@ -8,4 +8,4 @@ dict = {'name': 'Germey'}
 data = bytes(parse.urlencode(dict), encoding='utf8')
 req = request.Request(url=url, data=data, headers=headers, method='POST')
 response = request.urlopen(req)
-print(response.read().decode('utf-8'))
+#print(response.read().decode('utf-8'))
