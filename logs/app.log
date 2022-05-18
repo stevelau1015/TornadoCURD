@@ -1,0 +1,212 @@
+2022-05-18 16:20:22 DEBUG debug 信息
+2022-05-18 16:20:22 DEBUG POST http://localhost:52890/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:20:22 DEBUG Starting new HTTP connection (1): localhost:52890
+2022-05-18 16:20:24 DEBUG http://localhost:52890 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:20:24 DEBUG Finished Request
+2022-05-18 16:20:24 DEBUG POST http://localhost:52890/session/1a6f25702fc4df19ce21a279ea42ad61/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:20:25 DEBUG http://localhost:52890 "POST /session/1a6f25702fc4df19ce21a279ea42ad61/url HTTP/1.1" 200 14
+2022-05-18 16:20:25 DEBUG Finished Request
+2022-05-18 16:20:40 DEBUG POST http://localhost:52890/session/1a6f25702fc4df19ce21a279ea42ad61/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:20:42 DEBUG http://localhost:52890 "POST /session/1a6f25702fc4df19ce21a279ea42ad61/url HTTP/1.1" 200 14
+2022-05-18 16:20:42 DEBUG Finished Request
+2022-05-18 16:20:42 DEBUG GET http://localhost:52890/session/1a6f25702fc4df19ce21a279ea42ad61/cookie {}
+2022-05-18 16:20:42 DEBUG http://localhost:52890 "GET /session/1a6f25702fc4df19ce21a279ea42ad61/cookie HTTP/1.1" 200 1906
+2022-05-18 16:20:42 DEBUG Finished Request
+2022-05-18 16:20:42 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:20:43 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 302 15074
+2022-05-18 16:20:44 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/home?t=home/index&lang=zh_CN&token=789244737 HTTP/1.1" 200 61923
+2022-05-18 16:20:45 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:20:45 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/searchbiz?action=search_biz&token=789244737&lang=zh_CN&f=json&ajax=1&random=0.2881258462666747&query=%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0%E9%82%A3%E4%BA%9B%E4%BA%8B&begin=0&count=5 HTTP/1.1" 200 1251
+2022-05-18 16:20:45 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:20:46 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/appmsg?token=789244737&lang=zh_CN&f=json&ajax=1&random=0.3749792772807492&action=list_ex&begin=0&count=5&query=&fakeid=MzA3OTMzODM2MQ%3D%3D&type=9 HTTP/1.1" 200 53
+2022-05-18 16:23:08 DEBUG debug 信息
+2022-05-18 16:23:08 DEBUG debug 信息
+2022-05-18 16:23:08 INFO info 信息
+2022-05-18 16:23:08 WARNING warning 信息
+2022-05-18 16:23:08 ERROR error 信息
+2022-05-18 16:23:08 CRITICAL critial 信息
+2022-05-18 16:23:08 DEBUG POST http://localhost:53595/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:23:08 DEBUG Starting new HTTP connection (1): localhost:53595
+2022-05-18 16:23:10 DEBUG http://localhost:53595 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:23:10 DEBUG Finished Request
+2022-05-18 16:23:10 DEBUG POST http://localhost:53595/session/8a4b30e9cf3b299226e9605eba73a588/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:23:11 DEBUG http://localhost:53595 "POST /session/8a4b30e9cf3b299226e9605eba73a588/url HTTP/1.1" 200 14
+2022-05-18 16:23:11 DEBUG Finished Request
+2022-05-18 16:23:26 DEBUG POST http://localhost:53595/session/8a4b30e9cf3b299226e9605eba73a588/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:23:29 DEBUG http://localhost:53595 "POST /session/8a4b30e9cf3b299226e9605eba73a588/url HTTP/1.1" 200 14
+2022-05-18 16:23:29 DEBUG Finished Request
+2022-05-18 16:23:29 DEBUG GET http://localhost:53595/session/8a4b30e9cf3b299226e9605eba73a588/cookie {}
+2022-05-18 16:23:29 DEBUG http://localhost:53595 "GET /session/8a4b30e9cf3b299226e9605eba73a588/cookie HTTP/1.1" 200 1906
+2022-05-18 16:23:29 DEBUG Finished Request
+2022-05-18 16:23:29 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:23:30 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 302 15072
+2022-05-18 16:23:31 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/home?t=home/index&lang=zh_CN&token=550298687 HTTP/1.1" 200 61920
+2022-05-18 16:23:32 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:23:32 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/searchbiz?action=search_biz&token=550298687&lang=zh_CN&f=json&ajax=1&random=0.7277666682867191&query=%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0%E9%82%A3%E4%BA%9B%E4%BA%8B&begin=0&count=5 HTTP/1.1" 200 1251
+2022-05-18 16:23:32 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:23:33 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/appmsg?token=550298687&lang=zh_CN&f=json&ajax=1&random=0.3602788668500554&action=list_ex&begin=0&count=5&query=&fakeid=MzA3OTMzODM2MQ%3D%3D&type=9 HTTP/1.1" 200 53
+2022-05-18 16:29:41 DEBUG debug 信息
+2022-05-18 16:29:41 INFO info 信息
+2022-05-18 16:29:41 WARNING warning 信息
+2022-05-18 16:29:41 ERROR error 信息
+2022-05-18 16:29:41 CRITICAL critial 信息
+2022-05-18 16:29:41 DEBUG POST http://localhost:55115/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:29:41 DEBUG Starting new HTTP connection (1): localhost:55115
+2022-05-18 16:29:43 DEBUG http://localhost:55115 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:29:43 DEBUG Finished Request
+2022-05-18 16:29:43 DEBUG POST http://localhost:55115/session/c2a9d48eecf6cedd5a319d2d2edb0ec4/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:29:44 DEBUG http://localhost:55115 "POST /session/c2a9d48eecf6cedd5a319d2d2edb0ec4/url HTTP/1.1" 200 14
+2022-05-18 16:29:44 DEBUG Finished Request
+2022-05-18 16:29:59 DEBUG POST http://localhost:55115/session/c2a9d48eecf6cedd5a319d2d2edb0ec4/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:30:02 DEBUG http://localhost:55115 "POST /session/c2a9d48eecf6cedd5a319d2d2edb0ec4/url HTTP/1.1" 200 14
+2022-05-18 16:30:02 DEBUG Finished Request
+2022-05-18 16:30:02 DEBUG GET http://localhost:55115/session/c2a9d48eecf6cedd5a319d2d2edb0ec4/cookie {}
+2022-05-18 16:30:02 DEBUG http://localhost:55115 "GET /session/c2a9d48eecf6cedd5a319d2d2edb0ec4/cookie HTTP/1.1" 200 1906
+2022-05-18 16:30:02 DEBUG Finished Request
+2022-05-18 16:30:02 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:30:03 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 302 15075
+2022-05-18 16:30:04 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/home?t=home/index&lang=zh_CN&token=1475007848 HTTP/1.1" 200 61925
+2022-05-18 16:30:04 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:30:05 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/searchbiz?action=search_biz&token=1475007848&lang=zh_CN&f=json&ajax=1&random=0.9848976441610424&query=%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0%E9%82%A3%E4%BA%9B%E4%BA%8B&begin=0&count=5 HTTP/1.1" 200 1251
+2022-05-18 16:30:05 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:30:05 DEBUG https://mp.weixin.qq.com:443 "GET /cgi-bin/appmsg?token=1475007848&lang=zh_CN&f=json&ajax=1&random=0.38754166925142886&action=list_ex&begin=0&count=5&query=&fakeid=MzA3OTMzODM2MQ%3D%3D&type=9 HTTP/1.1" 200 53
+2022-05-18 16:32:21 DEBUG debug 信息
+2022-05-18 16:32:21 INFO info 信息
+2022-05-18 16:32:21 WARNING warning 信息
+2022-05-18 16:32:21 ERROR error 信息
+2022-05-18 16:32:21 CRITICAL critial 信息
+2022-05-18 16:32:21 DEBUG POST http://localhost:55740/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:32:21 DEBUG Starting new HTTP connection (1): localhost:55740
+2022-05-18 16:32:23 DEBUG http://localhost:55740 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:32:23 DEBUG Finished Request
+2022-05-18 16:32:23 DEBUG POST http://localhost:55740/session/7cc5ed3f33056c9f15e4adc3b8fd3ba2/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:32:24 DEBUG http://localhost:55740 "POST /session/7cc5ed3f33056c9f15e4adc3b8fd3ba2/url HTTP/1.1" 200 14
+2022-05-18 16:32:24 DEBUG Finished Request
+2022-05-18 16:32:39 DEBUG POST http://localhost:55740/session/7cc5ed3f33056c9f15e4adc3b8fd3ba2/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:32:40 DEBUG http://localhost:55740 "POST /session/7cc5ed3f33056c9f15e4adc3b8fd3ba2/url HTTP/1.1" 200 14
+2022-05-18 16:32:40 DEBUG Finished Request
+2022-05-18 16:32:40 DEBUG GET http://localhost:55740/session/7cc5ed3f33056c9f15e4adc3b8fd3ba2/cookie {}
+2022-05-18 16:32:40 DEBUG http://localhost:55740 "GET /session/7cc5ed3f33056c9f15e4adc3b8fd3ba2/cookie HTTP/1.1" 200 433
+2022-05-18 16:32:40 DEBUG Finished Request
+2022-05-18 16:32:40 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:32:40 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 200 13726
+2022-05-18 16:32:50 DEBUG debug 信息
+2022-05-18 16:32:50 INFO info 信息
+2022-05-18 16:32:50 WARNING warning 信息
+2022-05-18 16:32:50 ERROR error 信息
+2022-05-18 16:32:50 CRITICAL critial 信息
+2022-05-18 16:32:50 DEBUG POST http://localhost:55871/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:32:50 DEBUG Starting new HTTP connection (1): localhost:55871
+2022-05-18 16:32:52 DEBUG http://localhost:55871 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:32:52 DEBUG Finished Request
+2022-05-18 16:32:52 DEBUG POST http://localhost:55871/session/ae50e2ad0b8ceab0d7ca4085c5e6b612/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:32:53 DEBUG http://localhost:55871 "POST /session/ae50e2ad0b8ceab0d7ca4085c5e6b612/url HTTP/1.1" 200 14
+2022-05-18 16:32:53 DEBUG Finished Request
+2022-05-18 16:33:08 DEBUG POST http://localhost:55871/session/ae50e2ad0b8ceab0d7ca4085c5e6b612/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:33:08 DEBUG http://localhost:55871 "POST /session/ae50e2ad0b8ceab0d7ca4085c5e6b612/url HTTP/1.1" 200 14
+2022-05-18 16:33:08 DEBUG Finished Request
+2022-05-18 16:33:08 DEBUG GET http://localhost:55871/session/ae50e2ad0b8ceab0d7ca4085c5e6b612/cookie {}
+2022-05-18 16:33:08 DEBUG http://localhost:55871 "GET /session/ae50e2ad0b8ceab0d7ca4085c5e6b612/cookie HTTP/1.1" 200 433
+2022-05-18 16:33:08 DEBUG Finished Request
+2022-05-18 16:33:08 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:33:08 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 200 13726
+2022-05-18 16:33:31 DEBUG debug 信息
+2022-05-18 16:33:31 INFO info 信息
+2022-05-18 16:33:31 WARNING warning 信息
+2022-05-18 16:33:31 ERROR error 信息
+2022-05-18 16:33:31 CRITICAL critial 信息
+2022-05-18 16:33:31 DEBUG POST http://localhost:56047/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:33:31 DEBUG Starting new HTTP connection (1): localhost:56047
+2022-05-18 16:33:33 DEBUG http://localhost:56047 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:33:33 DEBUG Finished Request
+2022-05-18 16:33:33 DEBUG POST http://localhost:56047/session/15deb792ef859b013a5aeb3b2ef2e18f/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:33:34 DEBUG http://localhost:56047 "POST /session/15deb792ef859b013a5aeb3b2ef2e18f/url HTTP/1.1" 200 14
+2022-05-18 16:33:34 DEBUG Finished Request
+2022-05-18 16:33:49 DEBUG POST http://localhost:56047/session/15deb792ef859b013a5aeb3b2ef2e18f/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:33:49 DEBUG http://localhost:56047 "POST /session/15deb792ef859b013a5aeb3b2ef2e18f/url HTTP/1.1" 200 14
+2022-05-18 16:33:49 DEBUG Finished Request
+2022-05-18 16:33:49 DEBUG GET http://localhost:56047/session/15deb792ef859b013a5aeb3b2ef2e18f/cookie {}
+2022-05-18 16:33:49 DEBUG http://localhost:56047 "GET /session/15deb792ef859b013a5aeb3b2ef2e18f/cookie HTTP/1.1" 200 433
+2022-05-18 16:33:49 DEBUG Finished Request
+2022-05-18 16:33:49 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:33:50 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 200 13726
+2022-05-18 16:40:01 DEBUG debug 信息
+2022-05-18 16:40:01 INFO info 信息
+2022-05-18 16:40:01 WARNING warning 信息
+2022-05-18 16:40:01 ERROR error 信息
+2022-05-18 16:40:01 CRITICAL critial 信息
+2022-05-18 16:40:02 DEBUG POST http://localhost:57638/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:40:02 DEBUG Starting new HTTP connection (1): localhost:57638
+2022-05-18 16:40:04 DEBUG http://localhost:57638 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:40:04 DEBUG Finished Request
+2022-05-18 16:40:04 DEBUG POST http://localhost:57638/session/328c3483230cf341db9e00b0349f7710/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:40:06 DEBUG http://localhost:57638 "POST /session/328c3483230cf341db9e00b0349f7710/url HTTP/1.1" 200 14
+2022-05-18 16:40:06 DEBUG Finished Request
+2022-05-18 16:40:21 DEBUG POST http://localhost:57638/session/328c3483230cf341db9e00b0349f7710/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:40:21 DEBUG http://localhost:57638 "POST /session/328c3483230cf341db9e00b0349f7710/url HTTP/1.1" 200 14
+2022-05-18 16:40:21 DEBUG Finished Request
+2022-05-18 16:40:21 DEBUG GET http://localhost:57638/session/328c3483230cf341db9e00b0349f7710/cookie {}
+2022-05-18 16:40:21 DEBUG http://localhost:57638 "GET /session/328c3483230cf341db9e00b0349f7710/cookie HTTP/1.1" 200 433
+2022-05-18 16:40:21 DEBUG Finished Request
+2022-05-18 16:40:21 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:40:21 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 200 13726
+2022-05-18 16:40:43 DEBUG debug 信息
+2022-05-18 16:40:43 INFO info 信息
+2022-05-18 16:40:43 WARNING warning 信息
+2022-05-18 16:40:43 ERROR error 信息
+2022-05-18 16:40:43 CRITICAL critial 信息
+2022-05-18 16:40:44 DEBUG POST http://localhost:57829/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:40:44 DEBUG Starting new HTTP connection (1): localhost:57829
+2022-05-18 16:40:45 DEBUG http://localhost:57829 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:40:45 DEBUG Finished Request
+2022-05-18 16:40:45 DEBUG POST http://localhost:57829/session/4e12303cca5d0439912e3c5de3a437c3/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:40:46 DEBUG http://localhost:57829 "POST /session/4e12303cca5d0439912e3c5de3a437c3/url HTTP/1.1" 200 14
+2022-05-18 16:40:46 DEBUG Finished Request
+2022-05-18 16:41:01 DEBUG POST http://localhost:57829/session/4e12303cca5d0439912e3c5de3a437c3/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:41:02 DEBUG http://localhost:57829 "POST /session/4e12303cca5d0439912e3c5de3a437c3/url HTTP/1.1" 200 14
+2022-05-18 16:41:02 DEBUG Finished Request
+2022-05-18 16:41:02 DEBUG GET http://localhost:57829/session/4e12303cca5d0439912e3c5de3a437c3/cookie {}
+2022-05-18 16:41:02 DEBUG http://localhost:57829 "GET /session/4e12303cca5d0439912e3c5de3a437c3/cookie HTTP/1.1" 200 433
+2022-05-18 16:41:02 DEBUG Finished Request
+2022-05-18 16:41:02 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:41:02 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 200 13726
+2022-05-18 16:46:44 DEBUG debug 信息
+2022-05-18 16:46:44 INFO info 信息
+2022-05-18 16:46:44 WARNING warning 信息
+2022-05-18 16:46:44 ERROR error 信息
+2022-05-18 16:46:44 CRITICAL critial 信息
+2022-05-18 16:46:45 DEBUG POST http://localhost:59203/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:46:45 DEBUG Starting new HTTP connection (1): localhost:59203
+2022-05-18 16:46:48 DEBUG http://localhost:59203 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:46:48 DEBUG Finished Request
+2022-05-18 16:46:48 DEBUG POST http://localhost:59203/session/9c5fec6fbeba002ca070e818e5c78e77/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:46:49 DEBUG http://localhost:59203 "POST /session/9c5fec6fbeba002ca070e818e5c78e77/url HTTP/1.1" 200 14
+2022-05-18 16:46:49 DEBUG Finished Request
+2022-05-18 16:47:04 DEBUG POST http://localhost:59203/session/9c5fec6fbeba002ca070e818e5c78e77/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:47:04 DEBUG http://localhost:59203 "POST /session/9c5fec6fbeba002ca070e818e5c78e77/url HTTP/1.1" 200 14
+2022-05-18 16:47:04 DEBUG Finished Request
+2022-05-18 16:47:04 DEBUG GET http://localhost:59203/session/9c5fec6fbeba002ca070e818e5c78e77/cookie {}
+2022-05-18 16:47:04 DEBUG http://localhost:59203 "GET /session/9c5fec6fbeba002ca070e818e5c78e77/cookie HTTP/1.1" 200 433
+2022-05-18 16:47:04 DEBUG Finished Request
+2022-05-18 16:47:04 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:47:05 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 200 13726
+2022-05-18 16:47:46 DEBUG debug 信息
+2022-05-18 16:47:46 INFO info 信息
+2022-05-18 16:47:46 WARNING warning 信息
+2022-05-18 16:47:46 ERROR error 信息
+2022-05-18 16:47:46 CRITICAL critial 信息
+2022-05-18 16:47:46 DEBUG POST http://localhost:59450/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2022-05-18 16:47:46 DEBUG Starting new HTTP connection (1): localhost:59450
+2022-05-18 16:47:48 DEBUG http://localhost:59450 "POST /session HTTP/1.1" 200 799
+2022-05-18 16:47:48 DEBUG Finished Request
+2022-05-18 16:47:48 DEBUG POST http://localhost:59450/session/949c836cf391cd644a1b03c69276b3a2/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:47:49 DEBUG http://localhost:59450 "POST /session/949c836cf391cd644a1b03c69276b3a2/url HTTP/1.1" 200 14
+2022-05-18 16:47:49 DEBUG Finished Request
+2022-05-18 16:48:04 DEBUG POST http://localhost:59450/session/949c836cf391cd644a1b03c69276b3a2/url {"url": "https://mp.weixin.qq.com/"}
+2022-05-18 16:48:05 DEBUG http://localhost:59450 "POST /session/949c836cf391cd644a1b03c69276b3a2/url HTTP/1.1" 200 14
+2022-05-18 16:48:05 DEBUG Finished Request
+2022-05-18 16:48:05 DEBUG GET http://localhost:59450/session/949c836cf391cd644a1b03c69276b3a2/cookie {}
+2022-05-18 16:48:05 DEBUG http://localhost:59450 "GET /session/949c836cf391cd644a1b03c69276b3a2/cookie HTTP/1.1" 200 433
+2022-05-18 16:48:05 DEBUG Finished Request
+2022-05-18 16:48:05 DEBUG Starting new HTTPS connection (1): mp.weixin.qq.com:443
+2022-05-18 16:48:06 DEBUG https://mp.weixin.qq.com:443 "GET / HTTP/1.1" 200 13726

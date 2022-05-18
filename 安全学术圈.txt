@@ -1,0 +1,784 @@
+一种基于Graph Kernel的API使用示例选择方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487706&idx=1&sn=d44511e21a3e62fbf940606bcb10f0b3&chksm=fe2eef51c9596647b1c9ba6a8ac2ec35379535dfc8be5610d4e8b0f9bfb7ec2a90e41e0f2ef5#rd
+2022年CCF-腾讯犀牛鸟基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487692&idx=1&sn=5146faf0d0027a048ac0deb6c7fa59ea&chksm=fe2eef47c959665136cf15d573f51fe5cf0e8448abee36f8e4105f62e0ad80b66f3e2bdf4334#rd
+哈尔滨工业大学计算学部网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487678&idx=1&sn=fb918cdcbaa86c91918463f7c1dc5803&chksm=fe2eef35c9596623d23c564f7fc802ae9fb4b1c8233e1c388c9cb8de1d3e85beded1db7f50c2#rd
+顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487670&idx=1&sn=4b392569acc80d4d3182b20407651701&chksm=fe2eef3dc959662bf28a4fc1d9df92ef664486a2b883d27c89e52e7be0cd277aff8c3c94fff9#rd
+使用强化学习配合代码注释的代码检索任务:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487663&idx=1&sn=10ca2d40e76f787ec1dc939a83e5d0c3&chksm=fe2eef24c9596632291db8f56960a044fde923c628a497d2a2f8dad643bf64726009e123e37b#rd
+利用代码知识图谱实现Bug定位:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487636&idx=1&sn=67de7e61b0a55c9a1e20bcdc8ddc5b5e&chksm=fe2eef1fc9596609cdfd89cff0b071608920df9e734459a57b4235f5bf3cc074e0b99025c51b#rd
+从源代码的控制流图中学习特性以定位缺陷:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487623&idx=1&sn=99f7dc2b1552ca69c24bcfe546b20c07&chksm=fe2eef0cc959661a1bc0b06af36ebc882d8aa9986a7d51a2a5491e21f8b9d77b5042136be4ae#rd
+针对移动支付的道德反欺诈系统:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487595&idx=1&sn=f023c4d1a046e62439be618f7fdc4787&chksm=fe2eefe0c95966f601ac841b3492f57f6445d365c91c7af703c25266edc52b71421549e24bf6#rd
+利用神经网络挖掘共同特征发现未知的APT:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487582&idx=1&sn=1487e5cb9acce1d8c1e8f262e299ebcc&chksm=fe2eefd5c95966c31bdab293aeead5f29676a06509f6b9e3f74b82466b30869417eb193de9e3#rd
+高效、私有且健壮的联邦学习:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487570&idx=1&sn=e2daf7e9593c96de3d76f43160cc6b74&chksm=fe2eefd9c95966cf517d2f3a4e74640f4b8ec8240475a93fcab02f66227942124e4b833b1db9#rd
+APTMalInsight：基于系统调用信息和本体知识框架识别和认知APT恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487560&idx=1&sn=b9f7762775702e12d917586ca66154b0&chksm=fe2eefc3c95966d5fee4a2f17bdde562949cb6a5caa068472133be5f01f5e8c37e63a37934c7#rd
+BadNL: 语义保持改进的NLP模型后门攻击:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487549&idx=1&sn=c576cd7b7de2474313dde7c66a4a0253&chksm=fe2eefb6c95966a06d8f744e618628ec5f5e2e4eb77522bb51da0fb04f3b0d81f94c4cf20818#rd
+APT取证分析中的数据压缩:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487537&idx=1&sn=d38ebf87e904cd5c3494465a519249f1&chksm=fe2eefbac95966ac1dd01f74fd7adf97e800929bf83d5445e13ccf2553f073f730170ef05037#rd
+多面之神:攻击嵌入和图像恢复的人脸验证系统:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487523&idx=1&sn=4bca77cac7787b2bc249c129402b698e&chksm=fe2eefa8c95966be63252f6ae06165427ba6e8157141f7a8821ebfcaf663e398e74f9d800ad4#rd
+AITS 2022 CFP:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487511&idx=1&sn=f4199535919ea09f0c48b54c73e88739&chksm=fe2eef9cc959668a5469e77a5ed81114d75dfd1dd2737f10c3f998158ec597c84c7948b401bf#rd
+利用开源情报发现并解释恶意行为:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487504&idx=1&sn=0ff870ed6cb05c68363525da20dcb610&chksm=fe2eef9bc959668db4fb8dac420aaae9f148c115ed4fb03df767b6b2d2fde312073b75c18293#rd
+预测功能性漏洞利用:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487493&idx=1&sn=b40cc29817ccce37d1b29afea7874b4b&chksm=fe2eef8ec9596698d4307e757071bf74e1e460134701e030465e44019665537df6af03207c7c#rd
+2022年密码科学技术国家重点实验室开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487475&idx=1&sn=cc67e4fce3a78cf4165858d0f3a67718&chksm=fe2ef078c959796e3bf948cf815d3c2274fc2c8536c06bea41357786f7e7d05b032f7688b5c9#rd
+根据代码不一致性检测Bug的方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487468&idx=1&sn=a48b15ce89cf1571705e164977d6463b&chksm=fe2ef067c9597971e0cffed7a88d98e11713897c200f68fe150710f1a32a43a5f92f3de9b811#rd
+Price TAG：半自动的电子商务威胁TTP提取:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487458&idx=1&sn=2548398daf7e94da33dc6d141ad7c5a5&chksm=fe2ef069c959797feec07f16a94d21ec387c63867ca4c288d1a3f7cfe684311283ef2771fd7f#rd
+基于依赖性分析的软件供应链评估指标对预测npm包的流行程度变化:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487445&idx=1&sn=b880fe25c8d49ac9a8c67968db7b4acd&chksm=fe2ef05ec95979485077cdeaa682fa4975424fd031406d0d83c0452b7ec68003a53515fa7dc9#rd
+用户视角下的网络威胁情报共享平台:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487437&idx=1&sn=fb6e8203d18f55f93f5a2f3675eb81ba&chksm=fe2ef046c959795013fb57e974d9fbf805292bdaba48d71a1d0bb74e85e00b3474aec9315ccd#rd
+SciSec 2022 CFP:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487430&idx=1&sn=d1d150ea84c0f8049fc49de57173f88d&chksm=fe2ef04dc959795b0077981399790caff7b5f998e3bb98985fa89dedf678702f648bb0e76ea3#rd
+Mnemosyne：一个高效的水坑攻击调查取证系统:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487423&idx=1&sn=211209d0673bd49c0980581b9d220d9e&chksm=fe2ef034c959792283b26808fb65a4c158a72ba0c6f7e98eab161e93634089a841812a721f6b#rd
+IEEE DSC 2022 CFP:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487404&idx=1&sn=db32bf99754e9aa7dd73923d4438e270&chksm=fe2ef027c95979312eb0b73a19d511401012598372f2109bbc9e4f7569744560a9b22a539341#rd
+DICOS：在Stack Overflow社区不安全代码发现方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487397&idx=1&sn=88deef969db009fe60e88a667a9ed111&chksm=fe2ef02ec9597938035738b8d1b62e8e768bc87b0ee4873a88c451b8e2012464c9ab7fd1c018#rd
+以PoC迁移促进漏洞评估:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487382&idx=1&sn=14ac62690dd992ae478820cacf503db9&chksm=fe2ef01dc959790b107aea0c69c6f8118365b14a394b5145f3fe318deddbe68ea1085f52bf54#rd
+2022年上海市计算机软件评测重点实验室开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487368&idx=1&sn=0943aaab7144aa1b43900211aa0900f3&chksm=fe2ef003c95979152995ef9bd18dbad3f2b01a710ff9e08d8f73e29bb498fa6962819751b573#rd
+LastPyMile - 甄别软件包源代码和发布版代码的差异性:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487362&idx=1&sn=d7763cc3994e647d7287150e05481b06&chksm=fe2ef009c959791f7e8d9676b30e28f46a3336cfb7105e63080cecf7d3584033491d5fa7883b#rd
+基于BERT的Web服务政策合规性衡量方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487351&idx=1&sn=b118d0f65b4564682e98d4f15855ac46&chksm=fe2ef0fcc95979ea55b1850c828c11f613fca58d7d5abf919d27aa5da778f937caabb9d047b8#rd
+CCF-华为胡杨林基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487339&idx=1&sn=9b2b4bf43bc4a87f703a96026a715c3f&chksm=fe2ef0e0c95979f63e8d27bc5a330b0e122b6f2787aa46a74559eccd4e272442fe14135edddb#rd
+PAM 2022 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487326&idx=1&sn=f739c8d6248e573663254f109c1ef6b7&chksm=fe2ef0d5c95979c3cd7267648914ee85c1437f52aee30b3bd172204de775a630ba2749cf8f38#rd
+基于任务能力的JS脚本访问控制框架:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487312&idx=1&sn=cba459dacc8efcea2f03fd2240dfc4d0&chksm=fe2ef0dbc95979cd0091d641ca760ec31b64ae3db06555029da9e2d0cd3d3d42570f152cc7b4#rd
+PRIVGUARD：用于GDPR隐私合规的数据治理框架:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487302&idx=1&sn=8ed6a6a3f85110230402acda12a34a70&chksm=fe2ef0cdc95979db322eddc4bfcd98022593f0233d8c4dd87fb38e4976f8c8bebcacc1b813fb#rd
+Internetware 2022 CFP:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487242&idx=1&sn=15102c0d7a85a8be8adaf722b9261005&chksm=fe2ef081c95979979498af877096f23d4044cbc7802d2a9e696964cc17dad1bc65aa9e7792a9#rd
+两份撰写基金申请书经验分享的 PPT:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487235&idx=1&sn=b0c8f604f9690112ae82cdf3fc113746&chksm=fe2ef088c959799ea92659cf356794b12a31daa16de4def626a7c30110c597b9533700ecd18a#rd
+开源软件包与软件供应链安全漏洞修复分析研究:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487178&idx=1&sn=27414740204cdb38294e35b0293d9fc1&chksm=fe2ef141c9597857d505cf359bec7867053646c6f86473e951d7d116f30950eb29861ae0097b#rd
+自动机器学习的安全风险:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487149&idx=1&sn=44f94c30cb1936d7abc28d2722723140&chksm=fe2ef126c959783022f12f85c353d089ad6510dc8f8f0835708290b434b9c6c89a9083e0907c#rd
+ML-DOCTOR：对机器学习模型推理攻击的全局性研究:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487138&idx=1&sn=103a95dff836eef7107e8a8ac2770b78&chksm=fe2ef129c959783f4a0378746ad129480671e40335d76a3d29c944d5ad95dba9bbd1e8fa71c7#rd
+安全学术圈2021年度总结:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487136&idx=1&sn=1b734d96980da74156caf593157f237b&chksm=fe2ef12bc959783d202032d630e319e5b3b040464376db18bac68d008ee818df99ee3c825c85#rd
+配置错误注入测试中的挑战与机遇:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487019&idx=1&sn=d65b91ef2973d6832930a914c692a732&chksm=fe2ef1a0c95978b6bb74a71c4d9955b574f536074f1189b43a9d165e582a81d82bba7c1fb851#rd
+中国科学技术大学网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487010&idx=1&sn=4110c5663c1b720a03358f2e470d98ff&chksm=fe2ef1a9c95978bf04188421678ca42844c8081d4973e7ce8f22829891c4578a9075881637c6#rd
+2022年国家自然科学基金安全领域部分题目:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487002&idx=1&sn=822d3e014a960ceec4a7fcd8f269b92b&chksm=fe2ef191c959788732c68e1988410faf1ad94994d84696ceb7cfaefe244d072e298b7626a69a#rd
+QRS 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486985&idx=1&sn=13f6a0b5a1c1e87b4ec8dc15b8dcdae1&chksm=fe2ef182c95978940532b20d9479eb540341b857a179a0e5256de5c9291552c781f949ebf028#rd
+2021年内CCF-A类会议收录的区块链论文的分布情况:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486978&idx=1&sn=532689064501388970ff8a4ac31dc90e&chksm=fe2ef189c959789f3c619df0ecc210b55de1ff244fbcfa0d3beeb427297eec2a8625980677ba#rd
+ACM WiSec 2022 论文征稿 (2022/2/2):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486959&idx=1&sn=a01ea5d05d1bc7728088776c8b44c60f&chksm=fe2ef264c9597b7288e68fc7211ce2956b4e2e0a9560d349e95c3bcddbd164e8aa9375552178#rd
+2022年综合业务网理论及关键技术国家重点实验室开放基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486952&idx=1&sn=071dd828aa7b7632fc8a1dd42161f323&chksm=fe2ef263c9597b755b34fe4ec50a952a55387c92b41e0ec5be9dabddd75d2af3d39424013bcb#rd
+ACSAC 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486941&idx=1&sn=4a0e0743a816136b5dd727a3f0f925b8&chksm=fe2ef256c9597b40fbaac29bff2c79cf0064c52f17ea47301c36c5d66255338586a230b96fd7#rd
+2021年度河南省网络密码技术重点实验室资助课题公示:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486934&idx=1&sn=ec7e0e1294f672820e9ad07ce87c92b8&chksm=fe2ef25dc9597b4bf965838f73a3835e01210457e36505a084740b6b8c122de42df22d4d3529#rd
+基于POI和查询似然的微博用户地理位置推演:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486926&idx=1&sn=d99797e279ef3c871216aaf87c8db5d9&chksm=fe2ef245c9597b53a7fe9843fcf9fe806ae49f89409a9556fb9552961dd62c1b296898a7c03f#rd
+利用轻量级权限系统遏制恶意NPM软件包更新:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486912&idx=1&sn=d3c6765b92a1614e1d8d179a1e0b78c6&chksm=fe2ef24bc9597b5d0f7cc21f99747e4395bf7246f1b534722d3dfcdb49fae614cd89c7fa943d#rd
+利用轻量级权限系统遏制恶意NPM软件包更新:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486911&idx=1&sn=fb81d3b33637d696715b94ab29c53949&chksm=fe2ef234c9597b22f6321f97919ecf6fb44b809e06290806e270cab0c0ae03291a3687850b88#rd
+基于多模态学习的视觉实体链接:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486905&idx=1&sn=b897681e36c53fa163dcaab7c22223d7&chksm=fe2ef232c9597b245d20d5a452ab5ce23810678e857935dad12ac694d7bdda0421a28a0b99d7#rd
+结合强化学习与CNN的Webshell检测方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486889&idx=1&sn=23fa8f2725fe987405115cfd3c94ce4a&chksm=fe2ef222c9597b34b51f33b957e1c84f0eb2bcfdd6f84fb2d8bcf9c34d707f4a59e28b57056e#rd
+某重点实验室基金2021年开放项目:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486878&idx=1&sn=8f0608d2bf28e84bacfabf0cb58843db&chksm=fe2ef215c9597b03060d53fb5881bd0ba0067703890acb065132cd2657228f3498bdbb60b454#rd
+对于有向图的高阶谱聚类:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486865&idx=1&sn=3b8c4290dfd395fcd38e9cee4f5139ea&chksm=fe2ef21ac9597b0c4acdb23b2d16acf1fb87237df50503ef68147e4abff03f433740f2742be9#rd
+关于多步骤攻击预测方法的调研概要:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486851&idx=1&sn=789287aeeb8ab7149ff3e3b80c53f169&chksm=fe2ef208c9597b1edcb157b09590ca546b433b732824b4f2b9aca5f8bfde60676db5235d3690#rd
+FOSS软件中漏洞的生命周期:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486850&idx=1&sn=458e4fcac250758afb2b0adecb89f3cc&chksm=fe2ef209c9597b1fad1dcfdcd7191a48a199d9d0a1a09ada9813247fe49ec989ab27a1b7f74f#rd
+AutoSec 2022 论文征稿 (2022/1/3):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486830&idx=1&sn=2aedad38ce8481061a3b40bbe33d201b&chksm=fe2ef2e5c9597bf39a48314ee99997595eba8cf0b8ea8fa91ce9ceea453c363e4b69c19e62d8#rd
+ICICS 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486820&idx=1&sn=6cb28223abf2c0450cdbeb89e9ccebbd&chksm=fe2ef2efc9597bf9bedae16fffe1974b8b2a75f461cde11b8e506e02a0e0e8c70737615de4d2#rd
+SOC分析师对安全警报的看法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486813&idx=1&sn=aaf9faad894eb343ac6b18fa6dddb236&chksm=fe2ef2d6c9597bc022f39005d61d8eabaa9e792570aa526f3194f7569bbb293809752b697ed9#rd
+BlackWidow：监控暗网中的网络安全信息:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486807&idx=1&sn=a4877e4bb29ee9f896ef0c59903cb8ca&chksm=fe2ef2dcc9597bcab71f96269e1f706f97ef252814a4b681322690f835e84b549a51cfc91a1a#rd
+基于攻击路径图的网络攻击路径预测方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486794&idx=1&sn=3beeaa3a3c65a75691e9d50fc445d3bd&chksm=fe2ef2c1c9597bd7d2d66f6583042aef7bc29cc789b20b310064d3c9b176c5bbde123ad729f0#rd
+2021年CCF-深信服伏羲基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486787&idx=1&sn=04ca33e4504c92fab672ae6841007bc7&chksm=fe2ef2c8c9597bde487a74ceab55bf48d3b5f661cd561bd54e7ba376523b133d816dd0e47deb#rd
+有限样本下的暗网指纹识别:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486779&idx=1&sn=e25b61d11e9aa944ea151e7b4ddedc3d&chksm=fe2ef2b0c9597ba6aa1ffcb45579155beccb8982914b58853d3f54e566b05b38bca55f791bcd#rd
+基于告警关联的一种多阶段攻击检测方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486768&idx=1&sn=6ba48d249654e8f1b284e8990574c44c&chksm=fe2ef2bbc9597badb8ba5b68c70828f79412af47e44acb4c5b0007f3d283db9ab5b3536befd4#rd
+南京理工大学网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486760&idx=1&sn=bb82ea16a44029afc6c3fc57480accaa&chksm=fe2ef2a3c9597bb54b7c4f2c7414703ee5ceeca7704d819c85b91c3611500a9d4ce3ec881b35#rd
+解释与改进安全应用场景下的深度异常检测方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486751&idx=1&sn=5007c6caa0b3720e6e85d0910315fbd3&chksm=fe2ef294c9597b82ecaf43df2b807b8f552e2b8d38eba4600f45b800153e68702449a19557be#rd
+TrustCom会议小记:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486750&idx=1&sn=8ad5b139a5456c33d5f4e5924d21f971&chksm=fe2ef295c9597b83509d0d5536e07c5732acbe7d164a2ba9f7d06e99452d128f2fd2bcec83b4#rd
+基于语义的下游内核中补丁的存在性测试:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486722&idx=1&sn=d54bf78e268fa924e20e6b8e462b2588&chksm=fe2ef289c9597b9f61557aac2643f041d89a8b5175e051a0a967758a3b4d1c5b7fa4e715ee8d#rd
+利用图注意力网络预测不同安全数据库之间的实体关系:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486714&idx=1&sn=861f4a094ca4a005ab93ed92763ab356&chksm=fe2ef371c9597a6708bda5de3753afb1948ffb61b9fcc7cc41e67c32a4ae5814ee62aad3fd7c#rd
+用于文本分类的卷积神经网络:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486701&idx=1&sn=07ce2fbaea5a89d7adbe1b6ceeaa018d&chksm=fe2ef366c9597a70f90c775144954942bebca9a16e622915cdf583592fb27ca0fbd701c2925b#rd
+基于自动编码器的DNS隧道自动特征学习检测方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486692&idx=1&sn=0a306539719dd0258ffdd70725a3a2e7&chksm=fe2ef36fc9597a79f218c95e658ddc949ea3b9069662a8c7548a0295d37f100e0e82048c1e6e#rd
+网络流量的自动化分析新方向:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486678&idx=1&sn=898d9ed3e433551ad19b135a92791464&chksm=fe2ef35dc9597a4ba4013d3327d2cb2eea33867b0e04651a691324bb42b51c449c4b9dfeaeb5#rd
+西北工业大学网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486667&idx=1&sn=0b0a5804a29ebc21d117c42999748a82&chksm=fe2ef340c9597a563778273e2ecf97b1fab9f96f6b516dd3c69dac652ccbe0572b16f9ab0797#rd
+侧信道嗅探浏览器历史:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486657&idx=1&sn=36778f5172c0d49d0dc35cf5903fb2a3&chksm=fe2ef34ac9597a5c898dad5c497361c53fb8ca41232017589e95f7432b64dc225817ace86a27#rd
+通过缓存属性感知特征进行DNS隧道检测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486637&idx=1&sn=b3403572ec8b4a70d4aef1ed37fb2446&chksm=fe2ef326c9597a30f5cc3ccdf36c04f66e762bb0f36e0c108698d9f613ffdfb33451a71aa698#rd
+捕获透明网络钓鱼：分析和检测中间人网络钓鱼工具套件:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486623&idx=1&sn=c3552e2b6e7830c5374a0a5bd970eff3&chksm=fe2ef314c9597a024f6f3a5156cadd9a3d4ad2f107f802f7079e2a314af4ce7eb175beb36b7d#rd
+地下论坛中相关帐户的大规模识别方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486613&idx=1&sn=11bea61016ca20f0ed0b490bf8b1ffa5&chksm=fe2ef31ec9597a08da961e3cdb2ad6a04ce46836ab0264d504631f1cd11e1dda6c852560c627#rd
+成都信息工程大学网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486603&idx=1&sn=d8fc7439ff76aeb94cb4f5299cd80907&chksm=fe2ef300c9597a166bb7fdb094895c7dddc901898f0b0ad6a999239c423e43bbc865808d7555#rd
+DNS隧道检测综述:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486597&idx=1&sn=65042ce3800c7625e6b881e8b90ac876&chksm=fe2ef30ec9597a1858301f0cac06e29984d45a01c5bf19dd33bdf0ffa3e66bad34004e6560ed#rd
+PATCHSCOUT：一种新的定位安全补丁的方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486588&idx=1&sn=35cdb36395d05cd0c0de84c757f6a773&chksm=fe2ef3f7c9597ae1bf75d1524cfb8dba6ded022332de92c4f86621311dffbc70a35f3f7d26ad#rd
+基于频域分析的实时恶意流量检测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486579&idx=1&sn=20107ec350f72808b9d3b95890a0d7ea&chksm=fe2ef3f8c9597aeee281f5985b45f5a185e581186f130af9d01df08e486e50120e2449b7f240#rd
+通过主动学习和再生成技术来应对软件供应链中的威胁:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486569&idx=1&sn=8877e45391b4b1147564379c4a7ae485&chksm=fe2ef3e2c9597af4ba219e0314c90ab8e84dca00533ccf97fd8b4559aee39acf82df83b27ee5#rd
+漏洞报告中的信息一致性研究:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486560&idx=1&sn=1c4ed227f10dcdb7da6f0f5b258caeef&chksm=fe2ef3ebc9597afd1b3a0fd2b8d0f13c0c4da2077a17dbba51eb621c7c583313e81a2a4a7d9b#rd
+基于频域特征的恶意流量实时检测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486551&idx=1&sn=71a1277e80f661bf6c10fcb3718a9aad&chksm=fe2ef3dcc9597acae8532c9d228b0b0300c5e6a842fcace6a667b62b56b4b69f3f860610a606#rd
+先进密码技术与系统安全四川省重点实验室2021年度开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486542&idx=1&sn=e56e7d7683130f3bfddfc281dbe24d84&chksm=fe2ef3c5c9597ad395f0518f92876fe90702038d78da68bbfd11616fe231ff7927e47d914f7a#rd
+使用机器学习和缓存未命中属性的DNS隧道检测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486535&idx=1&sn=6ed5aa26dff6a08afaca036c071998f8&chksm=fe2ef3ccc9597ada5614957ac3e55df0a1658f8d47f192913db20e2471683d32bd66c35609a7#rd
+GDPR和云隐私政策的语义相似性:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486526&idx=1&sn=a82a16e3b258291ce6666bc3cb8798fc&chksm=fe2ef3b5c9597aa34ced56ae51e6ae026e9ccdef94783c8ac70a375f278236feacf00ae6ab3b#rd
+在野欺诈策略剖析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486515&idx=1&sn=c9a505b5e7eaa79a24f48c2d6a6c6bbd&chksm=fe2ef3b8c9597aae97574a5ebe356d3a0c7efe63238ab119ab05682276b616450b4e7ca6daa6#rd
+CCS 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486507&idx=1&sn=2b20871f1a611b156ef62c1c0a454ddf&chksm=fe2ef3a0c9597ab65d94260dac4cb4ec44017f9db362670b14bb3f3153bce911d64f977a1a0d#rd
+基于欺骗的Web认证扩展:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486496&idx=1&sn=d5cd37261c8ee35d1e31bbe2c92c5654&chksm=fe2ef3abc9597abd6ea8463edf30778c83f6e0a5dc19d1f78416c2c130701fec9bd292b6a2ba#rd
+注入攻击新方式：通过DNS隧道传输恶意载荷:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486487&idx=1&sn=5976a7b4ddd53fe206612c35b2488c34&chksm=fe2ef39cc9597a8a7a825fffadc0d323ef0c2e43aa14dc6881ac5de1abc35981186bc9d5de20#rd
+2021年河南省网络密码技术重点实验室研究课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486477&idx=1&sn=c915d056eabb7fd91d3d40b62d40d738&chksm=fe2ef386c9597a903e4f50808d43d9265a0c60fe08bd677fa2070f0d8a1e07e8839c28bb48ff#rd
+Android mHealth应用程序中GDPR违规行为的实证评估:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486468&idx=1&sn=fc35b4aff84a108912388c58b1946bc2&chksm=fe2ef38fc9597a9955bdbacf5d5b6510ef7ea82b338831b1c3a8a92778a1943e03069471a7b0#rd
+小心你信任的人：跨域通信中的安全陷阱:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486457&idx=1&sn=0610f0790b9845bca14656f4d9df0f13&chksm=fe2ef472c9597d6434439e3d6cc3f35e20794aab3506d87c2fd92cd3114718bcaed397422652#rd
+通过漏洞预测改进漏洞修复决策:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486446&idx=1&sn=4edec6ac559f9b799ef064cb6b55fecb&chksm=fe2ef465c9597d73197aa314f7533c3a428672468a81a45b010af2f947410944ef778e2580c1#rd
+文本歧义在隐私政策知识图谱构建中的影响:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486435&idx=1&sn=a89fe7b98560032bb1fbb12e019756d4&chksm=fe2ef468c9597d7e43f66a30cd75949023fd1ffdd4f09718ecbe3bc025c420059f0325ec9ba1#rd
+基于欺骗的Web认证扩展:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486424&idx=1&sn=84bd288b5f5ae110652d3462eae08f2c&chksm=fe2ef453c9597d452c5e7bbbbece93b74efeeb1d159410ba592cb37b9fc74783d2502f5a416a#rd
+CODASPY 2022 论文征稿 (2021/9/27):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486413&idx=1&sn=40527af04000fa25d015ed705d929fa0&chksm=fe2ef446c9597d506f741e39cbf1a8be93750abbf5346282d46efbf4fdd4cbb406f30cf3e1e4#rd
+ICDF2C 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486406&idx=1&sn=8477c88903afd00c7bdf3d282fba9508&chksm=fe2ef44dc9597d5b9873c1afea8753847599fef65d8b0ffacebea6904c5bc712c6ed68058555#rd
+安全学术导航站开测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486398&idx=1&sn=cd0a4824b739cfb8a14f5c945e57e682&chksm=fe2ef435c9597d2345ab032704ad167e50493b90141d90773927f9c57e8c537f59c1bebf8f73#rd
+使用文本模糊解释结构模型（TFISM）分析云服务隐私政策中的GDPR合规性:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486392&idx=1&sn=234fbaced38e926f5ab6521d1d1d6935&chksm=fe2ef433c9597d25bb16f4ff1655bdb6a1f9732076142ae18d0c70e65eeb9c24bc8ee483f169#rd
+现代网络应用中的同站攻击:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486379&idx=1&sn=adce5e85f0f99b51d797f7f10293464e&chksm=fe2ef420c9597d3680dddcb78ca3abb3b52e0bf568e2cc461b3be9653e8170060bd4a8f7b73f#rd
+“纵横杯” 网络安全技术创新大赛-2021:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486366&idx=1&sn=432bb40358e178af981135aec05d1f77&chksm=fe2ef415c9597d031ef1888858252efaa6f7f65484beee50dec3a77cbf7849ebbec3c21c5809#rd
+暴露会话Cookie的CNAME伪装机制:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486353&idx=1&sn=d593713b390aef46a0f5cacd5b64441c&chksm=fe2ef41ac9597d0ca1398cfef3975317f8407357901a91dec149a07e85fbb74052b1d9347748#rd
+Android预装应用的分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486335&idx=1&sn=faa38e02be4a52b0eb40c9552a9f357f&chksm=fe2ef4f4c9597de2c17d554ea62715762ce55e533983a8e7051ac38e0712a5e5ee2fcf98bac2#rd
+Android生态系统中分析库的隐私风险分析和缓解:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486326&idx=1&sn=678a5d75a0b585c007ae9b07068b8ce8&chksm=fe2ef4fdc9597deb802cd2a898f4dc30f9a9953f4001c7c521e2f9a6c3096e17be395a51008c#rd
+谷歌学术指标2021年（计算机安全及加密）:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486308&idx=1&sn=b20a7a967ff75e8c2c18fa1932205550&chksm=fe2ef4efc9597df96c898337cf267a40b203a02ee858ae17dece4648ecbb47040bf11f88e878#rd
+安全领域下的机器学习注意事项:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486283&idx=1&sn=7600e5710edb15319c900b07c74c3f56&chksm=fe2ef4c0c9597dd671692069ec59d9260c051daf438143939dd2ffc689a5926b1e1740a2745b#rd
+2021年CCF-蚂蚁科研基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486274&idx=1&sn=298034df03ce4c45088424ae42626b44&chksm=fe2ef4c9c9597ddf7b2cc8964847a68676b1c4ccc7e3c249bbf00d30f8146bf3a40c6013e1c0#rd
+2021年浙江省区块链与网络空间治理重点实验室开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486273&idx=1&sn=4a59823fa1c929553979e3daed64fe18&chksm=fe2ef4cac9597ddcc7f333ecf944a28539c089845e711c29943a9de380ca0ac89b266cc77f2d#rd
+2021年CCF-绿盟科技“鲲鹏”科研基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486257&idx=1&sn=81ef22c5e5dc7aa55d1928d3acd06888&chksm=fe2ef4bac9597dac3adbd8d302081674ff258f3f107d6baa82dcb281b27c32113e6fffe8ce94#rd
+4G LTE网络中基于IMS的短信服务带来的新安全威胁:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486248&idx=1&sn=246fd1efa1bf6a25a877c8133d3668c6&chksm=fe2ef4a3c9597db5bd8d91901e12cdacb6c08069ad2b5554abc47dd0d28425da7d899943f80c#rd
+V0Finder:寻找公开软件漏洞的正确来源:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486238&idx=1&sn=a12ba939a53acd63028a3fae541b21db&chksm=fe2ef495c9597d8368e92e4bf00a65f621656ef5334c4ccc1f9f82955dc8f57b3e0ab8adc5d9#rd
+2021年CCF-华为创新研究计划-系统软件专项基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486206&idx=1&sn=e674973c2b65ae6f709c9c8d1493b68f&chksm=fe2ef575c9597c6372e6c99c565544018d724a3fd4ce78b19f17f218fa3ba4d8c746cfaf9e37#rd
+On the (Un)Reliability of Privacy Policies in Android Apps:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486193&idx=1&sn=3228f88b09ec598588036ba3ca355d4d&chksm=fe2ef57ac9597c6cca33ffdbfa60720d287308f5ed257fa5948e47783731d265095d0ab8b7a0#rd
+USENIX Security 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486156&idx=1&sn=ee1f3da3c5cf139259bf550ad0f77b01&chksm=fe2ef547c9597c514bb78a518b33454a63aa73038adc91c769aff08b192df5c089116abaf47b#rd
+PETS 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486146&idx=1&sn=c045acfa97780c8792adc0f734375843&chksm=fe2ef549c9597c5f2d18ab764969153b79732cd90b55b3734a51e3fd151acc77a32b2479d2bb#rd
+以史为鉴：基于复制-生成网络的时态知识图谱建模:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486131&idx=1&sn=7f20521b245da974bbc7cd1676480786&chksm=fe2ef538c9597c2ef9b92b031ef806e1894bc5b9a247d291e597e22bc09adf84ea84b23e5602#rd
+PST 2021论文征稿 (2021/8/16):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486114&idx=1&sn=38ab2cd6865231c35c607a0182ee5fff&chksm=fe2ef529c9597c3fede956880a9cf69cc79ac95fa876f41876531c746e5ebb62174df44c0ac8#rd
+使用基于注意力的强化学习方法进行WEB应用测试:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486109&idx=1&sn=fb2392ebe0807b141cbc822766fc4bee&chksm=fe2ef516c9597c001d0231c08a7f9e43d95d32ba51d654fbd97c720e1fc66933142423dd8fcc#rd
+读博，你真的想好了吗？:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486100&idx=1&sn=17fa3dc948a1722a46a5672e8996bdec&chksm=fe2ef51fc9597c09d3cc75cb05be3e0503f7881eda50d142febd83c6ae06e66abd09f27c4259#rd
+针对车联网V2V中的智能阻塞攻击:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486094&idx=1&sn=8435e7245afd1f48d84607cc77b0fb4d&chksm=fe2ef505c9597c13e2fde719964ab94b02bf106bdb341dbedb63b86c6498e55e2cc9ce5f122a#rd
+针对接触者追踪系统实施虚假曝光通知攻击:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486061&idx=1&sn=ab687e616889d90f5b77af217d3a0a30&chksm=fe2ef5e6c9597cf0331e47b2baa5a35e080fcf382ee02daff4bca9b668b3195a46dbacab9ffb#rd
+EXTRACTOR：从威胁报告中提取攻击行为信息:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486056&idx=1&sn=092205e7018abe373d9e455998758ed0&chksm=fe2ef5e3c9597cf5c54c7c04494a6037d966fa904ac239c981ca60b875a72a69682ff548b415#rd
+WiSec 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486042&idx=1&sn=8c3d083a5128c7e023223051edb45029&chksm=fe2ef5d1c9597cc7f0e387e800e73de529d68fccb2844c60ca7964de00686450c5b472339b63#rd
+Cross Layer Attacks and How to Use Them:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486034&idx=1&sn=c2bdaa515ff04504a8eca099d25ea850&chksm=fe2ef5d9c9597ccf4497414ffe075d98b81ad726249ab5b85fc08df899818f433126e48088bd#rd
+InForSec学术交流会 参会小计DAY2:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486018&idx=1&sn=35b45d0154b78c5e832cb40b1bbd4193&chksm=fe2ef5c9c9597cdf84c968e83930339008fc3715303aa3f6856335e95ea6cfdf70a0abe55103#rd
+InForSec学术交流会 参会小计DAY1:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247486017&idx=1&sn=ba4f2273fa69804ab6c500dd05a0b5d1&chksm=fe2ef5cac9597cdcaac2eff8b5a5a4c75ac8fafeabf8b414f8318e4cb1c33013e3e23d1057d0#rd
+CrawlPhish：对钓鱼网站客户端侧隐藏技术的大规模分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485945&idx=1&sn=50640631a939ca45bc2286dfa0670ac5&chksm=fe2ef672c9597f64c6eed26dc3f515065bb9f55f42755434190c60c5679c5abaf5107d35c955#rd
+SCRUTINIZER：通过反编译和机器学习检测恶意软件中的代码复用:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485927&idx=1&sn=ab2490fc6238fb4210a2ac4d9409768f&chksm=fe2ef66cc9597f7a64a6a78fa7c6dd2a3d27fa661566be03caea7b7c7308bb90b08515b9c38c#rd
+SquirREL ：基于深度强化学习对区块链激励机制进行自动化攻击分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485918&idx=1&sn=490b89d108c88a1521edc9a5a27cec2c&chksm=fe2ef655c9597f4331a69ab2a3a9b995e9e926d4cf1b7e265cb9293329e78c57136ebead9d96#rd
+重载DNS缓存中毒攻击：侧通道革命:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485899&idx=1&sn=17f4d3b46572d59f5cb8fa86ad1078ee&chksm=fe2ef640c9597f56d804a3abf24febc087a89a895bb19ae8e46738f5334b364382ec29cc99e2#rd
+Detecting Bots with Limited Data:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485886&idx=1&sn=9109d5f97fa208f313cdeb02aca2c1aa&chksm=fe2ef635c9597f23dc2a11f9cd39dcb2283e3c4fa14d56d41f19baad9d62eba2c66e5ee57e88#rd
+重组与预测：一种基于自动编码器的离散事件异常检测方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485873&idx=1&sn=a20f5389a2c60de073db040a5599028e&chksm=fe2ef63ac9597f2c1df9f49a2c79f320374c33d44604607881c924b51e5c17d581201553b4a3#rd
+Black Widow: 数据驱动的黑盒WEB应用扫描器:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485872&idx=1&sn=deb8910fc88772c37a692a807d541a3e&chksm=fe2ef63bc9597f2d8ea0bb69a09dddc540e2bb5acb4ea3b2ff6fa78ca8f2ee510dcbe04157e6#rd
+CCF-腾讯犀牛鸟基金2021年课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485840&idx=1&sn=aaa94b0995d254624df8ab443d62fdae&chksm=fe2ef61bc9597f0d156148a99791af8d9259522b41bf0f386cfd4c35ca60ae6aa841950bbeb7#rd
+以太坊智能合约中的社会工程攻击:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485831&idx=1&sn=ad4baf0cb2bd3afcf094f576b6489a27&chksm=fe2ef60cc9597f1a2736feea6540fd25ccf268dbd75d6cd3476f1bddea785f93bde92fb11188#rd
+AsiaCCS 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485808&idx=1&sn=6b63e7d3e3c80521e6cab32bebcfd04b&chksm=fe2ef6fbc9597feda54dda1bdf83eecb4de18ef1e83e677c1ae86ddc1375b179791d0e7f13a6#rd
+CNS 2021 论文征稿 (2021/6/17):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485808&idx=2&sn=b5a86779a3a52126125f0d2487747e24&chksm=fe2ef6fbc9597fed5c19f2eb0bbd7861446e77a6d44175865d7733da7516bb14ea0509928665#rd
+网络与交换技术国家重点实验室2021年开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485802&idx=1&sn=0ce40ad77f57a8cbaf339a2c0a0da664&chksm=fe2ef6e1c9597ff76266f0ce760b7cd1d796b7e02fc16fa0391223074bb9518ec211cac64dee#rd
+媒体融合与传播国家重点实验室2021年开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485797&idx=1&sn=dffae7af11826211db8a336eaefc6ec0&chksm=fe2ef6eec9597ff830d50c4520d756bcb0ce036a55cf111588a88f7b0d230036186de6220e5c#rd
+广西密码学与信息安全重点实验室2020-2021年研究课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485792&idx=1&sn=78c1636977ad87aec3caa808cc5c17b2&chksm=fe2ef6ebc9597ffd53b862d63af22d656b94222f30598430cdcafa77f8d72289df0dd5bf4047#rd
+ACNS 2021论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485787&idx=1&sn=e1d9104918abb7fb52eaaa156cde849b&chksm=fe2ef6d0c9597fc69c8d88e3fae2ab4e6d40db8d1065406747bd8024a514ddb362a79631c1ca#rd
+大家来给GoSSIP投个票，送他们出道吧~:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485787&idx=2&sn=faf1b4080665088d778346b634ea05a8&chksm=fe2ef6d0c9597fc65218909201ce04720b9648abca8e5e97b3c9fb4406ea027502e28731ede7#rd
+Shadow Attack：隐藏和替换签名PDF中的内容:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485780&idx=1&sn=3e547fac8de86e584d3a3fd9124808ae&chksm=fe2ef6dfc9597fc9bce4e073b892bcbafb4fb7fdb779ae602056b390fc65fc20bd9cb07b6508#rd
+法定数字货币创新研究2021年开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485765&idx=1&sn=231c50a8aae2023ba59ee33a9114b61d&chksm=fe2ef6cec9597fd8249f2c38a8e196420d96b9510c566bba3fed1c236b3a1790dd9c15e7b303#rd
+安全学术圈2020年度总结:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485759&idx=1&sn=a4ac32d7138c7a2d7810ced2e76e8b74&chksm=fe2ef6b4c9597fa22ede9a957876e93783a7f458b05cbb3417b670c2c7cd172312cd14f0334e#rd
+EuroS&P 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485700&idx=1&sn=985e1af5f3665211ea4d49f91d62402b&chksm=fe2ef68fc9597f99b4448f3b0ddebec4e3b44a17b50b60d1a1aa715fe9f894b797467d9702d5#rd
+2020年度河南省网络密码技术重点实验室资助课题公示:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485700&idx=2&sn=954ff1456b0540e669b6877f2040bfd3&chksm=fe2ef68fc9597f9935088c5eaa6023273589647ab4372fd798cb254a760c506bf97d9fb0f0d5#rd
+S&P 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485692&idx=1&sn=39cd80bb6c261373189b3fee908f75e3&chksm=fe2ef777c9597e611d839d4d2ef77f9e1e8796e5dc63c13bdf1c993180874209467427a1cc6c#rd
+CNS 2021 论文征稿 (2021/5/17):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485687&idx=1&sn=ee2ee4cb8d3d341881c4e9c907f2f9b7&chksm=fe2ef77cc9597e6a24507a9d2a8463164a28cb96819992d185ddf1fe8a3d09a6a75aafe32412#rd
+中山大学网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485681&idx=1&sn=50cf8bf38701264f057183186341566e&chksm=fe2ef77ac9597e6c98b386bd5493b43105ffda0d59f888897f1150b07a5220b61c9d927671d3#rd
+针对虚假加密货币骗局的大规模端到端追踪:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485677&idx=1&sn=7aa9c0b8b97b0eb5d300678d209793cc&chksm=fe2ef766c9597e70f4027aa00f5f4b118aa97e9bc19ab5af06e207d4cd876fbef367b4e5d3b4#rd
+All Your DNS Records Point to Us:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485603&idx=1&sn=0007a4e1757ca6d47c0d5919ecae093d&chksm=fe2ef728c9597e3ece8200b12bf9f561090417dfb59b7401f53f090b12162b05d2e1d66d891e#rd
+西安邮电大学网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485580&idx=1&sn=2d46fa7e271b4521526ad05c95a6be93&chksm=fe2ef707c9597e111037f9ea992ca46c0bafe9875a97cde2cdfb13a95730dfb37fa1822af22f#rd
+NSS 2021论文征稿 (2021/6/10):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485575&idx=1&sn=d895f4bbf02c416b6d43e4be411f55a8&chksm=fe2ef70cc9597e1ac74fbd2a85c5a821528dc814aa20374b6840bbb64f8d5205809d59222e39#rd
+CODASPY 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485570&idx=1&sn=daeeabc0dab619086d68ece0ac15001d&chksm=fe2ef709c9597e1ff8a44a46c36e1fe370bd8b273574b4160533add2b5a1199018747b18aa78#rd
+TrustCom 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485561&idx=1&sn=d060ebbc86a6aa1ac0179ab3608dbc67&chksm=fe2ef7f2c9597ee445179b9fb4bc70f7b77c29a9aeda3826ac23d4c0fbfdd469a403a94ee574#rd
+利用网络威胁情报实现高效的网络威胁挖掘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485551&idx=1&sn=4cd6006c4ec0630eab902e4166196b38&chksm=fe2ef7e4c9597ef2e69e2ab5f056e728aa2f96aac87ccee49f56dacc2bb5d334153fdb959f5d#rd
+武汉大学国家网络安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485523&idx=1&sn=85cc8234427b37cd8bbadacb203dc456&chksm=fe2ef7d8c9597ece566edd53641320ed0715ad505d840611086a9d442d8a9563b34a6cca0ced#rd
+空天信息安全与可信计算教育部重点实验室2021年开放基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485516&idx=1&sn=69fa6f8820e799cf5ce616ab9c9e20c7&chksm=fe2ef7c7c9597ed1ec5a215c26649385e55387d996d6daa14407e3567f67a9a49397d024a1a2#rd
+AVATAR：通过修复静态分析冲突的模式来修复语义错误:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485510&idx=1&sn=4d37f8eba38feeb9c23356f2bbd14b8d&chksm=fe2ef7cdc9597edbf4a67f99d65caab4315373ec3c5868ecbe229dd1a884cebc5297c49fcaa9#rd
+SerialDetector：Web对象注入漏洞的原理和实践探索:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485499&idx=1&sn=6c3ec2889b30b71cc967ab92f8bc7c59&chksm=fe2ef7b0c9597ea61d41712b1aaeba09a7fc69ba14b97325db29ddbaafe402e488ed66fc7e64#rd
+WiSec 2021论文征稿 (2021/3/18):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485498&idx=1&sn=f4ebdd100648996a31bb383b3788f7e5&chksm=fe2ef7b1c9597ea7c15029e837f3a32f9e952dd7efec3e84fbda6de34dcfa9f2ae9e760d3924#rd
+DSML 2021论文征稿 (2021/2/15):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485480&idx=1&sn=4e7c441a87d9ab491e73721bc4c38ea6&chksm=fe2ef7a3c9597eb5c0e3ea544804472083fab615101db11a2725b1e37ee7fa1dca38ceb3c2a7#rd
+ICSE 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485475&idx=1&sn=67e02fbf6acefee7eb98f270c9c8ff8e&chksm=fe2ef7a8c9597ebe306ba5f190c7aa80954da3efc9fba3ae2d5b8c7ac07fa6f72f07f37bf24e#rd
+EAI AC3 2021论文征稿 (2021/2/22):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485469&idx=1&sn=86de80fbe50ffd92cb71e5676406d101&chksm=fe2ef796c9597e800b796c5accc31e46d8a6a87c96007c6fb5793cfec672ff267c3cf5df5806#rd
+通过网络层攻击面来评估网络抵御零日攻击的防御能力:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485464&idx=1&sn=a7e80c198687e7c260219d4ddd242f1e&chksm=fe2ef793c9597e85c5a30fedc72f00a4b06786553058d14c1c6333ce559f42f8419af506f450#rd
+SciSec 2021论文征稿 (2021/5/1):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485451&idx=1&sn=65c69e23e681f544109780ecf68bb4d7&chksm=fe2ef780c9597e965731754df6dad3f7a281866a08f65a03807667ba786057e9df90fd524a33#rd
+用于远程执行代码漏洞的Web应用程序的路径敏感静态分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485446&idx=1&sn=e24c025e8894499223b3cc74cc5e595d&chksm=fe2ef78dc9597e9bf2b991d028659bb7f84ed3de46252df8e368cf0609e2c78b3c62a59183e1#rd
+GapFinder: 从非结构化文本中发现安全信息的不一致性:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485407&idx=1&sn=0adc39b049dc3759fa88534d7ce07ba1&chksm=fe2ef854c9597142b29ba7f849c690b589701955fa91ff17d1809ccc8efa656665d64e09b14a#rd
+CIMSS 2021 论文征稿 (2021/3/20):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485394&idx=1&sn=daebdbc123c2ad2f75fbc86195c10fe7&chksm=fe2ef859c959714f08a21c3ff583e97b87b6afa303c25dc4a3e3759d8a8b0772791c8a145141#rd
+FAVICONS和缓存：浏览器中的持久跟踪:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485389&idx=1&sn=21dd5645511497955d387a925b96aeb8&chksm=fe2ef846c9597150a5df4ee107bdc8822a30986b8763ba46cee4f621adc5c0f28f4874632baf#rd
+VulPecker：基于代码相似性分析的自动漏洞检测系统:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485348&idx=1&sn=f7344596f11a3d6e271c2419a1d08373&chksm=fe2ef82fc959713971e7c094c2d5fbe7fbd2f04a69a4b8c0b27e66bac65ccfe9c6da6de5e819#rd
+AITS 2021 论文征稿 (2021/3/15):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485334&idx=1&sn=76aa5cf3a0037273142aadef8231a2b8&chksm=fe2ef81dc959710bff44f4e27867cdc2f8cfff59b5f8ddafd0ed6b2accaedbc54d73aaf54855#rd
+开源包托管服务存在的供应链安全问题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485332&idx=1&sn=cb1c9e98a8c159775dac2ab7c2960647&chksm=fe2ef81fc9597109388b4d2c0b9a39470d4a11e004c1919ace7da26246126824fb78cc10c1ae#rd
+NDSS 2021 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485318&idx=1&sn=ddccaf2c1b9d8d58a62bd457a8862b5a&chksm=fe2ef80dc959711bfb7ef78422bf6722efd9be91b47581287a9ec0b9ff5f3762e3781fb363b2#rd
+使用自己的代码查找漏洞：检测功能相似但不一致的代码:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485311&idx=1&sn=3fabad088d66eefe48d829af4593cf60&chksm=fe2ef8f4c95971e2bf5164981000deca7822594e6f56df18f397cb3d274e2f2e5e4eed4607f2#rd
+基于异构图卷积网络的网络威胁情报建模:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485298&idx=1&sn=c129b178b8a6a43371b3e1bd16bed465&chksm=fe2ef8f9c95971eff803effde8b9e5990a12279b6e5ca17d090958126f35286e13df5fb3e4e7#rd
+南开大学网络空间安全学院人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485283&idx=1&sn=b25f9925da308bbed7e09a64a3c7d69f&chksm=fe2ef8e8c95971feff1676fb40287c1ad423a37136eb3edaf7bc8b68ac7a380750cfe9ccf4f9#rd
+中国高校产学研创新基金2020年第二批课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485278&idx=1&sn=4364ada94516c46a8b660f3ac6367fa0&chksm=fe2ef8d5c95971c31b05620800c86052571ba749b5ca13c1d39343d931b8b460498b51a1436d#rd
+2021年综合业务网理论及关键技术国家重点实验室开放基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485272&idx=1&sn=86816d7009e3e290abda01ac60143bd5&chksm=fe2ef8d3c95971c5fd634141057d8fc499ba9648906fee53387e957293eef93abedee919549e#rd
+CCFrank：DBLP论文等级助手插件:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485267&idx=1&sn=d1f20b23b22e9eb7845d0ad592a5c6bb&chksm=fe2ef8d8c95971ce397597e45163d7ed4ba1b1347a9622564d635af9a352678da50d8449b18e#rd
+2021年广东省信息安全技术重点实验室开放基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485260&idx=1&sn=53f2152d667146b7a3dba25ea38047f5&chksm=fe2ef8c7c95971d160de2e220a4c3b54a99af0316e57cd18f85972acca1ac197c0bac96ab27d#rd
+安全学术研究趋势分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485254&idx=1&sn=64c1e0f3360daecdc7a7b033aedcb40a&chksm=fe2ef8cdc95971db84e960bf4528cc22342d73a0c3a81240bf054128b3232ab0467977d43baa#rd
+Polisis: Automated Analysis and Presentation of Privacy Policies:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485237&idx=1&sn=3879b90b017b3be78150ec98d47541ea&chksm=fe2ef8bec95971a84557284d2f45391972b8f12a33647999b4425109176172151033f18fb7e7#rd
+如何建立独属于自己的论文数据库?:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485216&idx=1&sn=3b1bad7b73c806a8a77de51605d9e2a0&chksm=fe2ef8abc95971bd9be0f633e6104aa83a7a1eb02587c3a3c2c2a11dd0443e0bc570b9965c46#rd
+ACSAC 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485202&idx=1&sn=f3f280a5538419cbee757f3428c877dd&chksm=fe2ef899c959718f58641f77790cb6e9043240b1e73d8bf950b538dcf660e0695cab450e577a#rd
+SecDev 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485195&idx=1&sn=75fe3e4aef2cd139587abbc5f920d812&chksm=fe2ef880c95971960699310e8d138b9c2cb3d9e0dc95b293124c922c2bb2cbb82a09fbf1c355#rd
+ICICS 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485188&idx=1&sn=479aaf7a7bbb21c8f276c5d65969ee8d&chksm=fe2ef88fc9597199a925101af83577c794666bcd7523115c222088aefd9bab293f0b54caedea#rd
+西安电子科技大学密码研究中心人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485182&idx=1&sn=158c7839b1d02757505d5fdab474ea5a&chksm=fe2ef975c9597063a7a7104cab62f7da7f60bc60f9d2a66cbd5a2523443c7a0b8a352b616aa3#rd
+Big Data Analytics in Cyber Security: Network Traffic and Attack:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485177&idx=1&sn=f00148470d4ea4c23744f582cf790d2c&chksm=fe2ef972c9597064f8f42321a7c50a01a2dfdb01c476574da316293620edb7f45ee617e6bf43#rd
+安全研究实验室巡礼——加州大学尔湾分校智能系统安全实验室:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485159&idx=1&sn=a3c41846d5e84852cfb73c579a82ebd5&chksm=fe2ef96cc959707a05d6d8c8fc0816b137a7a6432cc99679b70e97a0e6e84a139384f20c2456#rd
+安全研究实验室巡礼——德国CISPA研究中心Nils Ole Tippenhauer研究组:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485159&idx=2&sn=4941ed9ebb1d1df54ad56f1b62fb6efc&chksm=fe2ef96cc959707acf8091f1ded8ec69fc076421f72cb21185b327811cfe71b1df14ee0fd4c6#rd
+安全研究实验室巡礼——美国堪萨斯大学信息安全实验室（IAL）:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485159&idx=3&sn=734751ce2cb9c0543c128bf52943b828&chksm=fe2ef96cc959707a891841bb61e062d77764ba8e3f31f14b7747e11f8a987ce753428b2229fd#rd
+安全研究实验室巡礼——美国东北大学RiS3 Lab:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485159&idx=4&sn=42afd2e5b7040dc6b2c8084ccc85740b&chksm=fe2ef96cc959707a7c3c8e5eb12aa144b3edf0220007bde04d5587e6002ff4dfb55dcf0e2452#rd
+安全研究实验室巡礼——中国科学院信息工程研究所信息安全国家重点实验室的陈恺课题组:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485159&idx=5&sn=752d7bb3ad045098c3a7b18a28197e40&chksm=fe2ef96cc959707a12e977f986a3a0efbd8941c0ae99b7f4dde4dbb060c394fbef4188135d51#rd
+期刊透视：CCF C类 IJICS:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485152&idx=1&sn=086e9291aa2ac206d328306842ea9b03&chksm=fe2ef96bc959707dae57fdb120defae2e6a8fcfa65803af961fe7b38874ccf8e275b0c614be7#rd
+SecureComm 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485147&idx=1&sn=0d32e30daaf2f70101b0517eb0066c3e&chksm=fe2ef950c95970462cb58f89b3e0fbe16980187a9e13e453c7e5c8f19becc52bf381e60e23c2#rd
+东南大学(网络空间安全学院)人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485141&idx=1&sn=ee1dc2a9bcb46ca8ea842130ebc075d8&chksm=fe2ef95ec9597048a56ed08e066d679d393627ce98cb79362acc6233d2a91fe4f0091ad31a35#rd
+IMC 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485134&idx=1&sn=3e61c0b8748746347a25eb53560b8642&chksm=fe2ef945c9597053dedd697c28f87be745d29056ec75d7326c9327e3286c213e308a1666af7b#rd
+哈尔滨工业大学(网络空间安全学院)人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485127&idx=1&sn=c7755a6690f5cad3b8af053b1e5b6a33&chksm=fe2ef94cc959705a48f08aa3dfc185cf6e0ecfd1bbb9b68b46b1630663cd36351abd708181d7#rd
+DSN 2021 论文征稿 (2020/12/4):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485107&idx=1&sn=df8a90aecb7f353139843dfd80f3cd5a&chksm=fe2ef938c959702e1f2049df8b30ffabe5aa086827c0525e9f8fd8020d0a6ed9f9eff8011401#rd
+ASIACCS 2021 论文征稿 (2020/8/21 & 2020/12/11):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485102&idx=1&sn=a16adaa17552965fc381f4eecc3fc561&chksm=fe2ef925c9597033c9501ce771c4f69999362410f290af92f1db0e5da2f9b8475ea32d7b99b6#rd
+黑客攻击的工业时代:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485097&idx=1&sn=d2d42d9291090a03800700708bcd64d2&chksm=fe2ef922c95970349c0eff83bf771cedfa42667ab37509d722ed2d020f13950911e10fbd7e23#rd
+CODASPY 2021 论文征稿 (2020/9/11):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485085&idx=1&sn=fa4f6b81250c57f96587ce64c95f7e61&chksm=fe2ef916c95970003cb529f7dcab5417bbbecfc27a05942314b391496a7da1ec7521e362ad59#rd
+RAID 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485080&idx=1&sn=eda056bc88de8760418c0d3ccbe117c3&chksm=fe2ef913c9597005047896d19115ef4731bbd16032bde232df20adb431e047e51a94028d76a7#rd
+安全研究实验室巡礼——亚利桑那州立大学未来计算安全工程安全实验室:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485074&idx=1&sn=b8e88f153ca9511df0f3fd7c0a843e06&chksm=fe2ef919c959700fb46400e8ed8693a83c31991746c78b64d92d77c46b6f57a114fa49011200#rd
+安全研究实验室巡礼——加州大学尔湾分校数据驱动安全与隐私实验室:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485074&idx=2&sn=bc66536cab75022fb547f20e7cc29f3f&chksm=fe2ef919c959700f01a421aa2286cd4bc6729f7bbd69d85e79b3f97965d0601feaeca619f263#rd
+安全研究实验室巡礼——霍普金斯大学曹寅志课题组:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485074&idx=3&sn=54fbff2ad0a56c7c3da5d7e9877cd23f&chksm=fe2ef919c959700fa9d981f450354c78a5f774c0ce4fb698070121635bc76036522886929d49#rd
+安全研究实验室巡礼——德国CISPA研究中心张阳博士研究组:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485074&idx=4&sn=4e95b77d6902eb9011f9391a2855e612&chksm=fe2ef919c959700f8e7c6d18b2e32f566288eb0f39a80a8cdb204a0dc7084e5e33774229f91f#rd
+安全研究实验室巡礼——德克萨斯大学阿灵顿分校信息安全实验室:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485074&idx=5&sn=60298843b0046f077ebe4b3cc19ca834&chksm=fe2ef919c959700f5406a7f03a27aa1ad3e753bffe8619addffd26ed2c34552d7888a994fadd#rd
+安全研究实验室巡礼——浙江大学网络空间安全研究中心(PART TWO):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485074&idx=7&sn=396e7dfb73e3acc96d2ce55b572ef0ab&chksm=fe2ef919c959700feb84c9fb187493d1173064e249dec90f7ba3bf2f6929e6c849dd40239212#rd
+安全研究实验室巡礼——澳大利亚昆士兰大学马思奇研究组:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485074&idx=8&sn=6d76f333bd19e50c3786f3d6a47f45ae&chksm=fe2ef919c959700f3c7cefef9cf8699594eb549a210d5259286bd846a709920eaf1cb20c9347#rd
+期刊透视：CCF C类 ​Information and Computer Security:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485062&idx=1&sn=7772539a2132928cd6d96e6c202455c1&chksm=fe2ef90dc959701b009ed2755c7a9460d1bc8044b03928dc343778f031470dd4227e1b2ba285#rd
+新疆大学信息科学与工程学院(网络空间安全学院)人才招聘:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485057&idx=1&sn=0bb4a8e72a48f8c375439f6c507da85f&chksm=fe2ef90ac959701cb731fe3c18872764fc786e8ddb0f05d7d987e96e98e1bbfc9f3eb286b1c3#rd
+SCI期刊 (DSN) 专刊征稿 (2020/10/21):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485057&idx=2&sn=fef0b64ea7c126283ae105fb6bda2820&chksm=fe2ef90ac959701cc7755d7883f0ac8213728077e95d85110957fe5e26164ba33fe42fab34c2#rd
+期刊透视：CCF C类 ​IET Information Security:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485051&idx=1&sn=a6f546f3f89322739b20e13acb778f94&chksm=fe2ef9f0c95970e666b7a4dc4c4e2379a02ea1f6e045a105ea29ae528385af6a5d62c0317b64#rd
+2020年河南省网络密码技术重点实验室研究课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485046&idx=1&sn=46ff80f8fa77c92cebbfc16472727052&chksm=fe2ef9fdc95970eb23c10229c3db41e871518ffdd8b37a1f724d5c2080fa15c045b4346a9ee9#rd
+谷歌学术指标2020年（计算机安全及加密）:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485041&idx=1&sn=10cb2bffee701775309c8bffa274ef16&chksm=fe2ef9fac95970eca5f03e8451ee9e4bc75fb373b5f8cd0e03bc44366f180bc3a78804e4235e#rd
+期刊透视：CCF B类 ​Journal of Computer Security:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485030&idx=1&sn=8fd358f1e2e8387a5abcf0d233dcd378&chksm=fe2ef9edc95970fb669d75c3840b82cd3608ab42fc33e12e4cffd470883d393b05ec233359f2#rd
+WiSec 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485025&idx=1&sn=3d670c3f4ab38b8e66f34aa50cc73d4d&chksm=fe2ef9eac95970fc13973a91c434fd37aab05832895e27cce786ed5b1d856d75a5eb9839f927#rd
+杭州电子科技大学网络空间安全学院人才招聘启事:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485019&idx=1&sn=fab76a714f4b90803c9d410e7858d140&chksm=fe2ef9d0c95970c61debca12cba947c1b5330382d99947ea117e4baf3967b5f21e006592420a#rd
+USENIX Security 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485013&idx=1&sn=ce48aa0a0a09b8ba2ed3489594066245&chksm=fe2ef9dec95970c8ac8563b3b52545b8473f2bc36610096b26aa1aa9b2bfb940de6f1a1bb762#rd
+一种基于协议统计流特征的用于保护物联网网络流量的集成入侵检测技术:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247485003&idx=1&sn=47dba688fc2d147e07ffe8683c2eb2a9&chksm=fe2ef9c0c95970d6ba7d54f372c14fa440dc17ef978cae5c27fabd0beb1b52c3a521c34f6a77#rd
+期刊透视：CCF B类 ​Computers & Security:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484982&idx=1&sn=ddd9b58afaf9120d65bebfcd210e2d81&chksm=fe2ef9bdc95970abf5e55c8f75ab4f2f83b9bf65d03c1f67091d31a9b15c7bf04940a1398d6d#rd
+2020年CCF-绿盟科技“鲲鹏”科研基金指南:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484981&idx=1&sn=b77cb4f84b8c6151e61cbc3a8e9c9364&chksm=fe2ef9bec95970a81153cfc7e542781a7bd5b17e421e918fcef0a18d8f03de15d883e07cf2d9#rd
+国家互联网信息办公室2020年课题指南:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484968&idx=1&sn=58156c7c9b8d505d93d2664232a815c4&chksm=fe2ef9a3c95970b5b22fc1bf9bb713020a25c652770ab1b1b7c80a0bf7f0b046dcc94ed48f29#rd
+AsiaCCS 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484963&idx=1&sn=19420fa5140e30827b8c69f32dc4a442&chksm=fe2ef9a8c95970be0981db5ddc159e44d8ec74a4bc8e1cd16b0e9fbe3548083b881a54c006b1#rd
+“CCF-蚂蚁科研基金”2020年度指南:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484957&idx=1&sn=cd104d04035fd6ac00dd9c0c4dfb59d6&chksm=fe2ef996c9597080c299d32a25dfd9a334d95d1fc13e7d2ade63ac2db696e5a52fd2cec08bd7#rd
+期刊透视：CCF A类 TDSC:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484945&idx=1&sn=c46340831ec2b598fa7bcc3a2387f9d5&chksm=fe2ef99ac959708cc7fba37f2f67e5e8817f824b7825f133c0dbe31805a004a24a7ba0b840f1#rd
+期刊透视：CCF A类 TIFS:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484931&idx=1&sn=ae776defb4ed46e4ff409b0acaa96bb9&chksm=fe2ef988c959709ee7850605286ec76adf95a9e487f39f61911811e709cbaecc79badac61a86#rd
+SCI期刊 (DSN) 专刊征稿 (2020/7/31):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484925&idx=1&sn=1b8eaebc654cd4f542561951bff77f27&chksm=fe2efa76c9597360169a26ccc42f037e5543ce6f49c570dc3efcccf2693b9017fed62d54f445#rd
+FUSE: Finding File Upload Bugs via Penetration Testing:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484919&idx=1&sn=ff75aafb6b44075c0712b03d8e953f98&chksm=fe2efa7cc959736a240c8a25401be0a7e7fb70788bb0d9795fbce9efb87fb67af6c0aac69972#rd
+PPMLP 2020 论文征稿(2020/6/21):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484913&idx=1&sn=122cf585ef28cc1f30280d18784a7dfb&chksm=fe2efa7ac959736c36bf18c3bcfcec8f8a4eb49c1d1f46c3d199dc4d5ab2458722830c0f904f#rd
+信息网络安全公安部重点实验室2020年度开放课题指南:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484908&idx=1&sn=30542db78f9d94a348afa410dd1dcb6f&chksm=fe2efa67c9597371da86f31d48df0d4b02dccdb2e53c5f3a121630c7564cf66b3e7d5478980c#rd
+DIMVA 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484903&idx=1&sn=c0fd41c5af56bb297fec03aa415a2d02&chksm=fe2efa6cc959737a42825e82e7dc26193ab7d42a52428f7c73fdd427ce266f1d1c9c3e96e2aa#rd
+S&P 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484895&idx=1&sn=4281679a5ebbdf427b56b970882ad38a&chksm=fe2efa54c9597342fad94d53f44d55dd70438e31d902ba44593dbdc23507c9e6e37530ceb79c#rd
+Identifying and Understanding Dark Jargons from Marketplaces:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484883&idx=1&sn=adda76bec4735db7701209d23ded3659&chksm=fe2efa58c959734e0927d8d86439fd5bca22bad6864541506a95313b102dec7e01a959de6209#rd
+Understanding E-commerce Fraud from Autonomous Chat:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484873&idx=1&sn=5d4b4a888063bcdf4a9f35080c436482&chksm=fe2efa42c9597354deb91cb0aecf3f8a07e5330194dc48bff9368183444bdb389ffe0e3154f9#rd
+EuroSec 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484869&idx=1&sn=ae9fd5af3bd245aabe61f52008ac9388&chksm=fe2efa4ec95973589c0658e0403720460fac229d23f3efa886d63754caf7706f6ca234ea7917#rd
+在注册时检测社交网络中的虚假账户—以Wechat为例:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484864&idx=1&sn=9f8697cac3349edf437227ab91cd4190&chksm=fe2efa4bc959735daa14b73dc857bec601272e99f4dfa7fcf20fea5a41bd6d896f7ffa1ef584#rd
+安全研究实验室巡礼——印第安纳大学廖晓静课题组:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484860&idx=1&sn=5b4c81f23a83002d4fcf7a5bdc6e96e7&chksm=fe2efa37c95973211ac1bd96b5b2c5c67fea6716b36cf452b32a7525ebe883c0ded1bfecc103#rd
+安全研究实验室巡礼——新泽西州立罗格斯大学安全实验室:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484860&idx=2&sn=ab4300e42bdc736d043073a3c180771b&chksm=fe2efa37c9597321692f6ec7f02b21b778b3104d60cdc73e7696ba0b57662090a85b0c11cdf8#rd
+新加坡南洋理工大学张天威课题组招人:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484854&idx=1&sn=7c5dc771a16033387a076ea31d3239c0&chksm=fe2efa3dc959732b39c138d267d6ccd39ae7288ad18cc0b50427a44d779de2ecd52eeddf4a26#rd
+四川大学网络空间安全学院诚聘英才:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484848&idx=1&sn=1984e5dc3522372a748aed6a2b317ee5&chksm=fe2efa3bc959732dadfac64b042c3722a456beed7d1dc2b6df7e666f4e2d36eb9bc9267993c7#rd
+密码科学技术国家重点实验室2020年开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484844&idx=1&sn=0be5acba04e7efe3afc4daa86eb0243f&chksm=fe2efa27c95973319e6ee2d7b4178e6fa41fa47b68ada12a17e58d102731b63ef26603f3b96b#rd
+之江实验室2020年度第一季度开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484840&idx=1&sn=3c969329a1c4d096632a483b8130cc4d&chksm=fe2efa23c9597335eb0db47be5a8c8c70625021675f78c8ec125fb13af386070c71acff1e093#rd
+网络空间国际治理研究基地(北京邮电大学)2020年度开放课题指南:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484836&idx=1&sn=d491bd7b9900f42a6c444f62556a6fc6&chksm=fe2efa2fc95973397c3a668dd928486788a82b187399a948aa6f6e382076028c53cc912f441a#rd
+后量子区块链: 抗量子攻击的区块链密码学研究综述(下):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484831&idx=1&sn=1bcf95f4c3847af98be65b0d181e6722&chksm=fe2efa14c95973028ef62c54f120fef7d525ac56a8345e3c8eef793fc2a9228a347688839c8f#rd
+后量子区块链: 抗量子攻击的区块链密码学研究综述(上):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484827&idx=1&sn=d45b6bd10bf4be02778c109978e90013&chksm=fe2efa10c959730638d2d4a98111ed5a1da41552c515aa39421f0c6e39c29b046afd18c41a8f#rd
+对CVE中的无效漏洞报告进行分类和预测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484823&idx=1&sn=a824c3abca54b70e5f568f48d4e6a40b&chksm=fe2efa1cc959730a18c453c0c4ab2903d5f073e321ea9691423cfa42de53c0588ac402988ade#rd
+通过有效的数据流标记和跟踪实现可维护的跨主机攻击调查:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484818&idx=1&sn=1556f5c8ccf986a029ea56c433e1c601&chksm=fe2efa19c959730fb2e75382cb91bbf79db2f005272b6f6adcc92c12a8bd3fcfc47225bdfbc9#rd
+EuroS&P 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484814&idx=1&sn=3f55d60ff2ef97af34bdafca43bb12ee&chksm=fe2efa05c95973134e4310f03ddc788b41766a0facce018362751d8269bcbdb6ca889dd03b2a#rd
+SPDE 2020 论文征稿(2020/5/1):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484807&idx=1&sn=09b6555ba0bbd699c034bc73f45b3820&chksm=fe2efa0cc959731a6b93230eb7f28feac17109ee5285d4bc6486e8ae82bf00d162e2564cbdc3#rd
+PROTECT  IO N：被攻击平台中IO的信任根:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484803&idx=1&sn=b38f3db94aa4ec662caa86fcebb07fa1&chksm=fe2efa08c959731eab51508511d046a98733cf5bc97f3bd8124b94cff4c39ea36be9c24850bc#rd
+安全学术圈入围'2019年度学术媒体公众号'啦!等你来投票!:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484798&idx=1&sn=bce867704bc501d1d283c8d304d828f6&chksm=fe2efaf5c95973e3b97b0114d7339a41d4b0c7305e109ba5e36574f28a694eb6329b6b95b826#rd
+PLDI最具影响力论文(2000-2019年):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484787&idx=1&sn=f6f600d5ef4f915a20e46a87980c4628&chksm=fe2efaf8c95973eea900ec8886a9eddce8481973e8095b68c391284f3fe462b0ce981237c453#rd
+计算机安全领域Top 100顶会论文列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484776&idx=1&sn=f39793f04cff5df9f977accf53fcb3f7&chksm=fe2efae3c95973f586ab97ec2b3b9aa2652995f14094b11d9f5a75b95c809ad8035b2d3e3247#rd
+2020年CCF安全会议近期可投稿列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484771&idx=1&sn=117d1b747862c9ca4a3add3296cd2c58&chksm=fe2efae8c95973fef5a2e3e15657dc6573621140a710fca8a5448f2d5d7c2a3b216681a722cd#rd
+CODASPY 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484758&idx=1&sn=a88cda8da2d0ca165f360f29cea7e88e&chksm=fe2efaddc95973cb318dfd3d7fb1c0f97677b320d179b78cb69e82cb868537ce9c9e6fb43ac5#rd
+SciSec 2020 论文征稿(2020/5/1):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484753&idx=1&sn=0aa78845852f52a572931af7d3361382&chksm=fe2efadac95973cce130058bfd8e46eedaa55e53e9e9cc94bbcfc938f8ff6f7d1f640d612eeb#rd
+广州大学网络空间先进技术研究院诚聘英才:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484748&idx=1&sn=94b69a026663be1ddb59877e5f396ce7&chksm=fe2efac7c95973d1efd30b800ae12ed764a5b53d218b28a70028b03f739d5ad026adb9c0d4fc#rd
+NDSS 2020 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484743&idx=1&sn=1cc06dc216a445b31692fca54eaf4f18&chksm=fe2efaccc95973da28dd8d0bfce96f761ae1067823aa6d9a04b5e14a7eb36141c8ef7328f859#rd
+G.O.S.S.I.P 安全学术会议排行榜（2019版）:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484738&idx=1&sn=2dce35552654097c751c7b59ca9b22a9&chksm=fe2efac9c95973dfb047882ebc6bcb7a03b5c4c471aee52bcaa41f8e3f4a8b2fd15cf3ecf899#rd
+恶意域名检测中的流量特征分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484734&idx=1&sn=f03e537b7126ff2ea9510e8efdf67ad5&chksm=fe2efab5c95973a376f1edc93222f6fb8f2d97b2ec518107336343ed465ae04a17474f6366ba#rd
+东南大学网络空间安全学院诚聘海内外英才:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484723&idx=1&sn=85fc64f068f9cb3ebf92955615e6a707&chksm=fe2efab8c95973aec25fb20facc4345188a2cbb23af447a1931c5b70a97f520def77e3d42cc9#rd
+安全学术圈2019年度总结:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484719&idx=1&sn=39ce511e5fb9d0fb43788bd032d0594b&chksm=fe2efaa4c95973b2349960d477eb48e3a82e3e572d81d5aeb1aecb1ca98a6eff2ebebdcda12c#rd
+广西密码学与信息安全重点实验室2019-2020年研究课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484714&idx=1&sn=e9e31a06fab465e4525f74b55ad12a6f&chksm=fe2efaa1c95973b7837bdedb5972da765282230d89a6c6fc828cd707798c79f0da826f70832b#rd
+信息安全国家重点实验室开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484710&idx=1&sn=b3b9277fc44a656ae3815ab6f7ed3833&chksm=fe2efaadc95973bba45e248543b15e8b736e3812544f0bea605861a34e177e8c71a45c940443#rd
+BDMLS 2020 论文征稿(2020/2/23):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484706&idx=1&sn=9fe6288e272f165981a0c14f2e79878b&chksm=fe2efaa9c95973bf71ae4e9bd9404d862f74b6635cf42001ca8150f7b795d96b549125324036#rd
+Terminal Brain Damage：在硬件错误攻击下深度神经网络的严重退化:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484701&idx=1&sn=d71944180cd234ea8228a1dd7017f62d&chksm=fe2efa96c9597380f22c4f6828008a3992d5b8e272219f15d227aec230bdecf3a18e7c7e974b#rd
+综合业务网理论及关键技术国家重点实验室开放基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484693&idx=1&sn=c8cd56b6b709adc9ce2bb376e082ca51&chksm=fe2efa9ec95973888e80f8ba4285a94dc7d4f64e55daa8e764f24bc8b48d3edeb55c4c986b45#rd
+好的研究想法从哪里来:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484689&idx=1&sn=64af85b38bf6125cfe4ff38cbd165bef&chksm=fe2efa9ac959738ccd1a024fbe5937616f6f9de56115d5b54a034133efd6ee8871a9f2d78b32#rd
+FC 2020论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484685&idx=1&sn=518d162f84bfb4e1e002f0fcf45ec416&chksm=fe2efa86c959739058e984fdc9cf0e327297af8fdba6eb791fb1871eff11c8efdf9257569573#rd
+2019年中国科学院网络测评技术重点实验室开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484680&idx=1&sn=2162494b97c6be8c4f9fb576c3930a4d&chksm=fe2efa83c9597395315212fb1fc3bed5fdcf1c2add606ff76d3efe778da56067ff862e6bc5d1#rd
+ICICS 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484676&idx=1&sn=c45d315f7635f27601e30eba788a843f&chksm=fe2efa8fc9597399b3446752483cb609fb68d6c5968ea40390e1048d81c2b83e2e4473d919b4#rd
+AutoSec 2020 论文征稿(2019/12/20):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484668&idx=1&sn=df926ff67db7bdd64b21071fa8e39b13&chksm=fe2efb77c9597261208e45c3c48f3763b8ccfa157a0148dca22af40fbc1b42a71008a81cfbed#rd
+BigSecurity 2020 论文征稿(2020/1/15):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484663&idx=1&sn=a5314604ec66448c000b1bff46d8a77d&chksm=fe2efb7cc959726a437bfb4c0abbd8301683916428a70f1aa06123663272709c38237c6e5624#rd
+安全博士生招生Fall/Spring 2020(URI大学):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484658&idx=1&sn=b5a06bf5d6f52ffe31542a8741fd0f59&chksm=fe2efb79c959726f8f317e895aa6e2559735af878c0ce44caa7ceeb0f529f006d1f1d50dba16#rd
+一种快速、不区分格式的检测恶意Web内容的深度学习方法:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484653&idx=1&sn=75b19fe94158301476b8f3c633904112&chksm=fe2efb66c959727032fe175f74d0239092dc47d5187452284285be7efa9b48efe79fc5cbd081#rd
+生日、姓名和双相安全性：了解中国网络用户的密码:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484641&idx=1&sn=4f3099d6a0abe8a5adee605dfe69097d&chksm=fe2efb6ac959727c1ce3b6977e7f913a45ff58b6584610c2b661d4ef843cdb2ff5b40ca7a4d5#rd
+HOLMES：基于可疑信息流的实时APT检测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484637&idx=1&sn=56c69303c53ce0d5a1e19c2db93ea383&chksm=fe2efb56c959724053dde3cedd488c0b1f70defcb76f406257c5f2e559991fd2a86cec7d688f#rd
+SecureComm 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484633&idx=1&sn=cdd04015a492971c51c23dad55c9fc20&chksm=fe2efb52c9597244e1df82a46107705aba844aa79b5dbda77a785f3ca087dd2af0f206fa2b5b#rd
+第二届“纵横”网络空间安全创新论坛:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484633&idx=2&sn=5520678c4eb09e0ddfec4aed64d41c83&chksm=fe2efb52c9597244277c901872e053addbf106d62850a7e7d18924a3ac6f691adcb9e870b84e#rd
+浅析公共GitHub存储库中的秘密泄露:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484622&idx=1&sn=83d5e714e9ddf45fd8a8e7a255cf93cc&chksm=fe2efb45c959725324ca53045161e8c5bf48de6ab49e2a9a1e0184532042b275457124e24dea#rd
+CCS 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484618&idx=1&sn=147de6e6afe78b58b6b2535e730432ac&chksm=fe2efb41c9597257f30faeb2082772cd7b5fcc07b7b234fb5dd2161559c434532f501dd29e57#rd
+上海工业控制系统安全创新功能型平台2019年开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484613&idx=1&sn=862833aeb63e827ffed10b0ce1e332d5&chksm=fe2efb4ec9597258a08ab73ca45de56955afba32e8de7015e362a08093843507cbef872d8cc0#rd
+欺骗性IDN安全风险检测与测量研究:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484609&idx=1&sn=c419266e62fc6b1f8ea3a1e8bbed2df3&chksm=fe2efb4ac959725c5a71e3232167129e34ac5d1ffa4250c7cbcd7385b3f48a3607188a218955#rd
+Identifying and Mitigating Backdoor Attacks in Neural Networks:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484605&idx=1&sn=0c73743dea561974024a03d8b9848d2e&chksm=fe2efb36c9597220e287bbc08e8a0d12825cbb8ffe8a1ddaa0bd182173982a3bdf1b95e64e94#rd
+基于HIN传导分类的恶意域名识别系统:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484601&idx=1&sn=b6933a14df3f615d15968fb49db6cae2&chksm=fe2efb32c959722467fa9e186fd7b03fe1775d3e0b045abc7e5ad1876f8a4be11ac9704e16de#rd
+Trojaning Attack on Neural Networks:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484597&idx=1&sn=879370c904a77005b34ef58ac06926f5&chksm=fe2efb3ec9597228781582d24dd6b7cad8ec52b6fe3f9f4b172c7843f47587b96dff3c4182ac#rd
+Chainsaw:基于工作流自动进行链式漏洞利用的工具:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484593&idx=1&sn=9661d278d37a1d599cd2d369a0e458d4&chksm=fe2efb3ac959722c3e34171eac34db82bcff3c189fe6426a6121cd634877c4136ad5fd192faa#rd
+文献管理入门攻略:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484559&idx=1&sn=a48f41ac00f53c4c3af98ab0c6624b12&chksm=fe2efb04c9597212ccb226749bbe0d90c393a762b3d71977ff2c6438dafca0625f9d5c652d5a#rd
+“约翰，你被解雇了！”– 电子邮件中的OpenPGP和S/MIME签名欺骗:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484547&idx=1&sn=385c8fb5d906b17300af5e7d94ca8e35&chksm=fe2efb08c959721e712a82add373ecc949b3263df178dea9b13770352f63344efeb88359647a#rd
+ACSAC 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484543&idx=1&sn=4b2e5734ad12f1a73dd0dd9ae6c17a2a&chksm=fe2efbf4c95972e2faf91745888bc729c5d15427d6ad09e9860686b3ac7e8451bf65ac3e1664#rd
+DNS攻防皮毛（二）:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484538&idx=1&sn=2d9cdaf963172ee05b2c23df08b4ed20&chksm=fe2efbf1c95972e7c0e3c0dacc037598025e1510f6a63594a859eaec49f002f63d01a9eb61b5#rd
+DNS攻防皮毛（一）:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484530&idx=1&sn=7429b0b96da5e582ba826aa834aa10bd&chksm=fe2efbf9c95972efec13214b1d02243c600a7a10fa9be12041bbc214c3db1e6ddee1ad310c4c#rd
+数字医疗相关感染：一个大型多院区医院系统安全性的案例研究:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484526&idx=1&sn=f772873dacdb8c44f19d3588e6d9d497&chksm=fe2efbe5c95972f3959714ff281bcb76a5bc609f7ec68c46389c444c3dc04be40ed64d18eace#rd
+​利用无人机通过激光与物理隔离设备建立隐蔽信道:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484522&idx=1&sn=d9a67b637b65c9cf5ac7035c226b3808&chksm=fe2efbe1c95972f7dabb48ad33e5186b6ed839af5294bcaec01c4eba9e0d9ed2c3bf0d38860f#rd
+PAM 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484518&idx=1&sn=ce52ccaef8e22376d281bcf0e4a6398f&chksm=fe2efbedc95972fb21a92f9393374fe051266f7ac4646a5a2af54d11e002e65ebf03fc38a3b9#rd
+谷歌学术指标2019年（计算机安全及加密）:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484512&idx=1&sn=baf9bf700aa367eebec157f0d06854f8&chksm=fe2efbebc95972fd27a08e6d6d6dab2d1c5f4511f2a1e4f2cadc73903eefd9afae1dbaea32ed#rd
+Yet Another Text Captcha Solver: A GAN based Approach:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484498&idx=1&sn=6a89241f9a65b5db4694e6b8dc064eef&chksm=fe2efbd9c95972cfdb4917a2fa087717e28e4cc03f35fb42f66b424a2f0dd718567370d50d2e#rd
+ANRW 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484488&idx=1&sn=2e0c95434c4fd9d38a71dae7407093a1&chksm=fe2efbc3c95972d5bc4c3006ee57f775aa038b00f3f7045f108fa33ea330d053f60775081569#rd
+Reading the Tea Leaves：威胁情报的对比分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484483&idx=1&sn=61eb0b2f4cdb36cef78af375ac53b493&chksm=fe2efbc8c95972defe7675f20913f86ff0480f2ee56b4d05e0ed9fe7202ae901de44efd1c8d4#rd
+Detecting Homoglyph Attacks with a Siamese Neural Network:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484479&idx=1&sn=b8fdccb35e81d9f367919e8f0b188320&chksm=fe2efbb4c95972a23b3bdf71e95f177ec49eec68325d01bd86f3cea85ce0d13bc6994a9fb688#rd
+关于安全学术圈:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484475&idx=1&sn=2c91c6a161d1c5bc3b424de3bccaaee0&chksm=fe2efbb0c95972a67513c3340c98e20c752ca06d8575838c1af65fc2d6ddebd7f486aa75f6c3#rd
+企业级应用数字威胁建模的案例研究:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484462&idx=1&sn=a531e15151bfc8f3a37f75354150f4e0&chksm=fe2efba5c95972b312362c4f5548c7075bbfd123d39d1eefcc3cc4e1b070c87f9709bcc15570#rd
+Evading Malware Analysis Systems using Wear-and-Tear Artifacts:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484458&idx=1&sn=fb5cd9a363a5d9dda9ed45470d834971&chksm=fe2efba1c95972b7541cf6c150b9c963a1de599dbc7534e9523cdb49a461457401e010f45438#rd
+Razzer-Finding Kernel Race Bugs through Fuzzing:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484440&idx=1&sn=0398326907d7334d71c4631088710acc&chksm=fe2efb93c95972850f101d943ea94316ae1c019af970c872ffe8b6c50ede9a09f9419cae8dd0#rd
+BlockSys 2019 论文征稿(2019/9/1):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484422&idx=1&sn=f1358d309a5d7094b7e301bd18b6e409&chksm=fe2efb8dc959729bfccc05df0c448428ad7af71e708ddb8c498edf480251d7624cec79c35d34#rd
+CODASPY 2020 论文征稿(2019/9/9):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484417&idx=1&sn=eb759aff00b1ca908778567a3ecdc7db&chksm=fe2efb8ac959729c13c8f1998e429dfdee0fdcfff5dcc98589ba9162e3709986eae911516760#rd
+Selected Papers in Anonymity(匿名化):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484411&idx=1&sn=3e0933921f2f35636a79e69bbe6af8e1&chksm=fe2efc70c95975662b58d6a0099de985234eb0519d7f26b4bd1bb15728ef0e17fb080433e2d2#rd
+骗局的艺术：剖析以太坊智能合约中的蜜罐:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484406&idx=1&sn=c426d355a255029ec16bca72ec1c8f91&chksm=fe2efc7dc959756b8075bbb69d7a2436ebb794609035d14f6f9f01c3698541e40465c17af422#rd
+Precise and Scalable Exploit Generation for Dynamic Web App:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484402&idx=1&sn=c69a6f275e0c39413911a4bb243d1c68&chksm=fe2efc79c959756fc6df1cb5824ec0d7d69b954eb1d5fd5de1167cd21090b926c9d59d773595#rd
+ML-Leaks: 机器学习中独立于模型与数据的成员推理攻击和防御:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484398&idx=1&sn=fab66da758ce1961b062a89cc8b319b7&chksm=fe2efc65c95975733532d8c3e7e75e43fd630caad59fc37d757d764de06c53bb7afc2283fb2d#rd
+针对机器学习模型的成员推理攻击:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484394&idx=1&sn=ef0b93f99e4938346bdab4ec99c29954&chksm=fe2efc61c959757748df5a0e181adb961696b04ccd45b70bd9046596a570511d7fa3c387f019#rd
+ISC 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484390&idx=1&sn=655669416b753b6ebb6822104a5e95b9&chksm=fe2efc6dc959757be2667280602d2e602184265eb4d291e6ac88fcbf5cb2ab3153e786985739#rd
+PETS 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484385&idx=1&sn=c9ba0f211689086e294fdedd1896f996&chksm=fe2efc6ac959757c48c4adedf1f4fb21a9051431c794be65d7699c97fa1890d40d2ab5cb145a#rd
+WiSec 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484380&idx=1&sn=96c0715b4700a077ac8f6af2ec0e44d4&chksm=fe2efc57c9597541c5f2cbb73e223e766ae13ba2d3d72f505d03ddb63876e5fdf70ea4b21d7b#rd
+RAID 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484375&idx=1&sn=91844c5f11f4d6eca96580b207e326ae&chksm=fe2efc5cc959754af74c95cee1aef5e3b691e4869ca9d6b900297a7323b18b2590bd6c586eb9#rd
+USENIX Security 2019 Fall 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484370&idx=1&sn=66e3b41b9b9a620bd882e215105f0b32&chksm=fe2efc59c959754f61a0dbbb5eff27595893fe4f88b9eb0abcec2777816aeccf1469dd4bce99#rd
+针对分片式分布账本中跨分片共识的重放攻击和防御:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484364&idx=1&sn=d1babe727962b2388059f0eb5a0828e5&chksm=fe2efc47c95975517b4c197e3b7526f1f79fdf5f4ef7a87a788e33d3faad679e9ea1376a8c5f#rd
+Hawk：加密和保护隐私智能合约的区块链模型:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484360&idx=1&sn=4b580fbfb75a8db9bfbbad5be55c4fb9&chksm=fe2efc43c95975551902400f7b1e72eb134b840d36501d317e3475d6c46f13e93c8c73babb3c#rd
+DNS Cache-Based User Tracking:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484356&idx=1&sn=7620109e110308602f77ed43b79c58a4&chksm=fe2efc4fc95975593b6db1ce8ccf747408ae5f1eacd6bce6f05ef29fe64f42f2b2911789e526#rd
+AsiaCCS 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484352&idx=1&sn=a87ad942f79d14358b26c82163166e72&chksm=fe2efc4bc959755de626e20275b9847e5fac3844fb2cf9e73cf8a5927172f85d17d556f3739c#rd
+DSAA 2019 论文征稿(2019/5/20):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484347&idx=1&sn=2394d6c5a117d8ef5157a52d43fd6d6c&chksm=fe2efc30c9597526573d0abbb0c097cc3d5967a4c2f05880f71b7bd973068df4dd92ae5d6ce3#rd
+MobiSys 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484342&idx=1&sn=174f93c979d788f0a1e36d6e08036ea5&chksm=fe2efc3dc959752ba586e19e98a2d2c1ff2bdfac959d9b0b49e77163b95c7669842ecce7c3af#rd
+Security Data Science Learning Resources:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484337&idx=1&sn=62f6ecbaa7d0073618235e1e76d2105c&chksm=fe2efc3ac959752c4bbfc6d768434f64cc915a35659c77931f0001e6c822d06694018feb497c#rd
+Euro S&P 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484332&idx=1&sn=356db687e7c95576b70b5ab2e7b31ac6&chksm=fe2efc27c95975317a41556f3cb5762955bfa54e51c5caf21fc4f13f8b89aefe3724be0a2cb0#rd
+DIMVA 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484327&idx=1&sn=e0955ebd41f2b47d2d3ad91d8f1fba97&chksm=fe2efc2cc959753a319af6352e1cd495165e663c010ab25851cb84feda0f4cc7cfc0d1c32b43#rd
+CyberTwitter: Using Twitter to generate alerts for Threats:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484322&idx=1&sn=1c20b7123d51cae8e523d9f31dae3747&chksm=fe2efc29c959753f199aaa09f1bfb1526b62028d4c04861785b2b26188c625109e8a92e786fe#rd
+Predicting Exploitation of Disclosed Software Vulnerabilities:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484313&idx=1&sn=4e1782e04c3261e5d0e9e06cd8f535b9&chksm=fe2efc12c95975040c7c54d6276d629fe93f591755bf1110eb2ffdb46c19d3ac01f4ff6411f9#rd
+如何通过文献掌握学术动态:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484309&idx=1&sn=f5d2baf3c753df3ec3da9318a874b413&chksm=fe2efc1ec9597508fe8240be437be0f40dc75d3c993628bb93a00691cb00e65155186acf982b#rd
+如何写一篇合格的学术论文:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484302&idx=1&sn=8acdcdb8ecbde3818a07b672b0d3e947&chksm=fe2efc05c95975138aa335784c6484c7bfc4306cbfbe8a131dde196cf74352e2785f68525047#rd
+2019年密码科学技术国家重点实验室开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484296&idx=1&sn=e7b2b1afbe1a63730b55249de750f3a4&chksm=fe2efc03c959751581e1d30db568e9df59f6e2cd06f96d3e3ee12eb55d2709daf95d4efaeb4d#rd
+2019年计算机软件国家重点实验室开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484291&idx=1&sn=374b0228342102859c1119d4dddf917e&chksm=fe2efc08c959751efafd67dea007ca845f367235381e7fa9d09e0da51c9fee8054b2cc26e826#rd
+ISC 2019 论文征稿(Extended to 2019/4/12):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484284&idx=1&sn=597da1b15c52195a47fed324bc867838&chksm=fe2efcf7c95975e14f9a1c985ce94d8002680ecc8dae3ee5671ec56311f48f412a4007e4a9df#rd
+2019年河南省网络密码技术重点实验室研究课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484279&idx=1&sn=a3d7f9f9c5e12069d8e06e57146b2b7a&chksm=fe2efcfcc95975eab256d9d9431d2ffae9f029dff52800d24a7bb5f96d65f3deddc11e8e19c6#rd
+2019年度网络空间国际治理研究基地(北邮)开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484274&idx=1&sn=3ecd7036a775780eb35fbfcd082b791c&chksm=fe2efcf9c95975ef3362fb6db1e1213145ead5f5cbc5e5069a920bdae055a8d095f0d6bb9a4b#rd
+S&P 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484269&idx=1&sn=6364d1ad47fabe4bab1edb56fe38a6b6&chksm=fe2efce6c95975f0fa6e93b657b2f53c238fd67d1b3917fa5e40b90482be13167d4df60a673b#rd
+安全圈值得关注的学术公众号:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484264&idx=1&sn=63e840855ce1d535f8402940c96c0d11&chksm=fe2efce3c95975f55ad087c0ad0bf9bc60522d69c1021e701e8adc5c4b56b51dba0445f29199#rd
+Efficient and Flexible Discovery of PHP Vulnerability:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484257&idx=1&sn=aa7b38ad8fe0df488b1303383e5d0d5e&chksm=fe2efceac95975fcb3aec3a9adb8c6449591186beea5330eafd3e40b62db4286306ead35dbf9#rd
+安全学术研究者群体分析:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484250&idx=1&sn=d9ad21785de939192ba2c20d237de28d&chksm=fe2efcd1c95975c7769170a51fe4cff19a3e165e5e0cdbd5933eec2b1172dd3f774171583d32#rd
+暗网黑产交易中dark jargons(黑话)的检测与理解:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484234&idx=1&sn=b91c268f8ebd40b694001db7c096b101&chksm=fe2efcc1c95975d7187e9db6c40639d5c249fd223c9a8067c199981ecf15ad519ad5b3446381#rd
+2018-2019年广西密码学与信息安全重点实验室研究课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484218&idx=1&sn=7b90461fd7d835e5c5468baa3debcf95&chksm=fe2efcb1c95975a70b2a5533fc47ba5f5b1827d9d4a880424e4bf84861fee161043fe4d20ca6#rd
+DSC 2019 论文征稿(2019/3/24):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484213&idx=1&sn=80cfc42c04dad2c1776c3ee044dce301&chksm=fe2efcbec95975a8a515cb3b4080b8e1d66f436df5706079b43c07a4025d6bc2df36e0a8f585#rd
+蓝盾董事长2019年度科研基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484205&idx=1&sn=3611ee74a7bf6d3b08aa71c67d2a25ee&chksm=fe2efca6c95975b074814a570309048274f6a17eebf18f747894eeb48f43fd39210b267b9c41#rd
+IWDW 2019 论文征稿(2019/8/20):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484198&idx=1&sn=2e3f0237a640a65a1125e51a1ae52fa5&chksm=fe2efcadc95975bb0404d3d4ae4f454197a965a119f58bb30efa1b4309c93d15fbb422d70157#rd
+信息网络安全公安部重点实验室2019年度开放课题:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484193&idx=1&sn=da0be00eff70226548a6a1f7474e0bf4&chksm=fe2efcaac95975bc1e6a5e11ee9ef05344cf99b37f1f7de772b59c64d76d39bbf90400ac7d14#rd
+SiMLA 2019 论文征稿(2019/3/30):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484186&idx=1&sn=b8176f7b19fb05e7df2376df0775bc2c&chksm=fe2efc91c9597587c724f76b2dee8593e4511e51c4488a431e42cac63f6dbc1a35c24e20b409#rd
+ISC 2019 论文征稿(2019/4/5):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484186&idx=2&sn=1650ac69e7aa1c22599008e277acb76d&chksm=fe2efc91c95975878bd3ce6903643c1a5a086c6c782c7fb4ff652bb719b18c86406f84793598#rd
+Abusing Web Browsers for Persistent and Stealthy Computation:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484181&idx=1&sn=0665d83dda9f898ebb6ea9b33702c651&chksm=fe2efc9ec9597588985f19644f45ba2ec6795967a3511cdd35d37606a7a9f0f67433b7170e77#rd
+CSS 2019 论文征稿(2019/7/1):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484168&idx=1&sn=15cc3dec7251eb64383456668df7e505&chksm=fe2efc83c95975959e9a4297a2477d660c9d17c73b223f40443334e8697a02a02142a75049d9#rd
+山东大学网络空间安全学院诚聘英才:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484163&idx=1&sn=fe375a554196b21c9a64d791860c8ae3&chksm=fe2efc88c959759ee0383d4cbab9eb8815fdf0f978540bed83b8c804a4ab87a16d7599ac7e9a#rd
+桂林电子科技大学计算机与信息安全学院诚聘英才:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484158&idx=1&sn=af990dfefbd3dd0a633bec23cbc9e277&chksm=fe2efd75c95974636f719ad626a72d3d31df11d07bb79907d5c646491dc1dab50fb2a3763473#rd
+南开大学网络空间安全学院诚聘教师:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484154&idx=1&sn=e95e81b7033ed623168ec736e83e524e&chksm=fe2efd71c9597467cf30df3c675dad9fda1ffce2a6d9d6bdab099a107adc886adc5495e59d20#rd
+BDMLS 论文征稿(2019/3/15+):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484149&idx=1&sn=382c41fae845db7cd857f5bf8b654a19&chksm=fe2efd7ec95974687b246087c9d0d21e93e8c24f06afd42f71409c796014f1b0ece4f62e93df#rd
+ICCCN 论文征稿(2019/3/13):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484144&idx=1&sn=70c17de90d782e7226ecd0116dbf5a31&chksm=fe2efd7bc959746de406e81cefc1402a46118e5cf15d49ac87ebf55bafdf791dbe73c3a37ae2#rd
+APT detection based on machine learning:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484139&idx=1&sn=0da63a49f341eccc0bb48c954d8ebbb4&chksm=fe2efd60c95974767521fe6a6b7257a1d05e5482fc7ddeda281bdf0f0deb20add82d1a82d8ec#rd
+ISC 2019 论文征稿(2019/4/5):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484130&idx=1&sn=51d268f7ad492db2feb7775069212f5a&chksm=fe2efd69c959747f430555c424299df4ce60609013a6af2aeb18cc6d9ab349c7020ef4e32bfe#rd
+DIMVA 2019 论文征稿(2019/2/18):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484129&idx=1&sn=98aa5d22a4776745d2d66976ab3b2d06&chksm=fe2efd6ac959747c35f488e27bf8102bbc61c534afa97d1a556e39bf93a672f004aa35d30670#rd
+RAID 2019 论文征稿(2019/3/26):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484123&idx=1&sn=6bf3333aab6b6f59db7c27b3b65de6f2&chksm=fe2efd50c9597446e13405fc4e1c3e30f4fd9c24b470e133281e4ba10142e51926d5babe0e0c#rd
+CODASPY 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484111&idx=1&sn=ffc8740ebddb79ae73e7aeaaa0b90f06&chksm=fe2efd44c9597452996dd38db67e83bfc950aadb6cb5ad3e336578a3b21d1b4830cd42095bd3#rd
+Wolf of name street hijacking domains through their nameservers:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484103&idx=1&sn=d6704afd5d58d6f7251a8919a4cdda62&chksm=fe2efd4cc959745aaa61d3dfd10d5f9c11d1d6d3e414e24481877773965a2ed95614429aceca#rd
+NDSS 2019 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484099&idx=1&sn=5dbbf6542b76c75594b9e3c1a779abef&chksm=fe2efd48c959745e35c855c028707165803fb973efdcbed915451b589239406fffe8ae14bedc#rd
+安全学术圈2018年度总结:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484094&idx=1&sn=aa243a5ceb7f736bca57088e42f30e38&chksm=fe2efd35c95974231f1d22425afb54f146d63929ced5110207d53ea43da3b7e988b428598424#rd
+User Behavior Risk Prediction:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484089&idx=1&sn=c2cb37080177439dc950e59bb4b3796c&chksm=fe2efd32c9597424b880af7dac353f6cbda42855f87c3f57b73e975362fd1b3a0083eb11ebfe#rd
+Using SVM for Text Classification Analyse:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484084&idx=1&sn=29eed56f7b4e2f6578a43acee3e13cf3&chksm=fe2efd3fc9597429843e0b0fef2f199034a2980cf9e9a0a45ee9384a9e1e58d9ae3c9e71f4d7#rd
+ISN第二十批开放基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484075&idx=1&sn=ea5da3b7b9ca43e1f44c8d79790f3b99&chksm=fe2efd20c95974363a50204cd11fcd1615df7ea9b53803b3ae3b524f44de2949e1ef77924af5#rd
+Towards Automated Detection of Shadowed Domains:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484070&idx=1&sn=66bc6dfcfe815d56bdbdf1e35757046e&chksm=fe2efd2dc959743b9f49aeb36cf842595569932a2eba977bc3543f034e848fd91276c05bb13f#rd
+Fraud Detection in Return-Freight Insurance Claims:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484056&idx=1&sn=02177c55aad1cb0f91f2b68c2bc43801&chksm=fe2efd13c9597405b4e1c4b2492e223b0e37d99424590fd572024e58e98aa5365c04cb7cac88#rd
+Dictionary Extraction and DGA Domain Names in Passive DNS Traﬃc:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484049&idx=1&sn=55b71e5a3e0327999ea3bb731c358a98&chksm=fe2efd1ac959740c96345bd0b1d5f2094a04494e3d331dec7f5b66dd255a64fd0212f3ed53c4#rd
+ACSAC 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484043&idx=1&sn=b4a6fa26851ffb1c10a97e73a7589af0&chksm=fe2efd00c959741612eba736afcf62c7278d5d48a68aec8531dc59bce896e352cc1df29f6ffb#rd
+ICICS 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484038&idx=1&sn=d4ae170cbc4efb59a0d6c7db6e0a204e&chksm=fe2efd0dc959741ba49f12508a82389c3552c3d6150ea0646898f12299fbc8bdd94e0d2a7213#rd
+Tripwire: Inferring Internet Site Compromise:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484033&idx=1&sn=09d6586efb739ea6d8a893fbe4bb21fe&chksm=fe2efd0ac959741c55a44ccfbb74c61563440e300190d72ba4c4bef8d76c15b7c7a38c4bdbf7#rd
+Causality Inference Model For Logs:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484022&idx=1&sn=d6d630099e526f8678dffaed180d5ebe&chksm=fe2efdfdc95974ebe5d89fd9564c2e54d0bebe4a8272a10648eb46837d7083cf21bf90f827b9#rd
+2018年安全领域PhD招生信息第4期:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483995&idx=1&sn=aa24ab58f7fe70ef1f9e49e74a6b5abd&chksm=fe2efdd0c95974c671ce60513f8321c8439cf4bf5257a07a21a344430474b152f0769ef38678#rd
+Encrypted Network Traffic Analyse:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483991&idx=1&sn=99becdfd62bdf285bdc1c405517c7fb4&chksm=fe2efddcc95974ca6c20bcfb50a68f59175aab5f46dfcc25d5b53d00bcdcbfe61052645d3676#rd
+2018 蚂蚁金服安全专项科研基金:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483976&idx=1&sn=f5303650d4d40ffdedbd9cb5a24baf73&chksm=fe2efdc3c95974d5ffd0a95ea3cdcf5fe71a9459e3752b381e5c13103a6e66b85a48bed0e39a#rd
+Identifying People by Metadata:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483962&idx=1&sn=8603288f69d280ccbc3966a7c071d359&chksm=fe2efdb1c95974a75d8939b4d00271a9b19090d20d707effaffe83e82b65a1623b3389e2c550#rd
+Analysis and Detection of Spying Browser Extensions:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483958&idx=1&sn=5e2b87e43161ff34a3b3a81f97cdf520&chksm=fe2efdbdc95974ab1216aeae6416b5b1df28b78b34c5eb829b98e56402ce823980e06bf3a361#rd
+IMC 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483948&idx=1&sn=839975a3ae1fa727e14a2e6d77c9c4a7&chksm=fe2efda7c95974b1da11f7e44bef34d7e7ce37edf42630110664eb089d5c3aa47959e3dd2a87#rd
+RAID 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483941&idx=1&sn=74c3e0ee364846f7bae6efec89a653af&chksm=fe2efdaec95974b81c7416a593ccaa8a3f6e6585263a5d0a3760f320e60f9a8734a4c7143f23#rd
+CCS 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483936&idx=1&sn=13fe9dba5dbea24f572c96b9a8aaaea7&chksm=fe2efdabc95974bdbbb1b5fc1eae4a09a0561a162dce6e4fa961025061f4554cea8a9164fc64#rd
+SecureComm 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483932&idx=1&sn=f74f1bcbf5166f308053a36f8b1532a1&chksm=fe2efd97c95974812aca51cc501806b9347755d8b6a28a6cae33300afb16f738424e379c6e68#rd
+WebSci 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483928&idx=1&sn=cd1ce4f5730d8add7d5ed116f576b772&chksm=fe2efd93c959748527d040fb7560b14fa2e982801a6e684da0d5f82c948217e4b2e793df0bdf#rd
+工业移动物联网恶意软件威胁和检测:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483924&idx=1&sn=358da83ac049287c68e61a660d12c551&chksm=fe2efd9fc95974897ae505877be7caf4633a6a95e5ea6d03710cd4c10f813ee60f6e429f6455#rd
+谷歌学术指标 2018年 (计算机安全及加密):
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483905&idx=1&sn=cdb57aa477b87c69bf92015105867bbb&chksm=fe2efd8ac959749c931ef4b2cefe026d7607dbd36a036f5e7f8b40e4d2dffe6eb704a8bd3465#rd
+ICWSM 2018 论文录用列表:
+http://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247483899&idx=1&sn=4aa9c229c67a67084336ecea670ae3e4&chksm=fe2efe70c95977663d1092d51af41cbb085c5e71738ce1a6c63332c698c261de6d0f62827f98#rd

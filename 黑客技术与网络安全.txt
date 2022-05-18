@@ -1,0 +1,422 @@
+Linux 超级漂亮的 Shell:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162262&idx=1&sn=37b381126a8786bc097d888378ed7eca&chksm=8c219d0cbb56141ac939d682b3c9acec667f8f3de4726dd5bb0e5025920e5e193e421172662a#rd
+我妈今年 70 岁，受不了Windows蓝屏，用了 21 年的 Linux！YYDS！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162257&idx=1&sn=5c01a78b4e3b0a095797e482a222b59e&chksm=8c219d0bbb56141d18829b86ee7f8de0c19570b896eae8e3772eaefee4c098aff7e1dedf18d2#rd
+编码、学习、挣奖金，这是我看过最良心的「开源」活动！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162257&idx=2&sn=26c90ffcf81f8efbd0ce30eb496778d7&chksm=8c219d0bbb56141d335756777588cdff197e64080cbb79352c7179025527dad3a6d4d4c06d5a#rd
+免费！微软数据恢复工具，界面版体验:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162250&idx=1&sn=ec19912f6a849f0f2e288097ee12694e&chksm=8c219d10bb56140649d0e2c2a230e586104460d31f3d4da530c9e3e12696cb6b53a9f20c08bf#rd
+一线知名开源项目都来了，开源之夏火热招募在校生！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162199&idx=1&sn=f7ab606265752b5984a78ad5f9b14f7c&chksm=8c219dcdbb5614dbed0b60c0eaba756db61b8b42e9aa69369668cf15945cf6493b01693386bc#rd
+Linux 系统信息收集备忘录:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162199&idx=2&sn=afd9859eb8e6c55f0a076b53bfa95ed3&chksm=8c219dcdbb5614db5bf9f5289b05e02b25eb844d22e8d32f05093ed7c7983041c698bdee3bc5#rd
+不会盗QQ，还当什么程序员？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162134&idx=1&sn=7c46b77bdc63e8323bcd872bb1628cc2&chksm=8c219d8cbb56149a75fd10dc86fb440db7d1cbbea237280db6aa7020ca141caaca9e30cc7e26#rd
+太敏感！暗网《700套渗透暴破教程》火了，限3小时删！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162134&idx=2&sn=b20bbe1014bd5241eb9fe3826622198a&chksm=8c219d8cbb56149acdfdd6db65ece496afaaf0f2c9eb02d7613b8efaf2bfb48b6696a514eb60#rd
+香馍馍！硅谷《1500套渗透暴破教程》火了，限3小时删！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162081&idx=1&sn=eaf53f5430cc1ec8f0a896b72e991c34&chksm=8c219e7bbb56176d62830e4999075dc1c3b250f8233a027ec322bbb414c71b3068c23bc2d847#rd
+学 SQL 注入玩这些就够了:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651162081&idx=2&sn=796ef726f558d144ac108e3c7bb6aecb&chksm=8c219e7bbb56176dc2de1f3baceeb926808b23f0e42059b4a0b6c8540dabd4108a81fc803b61#rd
+Linux的10个最危险命令:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161968&idx=1&sn=dbbaa7a1a7919a47216e444d9ac95a2c&chksm=8c219eeabb5617fcf7e85ca9679cb10513c11a17633ff2fc1bfad4c322e8adf8461f02163ef7#rd
+别学了！这 5 种即将消亡的编程语言:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161964&idx=1&sn=6b7c50221fa7fb0fd8dca183f929f533&chksm=8c219ef6bb5617e02a8f4f4c36bbf0549f14d82cf46aadc169303934bf2e14ea4e8c72ef69d0#rd
+拖动文件就能触发7-Zip安全漏洞，波及所有版本:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161961&idx=1&sn=5a6c23bbcb8271c5cf5d65cd4e5dcb6b&chksm=8c219ef3bb5617e558c3ba0d7db7dc83fecd66362bd5ee01ea591c6329de3d71ed28b8d04d37#rd
+40张最全计算机网络基础思维导图:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161953&idx=1&sn=dfc95d4b2e33e17c8a23399f42a2b235&chksm=8c219efbbb5617ed1355b7567cc30f02aea3cb7b77f85da17a094705494fa7c1323eea3db053#rd
+来分析下成为红队成员需要那些基础技能:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161948&idx=2&sn=69cb6f5ebad95d956bacc0927a5ac599&chksm=8c219ec6bb5617d00422c6742f0271a1ab32a767d94a474af6a5b6303795d83989a921df64a8#rd
+巧用 SSH 打通外网限制:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161944&idx=1&sn=26518f43b9a016b8c1fb622723b4bea6&chksm=8c219ec2bb5617d442078dd817a009e312306396c3d5068c4db1db38703b9484f0e318969abf#rd
+从代码审查视角看软件质量:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161940&idx=2&sn=ea447d9d1ad4303a482528b50dcde1bc&chksm=8c219ecebb5617d84f3fa5b8f318428f2de9a734f804da220b3fad71833ddb89ab1a186ce4f0#rd
+常用开源监控系统分析推荐（必备知识）:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161936&idx=1&sn=df4d2e955ea801340d2691b88a5ac1a4&chksm=8c219ecabb5617dc92dc2fcfed1394a7d29c527fca90ed5e984e81dbb9af0183637f3460c5d9#rd
+2022年软件工程师报告！年薪最高竟是网安:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161933&idx=1&sn=8c3d9545278f71864cd695fde5114601&chksm=8c219ed7bb5617c145bc683183a2f019a1acf8896bfa841392e44ef3a0d90f4f558bb505dfe8#rd
+招银网络科技+招行总行测试中心+邮储笔试:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161853&idx=1&sn=a9f561a3c89bfe44cf6c0b67e4d5623e&chksm=8c219f67bb56167116c180f0a310bb9f97c4c861a87ff6a3b3bbaefd7d2ab2cf1e10b8340ddf#rd
+安全应急漏洞排查思路:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161853&idx=2&sn=32d94a50857b46122b9b21ccac98bd80&chksm=8c219f67bb561671932b5195f7d42b03e99dcc2393f663465098c4da953c4880a20700a2c467#rd
+疯了！Spring 惊爆大漏洞。。。:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161830&idx=1&sn=82853f91473ba914e4641986c1553589&chksm=8c219f7cbb56166adc8276caf9be01ebdc5f73a8476ac20b471e264ef34efd4a1170806becf9#rd
+6G 到底有多快？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161830&idx=2&sn=352cbe7d4814f22e64f7786c80e42337&chksm=8c219f7cbb56166a95def4829fb278de27a55efb1c9b6586735c4a858a7b1b099b47b104d9be#rd
+打造一个完美的 Web 测试环境:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161823&idx=2&sn=2869097b1c218537402c67146fbde7ce&chksm=8c219f45bb5616538dce26fcffe06fb8599c6bdc63e806eff3f13f40808c54a46d0d57ab4612#rd
+网友维修手机致私密照被泄露，很多人忽视了这个冷门功能:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161815&idx=1&sn=c5ded95672acff26850b309e71568d83&chksm=8c219f4dbb56165b30974db1ed416528a1fb5767a9a0e3095bacd875e571ff9410b92df09078#rd
+APP应用安全检测:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161815&idx=2&sn=f70db3a8f3c46dd41f1a64e7b6bf7aa6&chksm=8c219f4dbb56165bc2ac80d05eec5c5c2142eb92d6273bd5d81d3d1aa969ab303dc5773341c1#rd
+如何在几分钟内找到多个 SQL 注入漏洞:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161811&idx=2&sn=459af45d3130917534fc4e4ecb9fd9a4&chksm=8c219f49bb56165f4a2a196104278c8aa28c0bb4c5cf5c8d2488e9e0326945028a1678a87ec3#rd
+黑客都使用什么编程语言？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161797&idx=1&sn=5153326a17376f465486c96fb9d1de7a&chksm=8c219f5fbb56164929e1b27f0435aff006076ceff034752409ee42355c0d577b56b11ef0efbc#rd
+好代码和坏代码:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161797&idx=2&sn=2765fd7a47e94f3899aad145a16c5421&chksm=8c219f5fbb561649c985d15c1f55c5f90c819d04469952cce77eb62129cd1cfad4d15cec7054#rd
+年仅 16 岁的黑客少年，竟是搅乱 IT 巨头的幕后主使？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161691&idx=1&sn=46d01b2d83035625cd8d03787bb7edfb&chksm=8c219fc1bb5616d7b99c198c0e5e2326b37a24d57719346d2f8ba4323bd7bef5cd813a3966f9#rd
+信息安全初学者容易犯的三个毛病:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161512&idx=2&sn=28c91c655a5e7541d8aab40e0c4ae32e&chksm=8c219832bb561124349b6aaf686332bca4ed3daba5b2fd346c23deeb8efadc718374135b110a#rd
+黑客大神用什么杀毒？Windows自带的就够，只是加了亿点微小的强化:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161504&idx=1&sn=5cf9d16ed9c1174798c5acb405a4b69e&chksm=8c21983abb56112c1cf937e057f380b8b35820c106eadfbfe41cb18299e659c9a0f2c285ba02#rd
+从 IO、NIO聊到Netty，最后带你实战即时聊天系统:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161504&idx=2&sn=19f2de0cf2548e3e9f820080e0a54de1&chksm=8c21983abb56112ccdabdefb7f0e8b8493915f9bcc40bf06a454a325a5270dc8a3c99c38168f#rd
+实战 | 记一次几乎不可能成功的文件上传利用:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161501&idx=2&sn=7a0e29083413bcc1417a387d0f111142&chksm=8c219807bb5611114e59626a39d01b84e5f6dc6b93977a3e8f69c7e721cf92b92db3f391b935#rd
+无需登录域控服务器也能抓 HASH 的方法:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161490&idx=2&sn=9e7ff041639c850f99d926ad75094236&chksm=8c219808bb56111ecabcbc7c5c792c97fa0dbaa5c4b7b738bf14273053f3bc101b6b2ec093e9#rd
+GitHub 上只卖 5 美元的脚本，却给我带来了一年数十万元报酬:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161484&idx=1&sn=ac510aadd992c043d58ad2e785eab659&chksm=8c219816bb561100b7e44e88bbbf869c5b76c0478b7b79341823e08873a505586b7d302820f8#rd
+一眼辨别这 11 种常见服务:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161484&idx=2&sn=565f40ec9ac2a8656799d8c73c3e202e&chksm=8c219816bb56110018c2e99ef7934032a71ee93bf55713d78768fd885e36bb8e39465c0968cd#rd
+重磅！七国首脑会议决定制裁Go语言！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161396&idx=1&sn=3510278929b0b75e3cc57c15dc9c0fd4&chksm=8c2198aebb5611b857b2ef456b8163fbaa47e2b0330171ca244ca52fdd8eaf3d7a64a8f9b2a4#rd
+“再见，Linux！”:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161391&idx=1&sn=1fb016898fb2c6989973a67127e8a485&chksm=8c2198b5bb5611a36ba424ab917f5e69aa7e5f5e16569f3006788f645e44920b530450fe7933#rd
+用 HTTPS 安全吗？HTTPS 的原理是啥？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161388&idx=2&sn=b4c6060aec95d29be4889ae41e72db1d&chksm=8c2198b6bb5611a0f8b119557cdafd4d03557169f3808f169435339732264bf41e56671aff5d#rd
+为了一个HTTPS，浏览器操碎了心···:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161312&idx=1&sn=1d3264201724362cfd6ffdfbc2587e79&chksm=8c21997abb56106c6d33651927090e92aff27b01b98ccc9ebffe074c7fee26cecee36356f8e1#rd
+用了HTTPS，没想到还是被监控了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161273&idx=2&sn=3399446e3b67070705b91722f5cdd8fc&chksm=8c219923bb5610350a12ebbb092bb49278437c9172e8cca0288ea1dfb4feb1b43c5061078ecc#rd
+谁再说不熟悉 Linux 命令，就把这个给他扔过去！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161261&idx=1&sn=efe47c4fbe75da86a7d77bcdef2c0165&chksm=8c219937bb561021996c55988b687c5a08f014862642f9e93c5f565880a489cacac6a014e239#rd
+Log4j2 漏洞实战案例:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161261&idx=2&sn=efb3927f4c182bf426e5dd3d68ec2af3&chksm=8c219937bb561021d0697146a8044ffebf3ceb4848b6a03be310dc89d745ef95eb7702ed7e7d#rd
+教你几招消灭代码漏洞的方法:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161256&idx=2&sn=882816e64b1e3be713fa916e64f0d6b4&chksm=8c219932bb5610248b3d5fa79f6e7e7ca10009381ca4d8d865e9d000b4820e5587e1291c885a#rd
+Log4j2 漏洞检测工具清单:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161249&idx=1&sn=5efd565401051621fbd9913c940e5ea6&chksm=8c21993bbb56102d8201ec347ecdf73b9d10edb36f436d88637ed7025e04a916698c11d7bfdc#rd
+对吃鸡APP的分析:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161245&idx=2&sn=40d4e834460a5be588db4d5e8b190528&chksm=8c219907bb561011316b68f9884a04d5597a2c942b3e1b3a7bacd93ef9b6c5e8639f6a453282#rd
+电脑 20多个杀毒软件 惊呆男友，C盘 17万文件：删除软件只是删了图标:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161218&idx=1&sn=251041c3c1aaf7b3b58bd4402656d320&chksm=8c219918bb56100e4b4c916d71f3a6889c39b1bb0f5f84b383fffbf4500739c84f86f7c389e7#rd
+我的杀毒软件直接扫描电磁波，查木马准确率99.82%:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161218&idx=2&sn=7981415d4756b97307a097c192af0604&chksm=8c219918bb56100e3e435953a7ed6adac8e52165c90a34fa1d5903b5736ed3f103faab97c012#rd
+针对 Flink 写内存马的实践过程:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651161211&idx=2&sn=9807b9a13db527e6f41bc5a3b60f0a27&chksm=8c2199e1bb5610f748fae224e38b2c7ecf054069fb4f17f403b2324a297583b49359e5e66d77#rd
+一张照片攻破人脸识别系统：能点头摇头张嘴，网友：太可怕！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160695&idx=1&sn=e75988330b34c9dfd0c51a24fd4b4980&chksm=8c219bedbb5612fb8422341c8afa0e8a4ac4d2e50fb6fcf59780546e20c732dd8dfc65549892#rd
+发布了一个软件，被抓了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160691&idx=1&sn=05dd500efa66e3cd65d14508bb43a27f&chksm=8c219be9bb5612ff7a7299a88fa331c12633ba7d16d04e8ed633e424e7392131c6d8c3527231#rd
+死磕 Linux ！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160678&idx=1&sn=31259f64fd1791bcc5d18c3d7e37ef9a&chksm=8c219bfcbb5612ea37b4e26e45e385d6b1cd2abd97737302af2f9894a1bfedfcbcc76716474b#rd
+19岁少年一口气「黑」了25辆特斯拉！10岁写代码，不上课，开公司:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160678&idx=2&sn=a5259fc73634b2404fc068cd8cf49ef9&chksm=8c219bfcbb5612ea11cb876ed50cbe614ea1edf1ff9dd57ce0458a524375bde2f7835d657ffc#rd
+Win10 下最好杀毒软件大比拼:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160648&idx=1&sn=24b312d82a5ef77d45987c8f677da61c&chksm=8c219bd2bb5612c4c10b30456fd2d6c2d00a168a14307a85a82b2ba868db9065cb967465ffe2#rd
+安全新系统之后的必备软件推荐:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160648&idx=2&sn=819c3d2e3f131894029121d4a8991362&chksm=8c219bd2bb5612c40b290a22466d5981b620b3f5156789f04f2897546a3a6029318325738028#rd
+Wireshark的抓包和分析，看这篇就够了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160643&idx=1&sn=4b88750abd04d5363da2f498c9ad94be&chksm=8c219bd9bb5612cf6c9f5901ac59808231480df9f33a156e44843a39ebaedc9da06126e8cadc#rd
+分析免费游戏辅助的盈利方式:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160640&idx=2&sn=519c263b6521f120e4797715c9f9254b&chksm=8c219bdabb5612cc8dfc0a76628adc2f5883f8762c4c82fdd93b1f7aeb4d2c9318b41e5c3990#rd
+Mac地址会不会有重复的？怎么做到全球唯一的？如果网卡作废了，那么Mac地址回收吗？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160633&idx=1&sn=b1fae0bcd03d7a21961a9563438b676c&chksm=8c219ba3bb5612b5582ba9a5443a3bd95aa476587e007912724c07019983f3c6c4654578026f#rd
+Proxifer+BurpSuite 抓取PC客户端HTTP(s)数据包:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160633&idx=3&sn=94378aef4a341c09f6dce5f416698f9d&chksm=8c219ba3bb5612b5658982b625e3e1a55475783d3ebb74a131bb922655ca4c9437c3b83ce669#rd
+谁在调试我的代码？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160625&idx=2&sn=6ea0b4cb5ab60c725a0c6b48961bc4be&chksm=8c219babbb5612bd7a90e685844b67031e5269cc4aea09dab06a076ebf8fe59c5b0e75cb1534#rd
+阿里达摩院2022十大科技趋势:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160620&idx=1&sn=f95948dd253256ea9e42cf97280d8719&chksm=8c219bb6bb5612a0bfa86f3f72d4a8fc16b7ff4896d69e6b47b7c73671213ef206bf15bffcf3#rd
+实战 | fastjson 漏洞的发现与测试:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160620&idx=3&sn=c13e42f48ca662f97d31e52ecb8ca3a0&chksm=8c219bb6bb5612a0923ef61d38772171557c98d8c5c38ddb896011e74dc6e0c6f40c213b2801#rd
+二十八种未授权访问漏洞合集 | 建议收藏:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160616&idx=1&sn=51587138bc271553dc543d30c2919714&chksm=8c219bb2bb5612a491df722fb7c483e2d71f21192d353d6e431d7271c197154abe9587c49f80#rd
+软件被白嫖，还要负无限责任！没有报酬，还要挨骂！开源太惨了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160589&idx=1&sn=91576f111dc6217c33b1940246338465&chksm=8c219b97bb561281399d84247b961fd6cbda75b6ecf1c9d66040833c41d23f8327f7c584328a#rd
+教你几招消灭代码漏洞的方法:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160586&idx=2&sn=aa9860530d01882d4d7854d2535e59f2&chksm=8c219b90bb561286404cd86fa2f83cea0e2a833342fdeb580d2ddf9b3aadb50235308c698cef#rd
+上架首日卖爆，又一本算法力作《代码随想录》:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160579&idx=2&sn=c47640c74453b9827bb85221b69cd917&chksm=8c219b99bb56128f4e02a672f2ace21e17ffea1d7c0f9726bf248b659ff96b787aad494d32e2#rd
+OSCP 考试操作笔记及参考资料:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160064&idx=2&sn=dab6ce56f0cdd01e7dab11a74bef305e&chksm=8c21659abb56ec8c5eb74965e128e11d770b1a4eb73193507a52945f47d7b7e43b6a2e52484b#rd
+硅谷最牛程序员，总是不经意间碾压众人:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160063&idx=1&sn=da72627e488000150b27813245d5ea45&chksm=8c216665bb56ef733c13e90dec4d52e55bd17ac3abd099d7dfdc5f9c8f6a5eeb235b14fbebb9#rd
+黑客帝国「上映」了，是用虚幻引擎5在PS5上跑的:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160062&idx=1&sn=e401d2c9456e42650acce510429b051e&chksm=8c216664bb56ef7205d0d2520087a3c05fe30292a5da45e97601fa88e62f92d590de1adbfad2#rd
+这几招技术，病毒木马经常用！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160061&idx=2&sn=8470cc547896b2dfcf1c24e4c1a232ed&chksm=8c216667bb56ef71b767283c374466c24403d7e60b4a5c00f985fd3ee9777eff546407dfa914#rd
+年薪30万+，缺口高达95%，网络安全的春天来了？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160060&idx=1&sn=323a72f157aae96021b68ed061254d59&chksm=8c216666bb56ef70357ace2d14fa2ecc2cc0f885107f935da1ae5da19263a5277c546d4235c0#rd
+这几招技术，病毒木马经常用！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160060&idx=2&sn=02316d36202d3f3a8b8aa75400834dfb&chksm=8c216666bb56ef707cc82d4a7c85147bd5a8c6695588bffb35fdb758e5385d3ca6039590c10d#rd
+核弹级漏洞！我把log4j扒给你看！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160052&idx=1&sn=20999f8f76df2397f821b6b6d09cb542&chksm=8c21666ebb56ef788c18d53111b795b11d3277c4529c5f9dcb706d234ff780e36859045e3713#rd
+2021 年最常用密码公布，第一毫无悬念！破解不需要1秒:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160028&idx=1&sn=ca0aafc1e056d845f4e5b13a3dbd5d3d&chksm=8c216646bb56ef50643ac0a565969631724107b4ee13eba5d1450c280236f7aa9a59d0375bc7#rd
+对付骚扰电话有妙招！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160027&idx=1&sn=9abf1ee727d3b01464270f7d85eecf88&chksm=8c216641bb56ef57422cc9012bdee00a4c4e11466f2bc8caaf373c8a8c143e2b178187767005#rd
+FBI发来了一封警告邮件！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160027&idx=2&sn=c391da1374031eff45a6d93f6d14287e&chksm=8c216641bb56ef57fc61b709f012911e630c24330286157e04dbceb98e9ab6eb84bb07cdcf1f#rd
+Web安全核心技术总结，从攻到防&从原理到实战，让入侵者无处遁形:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160026&idx=1&sn=efe378c909808546140ac9189df9d71a&chksm=8c216640bb56ef56c8d74c693f3ca361d24a273e7cdf1e1d124926447ef212260475aa023526#rd
+Web渗透漏洞靶场收集:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160026&idx=2&sn=e05508099f315f3b649297f83d2c8476&chksm=8c216640bb56ef5692f22d4ad9968e801d887e60cb42b3ac9e33e7ed8dbd65708af7a161aae8#rd
+尼奥重返矩阵，为崔妮蒂而战！《黑客帝国4》1月14日上映，爷青回:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160020&idx=2&sn=74760a294c6f9ca8c6e4225cacf66d3d&chksm=8c21664ebb56ef5860e33121337f39331bf5d5147300f8bfe7d20eaa2209d7093ff01ba833fc#rd
+如何防止果照外泄？自己先上传就OK！扎克伯格这波操作给网友整不会了:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159958&idx=1&sn=62f053f774db2835228f9ba927595864&chksm=8c21660cbb56ef1a0d736e700db1b531d584827f80a9ab691ef9873acec328c2c728d5b1e776#rd
+最后一名真正的黑客，让微软高管睡不着的人:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159950&idx=1&sn=d4961aa1c75080c4104753a8bf84ae3e&chksm=8c216614bb56ef02d825a74aae4fe60514c452380575266e37d3b6aff94cb17efab6ced1349a#rd
+一篇漫画，看懂云计算！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159950&idx=2&sn=07bdcca33a459a4c8899ba1e63056e2c&chksm=8c216614bb56ef02bc54d3d11d2cdc31bc0069a82f78eaf51b1a503d1238a18f7e246d347d71#rd
+CTF逆向指南:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159826&idx=2&sn=3186f6b8b049fce5bd1153192f8a9fd2&chksm=8c216688bb56ef9e233ee792a6210ac16bbbc0180d0f441fde8b95f6748369e1041f9bae758a#rd
+内网横向移动执行命令方法之 wmic 利用总结:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159820&idx=2&sn=4386a666cd1e5446f9ef777fbfb9e0d5&chksm=8c216696bb56ef803dc97aadc6fb658b21d03e7c78b6cce198d3e01f79e00b2e1d683ca699e0#rd
+内网渗透之域内信息收集:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159766&idx=2&sn=47a137cc0c0acc4a20aab6869f248548&chksm=8c21674cbb56ee5abf594a23351b2845ebbe5580336058393bff393d0907e26359420e1b5c08#rd
+华为首次自曝“天才少年”成果：入职不到一年就干成这件大事，网友：值200万年薪！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159759&idx=1&sn=5b6002d5907607df2853fa424edbf98b&chksm=8c216755bb56ee436fc8bfe70f881c8086a8e806c5deec36b80121972f4d71e38661b671f184#rd
+全面代替微软软件，德国这次动真格:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159759&idx=3&sn=b7853abb2f7228619ed18c0beb1d6869&chksm=8c216755bb56ee4320c81b5aa29ac0f933b829b9fdced4b83ed03b25ccb2f1e49ad658ceb6d0#rd
+IAST 工具初探:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159755&idx=2&sn=0ecd7967e8af672ff6019d9dd203cb4f&chksm=8c216751bb56ee471a22aee8cb2bdded4054e3b7ed51be43b591d787861c504d727d09f971ea#rd
+老牌Windows密码审计工具转向开源，不再收费:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159748&idx=2&sn=c2b4d86b7fe744d41809cbd648e8c607&chksm=8c21675ebb56ee48c0cf19ef8a0774b92a5996d776988ee5b3eb9ae39e282fa215f6cce0eef8#rd
+记一次 Kubernetes 集群被入侵，服务器变矿机:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159741&idx=1&sn=433ed5c5bbd2b5a3e6cf2601e996b3f1&chksm=8c216727bb56ee31e83dca21c0953b68fdbb0e1f134f00923172beab43f7753c765e9158433c#rd
+卧槽！CPU被挖矿，Redis竟是内鬼。。:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159738&idx=1&sn=ea67ceca1eb17c527a40372c09d1490d&chksm=8c216720bb56ee36a76f715d846882e71714de97a6c22b4dc587288d39fb5e67f75e6f1c9fb9#rd
+黑客级别的文章：把动态库的内存操作玩出了新花样！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159712&idx=1&sn=d47648febae5fdb22e4038466361bcc2&chksm=8c21673abb56ee2c832255dbcf5904e38989c794b6a9f6bde8dcc9301814618a18b472d0f158#rd
+获取域管理员权限的几种方式:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159711&idx=2&sn=8d5e04e122487ad53edf92a4b63b254c&chksm=8c216705bb56ee1384c879b4f26d7ddf3d71a2ec9ce44cd2c93942b12c5c44d5d3796d04b3e6#rd
+作死？放弃坚持15年的原生开发，1Password代码全部重写，用户炸了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159663&idx=1&sn=39663b57264f894ab98ebec9266c42fd&chksm=8c2167f5bb56eee339114fc2a8d00325085ed0e44715f3ea456326a540c80d78765b14e7fc30#rd
+Android平台注入技术:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159662&idx=2&sn=4806b27265f89a0b12c1aeeeb0694e15&chksm=8c2167f4bb56eee2b9b8e6690b2870b321570e28b8300e879ebf69afde5c469b4ee9d4a79c7c#rd
+保姆级教程：内网穿透工具使用总结:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159652&idx=1&sn=a3f6f07805531e08ab94c3973998866a&chksm=8c2167febb56eee8acbf423960a878a35a8e4feab81089f76bcba9d242b351026cdf82527bee#rd
+推荐一款 Shell 装逼神器，已开源！网友：真香。。。:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159628&idx=1&sn=83f24b910e8dab542d1eef3534b6d1de&chksm=8c2167d6bb56eec0ae255a38948916a9650854dc4e7f7e461d4d16bc7c635ae2b497306523ea#rd
+一个HTTP请求，把网站打裂开了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159601&idx=2&sn=4ceb26e13206a8b151868c1ea155b51c&chksm=8c2167abbb56eebdafbb38d8f577c90cb4ba0b17e3079c033a03276a46cc19172df1a9ffab69#rd
+Linux 命令 su 和 sudo 的区别？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159598&idx=1&sn=2c36e4ff6e6f908f8fa44d26435f3fae&chksm=8c2167b4bb56eea2afd9afc672e6b69281bf6a5df42182d28a435b478dba5804e5de58132284#rd
+因为不懂重放攻击  差点丢了饭碗:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159594&idx=2&sn=9f23abee423e8aabb7dc7c2253e22ec9&chksm=8c2167b0bb56eea62d2a31f53eae6a812f58e03a661d15195a2a5ae9a02b8a3b334755de5cf6#rd
+炸了，个人信息泄露有多恐怖？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159583&idx=1&sn=c181b53df668c92e3e51a0b4c1d51ad6&chksm=8c216785bb56ee93fbeda4bd226cf4667116eebb77b1dedcfa9bcd01239bfa641374c7c1cea2#rd
+我的 云服务器 被植入挖矿木马，CPU 飙升 200%:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159582&idx=2&sn=318f9537411bb8fc710a82292deb257c&chksm=8c216784bb56ee9239263a86b3cc6fde137168dc2ac195b16a94ef517fe86410dfa256df3120#rd
+查看网页HTML源代码违法，属于“黑客”行为？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159484&idx=1&sn=3b67e0ec972cf86a48c28d09a18e4f24&chksm=8c216026bb56e930335edc971e78c17f6aa55c512c0f71f28d1a72c24ee950ad412d9c14b2c9#rd
+Linux下 iptables 超详细教程和使用示例:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159483&idx=2&sn=0fe46f2fbdafbcf6a7362a9f79f1c3bb&chksm=8c216021bb56e93794c0015c96e1457970b08a79894b3bf1e3253ee3eeb98eaf935876ddfaca#rd
+经典协议被彻底终结！谷歌Chrome删除FTP代码:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159466&idx=1&sn=a4c27fc35b33e74f74181b03449c4cc6&chksm=8c216030bb56e926684bd9a06d8c634225f2a0e440ccb0a9a2865af822b5c0095ed34dc8acc8#rd
+请立即检查，WinRAR惊现远程代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159454&idx=1&sn=fcb8d0b226e8a40648462400bf13898e&chksm=8c216004bb56e9122e52b219a0a01a0201638ec3865237b8b62e597c4223849fff11f6af0eb0#rd
+又想入坑了？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159419&idx=1&sn=7ad3a3a15a57cdee9939c4770a41b86b&chksm=8c2160e1bb56e9f7938ef2e9e4c30379bcbaab72de7bc12664d7bee8e78e58bcbb426ff8d215#rd
+推荐 18 个终端命令行工具:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159401&idx=1&sn=a55848f7672f2c608e6cfc418b7c118e&chksm=8c2160f3bb56e9e5d46c48861b5e209ff1bf31fde3fdde567a9a2a01b48d4c3c6ecfac871482#rd
+一打卡作弊软件CEO被判5年6个月，网友：这也太...:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159398&idx=1&sn=550a19802f974b4797abb1c6c085a56c&chksm=8c2160fcbb56e9ea1ef83ee6f07fa5b43ce260efc38ed4cbb6044aaf02cad2b0755a843f6d1b#rd
+笑死！一个流氓软件的故事:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159397&idx=1&sn=9db63df7c16a2054bd776c8fed04095f&chksm=8c2160ffbb56e9e93de55dd787763c0e5e103598739d390cf284c04fcddf8ceefebe380c7cc2#rd
+秒删！Windows新版记事本泄露:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159388&idx=1&sn=40fcc1e402861a573d70899b3d83e94b&chksm=8c2160c6bb56e9d01bf4ec3cebeed6dea032b1ae59f8bf7fd223e3e944843fc8d7033255ed39#rd
+App安全测试:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159388&idx=2&sn=3b41d3b0c6f5fbb6556950aa002a0c13&chksm=8c2160c6bb56e9d0b89295bd7050c45003f1945868bff7d97eaa8e6e0129af633f71df5f28f6#rd
+一年白干！程序员赵某仿制老东家APP，获取服务器数据，被判4年6个月:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159384&idx=1&sn=65b486419d2f1a7722e5060d5a391510&chksm=8c2160c2bb56e9d4909368b56e755425fb610c902bc8a887b927a2b6b0c11ff95fa06593430a#rd
+不小心点了一个链接，完了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159347&idx=2&sn=6a52c6d32e5f341014740de2bc394200&chksm=8c2160a9bb56e9bfa2fbc9a754e9c6e8aab6160cf4f08a95a7987310b671d1679eaf6f9227a4#rd
+获取Windows明文密码的小技巧:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159344&idx=1&sn=6993acd6df96db81b71aa3ebbce10a5e&chksm=8c2160aabb56e9bccdeb33f1697d3dc49e5c959bfebcf4ce464b38f1db922c8d6ae096c9d967#rd
+把学校的网站搞了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159340&idx=1&sn=bf8d9a61cdb91699c38d78ed31f26b00&chksm=8c2160b6bb56e9a008c9d33f589012df3a06ed604ae2a217a0452a0db84cb41101798da85b6a#rd
+各行应届生在银行薪水有多少？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159236&idx=1&sn=a0ff2963b0116e79fb429dc31dffe2e4&chksm=8c21615ebb56e848eee90f4a98aea87114b13b5b8b6d0197142d8290268ecfe2554f4a166480#rd
+Windows提权的几种常用姿势:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159236&idx=2&sn=08b1c09868929ee3fb89230fbf9ed979&chksm=8c21615ebb56e8482b2d4cea507d78e9357529228f1b4e7d31179cd3310104db9c8114bfa57c#rd
+APP加固攻防梳理:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159234&idx=2&sn=d4aae32afa97f3895a24f102938fda54&chksm=8c216158bb56e84e1c185dcbdb6345cfb0e25f9d99f0775bd8e325df5f8af16e14aaaf658540#rd
+常见Web安全攻防总结！327页Web安全学习笔记:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159149&idx=1&sn=cdedea45b9167ea4b5b8536c6d62f641&chksm=8c2161f7bb56e8e176dc8cdd6f4b9ad4a97fde7ca6c6558fda99e88c321f388c2dfa1b7a585f#rd
+渗透测试前期信息收集工具:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159149&idx=2&sn=67b8a476a9369411e68f9824425543e7&chksm=8c2161f7bb56e8e1288dee4e51472d18d73e5b98f853ccab684a0371993835014bde74b37970#rd
+APP安全合规:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159144&idx=2&sn=65122d2e5b132bfba9351ee46aabbae0&chksm=8c2161f2bb56e8e465eb1c6eb00b351f1f67b99b36b8fdf44a0cc7bc126126914513f81ed8d4#rd
+有哪些命令行的软件堪称神器？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159135&idx=1&sn=37f1df4953778a4daf907e38158736f3&chksm=8c2161c5bb56e8d3e68771fe1926452d987f776606456d0eca8533f74881ef45c75904324c3f#rd
+企业级静态代码分析工具清单:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159135&idx=2&sn=8f470bd389eea7e0b25d28c14ac09dac&chksm=8c2161c5bb56e8d3542723169e4d98a6cffe181bce21d1a4495b663d3f5b23d905fff83c50ec#rd
+成为一个黑客，按照这个路线来！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159131&idx=2&sn=797e0291af3865ce96ea97b746d40420&chksm=8c2161c1bb56e8d7337ef0ba84480f6c3e40101063c8a964fc3c44ef14db52d12341c702dd3d#rd
+漫画 | 为什么中国没有搞出浏览器引擎？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159122&idx=1&sn=08e84f7dafa14e55c7065045d1016998&chksm=8c2161c8bb56e8de5aca5a1add61654697b7832ab384dac303bfa73aaa4fedbd5ccc614c3bf1#rd
+太干了，Android 抓包姿势总结！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159122&idx=2&sn=dd14c4ed178ff3a665fc0f157b93b6bb&chksm=8c2161c8bb56e8ded249aea34fafcbc959a883eb5d67897593d1bf34c529ea9bafef5935e803#rd
+Python暴力破解附近局域网WiFi密码:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159121&idx=1&sn=4056c7924622f35e471e7e54d0fd2b07&chksm=8c2161cbbb56e8dd9693338f3de258008374ab116179d65f427387df66461f8b3bb11a48d99d#rd
+openrasp-iast 灰盒扫描工具:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159039&idx=2&sn=f7cf92eb3d75a8414514964a3de694bf&chksm=8c216265bb56eb73a34bb007bc95cd03c0fad773cb439391ab9c895e8605362ea789adcd823a#rd
+二进制安全和网络渗透，选哪个？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159033&idx=3&sn=646627aa63d82396477cbb7be12c548b&chksm=8c216263bb56eb75a21576c028cf2abd4e30fd2c2b9a316315c5e13e335e4b660b88cfa29bca#rd
+DongTai 被动型IAST工具:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159031&idx=2&sn=f8c26547b4079638bd07f1971c2e84f8&chksm=8c21626dbb56eb7bc6edceded81fcbec2a85628a9f57d743306a52711b498999f9f5bef89362#rd
+Nmap 经常使用的场景及用法:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651159025&idx=2&sn=a162b806d23255de640cc3ff010addc5&chksm=8c21626bbb56eb7d052e77c303cff5a5beb66388482d1ee35c350b58059f8b7d5de97a0c2c66#rd
+隐藏源IP，提高溯源难度的几种方案:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158890&idx=2&sn=3bf255ad3c2d72e04ecef27bc5c5f73d&chksm=8c2162f0bb56ebe61145522d6ccad4c0c24a10633c95adf0d473f9aa791cf49f69267ded0181#rd
+对勒索病毒的逆向分析:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158886&idx=2&sn=183901ca537fd76e0a4c72ec1f00fd4e&chksm=8c2162fcbb56ebea93781dc66967c26ec59240b727e48cfa657b2bfe3241a16057bcc2bf8121#rd
+程序员开发进度太慢被告上法庭！公司索赔90万，拿出百度词条当证据:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158879&idx=1&sn=122c99e04601a620c5a84d07e43ba9f2&chksm=8c2162c5bb56ebd3f345309993238ab60e7b00e3dc102185fe7d1f1e73c826124d37e1f14563#rd
+微信小程序安全需求基线:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158879&idx=3&sn=8c4803679a616d24521b090a4e37ec47&chksm=8c2162c5bb56ebd3e8e2594e83f1ab5800b30a770f6ea9b7fe50c5c72631f5489be4130df13d#rd
+如何快速上手红队渗透测试？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158875&idx=1&sn=090c4b0f6a02e9e5cd29f31b85b0c782&chksm=8c2162c1bb56ebd730d25930a521b993aa4216786a55bfbdb8646fb076b4309e69718e7f4a34#rd
+命令行版 HTTP 工具集，自动化检查网站状态:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158875&idx=2&sn=ae2f96055877b1882b61f4348cc517b3&chksm=8c2162c1bb56ebd7e0c182f5759ff4504f62cbb41257cfaed687d703b40b63993ddd9293ca19#rd
+电脑关机了，黑客还能偷内存数据！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158822&idx=1&sn=73eb6d7e09a43fd758d83d7a433de9da&chksm=8c2162bcbb56ebaacb9a4a4d24f2eb78d91cc0d1319b251f3df10f9b3fb66a0920b45b4d0e15#rd
+如何抓取页面中可能存在 SQL 注入的链接:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158822&idx=2&sn=cd7ea2595000af863da024f304c85fea&chksm=8c2162bcbb56ebaa71a52a5081f461d1333809b760d53e01671aafc345216e11148cd3a150a7#rd
+号称下一代监控系统！来看看它有多牛逼:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158818&idx=1&sn=b84d08c58bb330a974754ac79f77cee1&chksm=8c2162b8bb56ebae27ed0705c74fdc50e5f3d49ee7558516460cc59bfde993f4b3980a23634f#rd
+百万域名情况下，如何快速获取域名的 IP 列表:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158818&idx=2&sn=9219617bd3b7ac1f263cad23d5f47838&chksm=8c2162b8bb56ebae54968c5d3bd2b92a7d9eb1ea4bfe18ac299673fcd7aff02392d20e48c15a#rd
+再见 FTP/SFTP，是时候拥抱下一代文件传输利器 Croc 了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158709&idx=1&sn=6ac847bf5722486c371ece66e75a1e63&chksm=8c21632fbb56ea391fbaa956115e6a43fd2b35820c0507ea2cb3ffb96c19307d1c2aba7ec7c2#rd
+来了，又一个新的SQL刷题网站！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158703&idx=1&sn=11f7e0a798e4ab8b5839e8956df0d208&chksm=8c216335bb56ea237553c7a46cef5330c352557785529ff38602f16cf917f33eef72903c3963#rd
+GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今晚0点执行:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158700&idx=1&sn=4f31cc7eef7473876030ca70ee8e2955&chksm=8c216336bb56ea20187c04d5c93b468779d891df38ff9ff0a8f15a876bdf94d8b3eccaf4580b#rd
+如何攻击Java Web应用:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158700&idx=2&sn=41c0c35989ca86de683e7de9873bb32f&chksm=8c216336bb56ea20dda5a7d923769f234d831b6bd180d69d24810ed8a4b084c85c0aa7abe483#rd
+无需接触目标的端口自动化扫描姿势:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158695&idx=2&sn=0b3a61a88f77e18d688a3d5fe30d7e61&chksm=8c21633dbb56ea2b41ccc841c04cfe56d80db3fb97b262bd70b66fd669ad381da915c7b1e87c#rd
+使用SonarQube实现自动化代码扫描:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158689&idx=2&sn=26db20472cae4632f269e45ed6f74680&chksm=8c21633bbb56ea2d31b8c2f65afff5e83fc4a449c0a60bd4d941c4b02aeff40872ec909d6016#rd
+对APT攻击样本的探索:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158682&idx=2&sn=de84bd8e72e865506fac78e9f4d5d560&chksm=8c216300bb56ea16f238570b0370d1ae1a7b9ba88379202f48be395018ae95e7ba913c233f59#rd
+弹窗！到底谁是幕后黑手？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158676&idx=1&sn=2d8f1cc6dc41084d0cad10189af39e69&chksm=8c21630ebb56ea186a29b332c100797969a13cbb72bdfcaaf0252ec06148a251293d61fbc0d9#rd
+再见！收费的XShell，我改用国产良心工具！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158608&idx=1&sn=58d79123e71d7957037438a14a89ab77&chksm=8c2163cabb56eadcfa16d1fc8ea7b598292ee630288569ceb1ac870fc55748b5dc787bb4fd4e#rd
+如何针对 SSH 服务的暴力破解:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158600&idx=2&sn=ed7679e1bdd327f9aae8732265ed4b31&chksm=8c2163d2bb56eac484f3e0eef2848844444c141292c578095853fd16a0fc14f7b644789c8a5a#rd
+再见，Teamviewer！这款国产轻量级远程桌面软件超牛逼！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158593&idx=1&sn=263f39a7e41b99d5822f2bc639c68fc5&chksm=8c2163dbbb56eacde989046594406ccfcc044e80ee38da753ec359f60fab9fec9cc580f24c5e#rd
+我用一根网线，控制了整栋楼的网络:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158589&idx=1&sn=05de167a5e8ec40e4957fb32d1c83588&chksm=8c2163a7bb56eab1693c00a220afdaaf4989f08884d863dd69481554ee467e26815782db3fee#rd
+太过分了，不仅入侵 Linux ，还把服务器搞成“矿机”！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158580&idx=1&sn=a3f4e78fc5e6bd3ddaf8e2e468353d4a&chksm=8c2163aebb56eab87b6d3e7dca1a65138a9616e0f9699143851373d2766d5678e6da9725449d#rd
+我以前也不相信！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158579&idx=1&sn=1950e4658c144f7cc07d1d013374da20&chksm=8c2163a9bb56eabfca31528d39db796e569aff5273d89d113d86154162d31a4bc4d665c02463#rd
+抓取域密码哈希的各种工具集合:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158579&idx=2&sn=3a1b8c4f7e744c247d0d7d0bdc024b1e&chksm=8c2163a9bb56eabf147335ec27b07bd67dea3275842a040ba0e770c2d8285fc1a89ef5c7589e#rd
+网站攻击技术，一篇打包带走！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158564&idx=1&sn=3a7bf2c545d1e626bf517747c4ac4b4a&chksm=8c2163bebb56eaa8451f09828e89bfe645b2e898b610912593bd3c43b9ecbafb95a2d828ae54#rd
+对于中间人攻击最好的解释 ｜ 吴都刘事件:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158495&idx=1&sn=cbe53f01de1fba5bdf2665d4f4dfb62e&chksm=8c216c45bb56e553bcfd84eafe9f1083c176b1b10dae8086da1ffe16103565fd67f2910c8d74#rd
+刚入职就写了个bug，把几万用户搞蓝屏了···:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158494&idx=1&sn=3ae43b4524d94f6c6a0a6320bbea8bb2&chksm=8c216c44bb56e552d6095c87868aecb07a287f11d55afe0dd11fabd0c4f88ab13e9c8ad89528#rd
+记编辑器漏洞引发的应急处理:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158494&idx=2&sn=2ea94caed5150fd6e0205368ab2a7dba&chksm=8c216c44bb56e5521e5aec7a815b3ed2174ac06f7af8a8c8d2baf3ba3790b2038b3aba1431d0#rd
+漫画 | 悲催的中国式软件开发:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158493&idx=1&sn=57cbca45c3ea2e00ae0024b45efb0cdb&chksm=8c216c47bb56e551c5a9296199d7ae583b559c236880468ab0ccde3cbc9ce42671fea31abf6b#rd
+弱口令问题引发安全的思考:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158493&idx=2&sn=0f46e68ff331d98e7e63d2c5027ebc9a&chksm=8c216c47bb56e55194385eb145ff0f31b78d9aa4af49e6a3caa67113a2d9b0dcd592cfa7e927#rd
+去银行当程序员是什么体验？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158488&idx=1&sn=aacaed52cc8440285304eb961aca86a4&chksm=8c216c42bb56e554cd288428701d5a98b7836d17680bf62ade330f8b132aca1b30b2710adc6b#rd
+如何针对大量目标进行指纹识别:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158488&idx=2&sn=0960f666a9b54efadd86bb9ad7c478c1&chksm=8c216c42bb56e554eab8b26bf00dd60ed5efb9be8009e46bc64d9baaf84f51b5e22abc01b13b#rd
+Windows手工入侵排查思路:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158335&idx=2&sn=be03cc4fabc03fdbeee7eda66594bde8&chksm=8c216ca5bb56e5b34241ef5635da09b209b9c60140a4c7fb4e98354ee3837be140fc976249b5#rd
+微信小程序渗透测试技巧:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158303&idx=1&sn=f5c2eebb2e265ec2c23c062d5053b653&chksm=8c216c85bb56e593264778df1e5fd9a1da81e5d39376203fd148c79fb8c79b1a58cc94b636e0#rd
+APP隐私合规:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158283&idx=2&sn=cd3eed7641d64db24e9f562b42061fb9&chksm=8c216c91bb56e587e6c914e252c28dd89a4c7ecf1c05b623769e07fe5ba063423a5bee1d96dc#rd
+mimikatz这个工具，用完后我就震惊了:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158279&idx=1&sn=f1c6b9d2cbc306ac031a297f7ee073d9&chksm=8c216c9dbb56e58b7da7b21c37cfeaf918d305089496936e504d3f181f6f04c1824ee267a8ba#rd
+写给小白看的，逆向工程怎么上路？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158230&idx=2&sn=20c1bc799c88fa1df3ca59abaf147d40&chksm=8c216d4cbb56e45afd5fa105376e6aa856cb4c807cff6f83074e8b4278bea354005bb600d164#rd
+AWVS14，牛逼呀:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158211&idx=1&sn=f86cb8d63310dcae1e72d00575aab8f0&chksm=8c216d59bb56e44f8b18f52896f410bf6691f87bee864f340dd736cdc29f8e6ff8122a580350#rd
+手把手教你用手机代替门禁卡:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158210&idx=1&sn=c59202caac55a896734f2d43ca907947&chksm=8c216d58bb56e44e5c81ac01774d12e4926520788169b8f969abeab65d23f1a3df3f239ea4f5#rd
+恶意样本基础分析技巧:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158208&idx=2&sn=d294cf4badf9572f4744c2cbf2c16c9e&chksm=8c216d5abb56e44cded5d0490deea22d2c0e109a0fd9e43aa6c24790f0d07eaf63b78b29e18d#rd
+我写了一个软件，差点被投入监狱！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158177&idx=1&sn=24b1af29c5750351c7fc416e46770e2e&chksm=8c216d3bbb56e42dc2ec8294975aae32652af9cfdbad0eb84f23b72e8b825cd2991605b25bec#rd
+面向监狱编程，就靠它了:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158172&idx=1&sn=4ba7f67220fb0f62fe144656901d6183&chksm=8c216d06bb56e41081454d69e662f486d5d7788c0f2a7e5c48d5eaaaf1f07bdd057954dd57bd#rd
+如何拿下网站？黑客最爱用的三个神器！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158089&idx=1&sn=737a8ce8cf7b1800484c95df99dcd50d&chksm=8c216dd3bb56e4c564d924ea87f7bf981a6bd67c2d3fda93ee0bd4a53a0de1e82663f715b9df#rd
+抖音服务器带宽有多大，为什么能够供那么多人同时刷？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158088&idx=1&sn=8071ab7afcf50b957691b478d716ee79&chksm=8c216dd2bb56e4c4b83646d8b414a67665cf7ab53fad59b3d30d95bbe1ea823f6b3ebe568445#rd
+信息安全专业填报志愿哪家好:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651158087&idx=1&sn=78be8d696efea06ce5258827831893a7&chksm=8c216dddbb56e4cbdfd20f86625dc4f25d5335b91226a2649a96ef6f441c9e62fb7a817a79bc#rd
+那个钓鱼邮件又来了，这次干他！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651157071&idx=1&sn=2c191ea0e90385b64a68aa8c14d79d01&chksm=8c2169d5bb56e0c368db30d189c527a4393a334d2ccfb11033a1f61ba2d58b4a23bd11340fbf#rd
+因为一个跨域请求，我差点丢了饭碗:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651157070&idx=1&sn=b846751676061ab964b39d02092abfeb&chksm=8c2169d4bb56e0c21e1f1186247a7ca37f0ecc8dbf4db96f56095c5c4d9334bc531a7d4ba368#rd
+你需要了解的APP安全:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156979&idx=2&sn=5cf67af98ace9107b14f8b902149490d&chksm=8c216a69bb56e37f9ad39471dc51e4bf50dbe5cc28057923e7b91a6f2dd7bc2be55b5bcfa92f#rd
+我决定辞掉工作，全职开发我的操作系统！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156973&idx=1&sn=5a9b5193e496976ac49586cfe71918c7&chksm=8c216a77bb56e361a38bcf6f246270bf9be9e891002e8dd7bda356176423bfc1e3b3de75984e#rd
+静态代码分析工具清单:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156900&idx=2&sn=70d9b9d9100652ca67cd9112c4205651&chksm=8c216a3ebb56e3288e82073c3553556d9d859a4741f92b6a948de42f10cd9bc57014f9065cb2#rd
+漫画 | 干掉session，爽死了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156897&idx=1&sn=194f7264b7c26fe9d434fd2feea58e87&chksm=8c216a3bbb56e32d6bbda336a5e2be5d924816c0d1acaee97b86f134f6e70a0321925d1eda0e#rd
+我研究了一下套路贷背后的逻辑和技术，写了份网络诈骗研究报告:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156884&idx=1&sn=675aacf5b87e8b8d50de8a061d603f52&chksm=8c216a0ebb56e318c01f6618e6f5abdcbbf33d1be5bbe3f7e9d2ac3ddb0eef74794e3544855f#rd
+信息安全从入门到高级五年规划:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156883&idx=1&sn=941475b751a71c282da2812bda9f31af&chksm=8c216a09bb56e31f4326becfd27859334f0ae8163e74112adf540b1f11487dbbde86dff11dd9#rd
+有调试器，终止交易！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156782&idx=1&sn=0898c50309cb4e249ffa14fe76f24ab7&chksm=8c216ab4bb56e3a2ec5b20c61219fb6ab20318839f65eb072a5e4a805158a1425348fdd9510d#rd
+路由器偷偷插入广告的秘密！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156770&idx=1&sn=d524d277f710c61edd120920f5fff150&chksm=8c216ab8bb56e3ae668e801028a184d788095cde3f5e6c598684ca05830ca198684ba073b6a2#rd
+常用Web安全扫描工具合集:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156766&idx=1&sn=a2ab8a6e08d265233313cd6b596be51a&chksm=8c216a84bb56e392f240f011b7ec5481952019e04f16648bf55782235cd36cecf0f03406f1ef#rd
+Chrome-0day引发的一波蝴蝶效应:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156764&idx=1&sn=f42dd0fab2138d9a2c1de9d264521006&chksm=8c216a86bb56e3907074793446514cd0ba4b7405ea63cc091962a23a1cadcc6b397156839472#rd
+常见未授权访问漏洞实例:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156763&idx=2&sn=8b6da28e58cf35f92cfee46bdd092516&chksm=8c216a81bb56e397950d43fde2f0e35c46b55d8768c574397496e188689c4022e1a4ac2794d5#rd
+昨天晚上，收到了一封钓鱼邮件！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156486&idx=1&sn=5d32fac51147c228db8f0e0e4f2950c5&chksm=8c216b9cbb56e28a53b4f0406d73ecbe7bd8391e54c577eab3ed953326e9520cfee64391f9a6#rd
+对不起，你的密码被破解了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156485&idx=1&sn=909fe9df5c5d718364939d1bfed5b825&chksm=8c216b9fbb56e28935d8fa8ce458215021c886833ea22feaa29870e4187549e51e2f4ed2c87a#rd
+太惨了！蓝屏了，我的文章没了:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156420&idx=1&sn=90b6ea45467342f8cc293b05b2f1e44c&chksm=8c21745ebb56fd486492ead876ccdf1902d3d94462b02865e68b9f471018beae0bd6643dc742#rd
+漫画 | 三千年的密码战争，人类天才的巅峰对决:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156419&idx=1&sn=7c911dca0a65c66da1d71c522fc8c7f8&chksm=8c217459bb56fd4fed2f832c2557ffdf0a262c0a06689d4f8859cb834eecdb3ea28006c88ca5#rd
+想开发一个安全软件，怎么搞？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156349&idx=1&sn=b1194bd6b16d025f9a501299742af473&chksm=8c2174e7bb56fdf1ddcd3f6c82e1c64da8590d09985f825a5f854db15f58cec5e3d8cd78667e#rd
+常见网站劫持案例及解析:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156348&idx=2&sn=483a1fa91732c1574bf2245e36b2fadb&chksm=8c2174e6bb56fdf0f2dab7a0ef2a25a96f35d38352360263b907f768d3f8d2441f7ecd701a6e#rd
+网络渗透方向怎么学呢？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156342&idx=1&sn=2708b0e7916b928839492a96c8947d7b&chksm=8c2174ecbb56fdfa311945df2ed482adcf521d31e16109d039047300ce98b0017f95f51dda51#rd
+从Web日志还原SQL注入拖走的数据:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156311&idx=2&sn=9bf9f8864e58914810c77bfdcc67ca3e&chksm=8c2174cdbb56fddb0ec573678f0014ae917e746f0ace8791735b4e7718b9e015241c31513e1b#rd
+Linux手工入侵排查思路:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156307&idx=2&sn=669f711910af2f9899cec2ed20bf4e00&chksm=8c2174c9bb56fddf653f3ae0fa3806ce1f7836957e2db827f3a1cef15e0a02f556d5683ab89f#rd
+从RDP爆破定位内部攻击者:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156294&idx=2&sn=e9b246b68657924b221ecd0d0aa69a41&chksm=8c2174dcbb56fdca33352894d977836e809b0946751b61438586f21ae9abdf3ee8c91db2166a#rd
+如何批量在多台服务器上执行命令:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156284&idx=2&sn=05cd157ce49db613d27b525ae0c9e69f&chksm=8c2174a6bb56fdb0f7776253862126017faa10ff9488c26df9eb09fda7f5b35ae2d92340cfb4#rd
+哈哈哈哈，这个勒索软件笑死我了！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156257&idx=1&sn=69c5b77db929dbf31b3e4db37847d5b4&chksm=8c2174bbbb56fdad6d90c5e73a4f9e0db3c9e8a9c38a3999771caceb47a9f6e9594cd20ff13d#rd
+听说你 ping 用的很 6 ？给我图解一下 ping 的工作原理！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156256&idx=1&sn=6225e887b9dba74410435b60311ba409&chksm=8c2174babb56fdac249d48f210185485ad63efbbe285c789db2f278001616741eb2aeee4ada2#rd
+ARP，这个隐匿在计网背后的男人:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156251&idx=1&sn=5dbd073e1eb9dddbdfae9f302eaff84c&chksm=8c217481bb56fd97dd17674eea0cc685c3a022a0de87f51adc98e13f2db517dbec3e6b2da945#rd
+一次远程命令执行引发的应急响应:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651156174&idx=1&sn=f823ae3ebdabea452a9f541e61004789&chksm=8c217554bb56fc42ade4372e1d7ed0fb1e913c5bbdda197852398daab5d5519a77ccc90e419b#rd
+漫画 | 20多年了，为什么国产CPU还是不行？:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651155942&idx=1&sn=edc4569cd32890a833d60527eff7ea2d&chksm=8c21767cbb56ff6ae1b2e7e5cf58b036406cd431c436b4e89069447741c9539fb22d2adfa97b#rd
+高明的黑客手段:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651155939&idx=2&sn=deff75ffcacf4c1febd9bc43ff1c3b13&chksm=8c217679bb56ff6f6d1a507a7b364863906a60cbe8a89584e8c358a4f7eab26a3fdc27402730#rd
+你的登录接口真的安全吗？快看看你有没有中招！:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651155923&idx=1&sn=61172ca4bb3b5017d53af6b925816d80&chksm=8c217649bb56ff5f6167098c0f20f1a62c5f0b8b19e66e446e91b8eb71f41cf75345f5dca9e8#rd
+美女在线陪玩, 杀猪盘背靠互联网经营, 我顺藤摸瓜端了澳门赌场:
+http://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651150742&idx=1&sn=4b8414c4eddca339e35d8a0470cf6f2c&chksm=8c21420cbb56cb1a52f6b4f8fffb22742db0b4e12bda1e1a6a6427acaec14a236aa322e0cfef#rd

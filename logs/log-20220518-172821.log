@@ -1,0 +1,25 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211914, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'DOkFsJeZrximzbxeAAAAAKx1Kwa1Vm7QFwdriRhmpUU='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '94f6732b5c5392d2dca69a298c6b9c78'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211914, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'RGRWV3gzbzBPQUhHZkt0U3FZV3BydXBTMmdQSl9QNGhXdUQ4YmVRY3NpSVJxTFk2THFhd014SVlSU29HbDFGem5uM000ZEVRVm9icDRvVHc5OVlQTkZCSm9kb3pBV21yU1hFQnoxSE0yVW8wQndQUFZqTlBKVGJ5bjFObGhDS2w0SE5rSTBnRk4xa1JMNGN6'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '0f1ad03a761db85787ff803133d31331'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211914, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'MmBmFc4KaxFmSpuhs3Gn2zkVxuRfamD8MJ4Z85AQ52GrcObwnxbcNnn9ONzd1wx1'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211914, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211914, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211914, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454655, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '52866297413499'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211914, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIGX5HxA/430oMQZcmc+T3JltWVO5PBoCcAa5pZtm6RQC'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'DOkFsJeZrximzbxeAAAAAKx1Kwa1Vm7QFwdriRhmpUU=', 'xid': '94f6732b5c5392d2dca69a298c6b9c78', 'slave_sid': 'RGRWV3gzbzBPQUhHZkt0U3FZV3BydXBTMmdQSl9QNGhXdUQ4YmVRY3NpSVJxTFk2THFhd014SVlSU29HbDFGem5uM000ZEVRVm9icDRvVHc5OVlQTkZCSm9kb3pBV21yU1hFQnoxSE0yVW8wQndQUFZqTlBKVGJ5bjFObGhDS2w0SE5rSTBnRk4xa1JMNGN6', 'uuid': '0f1ad03a761db85787ff803133d31331', 'data_ticket': 'MmBmFc4KaxFmSpuhs3Gn2zkVxuRfamD8MJ4Z85AQ52GrcObwnxbcNnn9ONzd1wx1', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '52866297413499', 'rand_info': 'CAESIGX5HxA/430oMQZcmc+T3JltWVO5PBoCcAa5pZtm6RQC'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "DOkFsJeZrximzbxeAAAAAKx1Kwa1Vm7QFwdriRhmpUU=", "xid": "94f6732b5c5392d2dca69a298c6b9c78", "slave_sid": "RGRWV3gzbzBPQUhHZkt0U3FZV3BydXBTMmdQSl9QNGhXdUQ4YmVRY3NpSVJxTFk2THFhd014SVlSU29HbDFGem5uM000ZEVRVm9icDRvVHc5OVlQTkZCSm9kb3pBV21yU1hFQnoxSE0yVW8wQndQUFZqTlBKVGJ5bjFObGhDS2w0SE5rSTBnRk4xa1JMNGN6", "uuid": "0f1ad03a761db85787ff803133d31331", "data_ticket": "MmBmFc4KaxFmSpuhs3Gn2zkVxuRfamD8MJ4Z85AQ52GrcObwnxbcNnn9ONzd1wx1", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "52866297413499", "rand_info": "CAESIGX5HxA/430oMQZcmc+T3JltWVO5PBoCcAa5pZtm6RQC"}
+cookies信息已保存到本地
+开始爬取公众号：安全学习那些事
+历史文章总数为 1447
+1447
+正在翻页：-------------- 730
+正在翻页：-------------- 735
+正在翻页：-------------- 740
+正在翻页：-------------- 745
+/Users/dip/PycharmProjects/TornadoCURD/main.py:49: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
+Traceback (most recent call last):
+  File "/Users/dip/PycharmProjects/TornadoCURD/main.py", line 217, in <module>
+    get_content(query)
+  File "/Users/dip/PycharmProjects/TornadoCURD/main.py", line 191, in get_content
+    time.sleep(3)
+KeyboardInterrupt

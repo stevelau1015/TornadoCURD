@@ -1,0 +1,25 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211979, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'GsqFi6YmsrVBCINTAAAAADD0VVMoYc2y_5fHQbdSO5k='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '4e42f3deeebd809701f603115c12c63d'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211979, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'cUJ2ZkRTM0NfNkNFMnc3T2FZczlMc2VOWGpTNVF6TGZLMU1iRl9feGN3d2tKOE9iaUZMODhZWXRxWHN4bk9jcGZlaU92bmg3aERBZHFYWDFTVVZHNEtTa2ltNVJxRTFSMWdRQmh0ZVkwQ3FrQWJtdVMyZkEySEhLc2EySFU0TU8wM1lWemRndG5jVEYyYTk1'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'd9dfaa7bb0321ec2184e7e77aa86f948'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211979, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'uCNZYhbynMoXNplJsPInIytTVBbp2hp909eiboZP6LDudaI61phWP1+3wQta1eLJ'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211979, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211979, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211979, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454655, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '52866361940408'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653211979, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIH8L4jgqDbcFH8Y9C7d6yOdwqO9u9OPlZY+e6+IlfBpY'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'GsqFi6YmsrVBCINTAAAAADD0VVMoYc2y_5fHQbdSO5k=', 'xid': '4e42f3deeebd809701f603115c12c63d', 'slave_sid': 'cUJ2ZkRTM0NfNkNFMnc3T2FZczlMc2VOWGpTNVF6TGZLMU1iRl9feGN3d2tKOE9iaUZMODhZWXRxWHN4bk9jcGZlaU92bmg3aERBZHFYWDFTVVZHNEtTa2ltNVJxRTFSMWdRQmh0ZVkwQ3FrQWJtdVMyZkEySEhLc2EySFU0TU8wM1lWemRndG5jVEYyYTk1', 'uuid': 'd9dfaa7bb0321ec2184e7e77aa86f948', 'data_ticket': 'uCNZYhbynMoXNplJsPInIytTVBbp2hp909eiboZP6LDudaI61phWP1+3wQta1eLJ', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '52866361940408', 'rand_info': 'CAESIH8L4jgqDbcFH8Y9C7d6yOdwqO9u9OPlZY+e6+IlfBpY'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "GsqFi6YmsrVBCINTAAAAADD0VVMoYc2y_5fHQbdSO5k=", "xid": "4e42f3deeebd809701f603115c12c63d", "slave_sid": "cUJ2ZkRTM0NfNkNFMnc3T2FZczlMc2VOWGpTNVF6TGZLMU1iRl9feGN3d2tKOE9iaUZMODhZWXRxWHN4bk9jcGZlaU92bmg3aERBZHFYWDFTVVZHNEtTa2ltNVJxRTFSMWdRQmh0ZVkwQ3FrQWJtdVMyZkEySEhLc2EySFU0TU8wM1lWemRndG5jVEYyYTk1", "uuid": "d9dfaa7bb0321ec2184e7e77aa86f948", "data_ticket": "uCNZYhbynMoXNplJsPInIytTVBbp2hp909eiboZP6LDudaI61phWP1+3wQta1eLJ", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "52866361940408", "rand_info": "CAESIH8L4jgqDbcFH8Y9C7d6yOdwqO9u9OPlZY+e6+IlfBpY"}
+cookies信息已保存到本地
+开始爬取公众号：安全学术圈
+历史文章总数为 428
+428
+正在翻页：-------------- 730
+正在翻页：-------------- 735
+正在翻页：-------------- 740
+正在翻页：-------------- 745
+/Users/dip/PycharmProjects/TornadoCURD/main.py:49: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
+Traceback (most recent call last):
+  File "/Users/dip/PycharmProjects/TornadoCURD/main.py", line 217, in <module>
+    get_content(query)
+  File "/Users/dip/PycharmProjects/TornadoCURD/main.py", line 191, in get_content
+    time.sleep(3)
+KeyboardInterrupt

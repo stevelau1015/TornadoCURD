@@ -1,0 +1,60 @@
+白帽汇首席安全官受邀出席产业向上·中国产业区块链峰会| 白帽汇荣获『产业区块链安全卫士』:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766247&idx=1&sn=ecb8b37c7dcc58a4d07242cfd3210c60&chksm=f78de45fc0fa6d4968ab033307180caaf08c9b8b197a521975ce6730cc16edbe20d5f022aed9#rd
+【漏洞预警】Apache Solr基于Velocity模板的远程命令执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766238&idx=1&sn=010ffacaee9075cd4c4bff6075367858&chksm=f78de466c0fa6d705b18755bb982a46ca3efe03bbb6bed09c0eddf44eaecf45550b448203634#rd
+FOFA国庆活动获奖名单公布，有你吗?:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766232&idx=1&sn=d5692072a49a4a7fdaac1ebf7c7dbfc5&chksm=f78de460c0fa6d769bea960a5eb0e108bce2f9147eb8e1aad77ff4dbdd42b73b8a51605ebf13#rd
+【漏洞预警】泛微E-cology OA远程命令执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766228&idx=1&sn=36ae5f304b952579809cea9dfd347eaa&chksm=f78de46cc0fa6d7a42507a898803013200b90ac03e54bacf8e7d8f0a167a2bed90901d4bd75e#rd
+迎建国70周年庆 | FOFA客户端提交POC特别版活动:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766228&idx=2&sn=98e7c734ce0ddde4ca65417a24779a0d&chksm=f78de46cc0fa6d7a748b4ac48495baf20e36b152dcf6b5fd52316cbb28ade109ca170ed8bde9#rd
+吹不灭热情的FOFA活动:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766220&idx=1&sn=16196daee5ba18ef3910227a1f804f73&chksm=f78de474c0fa6d62b721614b477f3ac7feac453f71d3781a5896a516d72a50819d729e8abb89#rd
+白帽汇说： 来参加《补天白帽沙龙》吧！:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766217&idx=1&sn=63a3a03475700eef15d76f0d1ef372c4&chksm=f78de471c0fa6d670740aaece09c67df4f40f9bd03d2dca93d4a2d1aa08a3fdfefb01321b0ad#rd
+FOFA客户端3.0支持生成漏洞利用模块:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766212&idx=1&sn=858c57a91ca30a8b4e7e8d63ad3908dd&chksm=f78de47cc0fa6d6a0b794442fecd341c5c2d4ef9f748f117195ab73fca8fe54fc22e925715ae#rd
+写文章送F币:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766212&idx=2&sn=5e0bd9a5f5a709630b69ff51f64b43f8&chksm=f78de47cc0fa6d6a6be5b56d182a57c3a2e16186eafbb5c7f8fcc4a3dacee9560550a10ec895#rd
+威胁情报预警：Elasticsearch勒索事件:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766203&idx=1&sn=beca51e7bbb05361221109b6dde817bf&chksm=f78de403c0fa6d15c5f9c5b8b2b8b251e0267c106c6f0d4d743f59e74cfa65b42598b2eec256#rd
+白帽汇应邀参加『数据安全&隐私保护高峰论坛』:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766195&idx=1&sn=1b5642252a13099d80e7772cff209f46&chksm=f78de40bc0fa6d1d331866e5e1dd97455ad1b144efb4ae1de7447ed6e22722ae1f136eff8f7c#rd
+调戏“短信诈骗君”的十五种姿势:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766175&idx=1&sn=64bd3864e362db8b88954099e8012341&chksm=f78de427c0fa6d311ee0e5142cf0d1de5ad6dec2f9c171189262734641c2bfc16f458fe885ab#rd
+福利彩蛋｜错过今天，再等一年！:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766170&idx=1&sn=f1596f730c2f563c77a3f893d5af00d5&chksm=f78de422c0fa6d3467daa055c191006971372b51fa3aa5bb0ccaeeb739a5fa84575c246f30ec#rd
+白帽汇再发伪基站钓鱼黑产分析报告：钓鱼平台防护能力提高，受害用户量增长迅猛:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766165&idx=1&sn=eeb9b0a8fa46ad8e30612542f5c82af3&chksm=f78de42dc0fa6d3b5c0481e98d49886d038673f44f5a42ebbedee403e698916d1dddf9b807dd#rd
+赵武：安徒生企业威胁感知平台:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766161&idx=1&sn=3c3f8b6d7984c4e857be914701ffca81&chksm=f78de429c0fa6d3f24e70ded770c3a4d433b157863d979de7d667bcfa942b7e417c30d1b4e5a#rd
+WOT2016邓焕：利用开源工具整合威胁情报数据资源:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766142&idx=1&sn=f8cf942692546e542512f95817eadcff&chksm=f78de4c6c0fa6dd011acddd13ab109f527bc7cda707920f78953b5315acdc2d50a53631202e1#rd
+白帽汇与世界分享——2016中国网络安全年会分享之黑产反制:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766138&idx=1&sn=a882c791ada15a03c8927fc980c4f8da&chksm=f78de4c2c0fa6dd4f5e9fd6f2f52c20c5ce4a55d0499f264c36cc6bb79a1a1e139f8e0d33153#rd
+经济参考报；震惊！这个黑色产业仅次于赌博和色情业:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=2651766131&idx=1&sn=cce838e974d576c02c8b26a845b50803&chksm=f78de4cbc0fa6ddd31483481cd2ba723f87f40e03df1288f26bc8b13e4d8362fa8d3d1a9dcf9#rd
+黑客揭秘！骗子如何拿到你的卡号和密码:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=404282477&idx=1&sn=f1478a5a4aa139b8a5c84aba91f56104&chksm=719b85d546ec0cc383f62a3ca5496f0a1a01a6f47a2532d455625756064f9cdeb42df4242c12#rd
+预告篇：白帽汇发布针对金融领域伪基站钓鱼黑产的分析:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=404256822&idx=1&sn=930b15143059228b45ba291dd88e7a9b&chksm=719b218e46eca89812f482653f2674b296c6e019a006890450ef74249ffe6e02a45c2e30f3c8#rd
+白帽汇亮相威胁情报解决方案峰会 为保护企业信息安全带来新思路:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=404101617&idx=1&sn=b05fc9d54c70997911952fff9b138c96&chksm=7195404946e2c95f9419714472442f10c5a81b573cff0a471cbcde3466030c2c296cc17291df#rd
+白帽汇亮相威胁情报解决方案峰会 为保护企业信息安全带来新思路:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=404099214&idx=1&sn=fe2f23e79be03287b66574b8f3ef2a67#rd
+你来，我们一起改变世界:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=403302924&idx=1&sn=ee9d481100970d0e1a4ab72bf58744d3&chksm=718ab3b446fd3aa202c0ec014fb05ff4f1653aceffd4cf7ddc9da2e855d4aba3df90c5e03c89#rd
+飞塔（FortiGate）存在SSH后门（影响4.0 到 5.0.7版本）:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=402313709&idx=1&sn=f83d3c01830a449bb96413396b747799&chksm=7e798855490e0143820cd83caaf69d5551750ad4dda61629dfd62d2ec6624ccabc043d31b3e2#rd
+疑似Apache mod_status 0day:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=402138179&idx=1&sn=96b6db2f37972166b24d41b473d543d0&chksm=7e7b7dfb490cf4ed8316550979c25f0eb91c8190ae82c88a3ec8ff14724ed9300cc9c88d3d20#rd
+［白帽汇的精分日常］新年快乐:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=401992850&idx=1&sn=478093a88338d1c5bc1947f558787f8b&chksm=7e76b52a49013c3c5204bb311360ad9c4662702e1df1fad74c2871600913495fa1525262f4ce#rd
+Joomla高危漏洞扫描事件分析:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=401464214&idx=1&sn=e799d620c3b0662a1abd33977c3cefce&chksm=7e6e822e49190b384246554ea502ba49afb97524139e8f725da195b7ca690eca34b86503716e#rd
+【招聘】活着就是为了创造：白帽汇求工匠:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=400712220&idx=1&sn=3f8901a671a147cf1c78ec8ef480a1b1&chksm=7e613ba44916b2b2c560deef193c96f64116766a3e2c9091ba7769213b9dc6c1b2c85083e6ef#rd
+Redis CrackIT入侵事件分析v1.1 11月11日:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=400546095&idx=1&sn=c235cc7a72cd4835b9d2c633076f4381&chksm=7e5c8097492b0981d958ff8cf4f155b68dc95a2f03621289b14d724378c5b02c39a9c5003ed2#rd
+RedisCrackIT入侵事件分析:
+http://mp.weixin.qq.com/s?__biz=MzI5MzA1NjcyNw==&mid=400535876&idx=1&sn=02884bb7df841eec4db6d20a966e56b4&chksm=7e5ce8fc492b61ea90877d995cc79d0bdb07df4ff75c986112e321fe0490d8a2b4f1ffd215e5#rd
