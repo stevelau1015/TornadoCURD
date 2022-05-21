@@ -158,8 +158,8 @@ def get_content(query):
     print(max_num)
     # 每页至少有5条，获取文章总的页数，爬取时需要分页爬
     num = int(int(max_num) / 5)
-    # 起始页begin参数，往后每页加5
-    begin = 1235
+    initial = 1965
+    begin = 1965
     while num + 1 > 0:
         query_id_data = {
             'token': token,
@@ -193,11 +193,7 @@ def get_content(query):
 
 if __name__ == '__main__':
     try:
-        logging.debug('debug 信息')
-        logging.info('info 信息')
-        logging.warning('warning 信息')
-        logging.error('error 信息')
-        logging.critical('critial 信息')
+
         log_path = './Logs/'
         if not os.path.exists(log_path):
             os.makedirs(log_path)
@@ -217,5 +213,6 @@ if __name__ == '__main__':
             get_content(query)
             # time.sleep(60)
             print("爬取完成")
+
     except Exception as e:
         print(str(e))

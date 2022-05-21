@@ -1,0 +1,14 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '89c253c16a733d18e3932743115149a5'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454843, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '53038175157769'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': '6lW0ur9vWDl8qMCaAAAAAMf8-BDZxwbP7kgv_bT0ISY='}]
+<class 'dict'>
+{'uuid': '89c253c16a733d18e3932743115149a5', 'wxuin': '53038175157769', 'ua_id': '6lW0ur9vWDl8qMCaAAAAAMf8-BDZxwbP7kgv_bT0ISY='}
+<class 'str'>
+{"uuid": "89c253c16a733d18e3932743115149a5", "wxuin": "53038175157769", "ua_id": "6lW0ur9vWDl8qMCaAAAAAMf8-BDZxwbP7kgv_bT0ISY="}
+cookies信息已保存到本地
+开始爬取公众号：计算机与网络安全
+list index out of range
+/Users/dip/PycharmProjects/TornadoCURD/main.py:49: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

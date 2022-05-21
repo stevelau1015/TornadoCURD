@@ -1,0 +1,14 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'bd64e234e2e8ccad7a6b9239f160f873'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454843, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '53118359015992'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'bocFI3Sef43HE3jBAAAAAHBF7bMzxrrthp0qRSlqQD8='}]
+<class 'dict'>
+{'uuid': 'bd64e234e2e8ccad7a6b9239f160f873', 'wxuin': '53118359015992', 'ua_id': 'bocFI3Sef43HE3jBAAAAAHBF7bMzxrrthp0qRSlqQD8='}
+<class 'str'>
+{"uuid": "bd64e234e2e8ccad7a6b9239f160f873", "wxuin": "53118359015992", "ua_id": "bocFI3Sef43HE3jBAAAAAHBF7bMzxrrthp0qRSlqQD8="}
+cookies信息已保存到本地
+开始爬取公众号：计算机与网络安全
+HTTPSConnectionPool(host='mp.weixin.qq.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1091)')))
+/Users/dip/PycharmProjects/TornadoCURD/main.py:49: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

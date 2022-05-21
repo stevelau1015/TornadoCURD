@@ -1,0 +1,102 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653383821, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'CEPTB1DcVU8pWENQAAAAACIR0e_Z-qUOTeck90kPLBE='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '015360b5d2b5f370d3f68a7b93d8310d'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653383821, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'd0c4VmhYQ1hMb1FOZ1FZa1NqUWtJbWJwbXVkZkhuS1lkVXdVY0l4eV9oWGdUT0VqYmwzcl94NUpmSVRzTklCZUFjcnJ6U1NZV29nNXVXUUxESV8yQ2wwR3pHUkhMWWtWY19zd1gwWmI1NGI3U19aaFAyVE1LcnV1UzVEemdyUDBmSE9HNGlpUlpHeHNFbUpB'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '98f7a658aff2591a1e2e51e1baf01ac2'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653383821, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'O1RmKiYy8GL+zj1qCwU/NbLQVVM5LOfvJsGpLsOQPlqC1y0wRyerF35xWXg2903A'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653383821, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653383821, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653383821, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454843, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '53038204988845'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1653383821, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESICvhhLTdUq+YxhqSYkTlxwL7E9bGuuIstOX3EdNjczGB'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'CEPTB1DcVU8pWENQAAAAACIR0e_Z-qUOTeck90kPLBE=', 'xid': '015360b5d2b5f370d3f68a7b93d8310d', 'slave_sid': 'd0c4VmhYQ1hMb1FOZ1FZa1NqUWtJbWJwbXVkZkhuS1lkVXdVY0l4eV9oWGdUT0VqYmwzcl94NUpmSVRzTklCZUFjcnJ6U1NZV29nNXVXUUxESV8yQ2wwR3pHUkhMWWtWY19zd1gwWmI1NGI3U19aaFAyVE1LcnV1UzVEemdyUDBmSE9HNGlpUlpHeHNFbUpB', 'uuid': '98f7a658aff2591a1e2e51e1baf01ac2', 'data_ticket': 'O1RmKiYy8GL+zj1qCwU/NbLQVVM5LOfvJsGpLsOQPlqC1y0wRyerF35xWXg2903A', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '53038204988845', 'rand_info': 'CAESICvhhLTdUq+YxhqSYkTlxwL7E9bGuuIstOX3EdNjczGB'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "CEPTB1DcVU8pWENQAAAAACIR0e_Z-qUOTeck90kPLBE=", "xid": "015360b5d2b5f370d3f68a7b93d8310d", "slave_sid": "d0c4VmhYQ1hMb1FOZ1FZa1NqUWtJbWJwbXVkZkhuS1lkVXdVY0l4eV9oWGdUT0VqYmwzcl94NUpmSVRzTklCZUFjcnJ6U1NZV29nNXVXUUxESV8yQ2wwR3pHUkhMWWtWY19zd1gwWmI1NGI3U19aaFAyVE1LcnV1UzVEemdyUDBmSE9HNGlpUlpHeHNFbUpB", "uuid": "98f7a658aff2591a1e2e51e1baf01ac2", "data_ticket": "O1RmKiYy8GL+zj1qCwU/NbLQVVM5LOfvJsGpLsOQPlqC1y0wRyerF35xWXg2903A", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "53038204988845", "rand_info": "CAESICvhhLTdUq+YxhqSYkTlxwL7E9bGuuIstOX3EdNjczGB"}
+cookies信息已保存到本地
+开始爬取公众号：计算机与网络安全
+历史文章总数为 2588
+2588
+正在翻页：-------------- 1235
+正在翻页：-------------- 1240
+正在翻页：-------------- 1245
+正在翻页：-------------- 1250
+正在翻页：-------------- 1255
+正在翻页：-------------- 1260
+正在翻页：-------------- 1265
+正在翻页：-------------- 1270
+正在翻页：-------------- 1275
+正在翻页：-------------- 1280
+正在翻页：-------------- 1285
+正在翻页：-------------- 1290
+正在翻页：-------------- 1295
+正在翻页：-------------- 1300
+正在翻页：-------------- 1305
+正在翻页：-------------- 1310
+正在翻页：-------------- 1315
+正在翻页：-------------- 1320
+正在翻页：-------------- 1325
+正在翻页：-------------- 1330
+正在翻页：-------------- 1335
+正在翻页：-------------- 1340
+正在翻页：-------------- 1345
+正在翻页：-------------- 1350
+正在翻页：-------------- 1355
+正在翻页：-------------- 1360
+正在翻页：-------------- 1365
+正在翻页：-------------- 1370
+正在翻页：-------------- 1375
+正在翻页：-------------- 1380
+正在翻页：-------------- 1385
+正在翻页：-------------- 1390
+正在翻页：-------------- 1395
+正在翻页：-------------- 1400
+正在翻页：-------------- 1405
+正在翻页：-------------- 1410
+正在翻页：-------------- 1415
+正在翻页：-------------- 1420
+正在翻页：-------------- 1425
+正在翻页：-------------- 1430
+正在翻页：-------------- 1435
+正在翻页：-------------- 1440
+正在翻页：-------------- 1445
+正在翻页：-------------- 1450
+正在翻页：-------------- 1455
+正在翻页：-------------- 1460
+正在翻页：-------------- 1465
+正在翻页：-------------- 1470
+正在翻页：-------------- 1475
+正在翻页：-------------- 1480
+正在翻页：-------------- 1485
+正在翻页：-------------- 1490
+正在翻页：-------------- 1495
+正在翻页：-------------- 1500
+正在翻页：-------------- 1505
+正在翻页：-------------- 1510
+正在翻页：-------------- 1515
+正在翻页：-------------- 1520
+正在翻页：-------------- 1525
+正在翻页：-------------- 1530
+正在翻页：-------------- 1535
+正在翻页：-------------- 1540
+正在翻页：-------------- 1545
+正在翻页：-------------- 1550
+正在翻页：-------------- 1555
+正在翻页：-------------- 1560
+正在翻页：-------------- 1565
+正在翻页：-------------- 1570
+正在翻页：-------------- 1575
+正在翻页：-------------- 1580
+正在翻页：-------------- 1585
+正在翻页：-------------- 1590
+正在翻页：-------------- 1595
+正在翻页：-------------- 1600
+正在翻页：-------------- 1605
+正在翻页：-------------- 1610
+正在翻页：-------------- 1615
+正在翻页：-------------- 1620
+正在翻页：-------------- 1625
+正在翻页：-------------- 1630
+正在翻页：-------------- 1635
+正在翻页：-------------- 1640
+正在翻页：-------------- 1645
+正在翻页：-------------- 1650
+正在翻页：-------------- 1655
+正在翻页：-------------- 1660
+'NoneType' object is not iterable
+/Users/dip/PycharmProjects/TornadoCURD/main.py:49: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
