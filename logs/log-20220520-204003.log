@@ -1,7 +1,0 @@
-启动浏览器，打开微信公众号登录界面
-请拿手机扫码二维码登录公众号
-登录成功
-开始爬取公众号：计算机与网络安全
-HTTPSConnectionPool(host='mp.weixin.qq.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x120060450>: Failed to establish a new connection: [Errno 60] Operation timed out'))
-/Users/dip/PycharmProjects/TornadoCURD/main.py:49: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
-  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

@@ -1,5 +1,0 @@
-启动浏览器，打开微信公众号登录界面
-开始爬取公众号：白帽汇安全
-('Connection aborted.', TimeoutError(60, 'Operation timed out'))
-/Users/dip/PycharmProjects/TornadoCURD/main.py:49: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
-  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

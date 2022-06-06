@@ -1,0 +1,1568 @@
+PayPal 0 day漏洞可窃取用户资金:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247542097&idx=1&sn=f6642abc3a65974424e351b13bb639c1&chksm=e915f56bde627c7df69474cf17e6c979cea20c62434474fde966ce5f0f19b578542bc081c7eb#rd
+针对GPS追踪器设备的安全研究（part2）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247542097&idx=2&sn=0200dedb1811eecf4f4fe80f470d2dfc&chksm=e915f56bde627c7dbe46d9d039a995b1ef4bf6c9a3beb833765257d2d2f77c1217bbf2581f89#rd
+SSRF攻击示例和缓解措施:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247542097&idx=3&sn=2d93682f8ec5c0f2407acedadc658303&chksm=e915f56bde627c7d32aa3b4d37e8176af4e84ad505f96094bb2174118e756077182301c63cb6#rd
+2022年新型勒索软件发展趋势:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541957&idx=1&sn=3e8df4c6a25ceb897e8056ae297c2198&chksm=e915f4ffde627de9baf80f66e2337fadd81c08cd2c7720ba67596fc766ae9d62120dc1d47e1b#rd
+新型病毒Nerbian使用了先进的反检测技巧:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541957&idx=2&sn=817c7dd0131485017d69b78c94ac78ef&chksm=e915f4ffde627de9ea9127e567d09eee4585803e997f869253d969a5302f79b2534d05ae220c#rd
+针对路由器的 Cyclops Blink 恶意软件攻击的技术细节分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541957&idx=3&sn=9bc238c89d491c64a0e35421c94a6249&chksm=e915f4ffde627de921ce185aaf3effe824aa6626d2b55d34a1a0ad12d64021d36ca0a2b1b15c#rd
+38万个Kubernetes API服务器暴露在公网:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541888&idx=1&sn=e6a185ab304c69c4734346f4aca53804&chksm=e915f4bade627daca7de3ccb737fdb38d3c441d5695c1b0304415f51aa8728c11a550d75b421#rd
+深入分析XINJE PLC Program Tool中的代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541888&idx=2&sn=017678637f9f6718c863cca38a431c10&chksm=e915f4bade627dac4bead30d7c86b0cabc4fdf771f3b1d6226f58266a20f47000069450d18da#rd
+微软对Linux平台XorDdos恶意软件的分析（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541888&idx=3&sn=c03967b0a33183bd820e508d2578c520&chksm=e915f4bade627dac630ec548cd5d62b39ff45cf6b688fb4111e4e5dea6b27eaa1d14108e7a38#rd
+黑客利用蓝牙低功耗攻击Tesla Model 3:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541827&idx=1&sn=323988d65c53bb267b14935bacadf0d9&chksm=e915f479de627d6f6d678e7d9b68068170cdd2c8b650cead39c698fff7cb74ab52adc5a23145#rd
+新出现的NetDooka恶意软件通过PrivateLoader传播:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541827&idx=2&sn=6a76b9dbf475502da43f72102a6e3eac&chksm=e915f479de627d6f61f801bbb29fd9f41abf1d7583ec36aae70c987e3ab00b5cc7768f8e427a#rd
+微软对Linux平台XorDdos恶意软件的分析（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541827&idx=3&sn=0dbbd1288a9c2ae64e3ad68ab8c6dc1c&chksm=e915f479de627d6f0da7a86f5723ca84e743ed2bb85e732337f5d386dfbb80b59198a4f0e438#rd
+嘶吼专访 | 天融信李建彬：十年磨练，深耕数据安全领域的开拓者:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541756&idx=1&sn=fd0bd1b1ca5235effe6f34fb2c177dd9&chksm=e915f3c6de627ad051542624e5b5c6afa9e98edf6a06be71b14da6dc50c347f0b7689c305e84#rd
+基础架构安全弹性技术指南草案（固件安全篇）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541756&idx=2&sn=86656b7587a64a1a095173a5c3bf0e68&chksm=e915f3c6de627ad0681495a8b6866431f8e9398b136ca7bec67e33eb9f3bb0eb4f756004edd7#rd
+使用COVID-19主题的Nerbian RAT具有复杂的规避技术:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541756&idx=3&sn=caf853d4960e2d8edf09fce8066d094e&chksm=e915f3c6de627ad0d3e225cfb357ddf761223735e8491c45da314b60e8a8b0b12ad8b0154163#rd
+VHD勒索软件与朝鲜的Lazarus集团有关:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541756&idx=4&sn=8211b0603143952896c4a2bb76d09b8c&chksm=e915f3c6de627ad04ad96172ad3ecf5539146edccfa42151ba5f2068adb836e4d10f8d79c342#rd
+手机订阅中的木马攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541676&idx=1&sn=9e6199dd1534a0d6b6e995f44e5d23d1&chksm=e915f396de627a808dd3cb93e772caab8c429a4b6b51838d3bfda8a3cd6dd5d1bcbcbb6bc397#rd
+针对GPS追踪器设备的安全研究（part1）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541676&idx=2&sn=8d5531a4e533bdf472cfb1e31747ed4f&chksm=e915f396de627a80805cf9c9a0495fd11a90eaeba7e4d64bbd80120b81203f91cc725c3ce165#rd
+谷歌Java OAuth客户端库存在高危漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541583&idx=1&sn=cc670843e98133675897b0d083928e44&chksm=e915f375de627a63580aa1c4d4d056a62c2a1338519e5132c3b8a5931533d2f39659ce65891b#rd
+深入学习Firebloom iBoot之类型描述符篇:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541583&idx=2&sn=e61aa201ddd7b593a8f1ec33cabc3703&chksm=e915f375de627a63afa5bdfd82ffdd3cbfc9219cad48b011b95f0e6535507a1554cfc6c87881#rd
+【技术原创】渗透基础——在Win7下运行csvde:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541557&idx=1&sn=e43969c3c55d6cfb2fef0ecfc36dda73&chksm=e915f30fde627a19a107c51aaeefe60c183657f6d26c2ff35b1465b738822655af93a41b2d30#rd
+微软5月份的更新导致Windows AD认证错误:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541557&idx=2&sn=dda0d21f7aa9ae24b3295ee153ff5084&chksm=e915f30fde627a193c6e2b93c3272c708c2fed1f688dec051a502c9b29a11f1f4b9240be73ba#rd
+与猫捉老鼠相似的研究逃逸安全防护软件的技巧:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541557&idx=3&sn=e555a8a5f645965b6e7e5a12bd1e8ace&chksm=e915f30fde627a1984337bf9b3bcea7b8ba0578a9801a6bac0d239578d95229383595401086d#rd
+iPhone关机后仍可运行恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541509&idx=1&sn=757be10ac5ad4aa4982be89249a5f8ee&chksm=e915f33fde627a290d65e858f7f450f19b2f31ee2bf83dac4be4d41b3a825b2b80978badeadc#rd
+Conti勒索软件攻击使得哥斯达黎加进入紧急状态:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541509&idx=2&sn=f957ec57866fcc48bc2c015e9697008a&chksm=e915f33fde627a290ccba2585362016c1e19d20e1593264498395253fc9cf7fc8050fe90e185#rd
+SMS PVA攻击详情概述:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541509&idx=3&sn=3e0d0c0bf1142997cf38b01ac2680ff4&chksm=e915f33fde627a294d4cad52139edb04907025ec74c0aa0fe4788dbb405c429d2d5679b1a109#rd
+【技术原创】VMware Workspace ONE Access漏洞调试环境搭建:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541466&idx=1&sn=7140cc2800feecaf2a39089d0640f189&chksm=e915f2e0de627bf6785d0cf47162716613ac513ef59336044e1381cc5df3faa35bc9ae356fc6#rd
+CatalanGate间谍软件与NSO集团有关:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541466&idx=2&sn=a2e604a95597d7587517ebd26180e8cd&chksm=e915f2e0de627bf67d915ce87c09734f7f759cf84e4535709cfbc1ee35e1bef93241773020bc#rd
+用模拟执行的方式对抗恶意软件中Anti-RE的实现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541466&idx=3&sn=3f8b488f5a8a032da92aba839620968f&chksm=e915f2e0de627bf6b52def58b2362b89d01ddce5b8c7902e4f84ff7010955ed2068994d5a69d#rd
+谷歌IO大会发布安全隐私新特征:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541401&idx=1&sn=1d06e43c632f79b05d6f84591523a082&chksm=e915f2a3de627bb5554925f1c37a3d90cddf4c6dd745f35d9bd98a8d6c0babb11b1ab18ca988#rd
+行业观察：攻击路径管理（APM）影响力报告一览:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541401&idx=2&sn=8c84bc6481922b2091072b73e5fc3278&chksm=e915f2a3de627bb5723cbbfca22ad9bac2fa5fb67fe1babe5c2d1c87e9967f19a05d26d8d33d#rd
+防不胜防！在Firefox中触发UAF漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541401&idx=3&sn=7ed712e6e486dc82143d5ef62860c66a&chksm=e915f2a3de627bb55c70d1c3b9b292a535d4b1739f3c438f9135fc761a1c802f321f5dd5e600#rd
+嘶吼专访 | 天空卫士杨明非：顺势而为，以人为本的数据安全捍卫者:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541334&idx=1&sn=3903664567cc8258120879b5b610b0b2&chksm=e915f26cde627b7a6fb999b4066133ef2a3856f96fb53aea8cb24c15e939bc82fc39768c3ed1#rd
+类似CVE的云系统安全解决方案出现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541334&idx=2&sn=6ae6f07377330d0aa672010ef8979c67&chksm=e915f26cde627b7a0341244c2ed72c5e7ddccd7fb6d91e031e2806747d7633caac5cf5ec27c6#rd
+Amarna：Cairo程序的静态分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541334&idx=3&sn=ba33f40b08e77c0a848303a7861f78eb&chksm=e915f26cde627b7a17faa463d7a7912fe9ccecfa69ea4e156161f4929ffaa8a1af72bae2ed6d#rd
+iOS 恶意软件如何悄悄监视用户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541271&idx=1&sn=a5035cc9290c1c92c04286a2647b46d1&chksm=e915f22dde627b3b1264adb300dd4797727719fcd7961b4e9a57d7eca6d08fffdcabc702b6ec#rd
+攻击者伪造WhatsApp语音通知来窃取信息:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541271&idx=2&sn=8fbfe11f47d09cee1c3f44cb0e0d5ba8&chksm=e915f22dde627b3b3ba653007081edc7703e516aa8d71088e970fbea9b235680272f2bff268c#rd
+Avast/ AVG漏洞影响数百万设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541270&idx=1&sn=e5e87e655332f44d4db38cf0cd6a9574&chksm=e915f22cde627b3aa00cf0c8c8cabc88930ff33b09590bcfa37c8570c6efe373c8b9090a4989#rd
+SharkBot：通过Google Play 商店分发的Android银行木马:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541270&idx=2&sn=10ffb0277573e3d5cf68de531bf571c5&chksm=e915f22cde627b3aa336e50018d9851db33429989befc0e5c40c635d4a8024c2c15775a03a35#rd
+商业电子邮件攻击5年间涉及430亿美元:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541213&idx=1&sn=9c217e16d9b6e7aff950ca57d79918b8&chksm=e915f1e7de6278f1801aef9ad064c40f27d7a08ac62e2fe961011e286f7f1057b62dd267851f#rd
+云安全书籍推荐必读榜:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541213&idx=2&sn=f2a1ee82c1a665ae2b9b50298a9eb1a1&chksm=e915f1e7de6278f1189d6195d833824ffb7d776479724fac6ee8029678923acc9e263eb844d2#rd
+新出现的APT组织专门针对赌博网站发起攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541213&idx=3&sn=637d1692ab74f4d28d95abd3bf232114&chksm=e915f1e7de6278f115a1354aff17a8918366f0e6791f995e5b4979dc27b5f5491e42833ba622#rd
+《博观约取 · 精微入神：2022数据安全产业竞合力洞察报告》正式对外发布！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541174&idx=1&sn=bf262a73e88311950b594f5e8cd92ab5&chksm=e915f18cde62789ac9289970f498442b2c0484ff368e2da3d4240797db971559174634595d95#rd
+APT网络间谍组织确认由三个独立的团队组成:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541174&idx=2&sn=aba491fbdfbdf3be43924d34d6ac7941&chksm=e915f18cde62789a33a0201fb8e7fd74b9251e3523baa7c74f31afbc2d212592e4ca4b538871#rd
+构建员工安全意识计划（三）：度量指标:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541174&idx=3&sn=611c2228ed8830d9f08d469d10a84621&chksm=e915f18cde62789a7132559970cef5ce34788f0e17e2a42390a3340bb87669355fa5b1db0c00#rd
+《博观约取·精微入神 2022数据安全产业竞合力洞察报告》发布会即将开始！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541113&idx=1&sn=198d467ae36184264cd463ee55c2fbc0&chksm=e915f143de627855fc5e3d836cd5afaeb2a917b4a82f758d6081ad062e0031aa0ccd46c916ab#rd
+微软、谷歌、苹果将支持FIDO无密码登录:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541113&idx=2&sn=7c0f20043689db4f2dfffe52ec1b5ed8&chksm=e915f143de627855a1d69deed1962005f14635b39ca4ee84ce0e1376b8801afab6ec2f9f78aa#rd
+编译器优化可能会引入安全问题:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541113&idx=3&sn=0bc8afeb8681fff4446b6e5d57ad505f&chksm=e915f143de62785553da3ae8fb96fcad869bb51d35bc22f3f928a25882863dd0cf28d4062ac1#rd
+0 day也许没有想象中可怕:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541079&idx=1&sn=a9db1b8119dcc046c21ff4cb84dff95a&chksm=e915f16dde62787b12c36dd4266da9d249b5b373ce45e761bdd8947224da5670ce78ec83e020#rd
+APT组织攻击乌克兰网络:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541079&idx=2&sn=b107da13b575796f8cad32fbc744b33b&chksm=e915f16dde62787b2e68e5366990ad433ef316c1ae04839b9804bcbdef605453ca06688c96fb#rd
+Electron木马通过Microsoft Store大肆传播:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541079&idx=3&sn=aae24ad2ef90050de8d357e77734927b&chksm=e915f16dde62787b292c569c822c209311d43b653da514419f012c63ae7ea5a1a9215ccc82e7#rd
+DNS漏洞影响数百万iot设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541019&idx=1&sn=a323e3c0e7fc9fe2b49c5af9444c95e0&chksm=e915f121de627837123f5b6318e35606fdacbad44cfaad302accb10d07576747bb4357f9a54c#rd
+黑客组织针对电信巨头进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541019&idx=2&sn=e72e6b4f5bf4b9242676218725843afe&chksm=e915f121de6278374dc3252efdd425d20b5358ee6e6a6b0b6a97a91347941d2c0322c39e5e03#rd
+绕过AMSI详细指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247541019&idx=3&sn=2a1414a0d574944e2783692bd23ab8c6&chksm=e915f121de62783772f10913a0e7fe887abe802e3322c240783aca62a1174bd9248a5a88adbc#rd
+【技术原创】渗透基础——Exchange版本探测和漏洞检测:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540974&idx=1&sn=06c7b93e8eda207b6ad50f801b288e32&chksm=e915f0d4de6279c2e2e612e673cc326908e40d776b7da0fbd5215445cc6f53890f481be591a3#rd
+SMS PVA服务中出现的短信验证漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540974&idx=2&sn=3a2bc6e30df8915d02e562d456cba563&chksm=e915f0d4de6279c231fdd20705b3ed20f6d55da2a0b4a823ad463665b556ec1db96042bdd4ff#rd
+重新思考公共云时代的网络防御策略:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540931&idx=1&sn=1e5bbdbc89faf2dfa248cfd14720be26&chksm=e915f0f9de6279ef7858e976dcca2a1aa1d4c60e4ebf4b66634e9d0b63dc2383115bd081b289#rd
+Nimbuspwn Linux权限提升漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540931&idx=2&sn=964f3a58eb61e213a8dd39973aea8581&chksm=e915f0f9de6279ef91e81f18cd86e277ff3a053ceabf6de1de227c1fe31d8b5f9d32283a6747#rd
+构建员工安全意识计划（二）：最佳实践:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540931&idx=3&sn=050e6400f415a8903931834eda172578&chksm=e915f0f9de6279ef77f4bdfaa420ac5d6cb3f0f07f810159a5b881b008d7daa42801f8e3679d#rd
+数字时代，安全从攻击面管理开始——2022网络安全运营技术峰会在北京（线上）召开:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540896&idx=1&sn=ac396b84ee32f42ceae6e26df8c79697&chksm=e915f09ade62798cb7bab482deb270574ad5c2f366474c077d2d99fb6273936887a9a4e56456#rd
+针对关键网络环境中的UPS备用电源设备的攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540896&idx=2&sn=c9e9da497679f5c2ae4e28a494b37390&chksm=e915f09ade62798c9d0e39600a77049528ad02b56509f65277139de2df715dcc05fe2eba65eb#rd
+木马化DeFi应用程序被用于传播恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540896&idx=3&sn=da94923d27b7b65d60211a95d7ce7799&chksm=e915f09ade62798c5c94a3de7eef0f60058760e7058542d682c1ca8f77e78ace91b3807b429c#rd
+一文了解“零点击”攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540837&idx=1&sn=eb94d3b4631f2a35487d0e8da456a564&chksm=e915f05fde627949ed9afb008ee0487f2c9c485efd6a47147bf58bca5d66defb2eb7124f67e5#rd
+VirusTotal远程代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540837&idx=2&sn=853c3db09b91d317b165e346c9a60ca4&chksm=e915f05fde6279499c35d960c00cfae62a018c9e250c1b314333c44c46d5076489243dc77373#rd
+如何防止加密货币被盗——以Everscale钱包漏洞为例说明:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540837&idx=3&sn=8840d673322350608f49f92b8947ccb3&chksm=e915f05fde6279493c1b198436e563bd924b5364a19ec3dc9868125cadebd87c18a88e7c1f39#rd
+黑客利用恶意软件攻击记者:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540743&idx=1&sn=669504056cfd6d4180093eb375103832&chksm=e915f03dde62792b8a86f8ea371882a279dcd2a6e7f723636a2215f14df9c42f37f3bcb11729#rd
+VOO调制解调器的RCE漏洞挖掘利用研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540743&idx=2&sn=5d30c2703af80bf69d17ac896ad6f8f7&chksm=e915f03dde62792bae9f422961fc2bffab6862dc8322e7f1873edd4521421b5715eb80195cc3#rd
+构建安全度量指标七步法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540707&idx=1&sn=4fb9c0c344c5cf4389e8ecb9b10a2685&chksm=e9158fd9de6206cf7886ad2eb00ae365befecc7f24587ca254ccacc068f34587244165f90e1f#rd
+区块链钱包漏洞可窃取加密货币:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540707&idx=2&sn=57d06993ad97cb684523011d657b0f00&chksm=e9158fd9de6206cf1a3b35a0c0b0ee535069a09250adcac975a20f6583fb88f08482c9165892#rd
+2021年跟踪软件攻击趋势分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540621&idx=1&sn=cba3498e971a40cb6b6dd632975fcdf8&chksm=e9158fb7de6206a116a6fca827d5c609ecb3affc5cf7127cb49a771298bdcc823d22becfe682#rd
+MacOS真的不容易被恶意软件攻击吗？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540621&idx=2&sn=5b4e17a5b697fc44c0f0f050520ed404&chksm=e9158fb7de6206a11d480dc220a222ba2fcdd19ce8db414c27dc22ff75a68d65ebd811f1c081#rd
+全民零信任：实用指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540620&idx=1&sn=d259f4695491f4fc5e61c09891ceb890&chksm=e9158fb6de6206a02c17a4bd36638a4e46dc6909fe1f075f9331f21960b04a11daca8502bcd0#rd
+UEFI安全漏洞的挖掘、防御与检测之道（下篇）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540620&idx=2&sn=52ac67c65e41f03935db8d7b65fb5a07&chksm=e9158fb6de6206a021ccedb7bccee71413888159523092d33e828ffc6d077668e47a8387917b#rd
+【技术原创】Android渗透平台搭建3——在OnePlus6T上安装Kali的两种方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540619&idx=1&sn=6f103b5359360d3332b56157139f9f63&chksm=e9158fb1de6206a7bcbfc4cf81f08f28285cf130a53c2ba046d0b93d147b757362134390fcbd#rd
+多个APT组织趁着俄乌乱局的掩护发起针对其他目标的攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540619&idx=2&sn=d3e1be24356448e5d3ed26f7988fd9c6&chksm=e9158fb1de6206a769ffc2f20f2bdd5082e3b7f74ce0a87983bac32a11a3807d3fef85a18ab6#rd
+北京健康宝遭受境外攻击，安全保障仍任重道远:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540478&idx=1&sn=f1d4a094ff980f39244cd27587af27ee&chksm=e9158ec4de6207d2db1b1c7f54d80abb9ab1344b494ab30711be9885f9d8e9123de9e0e9fd3e#rd
+NFT市场 Rarible 安全漏洞可被利用窃取加密货币:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540478&idx=2&sn=428dfc6590a86c7607f52687bcedab41&chksm=e9158ec4de6207d25a8805b2c98bbfb8c7fed2ce6a703c3d1a40ce6cc5bd9a33303e164b09cd#rd
+Fortinet 分享用模拟执行的方式对抗恶意软件中的 Anti-RE 的实现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540478&idx=3&sn=14be586d1db4010dad86c35afe1b2f94&chksm=e9158ec4de6207d2c3929343c81e5384dee025c870e08dc16774b14088808b80e718d128be08#rd
+预警：量子勒索软件出现，攻势迅速:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540416&idx=1&sn=c875fba0ec3a52d73b5ff6b310d08236&chksm=e9158efade6207ec23a8aa94ec8ebdf1292fe62faa7246704c546a20d7571f301ecac7201a88#rd
+第九届“首都网络安全日”拉开帷幕:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540416&idx=2&sn=8656fd127f67a3c588ee2891c3754b04&chksm=e9158efade6207ec05c32e9d76517d0bf92dca43c7d124de3dcdcb48e120203ade83f45494e0#rd
+VMware vCenter中的敏感信息泄露分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540416&idx=3&sn=584838830899c00f6cac0199820372a3&chksm=e9158efade6207ecc956e8c2e09e38272f082fd683ce97ceafa659da77cdc60130e8d1191fd3#rd
+芯片音频编解码器漏洞将影响数百万安卓设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540346&idx=1&sn=84dd7c9fd5ded7da17f52ea1680fb3ce&chksm=e9158e40de6207569859b2615c48f9cc753a826491930bfccdc710cb42f3422d0ea1fbdc78ee#rd
+新出现的勒索软件被曝有强大的反分析功能:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540346&idx=2&sn=5c61e7146440cc932b36a6c4d0a8aaec&chksm=e9158e40de620756a08f3f140ffe073c4d27d558d250535d2641197656008fe53629d9856ea8#rd
+pkexec中本地权限升级漏洞的技术细节分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540346&idx=3&sn=763bb42ab14be0778745e2f5a9c38911&chksm=e9158e40de6207563a0e4275e993e6d42db1aabeef443be286dafb5403aafc319f1596740983#rd
+终端安全响应系统（EDR）与传统防病毒软件有何不同？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540288&idx=1&sn=12e65a1a79a82f8b628440928d3091ff&chksm=e9158e7ade62076c92c25cf3dd9a697cb0e155a08dca49442d3d9d6f67de54515bdfb0ae7434#rd
+微软0 day蠕虫漏洞引发关注:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540288&idx=2&sn=af07bea70d48254069e48e8a03a19019&chksm=e9158e7ade62076c4a3158f6819008e915c059942e965c9d5e92dccc6bf0b15920b8435c96ee#rd
+世界上最大的黑客市场之一被彻底关闭:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540288&idx=3&sn=249be95a937e19b25e5831afacbb4383&chksm=e9158e7ade62076c9c051fc964d84f2553c2b6aee541db9656b21c39557a82c130b4c46c40aa#rd
+网络安全风险管理入门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540256&idx=1&sn=f0593da04283cf4b516a86a1fe04372f&chksm=e9158e1ade62070c87bb99f20bd28a4b672623d98942cf10d23a3a601bfa9bfd101b1b277855#rd
+Java新漏洞PoC曝光:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540256&idx=2&sn=1a24d5f19fc2fdad4e9974849d318fdd&chksm=e9158e1ade62070c67819c4020507f6e9f77ba8b6a4af67c63767d44d71855422d1c19ed2172#rd
+数字取证之Kubernetes DFIR实用指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540256&idx=3&sn=cd528ff59dc84caeea7cab8efd2a5f3b&chksm=e9158e1ade62070c54564fbe191d2692828961b117688362f87c41a06504190143dd657048e5#rd
+【技术原创】Android渗透平台搭建2——在OnePlus6T上安装Win11:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540164&idx=1&sn=57d8d9787453922025ffb9cb5d5a537f&chksm=e9158dfede6204e85d672716a75e45df2f4c230ab50c40f4f0b72e7589785acfad49bfef7950#rd
+对“黑天鹅”网络事件的常见误解:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540164&idx=2&sn=4c43b5dbc345e7b6299a7f69fd881480&chksm=e9158dfede6204e883dd581b62723f85dd949ac76036be78e0eef0421cb921a23fe0ece07d76#rd
+使用krbrelayx和mitm6在DNS上中继Kerberos:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540164&idx=3&sn=579bee451abf9d96c4816880302b8558&chksm=e9158dfede6204e825cc3194119009fb4ee7140c89204867fa9019034b7b7791da44adcdf1aa#rd
+在线会议APP开启静音后，仍在收集麦克风数据:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540111&idx=1&sn=2cbe4c710fd23f44cc65f0d89e6d623f&chksm=e9158db5de6204a3390636fdceb983ddb9478d201d5307acd4e9491f3d5a48255155db63940d#rd
+UEFI安全漏洞的挖掘、防御与检测之道（上篇）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540111&idx=2&sn=ebfd5a38baf7e18001dab0f4383d455b&chksm=e9158db5de6204a3545559fe885ddfb1da82c81bc244523ad48cda6328dc643fc35d005634bc#rd
+嘶吼送书活动 | 《Web代码安全漏洞深度剖析》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540067&idx=1&sn=88e0c23acb3c579602c0dfc6fcc21d26&chksm=e9158d59de62044fefd0514f7a6a4ea12bbb4773804644562e0b5264282eb1e1b16b81ccc1a0#rd
+专家称APTs持有接管关键基础设施的工具:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540067&idx=2&sn=5147087a854456fbf7c8359cb4e276d6&chksm=e9158d59de62044f60362303153ac970a1b7f7897d868284a81996927cfa2a83bea164703979#rd
+嘶吼安全产业研究院《2022网络安全产业图谱》调研通知:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540029&idx=1&sn=4edb63032e53ad1fde46242db011011f&chksm=e9158d07de62041143e5bbccaaa7acd65eefb41b6716d37455831322eabd89de8d695d74c184#rd
+世事虽难料，生长总如期||XCon2022议题征集，追光启程！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540029&idx=2&sn=f6685009bf8319eeaad84bcf8cd829f5&chksm=e9158d07de6204119f27bb657314508ea4822b7f6191c349aafd1e5c4fde8a2ce635f99b8ae4#rd
+Mirai僵尸网络利用Spring4Shell漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540029&idx=3&sn=4cb39ff8d0e3884d60d5b5186a245eca&chksm=e9158d07de62041119926785c53451939ef02e403ce1f1ea601934cd9b208a0d5b3fecdda9c5#rd
+攻击者使用2FA相关漏洞攻击npm包:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247540029&idx=4&sn=4a69c5e57dbc640d6758c5f5d30a61fe&chksm=e9158d07de620411679c93173b5ea39ae7609bded7f9ce504aeebaf7d38441af67be502e393d#rd
+【技术原创】Android渗透平台搭建1——在Nexus6P安装Kali NetHunter(2022.1):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539978&idx=1&sn=0fa2643c3d281f2986339b01c216cee1&chksm=e9158d30de620426959d8b52b6d9079d70fc6cf8970f742d980fa175bab13029c297d87099bd#rd
+专家预警：Spring Cloud中的RCE漏洞可能是下一个Log4Shell:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539978&idx=2&sn=8e281b2b727f2aa4a6e75f72fb19888f&chksm=e9158d30de620426e451f6e52ee4514098987553e93ddaedb2b449a20a281b10e0a5e7b10b61#rd
+Cisco RV340 SSL VPN 远程代码执行漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539978&idx=3&sn=2676d3bfd2e0e34e8273c9f35264fd0f&chksm=e9158d30de6204269e03f2c10f643071c69ba26e3ba9c5443848191fd928aca870d41cbed6e0#rd
+Top 15网络钓鱼攻击统计数据:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539942&idx=1&sn=d52915b65a9758d96c829b7fddc251f7&chksm=e9158cdcde6205cac3d86f86b5087a77b936bc1c7752686e982eda7cec002bad97257ce565cf#rd
+构建员工安全意识计划（一）：行动步骤:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539942&idx=2&sn=d028d30f4765cef60c1330cadbe31be7&chksm=e9158cdcde6205ca739b12ce78cf9509235d2e9bf36adb08ad0b81b3872ed050d077970132cf#rd
+黑客组织利用ProxyShell漏洞攻击医疗保健提供商:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539942&idx=3&sn=ca407638f9db551f94494d5c18b2412c&chksm=e9158cdcde6205cac694851c1c4028e4a2140fb5a2f8e2790b17b45e00de532f09a9ae579080#rd
+金融科技平台漏洞或导致银行账户信息泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539906&idx=1&sn=6d311d23a44c1a149c9c8be01655ff14&chksm=e9158cf8de6205ee4c33764c7f8a3a172a0b42acfd79a5d86d8b4dcba43a3a619a39d67ce0c8#rd
+VMware服务端模板注入漏洞在野利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539906&idx=2&sn=7e1acd1bead58030ac864b4bffa426ff&chksm=e9158cf8de6205eea75c03df8f20ef9cbdfce2aa4e7bd1ed09a6d3366a44c2a421364dd14a98#rd
+探索Windows UAC绕过技术以及对应的检测策略:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539906&idx=3&sn=48e0a071ef88b86baf5e38ca8d09e5b6&chksm=e9158cf8de6205eec47c81e7762f3b148ae2c8f88602b2d902cdc7046feb304afe582a3f8cbf#rd
+男装品牌Zegna被勒索软件攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539844&idx=1&sn=66bb6f8383e57ffc650dccb820551e55&chksm=e9158cbede6205a85fab047373a41b9185a8f7eeea23b6d759946ea094f61c97ba663d9682a9#rd
+Emotet携带新功能又卷土重来:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539844&idx=2&sn=590631452c9073e589e5b9562755988e&chksm=e9158cbede6205a8bd56973295e4a2721cd2a30052c8e2fa1f75d26bc3ae9b47d042fe3698e8#rd
+钓鱼邮件诱使加密货币钱包资产被窃取:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539843&idx=1&sn=491a3e5d4031a04ae1659d352bb1a405&chksm=e9158cb9de6205afae76436cf7e942de74025878c821785c97e5e8ba768df6143c163294b886#rd
+联邦调查局IC3报告：2021年电子邮件造成的财务损失创历史新高:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539843&idx=2&sn=cbaea6f0a77a1b12e33527e4f1249b54&chksm=e9158cb9de6205af13eb76d48a3cd356f6b9937ef4bd72877233367587bed0f329166d85e26c#rd
+经济可持续拒绝攻击（EDoS）：云上战斗已打响:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539786&idx=1&sn=7cd533a72f693b4435d4411469402b65&chksm=e9158c70de6205664b2f0ffaa0bc6ec310aae3027f9219e44b6f8ae4202234e38df1efd688f0#rd
+Windows 11新版本中的安全加密新特征:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539786&idx=2&sn=75751c734fd2d82882b93eae37d6e6e2&chksm=e9158c70de62056663f6ebb5ce30a16b54a60c2a39af4bf27d20fa8263363a71ce6ca841c2c6#rd
+微软Azure密码还原机制存在漏洞，攻击者可以远程控制设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539786&idx=3&sn=98ee8c41f9698e8e85f0acd340d0b908&chksm=e9158c70de620566817bd7f87b1cae714fd1ffd21e5b2a0f57a4282f8bde3f884be3f3fd6357#rd
+专家警告：汽车制造商更重视技术而非网络安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539706&idx=1&sn=dbab3acbd30562e3e88a0b63516ccdb9&chksm=e9158bc0de6202d6844b0889fa3063f3151dde93932a8010febc5e01791dce0378267cd633be#rd
+软件安全发展态势一瞥:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539706&idx=2&sn=3e4e1694c282b59d4ca8aac9aed971f9&chksm=e9158bc0de6202d66d18f5f2c6a9c38720d00fc536b2a078a71c7fec7f956ae28da0f9d551f9#rd
+滥用PE文件中的共享节实现代码注入:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539706&idx=3&sn=b8ee1e280af559973bfb11e440629da8&chksm=e9158bc0de6202d639af02974aa25e5dab8ac1595fccbc7cfff2ba1dfaff4e48f50a15267f75#rd
+嘶吼送书活动 | 《ATT＆CK框架实践指南》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539635&idx=1&sn=b398c8bfcf17ea6a44900efbc955b2a2&chksm=e9158b89de62029fccbe94a4d8a11615b53bb4e086b3dc0b2e11d4f084c75623b335625f7924#rd
+黑客使用木马化的加密货币应用传播恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539635&idx=2&sn=55c57c5db2dd0bb860454b29f418200a&chksm=e9158b89de62029fb494dedef806449fbf0078f558d16590f4c30ea76db503e434866b3d1ce8#rd
+原型污染漏洞的扫描及利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539635&idx=3&sn=35dfe8f143ea4b88d2d51172f4e8dc1f&chksm=e9158b89de62029f9333138c8f39f15b57adc6d0fe9885f6782d8d0c1013418e9801f3d615f4#rd
+三星手机被曝严重安全漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539580&idx=1&sn=91fc1ad33f519ccaf84375d0af532a2b&chksm=e9158b46de620250fbf91b252a3fc18e75229795b2b1ac12942684b675ba50579096555ff73d#rd
+TeaBot木马再次出现在Google Play商店:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539580&idx=2&sn=912e6ff7027c509703eb1c76404391c7&chksm=e9158b46de620250f68c468e00cf222fb68ad1474b3662952587d21f049441f173b4b6b434ee#rd
+通过查找非权限进程中的泄漏句柄来查找权限升级和UAC:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539580&idx=3&sn=8e83d802d6a39c8afdb5bdc9b442ff44&chksm=e9158b46de6202504b8fb3e698502ca4825317f4e336de4f7fd4a9225c78c857219f19b615e0#rd
+俄乌冲突隐形网络战场启示录 | 网络安全技术革新迫在眉睫:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539538&idx=1&sn=d5395439a805a0e54dad0988835e7686&chksm=e9158b68de62027e6deb0ab5cb0a698553877b1800f25eb12732a8b212508a86785e95673d03#rd
+雾帜智能完成近亿元Pre-A轮融资，领跑中国SOAR安全运营:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539538&idx=2&sn=feb7d3d11ee39b9f43508f24c50f8b32&chksm=e9158b68de62027ed3eb81fb2608776bb8f469551d4018264589220da30d28f45f643a58e856#rd
+Purple Fox 通过改进其武器库又开始了新一波的攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539538&idx=3&sn=9613e1be6e0f93b59ffc3903e9dc02fd&chksm=e9158b68de62027e156d93dd9311d049df69bf961792531521aa0cc9e7e9e41a55fad12cc81f#rd
+微软公布多个.NET框架版本4月底将不再支持:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539498&idx=1&sn=cef6bc0cba31fb2aeee33d37f50af4d0&chksm=e9158b10de62020625ddc792c62ce18ff28b205f31d7d859a2d3381c7a69617f598b6f6e8d65#rd
+对高通Adreno GPU处理器的攻击研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539498&idx=2&sn=424e254d4260848737ba4f6bee380076&chksm=e9158b10de620206cc0c5ff3cc5de617b57a02764393c67e681f117aa60a086e906409fb0154#rd
+2022年触目惊心的网络安全统计数据:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539497&idx=1&sn=5a4bf6252d7845ed0c40485b34dd0c41&chksm=e9158b13de620205b9f9e7111385583b2ad5adad0aa4802c1c55a78139713aa2c887ead2eda2#rd
+使用PSGumshoe跟踪WMI活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539497&idx=2&sn=21ac2b4becbc8b4825c258cb3cffd0f9&chksm=e9158b13de62020553ad1b6a67dcb16da9e649debb98bcfc51fe0932ee9b54df9655f860bc01#rd
+针对电动汽车充电系统的攻击方式出现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539406&idx=1&sn=226452a31ce5f7bd4c4e7046f9ed095d&chksm=e9158af4de6203e2351558af979349404a2fc72925cb49df43d02688bae694c8c9609335d932#rd
+警方强制关闭暗网交易市场:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539406&idx=2&sn=9986742d71444fe33a1f7fc48da52e35&chksm=e9158af4de6203e263c1c00b7774d9b96c4e47f20a3a2c511157b31e4f53d6047fec56733fe5#rd
+深入分析恶意软件HermeticWiper（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539406&idx=3&sn=043b872beb9f58ec48cb05ad9e5db32a&chksm=e9158af4de6203e221f3b1c32b8d0c936acdf6aa8eaec87d3ff13411099fcf1cfa29b31f77ec#rd
+《2022年嘶吼电子季刊Q1》发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539347&idx=1&sn=d6b5a129ecb10ebbe814c8a83e7d3f46&chksm=e9158aa9de6203bfce2e30d30a5b89513837b4d29eb1dfeb0f1c40c44913de920781a7818a5c#rd
+黑客利用WPS Office漏洞注入后门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539347&idx=2&sn=cbcc039ae56a97539f6004d4cce89f2f&chksm=e9158aa9de6203bfd92e88973362f9167715b2a662ae28e3fb569a2e11101d43ee19ad712209#rd
+Nighthawk漏洞的检测预防:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539347&idx=3&sn=de18413133876446c05584bc75927ecd&chksm=e9158aa9de6203bf6e05da949ea90bb5902187ca6c84ee9edda30683f0a910b6cd66a43f6354#rd
+快速上手云原生安全平台 NeuVector:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539296&idx=1&sn=184b931aea05cb2a798088d32f238ccd&chksm=e9158a5ade62034c36995fb2f09db3fc1a0d6f4a9938186e3c66e82f3525c125c1fe1d63668f#rd
+微软被发现高危的账户越权访问漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539296&idx=2&sn=cc23dca0c067c4f4ab5362c87479fe23&chksm=e9158a5ade62034cc994eac7e3e2e389439f3b24797aa0cc3ad2c4399d322ab33d23d55991f0#rd
+亚马逊、微软等60家知名公司遭受恶意软件攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247539296&idx=3&sn=a969ecf71de7f38b25c8b7012674974c&chksm=e9158a5ade62034cafcbc59180693e95f58b669de089f6e847a07dda6355fa28ed49c82d6c7a#rd
+钓鱼网页冒充微软极为逼真，难以检测:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538758&idx=1&sn=85925c4f6a7aceae29ef16f37c70f44a&chksm=e915887cde62016a5f4f4b6c34cdc6f6eea2ffa4dcc33dbbcb0581720a65c6b771ccd91dc533#rd
+破解苹果设备网络摄像头（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538758&idx=2&sn=7d0ef6a7b0dfa8132dc4eadb6fffb0c3&chksm=e915887cde62016a0633dfb165d9b7e28a474d56b9d9419d44e51ed9a0b00ca98197a2ded1f2#rd
+物联网风险无处不在，防不胜防:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538757&idx=1&sn=147ace9f3ff7578b74ad855e8960d5f0&chksm=e915887fde620169bd7f27f0a5176d0588ef8a6e50378751905ff3c755bfb953f4cc85fd83de#rd
+黑客组织宣称攻击了微软公司和Okta公司:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538757&idx=2&sn=8e0b0081217b7f82eb346e1192fc0ab0&chksm=e915887fde62016966b2da6abfdc3377b81adf66e836ce0c6cc002be79ccec62cc181293ce31#rd
+黑客假冒Instagram“技术支持人员”钓鱼保险公司:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538756&idx=1&sn=6e4a882560b602d75abb8df4d5c46d15&chksm=e915887ede620168bdaf1272e8e402d27f6a5eb456ea57194dceb19be62f3ca9a72abfe918df#rd
+深入分析恶意软件HermeticWiper（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538756&idx=2&sn=290c176e9eb2d20189b1b17ac9a9e320&chksm=e915887ede620168771b2519e89c076e39c1466feed2c72302535a1b3d9fa524e42332c1e9f5#rd
+对民航飞机电子飞行包系统的安全研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538602&idx=1&sn=fac35ecf9abb149664bf0f14ecdd71c9&chksm=e9158790de620e86a069adf798fc33f008ba200ce941b01d56acb620b69c1d5602c44e9980b2#rd
+一种新型钓鱼攻击技术出现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538602&idx=2&sn=5b5215f1b1a8e8b677b29f966eb0ec78&chksm=e9158790de620e869ac8ba9b47a0c5468ef1ab385bb04a199c8f0a61159abc63f7270b96206e#rd
+默安科技宣布完成3亿元人民币D轮融资 发力云原生安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538602&idx=3&sn=408cc05e8384488ddcdc4e533668abb8&chksm=e9158790de620e868e637be3c704367116f2f81419ef8ea9447aa91ab8da5d7cc647d7e838d1#rd
+网络钓鱼工具包市场分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538564&idx=1&sn=de0ca6ac5ff08fd9a7d8ab4f35f5421d&chksm=e91587bede620ea86c094c177a187c2b1c5934df5e41226ab30baa0245cf425d7c440466aecf#rd
+黑客组织策划者疑似未成年，网络攻击年轻化趋势明显:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538564&idx=2&sn=4fdfb14e44714ff7a69a44abdb8c21aa&chksm=e91587bede620ea8023332bbf72b5e4a93815cab8b71a10b316c5622164026d2397e6bd58848#rd
+破解苹果设备网络摄像头（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538564&idx=3&sn=a8146dadb5cdae6672197e7f11d263d2&chksm=e91587bede620ea8935bbf8da1639c178581fe0b61f16c03ba583f4b51a83cd3321022ed677a#rd
+Spring框架被曝0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538504&idx=1&sn=283da56fe0f29b1fd0f42ecb44d53d76&chksm=e9158772de620e64e510dc8a5ff74be452e79532c91f22d6ca6bb766a165bff6a3b073cc2594#rd
+勒索软件保护即服务（RPaaS）时代已到来:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538504&idx=2&sn=717b98d9ed12a3dd36ce18dafdb647de&chksm=e9158772de620e64424f665c8f83242b834a1abcc4dde43e8863803e0e7cf0565133b5dcf78c#rd
+主流VoIP应用中出现RCE漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538504&idx=3&sn=0f9c7cb1d7b99f9075a85a4b437c02f4&chksm=e9158772de620e64b4133d96e1e8be057d7cc83bc0dc2d243fd0d48b1be816ba2d7fd02d79c6#rd
+本田漏洞可通过重放攻击解锁和启动车辆:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538478&idx=1&sn=819c0f3914694e55fb0013522a4f9294&chksm=e9158714de620e020fc6a73ab37908832d500ad71cbf0fc1b5fd4af485c02ba3e245b7e8e529#rd
+俄罗斯政府雇员袭击美国电力部门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538478&idx=2&sn=1b0e5bd3456f463fe6e806be5f132576&chksm=e9158714de620e021198eabc75cd58e7fda290d62c394db6bc0facc76cfcc230e52526e85090#rd
+整数溢出 RCE 漏洞分析（CVE-2021-44790）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538478&idx=3&sn=bf4e73e89803209e0d127e1f12dab455&chksm=e9158714de620e02fbc02e1bcc30fe0573096e26ffe4d9eb07d0034a05af0c81ff15d021edc7#rd
+热门游戏《艾尔登法环》被曝重大漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538450&idx=1&sn=73181d7b9d63547bbf64b37b9f7b694c&chksm=e9158728de620e3e916a2dd452937076df4c577dc2f929dc5fdde34f08ebfde3cf182e99e042#rd
+最新的 Mac挖矿软件利用开源二进制文件和 I2P 网络:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538450&idx=2&sn=038df9a7a8e28484df03d1b0b7a0e91c&chksm=e9158728de620e3e3d5ff722237aa538087a254581cf690f2f148f79a93aa2ba1c2ab17a9ddb#rd
+针对常见混淆技术的反制措施:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538450&idx=3&sn=d1ac4b436ee3e58d8ad3a63cb773c3b1&chksm=e9158728de620e3ea64c5ad656d194aa7aceb6bd9bb4510ef6b703dc836dcead018496407265#rd
+轮胎供应商普利司通遭遇勒索软件攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538389&idx=1&sn=89db7efda3619951af58522b4c43699a&chksm=e91586efde620ff97aed5284cbde303d2024117ceae94ee093cd9a5585defdab18a5f16eb518#rd
+易安联完成新一轮融资，领跑中国零信任安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538389&idx=2&sn=a5c3b5f3be84d5a5edec0c8901b9d47c&chksm=e91586efde620ff9a48723b2da7144531c0f8450a7439a5af35677bdf984f505b6746d4d23b0#rd
+朝鲜黑客组织利用Chrome 0day漏洞进行攻击活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538389&idx=3&sn=95275cb3ff2e5b0d5cfb4721324a40d3&chksm=e91586efde620ff95e72d0a2c31fb32263c1abe3ca1d7f06cf5ef5a8fcf07b854f047a0f1ca4#rd
+微软确认被黑客窃取37GB源代码:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538358&idx=1&sn=d943b2781ffab46d93853ca215f93a7a&chksm=e915868cde620f9ad03103753b28733d5226dd19a6345e3ffbebcaeb800fd6b41ab25084dacf#rd
+Linux 内核漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538358&idx=2&sn=50ba594241747c6a5b1e218402384963&chksm=e915868cde620f9a34e0300f86a438f75a2f69042659c66fac177be295991ac39c11389df669#rd
+【技术原创】渗透基础——WMIC的使用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538357&idx=1&sn=d3b2cf27e281c7d39fc643340fdef376&chksm=e915868fde620f99ca6d5ca828ac1b7a121d3e59c0a5aefb45878361cf61fe0a887c3a5545fe#rd
+黑客组织攻击政治机构，其植入程序进化地更加隐秘:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538357&idx=2&sn=2d0763e44eb5eea7e75aa7db89cd5296&chksm=e915868fde620f997dbc8ec8c9d1eee0165ca2b62eb11ad72c22343e1d2503573774b17bf990#rd
+2022年数据仓库安全最佳实践:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538283&idx=1&sn=04bfcc90394af3ea08de5f0947da92f6&chksm=e9158651de620f47c2c686ab84d7e61308ec3510475586997fa42678f2908b1b2ef4b5ad7734#rd
+黑客组织滥用Telegram进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538283&idx=2&sn=033a57e4f0a6f986c659f6f154d21609&chksm=e9158651de620f476dcff05d6ed6a0b4e206c32fceb3c86c21c46adaa46134cf795fc5e7cefa#rd
+深入考察Netgear R6700v3 KC_PRINT 服务中栈溢出漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538283&idx=3&sn=fe4f43fcc239d76dbb948ff42d8d40ac&chksm=e9158651de620f479e345c4528613ab7affc2f6e06c4474a75c8c6c5a59f46d10497f56e1b04#rd
+骗局翻新：盘点2021年“最奇怪的”社会工程策略:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538248&idx=1&sn=c8e4e396e637ca7b272e6f761cb8cb32&chksm=e9158672de620f646d553710ae676777cb3dbbf8a3868a6c60bfbc5924946fe5fbbbd72a8c06#rd
+dompdf PHP库发现 0day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538248&idx=2&sn=a464d3b44c7a2d1cfa5c98991c44afea&chksm=e9158672de620f64cc3d98dd69663fa28a40ae205cf7a44b789c10dc9c723d8cb7671c129d78#rd
+利用Ghostbuster工具发现AWS云环境IP变更导致的Dangling IP:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538248&idx=3&sn=b61603b0d86a9eff022bd87c146c1fe8&chksm=e9158672de620f64c741902a27412f18b173cd322683693d33f823c7c903f5dd35a4f951a533#rd
+欧盟和美国机构警告：国际卫星通信网络可能受到威胁:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538209&idx=1&sn=7fbd0f02ab40880780bee66ef0f4da4b&chksm=e915861bde620f0dbf0cb0108d58c9880dca0345225412867d5042cf7c5fb94a9d4b5f7b6c00#rd
+基于 Wi-Fi 搭建一个 VoLTE/VoWiFi 环境:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538209&idx=2&sn=bf90d61d125f712c59c11844783c7829&chksm=e915861bde620f0d69ba320a87ab271fe53508b6a3fce7da7d90b8059f049617d297b4811514#rd
+SpaceX StarLink 星链卫星固件提取研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538209&idx=3&sn=ca8b2bf9569cd8d0e849a28125befd22&chksm=e915861bde620f0da69f99ad43b1295c3255ff42625ed6e37553f72a038b8c78b5d33ede8225#rd
+永利、澳门的酒店遭到黑客组织攻击，客人敏感信息或被窃取:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538139&idx=1&sn=2f12db8d8bd2b31de07da390adc4efc9&chksm=e91585e1de620cf7c323306d495c7d82a3d5cf405ef9def5d3f7ba39e6fc31e29d55ca178a3b#rd
+守护软件供应链安全，DevSecOps头部厂商「悬镜安全」完成B轮数亿元融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538139&idx=2&sn=9d806d99da00f4dc0044005a6cad2dd5&chksm=e91585e1de620cf792807bc161d7c29c9fcb936549a1ffed24584dc0dba7771e3055cce11fc4#rd
+Xloader的C2网络加密分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538139&idx=3&sn=696f92b33caaae51d10f1fde306d49dc&chksm=e91585e1de620cf7d59f520e0b6341cae334a319de740ebd860cadf3d9c2004dc6dafa608e71#rd
+莫让“倦怠”成为威胁网络安全的拦路虎:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538096&idx=1&sn=c32c415a5662789f79788a0af4326ba2&chksm=e915858ade620c9c1693ae6177116662e0e549c8b548dda03e70dbe3f8bb014fc0a7d01bb917#rd
+俄罗斯APTs对乌克兰狂热的进行钓鱼攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538096&idx=2&sn=098a620a3e33c89b803b8b81c6153296&chksm=e915858ade620c9c24b04fea8ce87ec869c8244aefefefae977c66d209c35691b5a4716310dd#rd
+在Windows 11内部预览版中，KUSER_SHARED_DATA结构体发生了哪些新变化？（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538096&idx=3&sn=30994b732d0d85bb88df351cdd4e8039&chksm=e915858ade620c9ce1886447216eb9dca9a326948485e6bd69c7a902da69e7da5828dbc1abbd#rd
+DevOps管道攻击日盛！如何绝地反击？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538076&idx=1&sn=e8f0e3835b760cfa69a32e9dc21267e8&chksm=e91585a6de620cb0e18ef1facbe46e5e1fc4bf6e44e97c14da1c768f748c89042de213c910fa#rd
+GKE Autopilot 漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538076&idx=2&sn=e4c0d5e8b544a079239a14372a401b4f&chksm=e91585a6de620cb0e9d86bb07f7d2d6b1c4b384c441288b7750d64a31bd521743c92e1c0e440#rd
+“杀猪盘”骗局“Crypto Rom”继续对iPhone和Android用户发起攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538075&idx=1&sn=0373d604c00a671a9ab0bbb6d7726a17&chksm=e91585a1de620cb791e38e03afe7dc6c52b8a2f2ce745c738410981d4678209e74bdad678370#rd
+Linux Cgroups漏洞可实现容器逃逸:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247538075&idx=2&sn=eec498738f9b280ddbe23f8961cc57e6&chksm=e91585a1de620cb791170071fd7bbca7d6684c5280e4c453519077582497c89e6ad8f94ccb7d#rd
+新型的攻击方式可以使亚马逊设备攻击自己:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537997&idx=1&sn=a353f18f69e7e079e2048c4076f88a50&chksm=e9158577de620c61ad5c4f35a74b1a4a66325dbaed6141efd8ec5f57e69120a9bfaa13f1be50#rd
+Dridex木马在最近的攻击中使用了Entropy 勒索软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537997&idx=2&sn=3dfaaba250c5e1034f40cbcb032d5f73&chksm=e9158577de620c612bd08520030407e1e8e60ddca42c78f7b17efec27ab1aca728ec594a01a5#rd
+Pwn2own2021：Zoom零点击远程代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537997&idx=3&sn=1b47f1b05165b0b057635e3cf96d275d&chksm=e9158577de620c61b85ef97b444b4bf7f964ae8179cc131f740fc72909d81005311be2c2a8f6#rd
+恶意软件伪装成安全工具对乌克兰网军进行钓鱼攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537937&idx=1&sn=6b89764b4be37ddac5360c7ff1c2dc76&chksm=e915852bde620c3d81fcc906d0fa827d080d8543d5316614836603ea8711082bed3390a78398#rd
+12款基于风险的身份验证（RBA）工具比较:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537937&idx=2&sn=a7605eb59c3eed525a91f137293f8263&chksm=e915852bde620c3d4b99ad753d13f72959d9ca24a29f07f56708b8cf20b59b9d18d21c6f91bf#rd
+深度解析对伊朗国家广播公司的攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537937&idx=3&sn=4e3a4faff64baacbf67447e0fa188696&chksm=e915852bde620c3d7d41ddd3ae5f844779b970a1ca2955f62198d2d1cc1d26cd1b2d80913736#rd
+315晚会曝光信息窃取黑产，快看看你有没有踩过这些坑:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537890&idx=1&sn=b0184001fc341cb504581011a537a505&chksm=e91584d8de620dce407a7b9afb1242906c9d2feb3e1206603003bda0a4d49a2749fdf2f40103#rd
+使用开源的 Kubernetes 漏洞扫描和测试:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537890&idx=2&sn=2f2da3a2373715d93d148797e8487362&chksm=e91584d8de620dce80b6151cff366223d9d69c4e779e2902779dc6a1a8c54ea4385ea2d78a90#rd
+RevEAL：同态加密侧信道攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537890&idx=3&sn=809fd347cb3e0be0a859de96b9a25f56&chksm=e91584d8de620dced7b26c27299fa17b82b235b877a490fcdba88027c4cb82bb3717bc2d42ba#rd
+【技术原创】Windows Communication Foundation开发指南2——禁用元数据发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537845&idx=1&sn=0596fd65781ae92200231a88cc7d2529&chksm=e915848fde620d99fa9bd7bdbdc31f47e10ed0ef1314b2edaceeea377719e74c91cdbb871067#rd
+攻击者对Intuit的用户进行攻击，威胁称要取消税务账户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537845&idx=2&sn=cad6b2d3483ea015bfdc806662cb0017&chksm=e915848fde620d99fd7793ba449ed6a5b21cdaf167a12adbb48ef2b74d25852cbe17229d36d9#rd
+在Windows 11内部预览版中,KUSER_SHARED_DATA结构体发生了哪些新变化?(上):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537845&idx=3&sn=1843796e51725a361f23671c8749f034&chksm=e915848fde620d999dcb38e15ed4516390bba2bde929c8dc5a6ebc5636220be80f25cf300536#rd
+类dirty cow（脏牛）漏洞影响部分Linux用户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537784&idx=1&sn=d2d9956425832843b511e12512b16d26&chksm=e9158442de620d541ed7139daf0b6666317882e3cba00b399c737bb544b7c6220006f5fe99f8#rd
+分析新出现的BlackCat勒索软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537784&idx=2&sn=cd12fe74426918eabdd39ba7505a1128&chksm=e9158442de620d54bb83ad1b9a5826908177b03c3d44379fd1ea5558c1ba051e507ef3d0d19c#rd
+利用Apache Cassandra用户定义函数实现远程代码执行:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537784&idx=3&sn=1a2b1a309ebb660449bdae29bb4e276f&chksm=e9158442de620d545205d94d94323ce268024a2eb2b92189b7679d900caf605a784f45c4bb6f#rd
+【技术原创】Windows Communication Foundation开发指南1——启用元数据发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537726&idx=1&sn=23f702fc92c333a7cddd2362fb744afa&chksm=e9158404de620d12ac289b3408af14719322bde84cdd15893c234c6d5d7c2f549979b8cbba04#rd
+打造数字经济的安全基石  西湖论剑·第五届中国杭州网络安全技能大赛决赛正式启动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537726&idx=2&sn=d204fce6002cc1823b17f0a93dad25dd&chksm=e9158404de620d12a1bf4a05dd6dcb7f1b15f7e34f91453085e230715faf6c5b457dd4cfec34#rd
+2022年最佳防病毒软件榜单:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537726&idx=3&sn=a18f7973a4692040f84027df25a35cda&chksm=e9158404de620d120a4eec06957bb144344a0e3b86fa1da4739a7f7bfaa8f14c3ea115152a2e#rd
+针对援助乌克兰难民的工作人员的网络钓鱼活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537607&idx=1&sn=7556e42e1ac2c3ab803fc56d0ed1492f&chksm=e91583fdde620aebf5bf4cb0bea68095a560a8b8bacfc30a322a62e72462104b45cf9fc67288#rd
+2022首届全球数字生态大会 | 3月25日于杭城召开，广邀数字产业领域大咖，共商数字化发展新机遇!:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537607&idx=2&sn=a94d8db5688faa6e74d85f7eba19712f&chksm=e91583fdde620aebbb8ce2f3185060e6444c3e09495bc1c026cd3346a74d5079c557d4463e39#rd
+Fidelis Network&Deception设备出现了5个漏洞利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537607&idx=3&sn=f9dc563a46e22a78cc34e8d249c2eb87&chksm=e91583fdde620aebaf477b155d7cc38494e12d58d07a3901a8c089961102c46def8dc65d6d6f#rd
+IT服务管理（ITSM）5大常见错误及解决方案:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537546&idx=1&sn=d5c21b9d079f6f9edbe3a225331ce5fb&chksm=e91583b0de620aa66392e78e676690c1cde6705e9d9d083b2d7be24dae73e5776b328364065e#rd
+iOS设备本地授权中的漏洞和威胁:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537546&idx=2&sn=a21f4b01b84a8631c2e5770b1a5127bd&chksm=e91583b0de620aa653feadd0208f4ebdea024e6d003cf29a5ad37699a30916f48f2cf360308f#rd
+利用 Azure API 权限获取 Azure 集群权限:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537546&idx=3&sn=54a4e18ec500d37261579ab20c771d4e&chksm=e91583b0de620aa633e7dbc147c169e9f6e7b9ca33e87fd3c4a9fe903c8cfd7c02d710929b11#rd
+三星、英伟达数据被黑客窃取:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537491&idx=1&sn=7dab74b1acd60e5b06de872ac552ccd3&chksm=e9158369de620a7f432059b5699fc223948400661d340e9f05391643145e3c917ef42acd723e#rd
+乌克兰在被入侵前的几小时被FoxBlade木马病毒袭击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537491&idx=2&sn=5691b9ae9e3ff9d3bb03b31d80cdb2cd&chksm=e9158369de620a7f401c1d402354cd338fc321baf090264234d1f0b0c356245e150b22881776#rd
+Excel插件的武程序化过程:恶意XLL文件和特斯拉代理案例研究(上):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537491&idx=3&sn=53f21e7cba8ada1797ea2255df3ff9e1&chksm=e9158369de620a7fcb15e19673d9fa4ee1562c05e0f359e06029860d77744b98eb9c810283ef#rd
+报名中！2022网安园IPO宣讲会3月9日即将举行:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537441&idx=1&sn=9993be9b48faf0c6178d0793a9a6c32b&chksm=e915831bde620a0d2a883ad0ca30e2dfc53343e33dacb442f3ecad274d4e4de067242c6b8b49#rd
+OpenSea平台被攻击，价值170万美元的NFT资产被窃:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537441&idx=2&sn=53b1f3f1ffb2dd54d5b9c1d623c0a3c2&chksm=e915831bde620a0da2d2d277faa3eba47c6c44b2d2fb5727138d6e1f29d02f28fa078c5b8b6c#rd
+利用 PJL 路径穿越漏洞，实现Lexmark MC3224i打印机的RCE:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537441&idx=3&sn=f50e0162c472d5b74dc978a21a439c67&chksm=e915831bde620a0d4479515b5e191b2ce7383d9126d7d43189ed56264d30569484e318b35c3b#rd
+【技术原创】Java利用技巧——通过JNI加载dll:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537401&idx=1&sn=625076a70b6e3d956ddee5e00cb90e9d&chksm=e91582c3de620bd58c7b95fcf9a6d68598b97f131fc596c4ae252dd5efa274ee1c17f97a5775#rd
+微软Defender漏洞可绕过反病毒扫描:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537401&idx=2&sn=36db3068353e846d22c971a8a5b57fbf&chksm=e91582c3de620bd577a473857c314142ad8d60a8e1da06f5feb8cc90628953ad44404e0847ae#rd
+大规模的Meris僵尸网络嵌入来自REvil的勒索软件注释:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537401&idx=3&sn=d63ac69548ddd6facf6de2b071327dfd&chksm=e91582c3de620bd548b5f919bc4917b3cc6b4a386f03f662261a7cfdd8297308392affbdb941#rd
+存在8年的HP打印机漏洞影响150种打印机:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537362&idx=1&sn=37c01c4bfd8fd77811d7b65a5eee1ba6&chksm=e91582e8de620bfe8332f2dbbe8fd6d4b42a2ac0d804437b470a65949eee098c19796391912e#rd
+自动化地分析Windows系统缺失的补丁及对应的漏洞情况（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537362&idx=2&sn=38043157fa017a06cd558f48e174c2f8&chksm=e91582e8de620bfed643474cd9fb65c6e58e19144614b8398b4777603b7ad95d820c88671d07#rd
+针对乌克兰的新型雨刷式和蠕虫攻击在战争前就开始了:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537360&idx=1&sn=23ccb03553bf4a9222557040f4f9eb8e&chksm=e91582eade620bfc42e4e56b59d658ee3b0cffa7626d0e48e8b552166c65438853f28fa3410c#rd
+微软Defender漏洞可绕过反病毒扫描:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537360&idx=2&sn=fbfee93ca95cfb39899c7e73ba29b8d5&chksm=e91582eade620bfc3c3f7eeb218e6e07c60dab57814436f1154c95715f647f135f5a45a4ba89#rd
+攻击者利用LinkedIn针对求职者进行钓鱼攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537359&idx=1&sn=1bcdd6bade1448ed170b603c6da0e77f&chksm=e91582f5de620be3b64bf684c30d3ce57b50384f0f04da711a8acbdbdbc3f089a00d7a002083#rd
+安全的内核补丁保护之SKPG扩展:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537359&idx=2&sn=0f8b5e6495729126502940aa39fabaab&chksm=e91582f5de620be3c421c84b56a49f66af41d3d585e6a065243ff96ad4e8fb8e18556f5dd56b#rd
+俄乌冲突快讯：乌克兰网站被攻击数量超10倍:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537293&idx=1&sn=3af6e1ade43a5872a7ade8cc86fa6d81&chksm=e91582b7de620ba14fba64fb01ac1e63d82672089fa7cea2d2afecdb1d0341f202cb41322bec#rd
+Microsoft Teams正针对可接管终端用户电脑的木马:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537293&idx=2&sn=23ce3d0bcaaff3854c156b76cf403f13&chksm=e91582b7de620ba119eb10e4396d57ed95a00da416464883ebbc0d84003166575ebf4121ab6b#rd
+黑客使用 OutSteel 和SaintBot对乌克兰实施鱼叉式网络钓鱼攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537293&idx=3&sn=144f30f76d5e85b6929fe1ae7162b8f8&chksm=e91582b7de620ba154d5077a64ea4fd4638cc2da9da5f44b7834c482bb6deb4ee27ef551a2f8#rd
+丰田因疑似遭受网络攻击计划关闭部分工厂:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537236&idx=1&sn=d159d8e872269e02faed3871be035b22&chksm=e915826ede620b7855400b9231f95ec384c0ec1e2e761252357ef3032baac5c04c8426006fc7#rd
+基于Baby Golang的僵尸网络为运营商带来了3000美元月收入:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537236&idx=2&sn=764f501eb93e35a4dd162e8c72cbfcf1&chksm=e915826ede620b78ce918aff936e642bc10e95154bdc5031aca4de963ad5efdae4937322bb43#rd
+AMD霄龙CPU逃逸：KVM突破案例研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537236&idx=3&sn=ebc46d432677e022bd18eb6315fea5ad&chksm=e915826ede620b78915585db2caab46fe5635dc12a74b623a1678ca7cb3c51ce3e3f54ad8839#rd
+嘶吼送书活动 | 《Rootkit和Bootkit：现代恶意软件逆向分析和下一代威胁》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537210&idx=1&sn=da2dceca947f3b24078b5e76283a3cc7&chksm=e9158200de620b164bb1923def041c142e4f49e4a02e5266bb12370eae5a0627d92da8a6f97c#rd
+乌克兰招募黑客军团攻击俄罗斯网络:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537210&idx=2&sn=ddf966594a4c3e17c117a71ce2b38351&chksm=e9158200de620b1601e9399676b8e5432b234a601085956b3e60d1a3ad40467ed39d21d8fbf8#rd
+绕过软件更新包加密，提取Lexmark MC3224i打印机固件（第1篇）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537210&idx=3&sn=c62b001b757f7c1c8fa854229db2e7a3&chksm=e9158200de620b1697e107dd7fbec3ec43f58f23c283c50d82f3db67f8c47ccb89f18ad2553b#rd
+零门槛运维、安全能力过硬，“360企业安全云”向中小微企业免费开放:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537172&idx=1&sn=bd7fb9c1fbf22b28ae3d4d0b54183f06&chksm=e915822ede620b387bd94df177ddd7377884204a7ab67dbe69876ff2d95ab5d10309e04d1cec#rd
+如何调查云服务提供商的安全环境:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537172&idx=2&sn=e88876e2ed58d931444694b1a8ba3e58&chksm=e915822ede620b385e4b57a4e48db3e9d1188b9fd385594c8e78b44d755c5dc0aa1a0b59a119#rd
+Gamaredon又发起了新一轮网络攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537172&idx=3&sn=aaf69843c969cc258f5b766377f4c963&chksm=e915822ede620b385b415fd30452afc025cdd103800cfdcc888332324d8d80d5e32dc3240969#rd
+翘首远眺·纵横观瞻 | 腾讯安全发布《2022年产业互联网安全十大趋势》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537092&idx=1&sn=ebce5059e7277f97b5a17ed51116a5b1&chksm=e91581fede6208e83211b27ccb49ef2eae558e192ff096a80f07921a92ac066f76bb902eee3b#rd
+白宫否认计划对俄罗斯进行大规模网络攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537092&idx=2&sn=2455ab6b9c4c532d64335bc4060e1119&chksm=e91581fede6208e8832d62aa37e15d6c1446b54b25a46b22f7075f33d4d49484ae5adb792c76#rd
+针对乌克兰的网络攻击中使用的数据擦除恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537092&idx=3&sn=d5304d32d6f096a9faf52caceb8347c8&chksm=e91581fede6208e8c6dac29328768e75de6e34204909e219b5c5de7eea3087ea87e4b5ac389a#rd
+众智维科技完成数千万新一轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247537092&idx=4&sn=7243980ec8d038957c3d1ccfa41892a5&chksm=e91581fede6208e858fdc6b50ff0b1fac2cd9c63e88e335605d9b7d0c75e39aa469bee292a9b#rd
+2021 年网络安全岗位角色及职业发展路径研究报告:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536828&idx=1&sn=5d7dca7ab940f1298cffb28a74142004&chksm=e9158086de6209901d2b8f16c2603d0d5121dd0175bd6c84cd85a2ce27fd6c27460fa5596f96#rd
+基于Binary Ninja的静态污点分析：以MySQL Cluster漏洞为例（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536828&idx=2&sn=2793424400c70867dd50069d7e862a37&chksm=e9158086de6209904203342dd057deca262d382aa174950e92a1a36f4e4ffbf8f3ab105f5cb9#rd
+嵌入式设备逆向所需的工具链:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536827&idx=1&sn=badfc0a2076decffd0a2dbadf0a3f5db&chksm=e9158081de620997cc865ef99b6f763e6b73dadf7c8906ad1e1aadeba152b5bcc59e683d00c3#rd
+Wormhole加密货币平台被窃3260美元:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536827&idx=2&sn=6cfcb62a976aaf7c2229a87d5c911e30&chksm=e9158081de620997b45de1113e5c3889802d1f5a75b292b05c0ebb2468f25ffcd1824d2d3fbd#rd
+远程医疗安全性分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536725&idx=1&sn=794858ad6b6b8aae2e11978e8a1ae5e2&chksm=e915806fde6209793826f7e35f9f313aab36a053498d871da009d1b9bbec64e06eca41607c87#rd
+PHP Everywhere漏洞使3万多个WordPress网站处于RCE攻击风险中:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536725&idx=2&sn=3417ef92cb465878bcae02ad79774e06&chksm=e915806fde620979b32df8a1879b75919a1eb8f7b44db684499318e921b997249e550156f2f7#rd
+利用加密算法漏洞提取Hive勒索软件Master Key:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536725&idx=3&sn=15c799ba1f1e8af88a0e8591dfb2c45f&chksm=e915806fde620979edd263cba3e070b7dc73c11c36f065c608609b0e646416c9db7c6435aaf3#rd
+嘶吼传媒荣获 “2021年度通州区高精尖产业新一代信息技术专项奖”:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536689&idx=1&sn=1204b16a473795f53c38a42c033913d8&chksm=e915800bde62091d4c1ccc1c106effc55611063e7b35765ce502c4fd911988adbc6591675a61#rd
+谷歌Drive标记macOS '.DS_Store'文件侵权:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536689&idx=2&sn=fd94826d4ccf5299c13636fa9c848d7b&chksm=e915800bde62091df1db8fa0131049fe9d2e13335349ea4ed592c083ce13256127074cde7466#rd
+Linux 内核 TEE 子系统中UAF漏洞的模糊测试和利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536689&idx=3&sn=b810e2c222ec70f000ae8683c82b0f44&chksm=e915800bde62091db1ff2e2aba29d427f627a9a4e4a0dd7de07252d019ffa468c07a575172cc#rd
+【技术原创】渗透基础——Windows Defender:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536631&idx=1&sn=3874b4198685ca11dc3892fb67a32358&chksm=e9159fcdde6216db9689820b071f64b93caf8946628b4606b95ee1051a0b94df29fab6df88ab#rd
+基于资源的约束委派:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536631&idx=2&sn=5320cad5993303071a9a11d65e760009&chksm=e9159fcdde6216dbd7551b7c7fe1eabf045418f417d6a54df993b62f7414cb0b816d67d392f9#rd
+网络骗子通过植入伪造的数字证据来实施陷害:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536631&idx=3&sn=fa2acf6f5d45c2880bdc13eed24aaa5d&chksm=e9159fcdde6216dbd1c4bb017b708bb148c0e74617443459d71efc345003a009f439103bae77#rd
+不同以“网” | 嘶吼官方网站全新改版正式上线:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536540&idx=1&sn=b39769800e3c3fcc395a50954d1c7745&chksm=e9159fa6de6216b039fffd24172c28083061f561df1b43c82d9269d25fc2b5bc3065cd4ded5c#rd
+目前Emotet通过恶意的Excel文件进行广泛传播:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536540&idx=2&sn=bd90274e772965e0298aa400e9504ca2&chksm=e9159fa6de6216b0f515a6b6906aaee7b8dbfcdb668313f6dd9fc7cee664bb6a362e6f9c23d4#rd
+基于Binary Ninja的静态污点分析：以MySQL Cluster漏洞为例（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536540&idx=3&sn=0cb71d421294cdd4465c3e732b725c74&chksm=e9159fa6de6216b0d4149b43ff282ebfbdd2c0180ca640f9124b52303926d35e5f0a48f7b88e#rd
+2021全年垃圾邮件和网络钓鱼情况统计分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536471&idx=1&sn=db527525419c4e85b444df1f1bf6fb65&chksm=e9159f6dde62167b62a63bbd8d48a1fb3c968a8d2e646384ae7966cc4ae5aa5165ab95456d77#rd
+微软计划加大office宏的开启难度，以阻止恶意软件传播:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536471&idx=2&sn=7342f5842a2375f244f72b9f4c6d04f5&chksm=e9159f6dde62167baaaea8c83e2859921391a06a20428ecf441458dc417f9ddc137123407975#rd
+分析Andariel组织的TigerDownloader和TigerRAT:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536471&idx=3&sn=e2ac5f5e7a90e83cad1870d1395c38cf&chksm=e9159f6dde62167bb70e45a08f3c4e5f9681e5a23faf02df1fbbf4f69c4834037aaf48c3a7d0#rd
+安卓引入隐私沙箱限制用户数据共享:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536373&idx=1&sn=9eaf40962d7c6f2277bac5f4b72e09fd&chksm=e9159ecfde6217d90eec58e9fac5ba74b4c3c240d6126063c4b8179f07deeb6dd3bee76bd37d#rd
+对Broadcom无线芯片组的逆向分析研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536373&idx=2&sn=1702925d41421d33799a7ebb3e74768f&chksm=e9159ecfde6217d9b96c5bd48912a86de330428b08e8d61a87431fc95eb4a8e1561b24a03e7b#rd
+数以千计的恶意npm包威胁着Web应用程序的安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536372&idx=1&sn=f81c6a370e3cc7fce61dca865c31b8db&chksm=e9159ecede6217d8923f3285ed9cd5f38e091ac14ecf122c41b6c748817361d7ceeaa71e1298#rd
+开展专业的红蓝演练Part.22：演练视角优劣及反向红队演练链路:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536372&idx=2&sn=2309aab872229b317d3bdacda9570dfa&chksm=e9159ecede6217d80f9b93393d8a6eefe7b19467c958f1653b6c60ed16caea8cc8ed4d7b6f03#rd
+航空领域遭受持续五年的恶意攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536293&idx=1&sn=f6446e2d69231d50e237380abcbf9624&chksm=e9159e9fde6217898b457cbcbeeec998d5ea871f2de760009a04213d0c867efa7ce09077e00d#rd
+PrivateLoader：许多恶意软件攻击开始的第一步:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536293&idx=2&sn=534a475754ad3184ba454dd189dc996d&chksm=e9159e9fde6217899fc8d9f568c37986135cbfc7d1d20ca1328f01762ebca61a7e21f00375b0#rd
+攻击者是如何将UNIX管道用于iOS内核攻击原语的:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536293&idx=3&sn=e974a4e780a45f0a41d5c03233795c04&chksm=e9159e9fde621789d6839772232705b6612178605120059cd308ca272b09e524bee07dbbea35#rd
+通州网安园·开年有新番 | 2022网络安全企业服务与发展推进会将于副中心举行:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536229&idx=1&sn=2b01ed5d0543168a8fff19901b50103a&chksm=e9159e5fde6217497b889f814e57f9e1a274343457d8d80fdb4832b9ddd2c498615cacf4862a#rd
+Argo CD漏洞泄露Kubernetes敏感信息:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536229&idx=2&sn=39b3dc70ba05beda0e3aa3f9c988be11&chksm=e9159e5fde621749c78f6f0c6ce9cb0ad6cd885e281eea840216d9554a5dfa014dd5b18b3da2#rd
+STRRAT木马又伺机发起攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536229&idx=3&sn=de8ad455c4166e876e5c0c6d8f39c042&chksm=e9159e5fde621749fef2e34ba1f373677fa4d199bfe37059b60b59fb33a2bc4eaf6b813cf21d#rd
+【技术原创】Java利用技巧——通过反射实现webshell编译文件的自删除:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536158&idx=1&sn=bf2ac369a371e9dbc147dd362f6dd4c7&chksm=e9159e24de6217326ce07dd2da34cf561f69ff81cb6ddaa1670cd7a8737e48674c6783669902#rd
+McAfee的漏洞允许攻击者获取Windows系统权限:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536158&idx=2&sn=0677b6149adbb48812339818f7646394&chksm=e9159e24de621732a1a27cecff579346fed1932708f2e21ead4668c16fe12684a1b25b5cf61a#rd
+嵌入式 RE 介绍之通过 UBOOT 破解 UART （下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536158&idx=3&sn=a3a0eb32522ef54afd2f51567188ef93&chksm=e9159e24de62173274b71047f7dcbb67c99b4162d1d56c4d93e840ac68a0471901384dbca307#rd
+2021 年网络安全人才招聘研究报告:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536076&idx=1&sn=548bdadd881af9b6be4ea7b8b7838dcd&chksm=e9159df6de6214e0b537c82e309b41b7d97586bfaf88a63fd1eb484bd30aad817d7b9e251ee5#rd
+Zimbra XSS 0 day漏洞利用可窃取邮件内容:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536076&idx=2&sn=b4627089853b48bdef110d8eb7b04eb3&chksm=e9159df6de6214e0c886d7dafe80cdbf1ca692fcfc9f87ac8133d363e76636c615913b062d94#rd
+PowerPoint文件被滥用以接管计算机:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536076&idx=3&sn=009a5c5df10995b3e7c7d0819f3517c2&chksm=e9159df6de6214e0147c4c23cf3034567f05b4a1e7c188be549af210bf84a44058ed7b8e9276#rd
+《数据安全产业竞合力洞察报告 2022》报告调研召集令| 嘶吼安全产业研究院:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536035&idx=1&sn=d15e0150ab0f9a38b8d731119d816fc4&chksm=e9159d99de62148f6493e85542f78008c7c3ac8d1768fdde84de5ff44e9000a2bd1ade95c0d9#rd
+Linux内核API的复杂历史:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536035&idx=2&sn=477190cac13c1fab070d4c4cbf5cfc96&chksm=e9159d99de62148fe17948878d1035d8da2963acd2ec22af777174eed334efa8f33b2934d3fe#rd
+嵌入式 RE 介绍之通过 UBOOT 破解 UART （上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247536035&idx=3&sn=70b95dfa28225c5c74cb09a9d9bb20e5&chksm=e9159d99de62148fede7c2f30192b9a706422ff2ecf58362b77802c55a6fdca48f844c675e14#rd
+攻击者利用谷歌文档的评论功能进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535978&idx=1&sn=0fd5105203a5f0f8fab7d7207b5c5e06&chksm=e9159d50de621446065a1de5d383b52c463c90a73822cc1ddb75e133dfd8859ee769f02dd8c0#rd
+深入分析CVE-2021-43848漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535978&idx=2&sn=464c863e1988029381ae22e3a552258e&chksm=e9159d50de62144686a054cf6bb4968404d424a688576fc560a25e2f7541581c90ddd972b13d#rd
+DRAWNAPART：使用GPU指纹来追踪在线用户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535977&idx=1&sn=5ee0a0327c13eae2f343fbee12186c9e&chksm=e9159d53de6214451700aca0a221f1f30a7445102911626a67b8cabdb8a089002cb9bcb14516#rd
+容器实现背后的 Linux Namespaces 进程隔离技术分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535977&idx=2&sn=43c98dd0cd4846653376d9fb5dbd8220&chksm=e9159d53de62144581abb0795c89d75fc3ebb92cdfc2fb34e5419443bd73a668546e68428474#rd
+UEFI固件发现23个高危安全漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535929&idx=1&sn=12fde24e73aabcaf9c1af8b81ee13cb1&chksm=e9159d03de621415efe86cbd60012e1e5e7bb99c30ad2fc758460f0489eb008ed2e6579a275d#rd
+10个关于攻击CI/CD通道的场景:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535929&idx=2&sn=29849c0915188bdd3e6bf9f9667f4214&chksm=e9159d03de6214154b84967be59ee2b20e94432208b411496ac0ab6351e517643e1a07c863e6#rd
+MuddyWater组织最新攻击活动分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535929&idx=3&sn=de2fe5dc324321acd10db1b47d5f1868&chksm=e9159d03de6214158e044e4268b881c556861615a2b969a922048427cee16d41413069fdae09#rd
+ManageEngine桌面服务器漏洞使企业面临恶意软件的威胁:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535894&idx=1&sn=02204e4662c455846851d7d0f179498d&chksm=e9159d2cde62143a66d68924b00e9774174aeb7e2974732f7ec0de01aa783558c465f8688ac7#rd
+Windows权限提升漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535894&idx=2&sn=8618214548cebb70fdb5796439f930e4&chksm=e9159d2cde62143a886eeb41ec8bc91452ac154321d2b3aecbb1c243b6923176a948029a149c#rd
+用 rellic-headergen 编写你的数据结构:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535894&idx=3&sn=ce024b68823d2e72000149c419b5b92a&chksm=e9159d2cde62143a9f8ee1bd022c6c349b7728600ae48578ea366b9fbd6cd98a42c28ddf5caf#rd
+勒索软件进入高利润勒索时代：从大规模攻击到精确攻击的转变:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535854&idx=1&sn=092a2d6a7ed17d7cefe3c81cfdaa7386&chksm=e9159cd4de6215c2f3baa2b12a7b08c9d5ef4fcaad60745b2dc26af179557ba5a886a810cfe3#rd
+Roaming Mantis攻击最近又在欧洲肆虐:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535854&idx=2&sn=95e2d9254312b38dc2d37de92c0c4fc6&chksm=e9159cd4de6215c2cf98bed16e1f7d9056236d89f75034417832693a89ad9818f9a424cdf19e#rd
+AdSanity、AccessPress 插件打开大量 WordPress 网站以进行接管:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535854&idx=3&sn=95c270518d6c110a6171734fa03657fe&chksm=e9159cd4de6215c290c6c2bbc0007406174dd8dc2ec88488791a3c5c9590f797106496701381#rd
+【技术原创】Java利用技巧——通过反射修改属性:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535808&idx=1&sn=311e76bc6043cd7fa6ff66007cfc6fe2&chksm=e9159cfade6215ec88321dddd8da3ccbeb4e809cfd439622361f98c23ac03da1ffbb2aef33c1#rd
+Linux kernel bug可实现Kubernetes容器逃逸:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535808&idx=2&sn=072934ebf43f4ce2a380ead549903bc3&chksm=e9159cfade6215ec21396176d5d34c8dcf17105840c89a77df5aace3b9e75f4a2787de0ac437#rd
+开展专业的红蓝演练Part.21：演练的初始视角:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535808&idx=3&sn=7bf4ffc0127ac9052572e133c8a089b0&chksm=e9159cfade6215ec6f13aad5c5d71b8d20c6f68e104ada9e26005e24f422420c0bcdfbe0793c#rd
+Dark Herring恶意计费软件攻击了1.05亿台安卓设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535744&idx=1&sn=b8389dde3b95958fb4573ea538f5ab2f&chksm=e9159cbade6215acfe6e70103af3bfb86057a3f8a7cef724d48a9102a421d88ad1968d612804#rd
+PwnKit pkexec本地权限提升漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535744&idx=2&sn=fdf63afa0434ce2d45e5e89904d76ca3&chksm=e9159cbade6215aced60cd2b9d883bb52e60c6b531e47b0c0a755aa532fdbfaed43c49f81e7f#rd
+利用AWS Lambda函数漏洞实现初始访问:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535744&idx=3&sn=796ecfda8097b48931dc0bfef726b76a&chksm=e9159cbade6215acfd83cb0fda13ac6692d636d87d456183e905ec73e111627b6828f82f52f3#rd
+40万美元购买Outlook RCE 0 day漏洞利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535695&idx=1&sn=918011367223abfad0918f92582c8dfe&chksm=e9159c75de621563397a3e2ce52c92cd833d3a09d709dfc2faf0045dc566c868fe047b900c93#rd
+APT攻击可能的入口:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535695&idx=2&sn=6648119d2d9f0c02ea8ea034dfd08bdd&chksm=e9159c75de6215638d4561aadacaf1ae679659a5cf22ce32d857a0631e27b3828298fccaa05c#rd
+装有银行木马的双因素认证应用通过Google Play攻击了1万名用户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535694&idx=1&sn=7b44fb1b622f7bf240059fdeaad810eb&chksm=e9159c74de62156211c6e12f7dd0ed343fcdb24a62155ff41500e0fc8d916853ee84ecbfe171#rd
+美国政府将采用零信任安全模型:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535694&idx=2&sn=3c678fa0ff6b3b35bf1287382cb6de4f&chksm=e9159c74de6215625d2eb90cbb1d6595dac39056a77fb770a2224772b7d25a33a08fbc00d032#rd
+虎年大吉:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535654&idx=1&sn=78e2c27706ca1ba87c941e24551f5758&chksm=e9159c1cde62150a0b4fee26f2882e62359e71262b32c8e2ccfd70bae9db08128a352e490391#rd
+工业控制系统的网络安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535653&idx=1&sn=ab5b3b6c5405c3de11d5192f4a9a5a14&chksm=e9159c1fde62150961ab7da88fa36bd15fbe9be41895e8afbd867919b85d41358657a0aa57fa#rd
+Tor就俄罗斯拦截Tor访问上诉:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535653&idx=2&sn=aa2eb4c030a8b9f97976db88bceefb91&chksm=e9159c1fde621509b79ff0a5c7a76e42b66230126b699fed9e89d466d2d8a3e1d7aad8cee9c1#rd
+黑客正在利用谷歌语音认证进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535652&idx=1&sn=91b8e1e5c91ae444c5efacc484871fce&chksm=e9159c1ede621508375a592bd1b7592589b8a78a56e1dde3892ea335b19b8d98b9750f6f562e#rd
+深入考察视频会议平台Zoom中的零点击漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535652&idx=2&sn=33439520a3a425646bfd5e2cb4f1196e&chksm=e9159c1ede621508c0d075580ff31a1f108b5eeb18fb1af010910e0e282b08c44fa0f4862989#rd
+Log4Shell漏洞攻击分析，教育机构遭受攻击量最高:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535651&idx=1&sn=1e27add4f39beadef2e768ebbaf03b56&chksm=e9159c19de62150f3455751643b57e8bddf0aedea29e0db1839cbaed4964a12f8427ff9075a2#rd
+Windows WSL中运行的Visual Studio Code服务器被发现存在RCE漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535651&idx=2&sn=7b50b889a220bf780cc32ec486c9c3e3&chksm=e9159c19de62150f92c76a2c125c6417aad1e1c5332747f87c5032ee2cfc3e56458a6f9f79ec#rd
+安全加码！安全玻璃盒[孝道科技]完成数千万首轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535650&idx=1&sn=3a75c543305ffdf949ee3316ab762072&chksm=e9159c18de62150efb57b289e3db7ab611b3927ea8358439aa8bf34503a211949fc6572c1565#rd
+【技术原创】Zimbra漏洞调试环境搭建:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535650&idx=2&sn=081cca4346e4b56a08f1cd5be6fb4979&chksm=e9159c18de62150e41f18d3b2b038d7a51801590c14cfad57932888f5b20dafee3bba79c9438#rd
+Chainalysis 2022加密货币犯罪报告:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535650&idx=3&sn=d13cc79af53076f6ac967920df5b9939&chksm=e9159c18de62150e4dddff89f2204394db6b2a27b9d6b87e174d53b570cd06a6fccef1268f3d#rd
+嘶吼解读·一张图读懂数据安全复合治理:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535639&idx=1&sn=766c27211fa81c8c26f0b4586bcd27e0&chksm=e9159c2dde62153bf12836fce3cc579fb3b6bd282e87bf494ef02aec56bea69031991349c5bc#rd
+Top 12 IT服务管理（ITSM）工具:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535639&idx=2&sn=7bc96db319e1ee72e3f07ad2e6e2fafc&chksm=e9159c2dde62153b3b3d0de165d0ef86e98f15de4cf18a32d61923ccdbde6111192a179ccb60#rd
+对Donot组织实施的攻击进行分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535639&idx=3&sn=03941768c0c5605f3cf3c2fd42e7b14d&chksm=e9159c2dde62153b5769b2872fdb2600fe308b4b6ac24ec13154e0d006f8cc978d93ec2c1820#rd
+某加密货币交易平台483个账号被黑，提现3400万美元:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535421&idx=1&sn=39b1c2e1f9b28dca0945f3aea86885a1&chksm=e9159b07de62121154d2647e941705e5fbe0efa6dbbcd2a85d9ae231844c79c2ee6ae8fa9ffe#rd
+Android 12 的隐私设计分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535421&idx=2&sn=90e1085da6ade7b092cd4bf4ddcb6a78&chksm=e9159b07de6212111ab59ea3884d03689037b346330c0de429836d66f8ac11a9e56accf9463d#rd
+使用Cobalt Strike以及IAT Hooking，绕过BeaconEye的检测:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535421&idx=3&sn=cb7c3135e9dd7ad9d6905ef2dac7ed6b&chksm=e9159b07de6212116d84e9a881724a315ac2800f445fd6ce4533e21efdff461327a9d0bd31f6#rd
+【数据简报】信创安全市场规模及发展趋势分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535336&idx=1&sn=6a417abb781041560f1a8230347a5452&chksm=e9159ad2de6213c4616885835097cca30c48e1fb88a4b16cdb30a3026251455c87fc1045945a#rd
+俄罗斯利用漏洞对乌克兰持续发起网络攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535336&idx=2&sn=7f22a7e71262c19903a5cb0dae09ef27&chksm=e9159ad2de6213c409a9a2b5620b3c4b1d8380eb7461b9e8eefe378c3c1d9dee6c4b25c66aaa#rd
+开源Chamilo和Moodle被发现多个漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535336&idx=3&sn=085f6e51fccd604245fa90de7c1a052b&chksm=e9159ad2de6213c4ce13022b55f784d2e8be1210361067b1e913180b6bfde55aab316fa7a229#rd
+数字孪生：虚拟与现实的桥梁:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535242&idx=1&sn=3dcce5c7d7a93431e1c6ada25795c636&chksm=e9159ab0de6213a61b07fede93a5238caa905a25d23883476e8e29d09b398c777d6990812dc1#rd
+HXP 2021 CTP大赛LKVM虚拟机逃逸题writeup:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535242&idx=2&sn=793711acd593d38ed59bd06522296e97&chksm=e9159ab0de6213a60486f9121007975aea8af52a59bab498afbaf84d92a2e8c31f81335880ec#rd
+三个含有相同漏洞的插件使84000个WordPress网站面临风险:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535241&idx=1&sn=61afe0ad852007927768d4a27b562036&chksm=e9159ab3de6213a523c6736f4e25663ef09a15958973d9018affb476c35996271640d7130f6d#rd
+APT35 利用 Log4j 漏洞传播新的模块化 PowerShell 工具包:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535241&idx=2&sn=a97d70ce84525aec520a9e1a24545591&chksm=e9159ab3de6213a5a0ac7153da00701e5002a18a5e91d50a90019047d378730ff68ef4c6e447#rd
+CAPTCHA识别器可以识别94.4%的暗网CAPTCHA:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535165&idx=1&sn=2f5b2410b9c8de899b35f39dc95419fa&chksm=e9159a07de62131174b724fd06bdde27d3d38fb009c78cd8e6760b0713f0152924d39c941c55#rd
+微软四年前的Azure 0Day漏洞泄露了网络应用程序源代码:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535165&idx=2&sn=ae609195c7cbbebc8ec11faa16f88c36&chksm=e9159a07de62131127f05da48b57bbab8a3a7a1a3521b6f3f1c18054223da7776a180d019a6f#rd
+利用Frida绕过各类Windows反调试的方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535165&idx=3&sn=aa88c4cc8c5e8178bb1186142d499ddd&chksm=e9159a07de62131153c23980bf8e96f97644a2490c58c450e25430534f4c6408aa8a8ad5f73b#rd
+2021年网络安全事件给我们上的“那些课”:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535120&idx=1&sn=62ac80aa3d75867522d336b5fd1bb8fe&chksm=e9159a2ade62133cf4dee768652cd467f844a7b49990be9f1ade2d8c0c7fa16363e11a55da9c#rd
+Egregor领导人被捕，它还会卷土重来吗？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535120&idx=2&sn=359490959765fcc6e9291c0f3971abda&chksm=e9159a2ade62133cc28751a03b7110bdc63befb9966f7b61c26a35066d91edf246371c168701#rd
+如何监控浏览器扩展与 NativeMessaging Host 之间的本地消息:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535120&idx=3&sn=11e02d32faf335209f0d805b12ba100b&chksm=e9159a2ade62133c55ce89ee3c37f67049e937295c930f26640e761e1bf6106a1d8a8d97b8f2#rd
+NetUSB RCE漏洞影响数百万路由器:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535048&idx=1&sn=042cefb0d934e3d61f25dca006243e4b&chksm=e91599f2de6210e4d86de2b8ad909fdf9d1739fe32e6fc7a7a5ec37cdcdb7e818548b1501131#rd
+大规模的网络攻击使乌克兰政府网站瘫痪:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535048&idx=2&sn=02fae0bdf36f3e45c393bdf9e5be89af&chksm=e91599f2de6210e48f275613aae81a9c6181b69fc88ba0f90cfba9dfabd47dd96cc948b42606#rd
+基于PyRDP工具从RDP流量中截获RDP NetNTLMv2哈希:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535048&idx=3&sn=39fb25c438d87d74640dc965bf3a4726&chksm=e91599f2de6210e464b50761b7eec245c9a478c496283cafad05c5f8f20fac0f580efbd35784#rd
+安卓12用户可禁用2G网络:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535011&idx=1&sn=442cfbe3d1d2ae0f85c895eac9391454&chksm=e9159999de62108f2d00ff6e23780e64e058599b26408a8e9837d015bcfcc39e29cee6397461#rd
+一文了解漏洞利用链：含义、风险、用例及缓解建议:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535011&idx=2&sn=13ab6a9704e22f7ecd77562e644d2063&chksm=e9159999de62108f6923074483e04d4c8c8f3c0a3630b615b1f92f9d047d26db71056407cb01#rd
+域升级——sAMAccountName欺骗技术:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247535011&idx=3&sn=c9af846b726283cf71be5760b17fc42a&chksm=e9159999de62108f33d3fc7d75c9f9eec1e56c014df9bed3f30032ab50c3529a361d505a2249#rd
+《2021年嘶吼电子季刊Q4》发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534951&idx=1&sn=c9a441a7506673bd5743d843678304b2&chksm=e915995dde62104b865ca67fc2dab286f17e07f3fd86dd0a73b796c8a124bb772562564921e5#rd
+BlueNoroff又开始对加密货币进行疯狂地窃取:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534951&idx=2&sn=bf27935e1d53d99330abb1e083898a32&chksm=e915995dde62104b041a9e3f21de317d1e81fb4876402df3a3ec7aead140f8c7df1d62664753#rd
+关于ProxyShell的NSA Meeting漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534951&idx=3&sn=821125412a7bd1912f4fc26cc2dd27c7&chksm=e915995dde62104b41614fe4b9170d8e49f2aa0a3338ca391f2691c4b94233388a110c88856e#rd
+FIN7组织通过邮寄恶意U盘来投放勒索软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534847&idx=1&sn=e6f5e4537886b5d40b0b73fdacf7df39&chksm=e91598c5de6211d3cf9f0ed3ce61bb8ee1ca4bfdc01858d20f9b1d64333e92080ee8cf292dcb#rd
+在PayPal中查找DOM Polyglot XSS的简单方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534847&idx=2&sn=5cbbe3512ba51feb8f64a016443c7e5e&chksm=e91598c5de6211d3deeb97959a551f356013c7a27fb42e703676ea064811f73f48dcd7e2c04c#rd
+SysJoker：通杀Windows、Linux、macOS的后门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534846&idx=1&sn=d63e49509a72435e268017ad3bbc3e3f&chksm=e91598c4de6211d20e534818b5c4ca0c26c74d81f0aab4c275203efa67330d2c6be7834ed4b4#rd
+如何利用IDA Pro逆向分析ARM 二进制映像:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534846&idx=2&sn=76380f614036a8aa5241197fcc9d2ab6&chksm=e91598c4de6211d209e71a2972918e23950aa9b83d3f17d9525fc90394fd9f2e62a13a303e74#rd
+2021年五大威胁帖子:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534769&idx=1&sn=1e1d4841576de010589444b9683f9585&chksm=e915988bde62119df68935021d3fc8a6ccbb0e0dffb7fc8f0ede579e71895454528fefc09cdd#rd
+9个最大的网络安全谎言:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534769&idx=2&sn=b14e208ae4d69146cd35d7e22f55795a&chksm=e915988bde62119d2b7c22c94971e1a5493bd5727c8cfe80b32203d248663adc3274cead15eb#rd
+劳动管理平台Kronos遭到勒索软件攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534769&idx=3&sn=98b7518b79ccdb4e516d6f6225b2630e&chksm=e915988bde62119da0de86b863da082eb1e0577bc32a3ee8a7d82e660655150993bd01478a3b#rd
+浙江省市场监督管理局批准发布了DB33/T 2419-2021《基于安全检测插件的Web应用系统安全检测技术规范》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534726&idx=1&sn=f4e88e9b44c17e1f38a507d83fa55925&chksm=e91598bcde6211aa99779968273565b64afe40b87246f48ec6c01f3148343f3b75713633e42f#rd
+URL解析错误导致DoS、RCE等:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534726&idx=2&sn=4ecf1c19ac4e33ee4c5182f98ae175b2&chksm=e91598bcde6211aa9193533c129e9fe64375c5d63c4e6dc8f35aa32f119204788d58a5d7baa5#rd
+Powerdir：macOS TCC绕过漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534726&idx=3&sn=cd2080b3ee9efc646d62c638eca2bdc1&chksm=e91598bcde6211aa88e712c19bb6804bf4d979c0a23acce1ffec8f65fbb75a7310c0857e4d55#rd
+暗网出现攻击 SS7 七号信令实现劫持和跟踪的服务:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534695&idx=1&sn=5dddc8016762417d0572b63265d10ae8&chksm=e915985dde62114b2fe33e3049947d62e8b9f7ea022498f040161a6d7978ce5d6cc85f5ff1e1#rd
+Apple iOS HomeKit doorLock漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534695&idx=2&sn=2b497b57b9d8d116580e4eb60cdd7b10&chksm=e915985dde62114bff30e5a34de3393675f01eea416ed8f7f9a20726bec0256609dfb59058a6#rd
+检测 Syscall Number 的新方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534695&idx=3&sn=df49c296bda8938b8011cec0afdbd796&chksm=e915985dde62114b70d22c0a1b8799c15cbbb62b38ba2db6d0846ebf0b81c99a0fa4ad479a71#rd
+17家大公司的110万个账户被破坏:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534639&idx=1&sn=51fde9c6bab53aa0315fe2856bab32ff&chksm=e9159815de62110305b210e01d12779295bd3fd1f6643bf50be4f7f083774ee105012d9128e0#rd
+DataVault软件AES-1024加密算法现实攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534639&idx=2&sn=82454c4a53d350af408eb5c26aa549bf&chksm=e9159815de6211033eb2fcc96df4fc8e102500dc55fe96d9a54f8071ecfcf7dee96b3c5b7156#rd
+使用Amazon Inspector和SentinelOne对AWS工作负载进行主动攻击面管理:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534639&idx=3&sn=6d415f91060293eef3b29694e1212b7a&chksm=e9159815de621103a62529ad7b222fc9e87f4324b0709e268b3904357881614dd0c4f7058105#rd
+H2数据库被爆类log4j漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534610&idx=1&sn=fe6c5847feecf7fe0bf55d7965366fce&chksm=e9159828de62113e1079f4a33fce54aa52fd8983031a176036d9233d70fb4f6ad54c143f7fc6#rd
+FTC将追查无视Log4j的公司:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534610&idx=2&sn=baa701e47be5ae4ce88ff6d058b35095&chksm=e9159828de62113eaa8af6ee2ad5bc87984870a994cc38d115897ea9e5db9ee9db7043804284#rd
+新的Zloader活动利用微软的签名验证对用户发起攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534610&idx=3&sn=72e7dcea52af1a834242bb5789b05df8&chksm=e9159828de62113e777c0a5685eeeb3b72c7b3bc3e91e1ce70dd12a94e20474a6ccd3f620180#rd
+All in One SEO插件漏洞威胁三百万网站的安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534511&idx=1&sn=bbfd43bbc68a31755c4f64903de55ee1&chksm=e9159795de621e83d893a6c3d2e6680638816124d5b4daaab01d6fbf6c0d1781146029844579#rd
+Squirrelwaffle利用ProxyShell和ProxyLogon实施电子邮件攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534511&idx=2&sn=237c35cbe08bc90e686ee35fb364b5f7&chksm=e9159795de621e8385b28b8f5f37d8004f994be7c27a184cdc571adb8d3bb98e42b34aa15002#rd
+McMenamins数据泄露影响了过去12年任职的员工信息:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534510&idx=1&sn=0972abac227e0287be86f0e21279ea50&chksm=e9159794de621e82408193fc847da78190ccb07a09a16a75e5cf34c3f0982f07976936393feb#rd
+TodayZoo网络钓鱼活动针对Microsoft 365用户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534510&idx=2&sn=838908d20fd6fbe75d02c13557fb22a5&chksm=e9159794de621e82ca336ef994f3060432c20524f747b0446a164b8d7b81383ad3a181310f1f#rd
+本田、讴歌汽车爆Y2K22千年虫漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534448&idx=1&sn=a6d2789b05d2e741ad1c21080dbb52e1&chksm=e915974ade621e5ce1d474967497be7a01fe582bf0b9477e2c47605f8f32e89449d9e3b19983#rd
+新型恶意组织WIRTE在中东的攻击活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534448&idx=2&sn=6505adaf4d52bf4d792c6a558e8d0d46&chksm=e915974ade621e5cb8c486b3e44906c26bee551d6dcba8797521e2352b79e0aa6af093c5ca57#rd
+新型恶意软件iLOBleed Rootkit首次针对惠普iLO固件发起攻击(下):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534448&idx=3&sn=d2f7543e899b6947120db9a8c13e1bef&chksm=e915974ade621e5c281d7f5a882e13ffc61b68b269560fd7dac66ba7328528217a94ab82b721#rd
+以太坊智能合约中发现47个0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534388&idx=1&sn=b23f0a4ba78728e30acb38ca0dc0bde9&chksm=e915970ede621e1881bd806ac2f3eb5f2627ce0f8a7e7bedb44d7c6cd255b1e17df27493e9f3#rd
+Aquatic Panda利用Log4Shell漏洞攻击学术机构:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534388&idx=2&sn=a9fa74df34240c9e28f76f2be1f284de&chksm=e915970ede621e18a258862bbe42341012ba305c31a99c4da7fffb0589b27eb2a509333f1d7d#rd
+2021年完美收官！工控安全厂商「融安网络」完成亿级C轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534388&idx=3&sn=7b060f29dfc6b68b68687aec44edd1fb&chksm=e915970ede621e18d4ba324c674d289a0ba3cd58308b742678fe35e0989888e7d2d626ac0355#rd
+加密货币交易平台遭遇Log4j攻击，拒绝支付500万赎金:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534359&idx=1&sn=bb4c82f95f9488edfdea6189e81b7ae3&chksm=e915972dde621e3b8e0a1f978f1ce07835bfffceb27d8350083cfb1e379c4985d38df25a0af7#rd
+志翔科技获C轮融资，大数据技术助力工业领域“双碳”落地:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534359&idx=2&sn=92a95e25edcad541f58fd44eb83c9732&chksm=e915972dde621e3b1280c87fb2f80943d632de8c179d9342229873f7456dc170282f9e68470d#rd
+新型恶意软件iLOBleed Rootkit首次针对惠普iLO固件发起攻击(上):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534359&idx=3&sn=3e3b4d8ea59a35924040840e7dd5d5d9&chksm=e915972dde621e3bb7132351bee61adb6fa9c32bb9b6f4982b7100bd13dc3c7084eb78992e48#rd
+微软Exchange服务器爆2022年第一个漏洞，导致无法发送邮件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534299&idx=1&sn=9d9697e53d8d9933c383368a19b4229b&chksm=e91596e1de621ff78752d13660d9bd1bd5f193986701cd202ca1ae635fb84d82cee683d43635#rd
+已经有攻击者利用迭代后的Log4Shell漏洞发起攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534299&idx=2&sn=2cb8359287c3ff7ab61899d7a9cad086&chksm=e91596e1de621ff7b93523c082d5977557cd40ba267236c74c62ce3c68510185ca36f0f3df5b#rd
+近几年攻击者利用Docker API的错误配置进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534299&idx=3&sn=eeab051e8822f581cdaba22e5d4da49d&chksm=e91596e1de621ff759e4145db12b553afd697750c0a0e7ae90ca0e6bfd8e2e6199f639655a61#rd
+【技术原创】vSphere开发指南6——vCenter SAML Certificates:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534273&idx=1&sn=8b82b406f0f5db3eccf1e59a7dbfbfb2&chksm=e91596fbde621feda9d19ee30a2a0aa9231fa0a664096a0e22aaf67a327cbbc6314dc59db600#rd
+攻击者滥用MSBuild绕过检测和植入恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534273&idx=2&sn=a41cee76202ea94052d34e065ece240b&chksm=e91596fbde621fed9e4b13416f04e8fb879d7c9612b10af993103cd5bd0cbf6d4b0d82053d93#rd
+Telegram被滥用以窃取加密钱包凭证:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534272&idx=1&sn=75b9c6d4e912b31225c811ac04172f18&chksm=e91596fade621fec33240e03a72de6824510b8ec4deeeacb0ca3e7397233b5e13d64c9eba8e1#rd
+深入了解DoubleFeature的Post-Exploitation（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534272&idx=2&sn=b276ffa1058cb8b8c55b690680ad2166&chksm=e91596fade621fec657b184f46e71f864cd8a35920889e4dfc957a6e117eb4aec2e427335055#rd
+美国物流公司100G数据泄露，涉财富500强公司:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534271&idx=1&sn=218f22bd8fb71acc70dfc0da80c45584&chksm=e9159685de621f932122ac24f5a86f8d653f4964f50a37f6b98139a7f83293756e1cc17edaa2#rd
+Purple Fox 服务器基础设施的安全性概览:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534271&idx=2&sn=557bef4c64418f108100507b5578f8e7&chksm=e9159685de621f93c6ca565086cec2a89a0a8bd5d8b78052da92eab6cb58b86a311892688819#rd
+你在圣诞节收到的玩具可能在监视你:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534164&idx=1&sn=7ec792cc0c85235d11decd522d8da332&chksm=e915966ede621f7882e70e86466a78093d7784848b18c06968cd95a9a0d955480a39afb90530#rd
+FormBook将最新的Office 365 0 Day漏洞添加到其武器库:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534164&idx=2&sn=31e7ed1f65fdd40875d2fdf027963e92&chksm=e915966ede621f784c3cbfbba19bf6638ad579f356f21ad558d4c9be18df083f5816bb9f1c15#rd
+深入了解DoubleFeature的Post-Exploitation（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534164&idx=3&sn=a1e6a35b9e610af65d435d4b848c3be8&chksm=e915966ede621f78f4ec5d2e0f7844a6fcada5d2ff7b955cafc07f04441278bf351d6e99310c#rd
+《信创安全典型行业应用专题报告》正式发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534114&idx=1&sn=c61665484eb8ee31ac978f051d156e1a&chksm=e9159618de621f0e8d368dcb8688dc3acc393b1b9519908d7e7acb9af9706b3133a39252453b#rd
+Windows 10中的 RCE漏洞：通过恶意链接发起:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534114&idx=2&sn=d804bfcc8b1fa2a7517273c66ab464a3&chksm=e9159618de621f0eeefcd5f8d1eebd788e705848ccf368e1e7ff8cc4b566c0bacfe7813fb529#rd
+攻击者可以在不适用恶意程序的情况下大规模盗取用户凭证:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534114&idx=3&sn=81e1dd5196087d2008c1705dfc94ac0e&chksm=e9159618de621f0e58cf0fafce0858135aa71f6c2eb70c084bec450daa8067250026e4994f6d#rd
+《2021中国网络安全产业势能榜》调研结果发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534037&idx=1&sn=5a7fbeeb2d48e351bf994cda6b707e93&chksm=e91595efde621cf94b0666bd6cc4a17212eddf891c587eb64b9c70301d4c23855f7b3c399efb#rd
+恶意的joker应用程序在Google Play进行传播:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534037&idx=2&sn=735dd2818f37dde37e6ade20f54f70f0&chksm=e91595efde621cf9a3caee634632d5e20be2d1368de6ae36ada1c8554695cb412205527d2dfe#rd
+为什么我们的反垃圾邮件会被攻击？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534037&idx=3&sn=b03dfc50d784c1188f8c486897036f49&chksm=e91595efde621cf9e2c0dc7307e46983e8e1d5b9414975a9b3e3becb2e88e55486e7996d8626#rd
+美创科技完成新一轮亿元级融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247534037&idx=4&sn=24aa95761116dff00b0a5cabcb0c8d24&chksm=e91595efde621cf9c2150f3a12c8292cd884c85f06b7eadf2b71b9ac2a4bd850dd734f6bb2eb#rd
+圆满收官！2021网络安全行业生态大会暨金帽子年度盛典成功举办:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533951&idx=1&sn=c55bdaf6d08c33a5dd2f413ecc6676a3&chksm=e9159545de621c536310458980be7944cab43092aaefe28d26eb761fb6a3d527701491b6c8b4#rd
+Handover漏洞影响2-5g网络:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533951&idx=2&sn=39468ce2d67443932696f2234ef9a18b&chksm=e9159545de621c5316ad3b7e8432caaef184609f321553f038352fbc62fe42029de52a93b4d8#rd
+对NOBELIUM APT组织武器工具集的分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533951&idx=3&sn=5d59822c4cec8b3e7b15ff8d9133b7ca&chksm=e9159545de621c53db92632eddd7cde7ecdb9fe59425622c5678cec83bb74fc0b7c1e06cd14c#rd
+恶意App利用华为Android手机触屏事件统计日志还原用户的触屏输入:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533842&idx=1&sn=f0455e47f0b44726475ab2a365a2b5ec&chksm=e9159528de621c3e77cab931581abddfb194e932812bca50c5e0cf51c6a1868efa250b59a3c9#rd
+2022年：应用安全编排与关联（ASOC）“兴起元年”:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533842&idx=2&sn=8312804e1265799290f36ee22d2748fe&chksm=e9159528de621c3e3bc729e0757ffd036a81665250cb65cfc9252d3dd4e598427152f9332d66#rd
+Earth Centaur升级了新的攻击工具和技术:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533842&idx=3&sn=3c610cda8000cac081ba6bfded1b44c8&chksm=e9159528de621c3ebb4e75a2fb0afe564b21dbbdf5c0d3dd038bea90dbc3e4716145622abdbb#rd
+C+轮融资再获8000万，赛宁网安2021完美收官！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533842&idx=4&sn=ba419675ddca0dba54080a63122ed4a4&chksm=e9159528de621c3e4d98ba6d9cce29d5adcea87ba3f2bb19c7aba281f95f79028e116405129c#rd
+600万台Sky路由器有被攻击的风险:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533748&idx=1&sn=f6569684f51c4aa7d2aab2d0c872756a&chksm=e915948ede621d989af4e357f80855010bb952c384245b7b3a7147e9e4c14017be6c550d6b91#rd
+针对 HTTP/2 协议的HTTP Desync攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533748&idx=2&sn=d705d37718c8819bbf3b95bee621a4a1&chksm=e915948ede621d98e5be0473bcd417bcf45a685a232ecf96ee74cdd9d0d94e9902d0eb97f9d8#rd
+【技术原创】渗透基础——利用VMware Tools实现的后门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533747&idx=1&sn=f574947f98c521127e12b3ab358a0fa2&chksm=e9159489de621d9f3d8f979cb38035b5471b7ca82b0f80ab87948b3672969c9215a9653eaa6a#rd
+新型"PseudoManuscrypt"间谍软件针对数千计的工业系统:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533747&idx=2&sn=43906c6bf223d6af7594e65ed8eeaa5a&chksm=e9159489de621d9f4b973f2aaf3cc990c4a5fd421a1b6466f4cdff6c86e21514807badad4847#rd
+《安全平行切面白皮书》重磅发布，全球首创下一代原生安全基础设施【附全文下载+演讲视频】:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533746&idx=1&sn=a6e39d0fd31e9e948b46af5be4692962&chksm=e9159488de621d9e1b4e35c3aa1835b1fe5a58d13334c7bf283533941716cea481e1acc1c6df#rd
+NotLegit：微软Azure App服务漏洞暴露用户源代码:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533746&idx=2&sn=bc8d1c181b0890ff5ba4b6c5b10e259f&chksm=e9159488de621d9e2dbf42fe9f0f8f310ad93067f2fb80917248b0b67c5dc6fb82524d9329f4#rd
+11款专家级渗透测试工具:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533746&idx=3&sn=cec8373b1e535d2b671be16f685da239&chksm=e9159488de621d9ed2703c63eb8ace0584f276e76ecd1ffa6e135a46259a8a757a05c0e64579#rd
+Phorpiex僵尸网络化身为Twizt重现江湖（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533746&idx=4&sn=d75983faa86f09d5d78747bea31cb6e5&chksm=e9159488de621d9e45b3a6a7d1979c998dadc6586a7d6ddb9f4ce3937279551921fcb621b421#rd
+【技术原创】渗透基础——Exchange一句话后门的进一步实现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533526&idx=1&sn=fd9938cb4b67adad0846d0d9f4ac42a6&chksm=e91593ecde621afaa697edd84af50a5240b35ab39666e6c03e77283278900b5ed83c04012b12#rd
+研究团队发现Eltima SDK 严重漏洞，影响多款云厂商产品:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533526&idx=2&sn=55bb46755d3ba0a95d36a1a21a092c6e&chksm=e91593ecde621afa3dc1b6e6e0d7150f60c1a757d72ea008103f7c6aa43b61f33ca75943ceae#rd
+Phorpiex 僵尸网络化身为 Twizt 重现江湖（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533526&idx=3&sn=6964bfc8d2b6b30e351ac558083b78e5&chksm=e91593ecde621afa8cad73a226819d94275be0d10101557dcfb27b55485dee139857823f9554#rd
+蚂蚁集团联合权威机构 重磅发布《数据安全复合治理与实践白皮书》【附全文下载】:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533467&idx=1&sn=4abb257bd835213fb69259106941abdd&chksm=e91593a1de621ab78d6032ea84b6311c3ec47a207709c33b64c7089fb6c202f71bc6bcca59de#rd
+DDoS攻击花样百出，第三季度多个行业被暴击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533467&idx=2&sn=86b9f27715ca04ae76b2c06b9a545ee3&chksm=e91593a1de621ab7d8067ca87e73d534791038c7de298e1ee26e7c7e79ac7e243fcadf6d80d5#rd
+新的Log4J漏洞可触发DoS漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533467&idx=3&sn=9ee8942ee314aa07c2634839d78dff13&chksm=e91593a1de621ab7cca0a1b90b4320a5e81985270bc88b4df1eb12703aedf70514e1ce8a63e2#rd
+恶意PyPI代码包下载量达数千次:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533467&idx=4&sn=4af6f485285bfbe9343a0394680c1c44&chksm=e91593a1de621ab7f18f09067fdd44fd69efef949653ea96207301b8cea286d5d01e642144b0#rd
+新的Log4Shell攻击载体将会威胁本地主机的安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533415&idx=1&sn=e71456f000559448af05131806669a75&chksm=e915935dde621a4b05c9d985fa5b495b0369640d585c4f4b3e618884aae6ab8b235cb80b1a69#rd
+苹果iOS系统修复了iPhone13越狱漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533415&idx=2&sn=23797ccebfe947f7cb21b4cc94c79172&chksm=e915935dde621a4baeaa9289a31f327bd02024b5a72054663372bbd70ce01201ef6e70d03135#rd
+通过滥用GitHub和Netlify等平台的漏洞进行门罗币挖掘:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533415&idx=3&sn=97ab5ce0b412e3ba5ba899383f0920cf&chksm=e915935dde621a4b7bdf3ba7dce096360b1ea05e2db08a8a7cb4c0a228147c5018d398369e0f#rd
+2021网络安全行业生态大会暨金帽子年度盛典线上活动即将开启:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533371&idx=1&sn=6523247aee155d837411d24b94a04dac&chksm=e9159301de621a17cd5ee6f0c929beb81c874447fb238788bc22b23c8ea85e0204e703957b55#rd
+黑客利用Microsoft 0 day漏洞欺骗用户打开恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533371&idx=2&sn=5dbbe84e3831c192f48030c9cf8746fb&chksm=e9159301de621a17d6baf7e6ef8fad9751ed05df16468c2ee26dc03182074069d42c77edd025#rd
+SideCopy新攻击活动分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533371&idx=3&sn=59fed4403c0a7317aa5512470ef6f474&chksm=e9159301de621a172de0ab4dde95742fe3e82670323a9ef1b192cf8ddd405259fb4e2a1c2bc2#rd
+NIST：2021年共报告18378个安全漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533315&idx=1&sn=ad66cd4287ea10c2af1bc2adefba551a&chksm=e9159339de621a2f8f2dc34c4b8bd4adffe37bbeef3fbfa19dbf8dba262d7982569933525623#rd
+macOS 系统的企业安全指南（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533315&idx=2&sn=ff532a8e8753fe3babaa6262b5709604&chksm=e9159339de621a2f8ebbd60230e1c8eb6cc120e4bfac0f2a9e1ce5a61f2d6b632ca358f189fa#rd
+黑客为获得160万个网站的管理权限而攻击WordPress:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533314&idx=1&sn=508398f57dc348d32dc003908da3ebec&chksm=e9159338de621a2ebdd3ff03ee469560843840401408e705c4ff1d29b75e68638bfec977dfda#rd
+Owowa：将OWA 变成凭证窃取器和远程访问面板的附加组件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533314&idx=2&sn=3d142201687aacee5e52e9332927a05d&chksm=e9159338de621a2e77da1cfce4a3ebbd27f09d5aee931a269909f5ef32c67e3c0ede40798838#rd
+WiFi蓝牙芯片漏洞影响数十亿设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533313&idx=1&sn=ee5a0cce58a228a4625cd8688bc27581&chksm=e915933bde621a2d985a91fc2dc8b342f86ddfb863f481384aa21942fef23dc4ab358244b041#rd
+对 5G协议的漏洞挖掘研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533313&idx=2&sn=5e7263c2f1892ddb617b786fedef56d1&chksm=e915933bde621a2d04bec86bfbd74c67edd0c48482e9b38e0dfb051940fff83d852831cfe086#rd
+ScarCruft不断进化，监视目标的能力越来越强（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533313&idx=3&sn=24792fd390d8fb45f39f88148109b859&chksm=e915933bde621a2de4048c2ce1d350dce071f03fe50d961710d4bf76574fbb2cdadc3028c6bc#rd
+短短3个月，累计融资超6亿元，瑞数信息宣布完成C3轮亿元级融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533313&idx=4&sn=768907d766be7005c1cb3edfe2323b32&chksm=e915933bde621a2d2a905179dce94d793bc94009ceea7c770db7de15f6efbf3931953c05a5c4#rd
+钓鱼页面的生命周期:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533183&idx=1&sn=4eb483ef67a2ba00247eede72e8b2e31&chksm=e9159245de621b531c36e680acdd8fae9f57b1f9e996b35f92dc835d59471a36e4232ff1d62c#rd
+Deepfakes：语音钓鱼即服务（VaaS）的声音“伪装者”:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533183&idx=2&sn=ae1e640629804cb00e679e87becdd5c4&chksm=e9159245de621b53fe8061aaee8268c75719585b5db74d938baf8398b95527c00300b634ac99#rd
+macOS 系统的企业安全指南（中）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533183&idx=3&sn=a298953d0ce2ad59e6da5751ee9c93b3&chksm=e9159245de621b53fd83370e30229435456f111c73b2b412b0d16979afa1ed051e7a45f0d01d#rd
+【技术原创】Exchange Web Service(EWS)开发指南6——requests_ntlm:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533057&idx=1&sn=8c2c84b20ae7e3bbc93ab12232f7f0d3&chksm=e915923bde621b2d8b0385093a744e8063d9e17163c171d2e9516bcf3adae7065ad2d4af3a49#rd
+计划生育协会网站的漏洞使患者面临更多的攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533057&idx=2&sn=6598f1222996161b882794c0d4c7fe58&chksm=e915923bde621b2d3d43a7111c65c1a6fc84a3b2858574bdef569285fbabcbc034351abb9101#rd
+ScarCruft不断进化，监视目标的能力越来越强（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533057&idx=3&sn=d454643e9b8b5d65c369569e102a7065&chksm=e915923bde621b2de74e1f27fac7cd53557912eca5cbcc2e4f48e1bfc34de5decd16127c9cf4#rd
+2021 年上半年在独联体区域内最为活跃的勒索软件介绍:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533005&idx=1&sn=e7fe99ded19988f71da8a94ce27f3afc&chksm=e91591f7de6218e1b3bcb78a03fd39e8c266cfe160aa2b9035e5a5feb94f456b293e91a00ddf#rd
+微软、谷歌OAuth漏洞被用于钓鱼攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533005&idx=2&sn=92d79b974b4248cb1300ef045968508a&chksm=e91591f7de6218e181699647e0ab56243df44d12be10fbf20064ab2e2a896d7945e6a27261fa#rd
+信长城百日资本再破局，彰显物联网安全潜力:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533005&idx=3&sn=7ed7b6d4539cc7afa205f3d71e29c25e&chksm=e91591f7de6218e18b5b0741768094464b5add12dc552d37f75840b75a64f09d84c88481cbcf#rd
+聚铭网络完成新一轮融资，加速推动网络安全托管服务发展:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247533005&idx=4&sn=eb2c80c5166a67dbd6a973d8e11dfea0&chksm=e91591f7de6218e14af11cdfe57e27cdf9d71b9f3006812f07f5bbfd25ffb6cc84865b724e47#rd
+美军核潜艇机密泄露案：如何防御受过内部威胁培训的内部威胁者？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532942&idx=1&sn=8edd38fa04a702a1f53c2bb2bb28c5d3&chksm=e91591b4de6218a22adea9b7d375ed439f6575667ec0befd48997a3266dafc10d26794be5ab3#rd
+Glupteba：基于区块链的多组件僵尸网络:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532942&idx=2&sn=ed26441873f839d9fc3afdf01a6e6f36&chksm=e91591b4de6218a2c81e75000f9a0f4fec6f8996c3d95769317f0f82f70a9e0e49e7abb87bd3#rd
+Parallels Desktop Guest 虚拟机逃逸漏洞的分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532942&idx=3&sn=b6255307976db7c12f00766219422660&chksm=e91591b4de6218a279f5807dfa84a1ec5f85a541793b6b341fc38dccc5a58a9e8f26472ffa37#rd
+促进电子商务安全，降低在线交易风险:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532904&idx=1&sn=c43990ca161c2dc74a16e8dcd70b4dda&chksm=e9159152de6218444c672197171754c4c2fdb741f5038ec0e9b0d9fe141c0f5462c2a0ed74df#rd
+GoDaddy最新的漏洞影响到了120万客户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532904&idx=2&sn=c644ba6055144b376c332a258c0e4f8e&chksm=e9159152de6218446c3ead6b5b7ea034f1b4dc1382f8eb26c25b4193764b09f6b558731652d6#rd
+2022 年的高级威胁预测:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532903&idx=1&sn=864c3f12354f94c77060e388f9a0390a&chksm=e915915dde62184b42dc46d99b070ba6fc1d2ace0c30ee532b3e70893b4bfe51a7914ebf0f91#rd
+Emotet 僵尸网络在消失 10 个月之后又开始借助 Trickbot 复活了:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532903&idx=2&sn=000c16ecdc07789b1be427d1053c5137&chksm=e915915dde62184bfb8c2f9d25d52cf9840178639eb619d971def93d94e2a1bda28687e539da#rd
+【技术原创】Pwn2Own 2021 Microsoft Exchange Server漏洞利用分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532858&idx=1&sn=e81ff729a5aec580c26e4492cfc696e8&chksm=e9159100de621816d743de12cdbe001fa76909457e45c0b2abd092dec0c3f053b7cd4e993d54#rd
+9款WiFi路由器226个漏洞影响数百万设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532858&idx=2&sn=eff0c24b4d2d712555b1c9d7d5d37ac3&chksm=e9159100de6218166c8f0097d0b1abdd64840a2a13b04374da434ef2d38d5d276243a8f12032#rd
+极盾科技完成数千万元Pre-A轮融资，由IDG资本独家投资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532858&idx=3&sn=3e2322f17e93793a14d2a411bfc57ed7&chksm=e9159100de62181670536c1161440ec1829f17102edce72de72d32e35741c537e4291142931c#rd
+数字创新 信任先行 | 浅谈数据安全企业布局与发展:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532816&idx=1&sn=2109a582d30fbe482ed294adbdbd3973&chksm=e915912ade62183c59e1fe452f2110f05357b696dedadb76eba3701452877689ae89d7b9242d#rd
+"Cuba"勒索软件团伙获得了4400万美元的赎金:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532816&idx=2&sn=26f2dd83b17b531d9dbade28f94dc223&chksm=e915912ade62183ca7e989af095446b9a39df7b8bdcabf8d1e33947d0a007ffa6fe62c56e97c#rd
+Smishing僵尸网络在伊朗疯狂活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532816&idx=3&sn=605772f580a0b698e495d361b524725b&chksm=e915912ade62183c06b6520716c90d0298ac530f3c54d15c7274b46daca7f52e07ac4754d7e6#rd
+需要紧急“叫停”的11 个网络安全流行语:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532769&idx=1&sn=92a65ea0e59c2874432469efdb831dc7&chksm=e91590dbde6219cdde7f481f3f4b4a19850a1b8282eb869b0281c43310d6afd067c2de8192a4#rd
+恶意KMSPico安装器可窃取加密货币钱包:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532769&idx=2&sn=733c8a87e04dc6c2eb75292c55802b4d&chksm=e91590dbde6219cd10319cf555f444560c06d88adb0735237783103f525d63e2f51751081627#rd
+英国已发现Omicron网络钓鱼骗局:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532769&idx=3&sn=65dfeca1404a8b2492390311e48a6776&chksm=e91590dbde6219cdfad5fddb2793263fb774c64c41c58a83d2c2c66081889de74b5c59ef56d5#rd
+海康威视因自身漏洞被黑客利用而遭受攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532749&idx=1&sn=8d1bbdb8a9c92afb13aac7181e788d89&chksm=e91590f7de6219e1555c99c69a188278f6b5c741afd6547baa2aa0e19c4dac3855bfdc75eb62#rd
+如何在“零”信息组织中执行外部黑盒渗透测试:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532749&idx=2&sn=d671c000a6759505bc6ae1cb3a70efee&chksm=e91590f7de6219e152b326265c22a1c5d8e9b0cb43fbd28573786e7abbfdac3312e5b6b42020#rd
+macOS 系统的企业安全指南（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532749&idx=3&sn=82fe895cc61d303b7e9f8060b9b2f0cd&chksm=e91590f7de6219e1d683eca19d1d60684f97b5e3c8a3270226c4012cce0c540e26959b875ec6#rd
+松下公司漏洞被利用长达4个月，数据泄露造成巨大影响:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532637&idx=1&sn=2830c12583ef549e0a90dcf22086a855&chksm=e9159067de6219716f99ebff58bca7b5c976c91138b471d618b02a69e97a8ffedc9d7bfd88f1#rd
+为竞争浏览器市场，Microsoft Edge和Google Chrome互掐:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532637&idx=2&sn=de19baa9a94bcdb651c6e977cc3cb6f2&chksm=e9159067de6219711ba411aebaaf0850ede15227d61dd55aa615845b606299d8145c6664f5da#rd
+APT为扩展对ManageEngine的攻击而主动攻击ServiceDesk Plus:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532637&idx=3&sn=177c8559ccb83054836083f110a5d1bf&chksm=e9159067de621971a644aa9bb08a379fb7cc117d7b47e41bc8ac41de3617957009e49031ab00#rd
+2022 年互联网隐私方面的一些趋势预测:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532605&idx=1&sn=b59b2e78f8bd2f2d98e4be1b7f8ffe0e&chksm=e9159007de62191187e04b75b4f4d0e9d94e71986b0daa0feabb5556fa2dbe19bc15a9456716#rd
+苹果公司的诉讼加大了对Pegasus间谍软件制造商的压力:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532605&idx=2&sn=65516297d955a8e2404701b210982ea9&chksm=e9159007de62191182303535a3e77a4711c9356a18b92190dd2f9d0e8036fdc46d6e8ad1fb84#rd
+2021年第三季度移动攻击趋势分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532552&idx=1&sn=5df61cd2c5fc9612951c2f1a0cd8aed3&chksm=e9159032de62192418f1b9c4750265da54706afa10118b4d11749889a74cc19303061dd9e993#rd
+悬镜丨全球首款企业级SCA技术即将开源:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532552&idx=2&sn=e488fd3cb9bf2550468ed3207c12cf4f&chksm=e9159032de621924d4c244dfe6f582d46044debb3bb507bf118c2cde29ff78d146a52c41dc73#rd
+Printjack打印机攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532552&idx=3&sn=b305f1c24347845cbadce34449f9396c&chksm=e9159032de621924730bfd84aa28e7b20773757faa790324e3f6d529812056af1de9c98c6e3d#rd
+从时间被黑说起……:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532504&idx=1&sn=1a18504a6f493527c00b9fa607aeeb87&chksm=e915afe2de6226f425c841589204e688f477439c9da581bbb22ff3b45869a3d9302fe0a7ac4b#rd
+几分钟内可利用的常见云错误配置报告:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532504&idx=2&sn=2b5115086b5931be81cb5a669333d0fc&chksm=e915afe2de6226f499eefdb504c484d691387b652d6cc9d09b36812c2a10462e5e5b7d40d926#rd
+自动化分析Windows系统缺失的补丁及对应的漏洞情况(上):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532504&idx=3&sn=2614df246dbec392dfa3376690122e26&chksm=e915afe2de6226f4c43277ef0da21fafa81153226ab6b7824338e9ccb9207e9b37f918f67bba#rd
+黑色星期五期间礼品卡骗局层出不穷:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532464&idx=1&sn=89bc4b2a801badb51d36253c1f0a871f&chksm=e915af8ade62269cf76ca84c514a9e19acb69ce58b40d2e6bec2574d9663404276750ac466c1#rd
+攻击者利用微软MSHTML漏洞窃取谷歌和instagram凭证信息:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532464&idx=2&sn=ff1b6034e7ec6638dd4a67b2a195dae4&chksm=e915af8ade62269c3263969d8ef4cd978379c2964f2e14dad2b02503638d51758245e139f599#rd
+漏洞优先级厂商零零信安完成千万级天使轮融资，奇安基金独家投资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532464&idx=3&sn=dc8cc9ada5a19df26742ba859ed9d597&chksm=e915af8ade62269cf892f4df996d3981c3b95794c33f461e6e330487379013f25ff4a6e09536#rd
+Pixel 6比iPhone 12更安全？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532419&idx=1&sn=976d67282649161d4a6139be426543a4&chksm=e915afb9de6226af3e2b7deecc6ac3509b768d788fbf2cc8583315213c0ac895a961ee48a9b1#rd
+开展专业的红蓝演练Part.20：以结果为导向的演练范围:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532419&idx=2&sn=d21123650646a63b9d687130fd0832c3&chksm=e915afb9de6226af5327fb513e185a876eb7632d735b226cc97f27939e6a0cccf3d0e9862808#rd
+BazarLoader 在其当前的恶意软件功能中添加了两种新的传播机制:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532419&idx=3&sn=a899be3549374bc143ba8653daadf454&chksm=e915afb9de6226af821345b1303a779ef2a4473c210c5121bca32a277b6a243dcc1b477cb6a9#rd
+【技术原创】利用TelemetryController实现的后门分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532375&idx=1&sn=7e96dfd860d27a0723f1148dca1d90bf&chksm=e915af6dde62267b42ac6fc175ff6cd5b6c18dc76a9f3f5e3ab94638b2329adfdc873030803c#rd
+Windows installer新0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532375&idx=2&sn=620a1c447dd8a50d2595ba630d58be9a&chksm=e915af6dde62267ba0179844e1c53f92d18be1796615345dd0ca4542c30530d9c6115ef6dd25#rd
+MediaTek 音频 DSP 中的漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532375&idx=3&sn=b3f66f57e0d0a5a71d0e0ab4da8e6ab1&chksm=e915af6dde62267b031929c49d0520572da970a1a619c36df1eaa1bed3bb66d020d0520dcd40#rd
+金盆洗手？Avaddon组织在停止恶意攻击前发布了全部解密密钥:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532292&idx=1&sn=cbeda3a4872db4762f77c5ca2f846a26&chksm=e915af3ede62262825d3e56cb1660b24dcbbe04cf94e28d3c472f545b37aba5fa3fc32196afe#rd
+虚假勒索软件攻击了WordPress网站:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532292&idx=2&sn=5522ee788c2fe61b2f8b5fe6eeb4c8e7&chksm=e915af3ede6226284fd1ee7e1cb55c96498207c814793c9ac1c9881775626b6a54178e3bbfc3#rd
+九百多万台安卓手机上运行了来自华为应用市场的恶意游戏:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532291&idx=1&sn=3d086ca5a7983b7dfb05e3394b7d6e2f&chksm=e915af39de62262f8405dfe4a7c7e87889cbcbd3133e36d695b55313f93cb3cf7e5d152f3feb#rd
+网络攻击有多惨，看看微软的“悲惨2021”就知道了！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532291&idx=2&sn=cd4cf23d45d63b370ae241087b12987f&chksm=e915af39de62262fcb4ba23bbadf294bcd78453a62fb22156c5c025b6c6c1aeb547ba40c199b#rd
+2021网络安全“金帽子”年度评选活动结果公示:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532249&idx=1&sn=0ad3d8614b39cb5e8dedcfdf4e58df4a&chksm=e915aee3de6227f54bc2d11aced32db6c0b04415723d8033c4c240828bbbbea17b498bec1a69#rd
+独联体中的勒索软件发展趋势:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532249&idx=2&sn=3ae6fda76245982735b2eb6530786e2a&chksm=e915aee3de6227f5e83e42bf4efc3516588de27f2cd5fec2b86efaf126ebf2ad219d73789745#rd
+Pwn2Own 比赛使用的 VirtualBox NAT 网卡模拟组件的漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532249&idx=3&sn=da4bf352088dc0cdcad824920812156f&chksm=e915aee3de6227f51071e7389117dab3bb493c89b48c226e86598c5010e951e7988d29ba9e93#rd
+【技术原创】渗透工具开发——blind XXE利用平台的实现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532161&idx=1&sn=3d62d3bf0ce5fcbe054bfc11bb61ca9f&chksm=e915aebbde6227ad5b47806bb2a990ecbdd1d30ddc68b929d16da3d6474cd9690909e6cbdf3d#rd
+犯罪分子诈骗了价值274万美元的比特币:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532161&idx=2&sn=c72a8196687fdc799b240acbf7f78799&chksm=e915aebbde6227adfa01612d8ca053bc289341b297868a712ad331a1777ca89bb4cefd0dd574#rd
+查找与整数处理相关的溢出、截断等漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532161&idx=3&sn=d9a40a36a7461826e10275cd7d77c7e0&chksm=e915aebbde6227adf7c20631bc0d3da0d612f1842f960f4d083cfe704beb830366f3e0a4e249#rd
+Canopy家长控制应用程序曝出xss漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532116&idx=1&sn=e9be192b9ce887cd1a929af8d7b4e65d&chksm=e915ae6ede6227784a2013da9741af3fc050ed4b0cfd5cdea63675337da1a414e288145365d2#rd
+APT组织利用FatPipe VPN中的0 Day漏洞长达六个月:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532116&idx=2&sn=3ad88d9056ee243ebab3dd5a6fa1ae5d&chksm=e915ae6ede62277869bb6702f82680b21c002d399ae77c36ab8165adef02f8060b86ee5d1b82#rd
+实用的 HTTP 标头走私：通过反向代理攻击 AWS:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532116&idx=3&sn=f5211801cf23ade710ff7f5b16cd78b6&chksm=e915ae6ede622778721537fd1c894fd94c323a1ea158860ad02c24086f243cc48ec46e177125#rd
+特斯拉服务器错误致车辆无法解锁:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532040&idx=1&sn=6b3f0839352464baf61e92d2185cec88&chksm=e915ae32de622724fb2a152a8e41a98904d9c02f4650d19057468f7b1ea8f04f9bd9f4e65768#rd
+在公共云中观察到的跟踪网络扫描活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532040&idx=2&sn=41aea44ab1e14147d258197c01f22677&chksm=e915ae32de62272458cffd964240df55df09e3726c9006429dd0130746ebf5158481886b2ad8#rd
+MysterySnail APT组织利用Windows最新0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532040&idx=3&sn=e9c8123a751a32a162eb075e4ad01bc1&chksm=e915ae32de6227248611ad0a6389d2550ab86d113c22f4482343db69f1ecb59686d63b92aec2#rd
+实战反馈：5大IT风险评估框架:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532003&idx=1&sn=7ddf8f0285be30b9be25571a25050989&chksm=e915add9de6224cfd649cdff40072e877eb3beb1e049f96ab929691723a4fabc6c3127ff684a#rd
+分析攻击Exchange服务器的幕后组织:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532003&idx=2&sn=aff7fc5290c58c16765da48683774090&chksm=e915add9de6224cfc9cc559f1a8f0de85ec8cd5e4747a93a091ab81cf022f4e582118f3c4b78#rd
+大话元宇宙（上）千面万象“元宇宙” 谁是最懂它的人？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532003&idx=3&sn=2add9c8ad0f234eec656b8f65b975f9c&chksm=e915add9de6224cf75d73bef4ac8d71dfc8b4563523e79495ca70b2a20cb45bcb071643eda1a#rd
+华云安获亿元A+轮融资，全力打造攻击面管理第一产品力:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247532003&idx=4&sn=2a4a3589b9afd62957b273323c1147f6&chksm=e915add9de6224cf7e0d1e986fe3e03430cf21225dc0c5818b65fc3b49cb9b6da5f0a655e2fd#rd
+Usenix 22：新指纹攻击可破解Tor加密流量:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531953&idx=1&sn=0a89d9987fa235ed234a4ce14782a5ed&chksm=e915ad8bde62249daf8cf57bc58d4fa6b61910db81babc23ffab4f0a37ced327989b3da64b4a#rd
+Wslink：一种独特且未记录的恶意加载程序:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531953&idx=2&sn=8669a93b524802ad7a1dcb94f5e3ccfa&chksm=e915ad8bde62249d8c3e7d659a97c7db345f567fc20e8b98b24a3fb3180db8964cfb8b65346f#rd
+钓鱼网站旨在劫持知名人士的TikTok账户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531952&idx=1&sn=9ccf2dcf9588e592a46cd605abb70f1a&chksm=e915ad8ade62249c1a6ac1bd4d8f01935ed62f6630c4e653f3992285cb66f26d5ac36fd12e79#rd
+通过趋势科技MDR分析与ProxyShell相关的攻击示例:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531952&idx=2&sn=3e705382f576aaaf62a1ea3a8fffe692&chksm=e915ad8ade62249c833007434afa9240f376df319e25a7dd7694b8a5957de2b320e11bb47a7c#rd
+《007》世界的网络安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531868&idx=1&sn=47c38d6dca0aa11b42035fa7fb37c59a&chksm=e915ad66de6224709572675ec161e197186851c6fe9b2950f78111734c9748dc1c1b5dd087c0#rd
+CISA发布网络安全响应计划:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531868&idx=2&sn=01cd83aadc958ec436d97e9bd1b68cc0&chksm=e915ad66de6224704e1fa2d70f8112623e9cf19dbb09c2a9609f0233089b6616567fc1456ce6#rd
+使用只读域控制器攻击Kerberos密钥列表:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531868&idx=3&sn=7160908645dea083ccf22ef5d3e2bfca&chksm=e915ad66de622470e37aa76854c7fb1eca93643c4e0816345dee53374ae883b2ad23c1eaa4f9#rd
+Stripchat的漏洞暴露了2亿条记录信息:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531815&idx=1&sn=10119d6f79b1f4c75015ce175ee0a0bd&chksm=e915ad1dde62240b0160320e71a04259513e89ced14cd3df34aed81564983c7b05f890bd8139#rd
+Checkpoint 对 MosesStaff 组织定向攻击以色列公司的分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531815&idx=2&sn=844c025b26ca9faeff8dd577e0683e62&chksm=e915ad1dde62240b705d95fdb482a7dfede9ba2ddf4f9458b638a895afb8ba84b4bb8cde1ae9#rd
+Windows 云同步引擎API整数溢出漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531815&idx=3&sn=5f938fbba76fb9d701d049fd37476de5&chksm=e915ad1dde62240b2c273548be47a54715290b37fe49936c11c6356007cc952ef651641db5e4#rd
+阿里云ECS被加密货币挖矿恶意软件劫持:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531751&idx=1&sn=cb2c9c08c508f28f562fbc201ed4ba76&chksm=e915acddde6225cb5a93afa2b650adc875d7e711754d6468e4b4999f657da5643b30892baa80#rd
+Firefox在进程沙箱模型、漏洞利用缓解的研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531751&idx=2&sn=9521c311afb73d9aa4ffac3be6a328ea&chksm=e915acddde6225cb75aafcb9c00589283b32fdc76a8da5b88ff867b7a03d1458da32035a30c1#rd
+攻击者利用ManageEngine ADSelfService Plus的漏洞发起针对性攻击(下):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531751&idx=3&sn=a21ee11a112c008dbcdaf32ea3679a14&chksm=e915acddde6225cb85f51b76c37c5df186a5744389b779eb9b11dbbaf1bb3c9d94a158568811#rd
+虚假安装程序已经成为了传播恶意软件的新途径:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531703&idx=1&sn=ac93b3379d377d2c71974be5894944e2&chksm=e915ac8dde62259bd31371e4c1b345b3758aed574ba81d3d2c7f4c9a43f4158c77d6d8c61c06#rd
+Windows10的权限提升零日漏洞得到了修复:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531703&idx=2&sn=6292136ec9459c618a598daa93ae8480&chksm=e915ac8dde62259b72782e705fefa9ff5d5750429f4225607babddfdbfea3b0b94bca1df03d3#rd
+攻击者利用ManageEngine ADSelfService Plus漏洞发起攻击(上):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531703&idx=3&sn=2b676b6527e6fd7cc645e13eef5c7c95&chksm=e915ac8dde62259b433100144edad543c9eba66189d600bc525282c99c5349156e5c0d7f24a3#rd
+【技术原创】Exchange Web Service(EWS)开发指南5——exchangelib:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531625&idx=1&sn=55f0085973e13b3c0094c9e9b335a9b2&chksm=e915ac53de622545267f746c991bacf866d08cc320a2347b8b8b2c27223e55a72a4b0ae0988f#rd
+macOS漏洞利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531625&idx=2&sn=8f4db7dc5c547fc73b6b15eddb5c5b43&chksm=e915ac53de6225452dcc9c0aa9764688df22d616e8e7f2cc435a21bdf6553afc3c628fdfc743#rd
+Zebra2104初始访问代理支持竞争对手的恶意软件团伙和APT:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531625&idx=3&sn=03fa42d9110cbd01c6303a0b6bce65af&chksm=e915ac53de622545d2ffb7a9b031d793d392df123a66ff7488f8efebb8a4d61a6c5f79ccceee#rd
+NUCLEUS 13：Nucleus TCP/IP栈13个安全漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531570&idx=1&sn=5ac31b2e12504a5604c0fe82025a17fd&chksm=e915ac08de62251e0e9ab095afed2c82052e6c8cdf9909c9c3d1a6bf90d4c185b16defc2ffee#rd
+如何保护您的Linux虚拟专用服务器:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531570&idx=2&sn=5a782a3238c29208bb75b41a55aaf036&chksm=e915ac08de62251e5f53f1d26bd3da8543a5ebacccaf1ccc045be000fd266d3d9dc8672df463#rd
+2021 年第三季度垃圾邮件和钓鱼攻击情况:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531569&idx=1&sn=04b5a8c437b12ac0714c25cbf23438dc&chksm=e915ac0bde62251d511b67e00e00a68f80f211f7f9e45995e7c6d7c0b93edd9b39fe4f983ef4#rd
+通过hAFL1 挖掘到Hype-V中影响Azure的9.9分高危漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531569&idx=2&sn=7faa6f03ac0a9eb24a41d7f9adfc3246&chksm=e915ac0bde62251d71a834cca94e66bf2cb86ffbde87d2713a0dee616b13992c9990cfce621b#rd
+勒索软件团伙开始针对企业金融活动进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531472&idx=1&sn=2552d0bc598c2e243fe8b1e6b8509772&chksm=e915abeade6222fcbea68cc77aa8ca9df2c2421e18a4ed7df578ff56e0850bdb4e523efb7bde#rd
+2016 年到 2021 年间俄语地区网络攻击趋势的变化:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531472&idx=2&sn=75b90ffdf6e43fcda5c0f0423f7d0ade&chksm=e915abeade6222fc3c788d90ddd1a39ff8884fc30bf589c5186786f80521a7527c6aea0e84d1#rd
+BusyBox 14个安全漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531472&idx=3&sn=a9d7971c2d898a2bd60c22f6618d3fdd&chksm=e915abeade6222fcd01d4d89d56cf24cea055ba37b9deb17457b38c0b5f51784e9aa3893d2f2#rd
+【技术原创】Exchange Web Service(EWS)开发指南4——Auto Downloader:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531434&idx=1&sn=628d7290334aa40748d23916605f808c&chksm=e915ab90de62228602dc599985f0350555327646f22bfae3bc6b5f317fbbda8bf2f828419586#rd
+Google Ads上出现了大量加密钱包钓鱼网站的广告，大量用户被攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531434&idx=2&sn=dcf75762b6b6c31cfaaf9555e7e79de1&chksm=e915ab90de622286501dc809a4bae73c29d1a82d6aaaf0ee1cf387297e991d4f88ddb5eb7ce9#rd
+BillQuick计费软件被攻击者利用进行勒索软件攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531434&idx=3&sn=12f1317700642abca94e6836808e16fd&chksm=e915ab90de622286465477e57e1d74871dc8888285ba541d2bc58dc283636aa8fb4ccf0e1bb8#rd
+火爆全网的《鱿鱼游戏》告诉我们哪些网络安全教训:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531386&idx=1&sn=d9b93fb67ba683b3580821567351384d&chksm=e915ab40de622256da3e249f71e122980040d7060b4d14c5b7e458e8d9d7c014538ee0c738b9#rd
+BrakTooth漏洞利用PoC发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531386&idx=2&sn=6f27e786ef64bee19277ed07b674afee&chksm=e915ab40de62225656fb9c01b9af43bd582938a8dc3a8e0c3e6db06b6a32afdb3f0bcf535a36#rd
+如何选择最佳的NVMe存储阵列:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531386&idx=3&sn=6a61edfefd12f68e87208209de7b37bc&chksm=e915ab40de6222564dffb4bf31a54711765cd5985c75d70bf8c46e88e12f2408dbd18e81105c#rd
+2021网络安全金帽子年度评选投票正式开启！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531349&idx=1&sn=b7044db1e567bc6d24a2da6c56aee093&chksm=e915ab6fde622279d10b5c9ef3ab321acf4ac00a3076a5189cd67db503698cbbbfb89ec7c2e9#rd
+犯罪分子利用Proofpoint进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531349&idx=2&sn=2eaca829b8c05d26ba2b1ea39151762d&chksm=e915ab6fde622279906837a8ae6ab5edd98ff12c8beb09160d5af966adb3258cea7c3d37bd1c#rd
+改进版的Mekotio银行木马卷土重来:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531349&idx=3&sn=95727cfc299a7e2bc97865a1b6e291a0&chksm=e915ab6fde6222791dc2f690c28fbc56e6ab7c891e543cb09ca60666f3eff00cb8d60fa6bc47#rd
+嘶吼送书活动 | 火遍安全圈的《云原生安全：攻防实践与体系构建》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531288&idx=1&sn=6771757fdbc0ee3a3a4ce7cac3d459b1&chksm=e915ab22de622234007d4068fdc1dde58aa30b65302d5b57162b8ea6449057869b4d43f4f91d#rd
+Linux TIPC模块任意代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531288&idx=2&sn=df971276d41eeb7ae0ffae86f573a983&chksm=e915ab22de622234c3dd0e7cda9e5c416ab64dd00cc704c564232f1c6b547db20f226ae96057#rd
+最新APT组织ChamelGang及其攻击示例分析（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531288&idx=3&sn=3f03b9eed773736b7754fe76baf541b3&chksm=e915ab22de6222348c5055be76525bb637fa101163a4541ede4bf1807ae3a92f77a382c2975c#rd
+钓鱼网站使用卡巴斯基的SES令牌进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531195&idx=1&sn=e1ad6386c3913f074784301a5ad92650&chksm=e915aa81de6223976f0ec136e27af4801c22b828003b1cf7197fe695ad11bb868b7ea7dc0960#rd
+报告：Blackmatter恶意软件走向没落:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531195&idx=2&sn=1ea243fc0f3d63d6ad76bb45b4485011&chksm=e915aa81de6223978c0a71a8117fee55268a43c2255f22afcd581560aa8aa7fcc9254b632d36#rd
+定义新的安全基础：10种最常见的防御举措:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531194&idx=1&sn=2cc4f65780830b4aa362028150b01fc0&chksm=e915aa80de6223961be297dc2b3774c9915526183b4f6f60185c6f585b3a4c8cb18582212bb0#rd
+Trojan Source：源码漏洞隐藏技术分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531194&idx=2&sn=d192752360e69d776d8422dc3ffdbf0a&chksm=e915aa80de6223965e61d05e3521b8d8c8ff1c44bcb8999b82c9212175592d56c7a5e0f359f5#rd
+过度收集生物数据？Facebook停用部分面部识别功能，将删除10亿人脸数据:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531159&idx=1&sn=8ef175480c6ff7d32c84df988a69fb6f&chksm=e915aaadde6223bb1ee244983bc000b71eb8ee6166f8b8eac91e0df043217adb4332a8978d8f#rd
+一文了解 EDR、SIEM、SOAR 和 XDR 之间的区别:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531159&idx=2&sn=7b394a120d591ed827c4851f6c8dc257&chksm=e915aaadde6223bb0107c37b8ca1bf40511032ac31fa59829384d5db6c990a721095274004fb#rd
+最新APT组织ChamelGang及其攻击示例分析（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531159&idx=3&sn=059c5a29f7a020e86ccc86d07f3ddea8&chksm=e915aaadde6223bbc6c5cad2d3b094688cc32615bf924ec1e66aa16b9d6c12f0332b163fe398#rd
+Quickfox VPN泄露了100万用户的数据:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531107&idx=1&sn=afa89190d630f8dac00b865bd2fbe06d&chksm=e915aa59de62234f6ff619a9cb4cde50784f1c07a3db7c495138be7ba06c872e1a20a0625c55#rd
+10分GitLab非授权RCE漏洞在野利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531107&idx=2&sn=372b7ea96f0220c65c839907a133cff5&chksm=e915aa59de62234f9544c4ae655847461cb545a63e4cad8542363192a33816276c8c0efbba1f#rd
+PurpleFox 添加了使用 WebSockets 的新后门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531107&idx=3&sn=8c26f6c4f427e747bf25cf9420104dd8&chksm=e915aa59de62234fe01d7b672f6b53d96a723fe0293c65c9c56a89e812b35468528e8416d977#rd
+黑客们正在“深海钓鱼”，我们该如何应对？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531051&idx=1&sn=88f6165a40f4b2c082419e54fdbae0cc&chksm=e915aa11de622307d24aa6f929ded396b976c3c1dff8068ecca5f14081994c4a0fce11dc3a02#rd
+2021年第三季度APT趋势报告（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531051&idx=2&sn=984f796960938eeac809eb61144c1ea1&chksm=e915aa11de622307b621592fadde6d4e159dfd05d77d4bcd59174c6d2ed0f000a2e96de85f86#rd
+攻击者利用验证码来隐藏网络钓鱼链接和恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531051&idx=3&sn=c52d5ae1b615ecfa954f6291f2ba6a74&chksm=e915aa11de622307c7d491286def72108b02a40569c9eae6f43c588cef4ac1d4722d344a4e18#rd
+深度学习如何广泛用于恶意软件检测和分类:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531020&idx=1&sn=41556e302c8fb645558f6d28e640dce0&chksm=e915aa36de62232032a56e57c827564de1ec04450a8557e1999a06b76d6692606b5eaf4f99fb#rd
+Shrootless：macOS漏洞可绕过系统完整性保护:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531020&idx=2&sn=ad3ab84d4ee44073b93c821820d1e075&chksm=e915aa36de6223200f2d112027863575f424570c3bb096f6afa89641c0ebdc873567c0dee06b#rd
+以零信任构建新信任，派拉软件宣布数亿元D轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247531020&idx=3&sn=4753bf62d9b3db03c462c3cbf6d7b500&chksm=e915aa36de62232048a4d80f239127189b8dfe51b2aee89db1531a6d41d3e831cc65532825ed#rd
+特殊的日子：个人信息保护法11月1日起实施！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530978&idx=1&sn=d93ebe0263d44e112b5eb7966589b711&chksm=e915a9d8de6220cedb4b561fe61501591c81764151316fd4e086196e3b3f5b816555c4dbbf27#rd
+Windows 0 day漏洞影响所有Windows版本:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530978&idx=2&sn=4b867ec41babda4f35cb49ef4acbd517&chksm=e915a9d8de6220ced7da5918b3515cb644951afa94205e5df52f46332c4f3828c0d02e938877#rd
+勒索软件开始对NRA进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530978&idx=3&sn=268a41b45e0ff8a4d97d51b965ee341f&chksm=e915a9d8de6220ce821a3e32620b22bd80d0b3b665b82b076ebd97e39f66d151235bad2ff380#rd
+2021年第三季度APT趋势报告（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530978&idx=4&sn=3f55490af3f3f7754da75a8526a79ff2&chksm=e915a9d8de6220ce2f3c5b793e7b45f2868691a1bdd406736766d2a821c474bf4181690336d7#rd
+在客户端网络上执行外部渗透测试的完整指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530939&idx=1&sn=b28d1270f99feb82f9d7e9398038c294&chksm=e915a981de622097a048e0feed974d4ea03c3143c1828614c6401fab0d4bb4398ac1da2fddbb#rd
+大规模网络钓鱼即服务攻击模式分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530939&idx=2&sn=bf710228ee179edc21feabf54de4692b&chksm=e915a981de6220974d841b970eb397e8fe3f6a40c4d88986d3cd545c1d9c85d529112876cea9#rd
+攻击者通过TikTok发放恶意广告攻击用户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530938&idx=1&sn=591a198a548aa0bfc5dbae6e269be421&chksm=e915a980de622096b8d1f047c9e5509493b9a1967cf2029ab5f01c0db357921c93af040ac3f8#rd
+NOBELIUM 恶意软件针对性FoggyWeb后门攻击活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530938&idx=2&sn=44f58f8206733700d2a1cec6d4645be3&chksm=e915a980de622096524514d810921d8b7f9b75ddb4fd57f3be8cfb0260b2b016adcc74052efe#rd
+对标一下NIST的密码建议，看看你的密码是否安全？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530830&idx=1&sn=03b79c17c2263bd45c29d2746ecdb39f&chksm=e915a974de62206249a12348a48a27e2b208173be34b05bc444c74697a12d897027799cb183b#rd
+Surface Pro 3 TPM绕过漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530830&idx=2&sn=b5eedfbf1834c605de0d2c3638248d5d&chksm=e915a974de6220624b68dc2a2f411e45a4ed08d577b8e33dca8c173a389cc79d2d7b3c35153a#rd
+Mac 用户遭受木马化 iTerm2 应用程序的攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530830&idx=3&sn=edb184682a796a86d70fae6ae0147d87&chksm=e915a974de622062d736dee776d7a83fb834efe225978f0176d7ae69a882af1fa2608bc17292#rd
+WiFi网络有多不安全：70%存在被黑风险:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530772&idx=1&sn=53419aba4d33b9e26c48ebcf1a1d2f25&chksm=e915a92ede6220384d9c70f471a355667a7e76f1a8a6227eacd24e0855ee18953442dcce11f2#rd
+I/O 环——当一个 I/O 操作不够时:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530772&idx=2&sn=044398025c58f030cc5ee3ed813e858b&chksm=e915a92ede62203885737025118b00510576003f7b9b582b2f17da658901a21321fdde734e0b#rd
+Trickbot 的恶意模块介绍:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530772&idx=3&sn=6dab131cb243cbef6dee0737d3f00ec8&chksm=e915a92ede622038fb6db459d3fae2b12727c0607b801e9e82ea4672e45e6b91f8e7b99a4b04#rd
+为什么深度防御是预防勒索软件的关键:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530702&idx=1&sn=ab201f9ea2bdb5482ea9610094babec5&chksm=e915a8f4de6221e2468c69fe6f08bae04d879d152a099f201b9c6275e631823e03d2e4f9b7ce#rd
+DarkSide勒索软件提现价值700万美元的比特币:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530702&idx=2&sn=ef66cffb7aaf825223292c8a1233e063&chksm=e915a8f4de6221e224110a5deae9afab3c5ee675437e4230c2fbe7bf20a8545ad29326d3e44a#rd
+新的APT组织Harvester对电信公司和政府进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530702&idx=3&sn=57d99a5dc09db6ff808520028f194ca0&chksm=e915a8f4de6221e2077549629f32a5154a3f871ca32e7763afd11ec0c2dc1e8f6f8393dc7767#rd
+古老的微软office漏洞至今仍被黑客利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530674&idx=1&sn=7cd048c9955d1ce6567001610308deb2&chksm=e915a888de62219efed3e979402208b1633b0e7a939bd769039c860115cb149a990377ee9148#rd
+MACOS XPC 漏洞利用——沙盒分享案例研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530674&idx=2&sn=3e0bab8da291eb98c7255de9d41a0bca&chksm=e915a888de62219e60a4b40efe4df215372b6c1eef19bec6882b18560a3657b103f67c2db279#rd
+Parallels Desktop虚拟机Guest/Host ToolGate通信协议的漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530674&idx=3&sn=39b42639a2fbe3b7f44fbf4d7ff4bf56&chksm=e915a888de62219e6ac82a638c037a62dba2aed63bd4b1bd1eba4e0f632cd1ed69eac3197e71#rd
+【技术原创】vSphere开发指南5——LDAP:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530622&idx=1&sn=f69a625df80ca2cce32c7cf5b6b0a360&chksm=e915a844de622152482a1cebf93dd313a250c39712ecda3420c680cf297b191e8735394b2226#rd
+恶意软件TangleBot对安卓设备进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530622&idx=2&sn=552dd4d56e332fdf3774793efa6c91d1&chksm=e915a844de6221524fb3437e7abcb3953457702d97f44ddfdf6ad46e63bedcbb4e6c12759d1b#rd
+新伊朗APT组织MalKamak针对全球航空航天和电信公司的攻击活动（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530622&idx=3&sn=1680ed3f9aee18874e8187793d8376e5&chksm=e915a844de622152c26d56895fd1fa853adbf41a606b314184f17b5825d19a526c256d53d7b8#rd
+高中学生发现了Exterity IPTV的漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530621&idx=1&sn=962e0762f95fd829494898c82dd97885&chksm=e915a847de622151973678c96ab540e224372dd3f4cf3ae01b231620dd4c7a2b12f9eeb864ce#rd
+诊断勒索软件部署协议(RDP):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530621&idx=2&sn=02aea93de40944d98900920603f8253b&chksm=e915a847de6221511a86c57fef8ad9e656e7da8f07597e3ce825b45e728a2d34b92c67b24912#rd
+注意：压缩文件管理软件漏洞可劫持计算机:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530620&idx=1&sn=e85822675f579bb9b6354a03c1e95def&chksm=e915a846de622150e62d89eb6bce7b2244a87d28d534ce7388b86b0588155744890c53fa381a#rd
+最近多个不同的恶意活动可能与APT41组织有关:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530620&idx=2&sn=441dae64f96df1779888499b74eec506&chksm=e915a846de622150ea422d0fbfa2d20bcd68be39033c7b4d07faa47eb5dfcaa23d073e6f3e4e#rd
+【技术原创】vSphere开发指南4——PostgreSQL:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530504&idx=1&sn=501a8906883a6854e0e4552674595f15&chksm=e915a832de622124aa7b24c3be0e056ab8df51dbf87436c89cd729c333d22b45f73af8311863#rd
+恶意NPM包运行加密货币挖矿机:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530504&idx=2&sn=8c96c30bff04dac8584a659bf9259221&chksm=e915a832de622124c733f683f4f59713e0a9dbff40e757ff1c7f3f7ec2dc7f164eb4fcba29da#rd
+新伊朗APT组织MalKamak针对全球航空航天和电信公司的攻击活动（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530504&idx=3&sn=15c35496038aa012c62f3f6637a0ab87&chksm=e915a832de622124c5428d5b7ae408f6483c753b04cc65070b04a2ddd4cdff64e83fdc3e24d4#rd
+前途无量的量子计算如何影响安全:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530448&idx=1&sn=ead12aacc1f51e1deea2a0ae93ae26e6&chksm=e915a7eade622efc600a484e4e642193a1abbce822c227013abd0ff7d9f553cd59c14a58e538#rd
+网络靶场先行者 赛宁网安再获2亿国有资本注资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530448&idx=2&sn=a9234b0e2f9634b598e171fd5d11458c&chksm=e915a7eade622efca78180bdfe2305b727a07322581c0d4b3b2ce84e8a8f7eb0193f0a7204d0#rd
+针对美国军事防务机构进行Office 365间谍攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530448&idx=3&sn=42eab8d2a5e5ec92d982b7c5c7b38c8a&chksm=e915a7eade622efc24d2d8aa2441187e87aad13bd5164fcb08261b919855e9afe9272a371c57#rd
+使用 Binary Ninja 分析Parallels Desktop 虚拟机漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530448&idx=4&sn=329229851b372c282611f4ff72be25a4&chksm=e915a7eade622efc513ceda7b5d8edbac067819fc02630fafdc0e895f479a88b8a7d8e909bec#rd
+2021网络安全人才培养与需求论坛报名正式开始！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530404&idx=1&sn=142df80faac0a03a45cac66397f8bdb9&chksm=e915a79ede622e884af3b081436cb411965dc8871c8e6f88e97324a3ed428060c8f04a3ea407#rd
+攻击者使用Telegram Bot窃取PayPal账户资金:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530404&idx=2&sn=f108b499a5246038de5ba06b023cf405&chksm=e915a79ede622e880f0c5f1ab1c700e975ec14384a6a6edce4e2ba23dac4565a50da1d0d80c8#rd
+对尼日利亚黑客组织——SilverTerrier的分析（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530404&idx=3&sn=3ccba68df67c0756818af68c4ddee4ad&chksm=e915a79ede622e88b0c00116cf180736daa23427e88cf4682a94534504b445e614ea4a56a090#rd
+攻击者冒充DoT进行了为期两天的钓鱼诈骗攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530371&idx=2&sn=8c11a3e434780f5b6975198084394305&chksm=e915a7b9de622eafafabed2326c3b1212fb2c2d9a11272f5149b27c0a00e3fd1776d49656743#rd
+针对VoIP提供商的大规模DDoS攻击和模拟DDoS测试:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530371&idx=3&sn=eebc91506751845a414c9c535c22e4a7&chksm=e915a7b9de622eaf477caa4464a30f34673e3128e13eba0d90e4f91b9312bf74fcb117c395e6#rd
+《2021中国网络安全产业势能榜单》调研征集令:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530305&idx=1&sn=6d66faf7b4b8e526c4e6fdba26c0da5f&chksm=e915a77bde622e6dc6852c83b4d9963ad0c75cc7747deb4c2b0aec132be027b63eed0060db61#rd
+价值52亿美元的比特币交易与勒索软件有关:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530305&idx=2&sn=d4ebc9cca1c3d251e3c4c389e5e2c876&chksm=e915a77bde622e6d83281ac0dc0f20ed2b63248a9217bab4b0bf27bbe94b272541d42f3fdd48#rd
+CryptoRom诈骗利用Apple Enterprise功能赚了140万美元:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530305&idx=3&sn=64077c4d4e3aaa06c018b57fb203b7bb&chksm=e915a77bde622e6db57d14f41cf64d0a3a4db35dadbe506f3ff68220a16c6d9ad9e4a5ac0b8f#rd
+勒索软件对教育部门的影响:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530281&idx=1&sn=ea2b3d70482e8ea80c32d04ce5325459&chksm=e915a713de622e05ba9a817865d3f3136e2679cda38f6ca3bf90817bccd74fdfb74e1adf81d8#rd
+FIN7利用Windows 11的发布进行攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530281&idx=2&sn=e7fcb5765326774a72e44cf69e8ff30a&chksm=e915a713de622e05bed21a126ce24c23a1b05bf239e5ac8402a4ff492bfcc1ffcf9f941d9856#rd
+摩托罗拉婴儿监视器存在远程代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530280&idx=1&sn=3bca954df477adedbdc564dda0086682&chksm=e915a712de622e047cd4a621a9a1e2e9a03aa79162f743533772d4833bc833c7db0359601688#rd
+OpenSea NFT平台漏洞窃取用户加密货币:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530280&idx=2&sn=2bb1e3092341e0dac26b0590b74cb5bb&chksm=e915a712de622e049bd0df68917df9670f7ea3287f98048535e8f981c7559533a968f3fbd1c9#rd
+苹果发布紧急iOS更新修补新的0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530202&idx=1&sn=3cefaae9c30491105dde255db987213d&chksm=e915a6e0de622ff687ce094d552cc0032e5f2a19e7af2fd0ddfdb415bb25219df0b9fa688170#rd
+如何在 iOS 应用程序中安全实现 WebView:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530202&idx=2&sn=868f129d0a9a3831a34d5d2d2f451dfc&chksm=e915a6e0de622ff62e8158c4b82aa6712237c2a7a040afa5cd9f25842575dc962041ed017ed4#rd
+GhostEmperor:通过利用内核以及ProxyLogon系列漏洞发起攻击(下):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530202&idx=3&sn=dd4cb8f2d45818b645f5fa49f1bb4b54&chksm=e915a6e0de622ff6ab6f7ae65f449e78d27a8aca7267b3154b9f217ee353670932bcdd737722#rd
+华为云成为加密货币挖矿恶意软件的新目标:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530157&idx=1&sn=fe786d248f75fda424039e5fa5dc3cf8&chksm=e915a697de622f81b030c501ade84c4cf643d41b0356701542b7f83cc0dc3bb5930e4059bc51#rd
+恶意mitmproxy2 Python包被移除:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530157&idx=2&sn=fb39e6e2058d78f5fd37533a1495217b&chksm=e915a697de622f813e6cd26d6af8b83fd31bbfe00a946f9bc690c73345b9b26f15201e78da7d#rd
+对尼日利亚黑客组织——SilverTerrier的分析（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530157&idx=3&sn=80a5461f4149fed4fa66dc67cb3305da&chksm=e915a697de622f814770fe338529249b2cf4b7a574a782e389655818eaecc03316d0f2c36502#rd
+【技术原创】VMware VCenter Server漏洞调试环境搭建:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530137&idx=1&sn=83bb87905330771e31993aadfbf6ec5a&chksm=e915a6a3de622fb5ad14b28977e9faf06dfe9b974beef1795990c97c72962f2e6925078690cd#rd
+MyRepublic数据泄露引发众多问题:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530137&idx=2&sn=bcdd65c07972698add69e0e9c7bf7606&chksm=e915a6a3de622fb5b24622d9e70096f1c2a5082e0a7ce2ae9b49f6cd85401132f7db4a300364#rd
+SOVA——令人担忧的 Android 特洛伊木马:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530137&idx=3&sn=9744ad616f440291a52427b8e3580557&chksm=e915a6a3de622fb598b021e550f01316f03e62c8ddc93e9ebe134d8a59c58452358a301590bf#rd
+网安圈半壁江山齐聚帝都，XCon20年活力绽放——XCon2021在京成功举办:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530132&idx=1&sn=1d9847fff59e333eeb94ccae3917d54f&chksm=e915a6aede622fb83ad77eb48dcbc0840d5c6c798a95d4cd5bf0af9944fae1d7707ac78524d4#rd
+Facebook、WhatsApp和Instagram 6小时无法访问:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530132&idx=2&sn=f22892641ea2a016823fbf34279167d2&chksm=e915a6aede622fb8a3760769b0708dd9e4ca770a8a230273eb0d656c0e430a073ce743e92ebc#rd
+GhostEmperor:通过利用内核以及ProxyLogon系列漏洞发起攻击(上):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530132&idx=3&sn=eae4d9efb91572a32dc7ae5fbcc26314&chksm=e915a6aede622fb89e78c42ace91e2b51fc6b075f989fed4ed1d3ebfb92b3a5871b463a54bd9#rd
+2021 网络安全“金帽子”年度评选活动正式启动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530053&idx=1&sn=9f58f17719193a56173e0eece737c66b&chksm=e915a67fde622f692944c0657b3187740b0b4e10b0886a77a949971ad48f13a28a2a82c75e49#rd
+美国海军军舰的Facebook页面被黑客攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530053&idx=2&sn=d12de322de49353e623217f0afcdd625&chksm=e915a67fde622f69b6c6627659a9934823097f2e66a10c31c469e866f14a020c4cc2181d4a8f#rd
+Coinbase双因子认证漏洞致超6000用户加密货币被盗:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530053&idx=3&sn=d1ad00648573f9277ded333c8db28b15&chksm=e915a67fde622f696c85046342197235094a1a27860f659289389df82ee3b667b734c9908fd5#rd
+零信任成功的4个关键问题:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530030&idx=1&sn=123a6d26c4c7d5a6e327946419229d31&chksm=e915a614de622f020f4c77ea5a9888177ce0242f6b2be64a1724564212d9e0a8a6c5f0c8dc30#rd
+基于SolarWinds 开发的 DarkHalo：Tomiris 连接:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530030&idx=2&sn=cf7fdec8a6ec04ef1b52378f61e82f9b&chksm=e915a614de622f02614d1cd48bdd3c2d9b5c665de065fa574ae92a4140a250984c6bc8324337#rd
+The Telegraph 10TB数据库泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530005&idx=1&sn=7cabfaeaba04fe0874b16bd9d9d9bf40&chksm=e915a62fde622f394e4da76d48b9624faa8d0bfabfc3c11be8e2d10c458c93f46c84966f34e6#rd
+使用 CLFS 日志文件进行隐身:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530005&idx=2&sn=da2693d4385227d10c6dbb0926422155&chksm=e915a62fde622f3960ddf6c40f3b21ef5ed2ced4b53da5b227f5cc4ec02466ccaeb00635bc61#rd
+NFT收藏家被欺诈购买假冒的Banksy作品:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247530005&idx=3&sn=21b488ad4db9dadcd7c5097ad5968e1b&chksm=e915a62fde622f39d52120b0a130c12aae6ea4b6e08dbf5ba7f0b73d9ed188fbc018f4185a12#rd
+310万名Neiman Marcus顾客的信息被泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529963&idx=1&sn=dba92ef2b922268a0433b7c8a68d6a96&chksm=e915a5d1de622cc79170436b008bfca6663dda786c75ff1e12ac6ebf4344fadc0a0986c0d539#rd
+《2021年嘶吼电子季刊Q3》发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529963&idx=2&sn=a528eeb828d61728dd75a6306d0e8094&chksm=e915a5d1de622cc7c4803d3aae1994b137bdf4b84ea681be263e081e7fdbf9c40fda9c4a237a#rd
+Twitch源码泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529963&idx=3&sn=02dd57037a08608cd53ccd893792cb2c&chksm=e915a5d1de622cc7d0b3d8e8dfb23bb19cba7429c362666c81c07786b73d418df6139b1680e7#rd
+​对运行四年之久的Ranion勒索软件的分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529963&idx=4&sn=2c9ee4c1c9e61812cf58f8656578e1ed&chksm=e915a5d1de622cc78b09a65870b30bc006ed384ab6a208822402685ddf7a460a2b9af10fc3d8#rd
+38亿Clubhouse和Facebook用户泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529900&idx=1&sn=a681ab50a4a845ed8e991ca83d7b56dc&chksm=e915a596de622c801b4fb6a79553d84e76c23042f465b932b27026dc076a36f0420af50024e6#rd
+利用 LLVM 攻击 VMProtect 代码混淆（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529900&idx=2&sn=1b00eb4bb3bb1f54370100e315b7f25d&chksm=e915a596de622c80422ea94b59e3bc9a3d0868136cb2e78823618e79d9f8d40bfae7ebc44d27#rd
+苹果AirTag爆出0day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529858&idx=1&sn=946bf480f180bd8a46535ddc4e48d0ee&chksm=e915a5b8de622cae0ea84b1d7b9277c51f6987e7d3de40e0f6e6be26fbf5525c86387f3d30fa#rd
+Water Basilisk使用新的HCrypt变体通过RAT有效载荷攻击受害者:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529858&idx=2&sn=b8b379f20467e8feadab6027be10386c&chksm=e915a5b8de622cae0072a94c3c97057efc7a1f6414b138228b59711be94329ed668f32bd1e7b#rd
+主要的初始攻击媒介：密码、漏洞、骗术:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529824&idx=1&sn=ff8a3c64ae13129fea54034362828a8f&chksm=e915a55ade622c4c72a1f85bded42e0f26746469a2f74069fc1aba3a359872da22c93191b41a#rd
+恶意Firefox插件“Safepal Wallet”窃取了加密货币:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529824&idx=2&sn=645333c78c6dffb4754d4559a2495325&chksm=e915a55ade622c4c46e01b68c89df13f17b8d4f1a56995d3d900feb7db42a3fa7b1ebd0915de#rd
+iPhone Apple Pay被爆绕过漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529823&idx=1&sn=89471bec2810fb2930dc2c7041ff783a&chksm=e915a565de622c73b778d17835bdc095badf6da7d565c3fd561bd728cbfd4476e3b9322ead6d#rd
+PixStealer：新一波 Android 银行木马滥用辅助功能服务:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529823&idx=2&sn=2e7b69f9cae9221e0b5c3ec7fb82cf46&chksm=e915a565de622c737ce8dae067d20fc16fd7cda85047b578ca33b8da226920dc5fd6cc67c5be#rd
+网络钓鱼攻击预防：预防电子邮件网络钓鱼攻击的10种最佳方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529822&idx=1&sn=1cf23c23e0eef7a796bdd80ebe2725eb&chksm=e915a564de622c72214b1d44f19c4eeca3c7946e56c5e2e03807c0ab237629eaa361d02b3a8b#rd
+电子邮件环境下STARTTLS的安全性分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529822&idx=2&sn=22435b83fe8c12d88b51ed99a3e35e3b&chksm=e915a564de622c729a68f9f8ce7b037291e0c496f345ee8145c07078f1ce60d8f63270288aa6#rd
+手机恶意软件团伙让运营商损失2亿美元:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529759&idx=1&sn=95cf25af283b0129e1c3b2c83cbca7f6&chksm=e915a525de622c3353961801ee29c3cf2c702da053fd2d200cae78106bf0bde90342fffc3078#rd
+利用 LLVM 攻击 VMProtect 代码混淆（中）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529759&idx=2&sn=53f60ebe90145fc2072d552c4e383f55&chksm=e915a525de622c3366f7efc94fcf1f981051449631f025a255d3fd945f94541766f35b59f7b3#rd
+iOS 15 iPhone锁屏绕过漏洞曝光:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529758&idx=1&sn=c0b896a5c16119521c990e515f0cd807&chksm=e915a524de622c326ac828d3df72560276ac9363b69428291884bbaa5f438b61df2c5612de36#rd
+VMware vCenter 9.8分漏洞PoC:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529758&idx=2&sn=77cb230a94fed2ad8f54693a47e26a19&chksm=e915a524de622c321c9adc616371e419d0a1c41a1c602c1aeeb4f9b82b31a0bdd0bda22df7ec#rd
+【技术原创】Confluence利用指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529693&idx=1&sn=dfb3fae14462b430cd0d5ac9e9f30919&chksm=e915a4e7de622df1ba2330a20c4ec5e617098ab0b5763bccd65a6280461046146d0e8877bc6b#rd
+数篷科技获老虎环球基金领投5000万美元B+轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529693&idx=2&sn=fc634cc05933c02400423ea656dbb1fd&chksm=e915a4e7de622df154fb57b262fdd84ae41c5adcda9c9a29b5d8cf5482021a624095cfba42e4#rd
+Visual Studio代码远程开发扩展RCE漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529693&idx=3&sn=af11bf344805c7a5418091f1f000299f&chksm=e915a4e7de622df1fb225ff1461dc888628d49ee6ca3ed5b5a6d4ec62112f0eb0b098494cb25#rd
+PowerShell 和 AD 域渗透漏洞利用手册:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529693&idx=4&sn=eba53adb99f06a8ae7a8ca023b8511cc&chksm=e915a4e7de622df131e48eaeb7f99f6f7200bb6bf4e68250e3b4f86d9597b9ea03e5de921f47#rd
+【技术原创】ProxyOracle利用分析2——CVE-2021-31196:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529637&idx=1&sn=2aeaf574df8400aa4414e9cadcb5657e&chksm=e915a49fde622d8941fd677222cdf8ea139261276efed77fff6eae99bf5d0c48832b1f403381#rd
+Telegram正在成为网络罪犯的天堂:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529637&idx=2&sn=bb4cdaffdbfed18f1a57f9eea09760b7&chksm=e915a49fde622d89123edd854384a84831f17d4adb0064eb9f14146697762e1d56fced09fd82#rd
+部署为Windows加载器的Linux可执行软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529637&idx=3&sn=428998037fd809642f8343c1ab64b903&chksm=e915a49fde622d89951743cb1e7b613301f1d17e9aaca7624138d6ca61d323d73fa3868951ca#rd
+IAST 技术进阶系列（二）：全场景多核驱动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529637&idx=4&sn=a5b04c0624a600f4c81ab0dcb3d67762&chksm=e915a49fde622d89a2ff482b21ca04bc8f6f04122cbfaebb494cc9b5cb932e2956c918b031f1#rd
+iOS 15 iCloud的新功能漏洞泄露用户真实IP地址:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529594&idx=1&sn=b2b2a6eb4069c27a800f455cb86f4e7b&chksm=e915a440de622d56ae1737d5656ffa03a07598f1bdb244cfbe171e4c5da44b452dda7bc21072#rd
+APT团伙FamousSparrow开始监视酒店和政府部门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529594&idx=2&sn=f47077476d747c5fe66d2a4df5aa1d5e&chksm=e915a440de622d568e6c9017651ded5153fe64b946959d2c62d8f483d07c7692c5da81720f5c#rd
+基于 CLR 的远程代码 loading 技术以及相应的 SOC 检测方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529594&idx=3&sn=df2d945388721778b07f0a29e5ff71e3&chksm=e915a440de622d565bd8dd914fbc2979ca029474ca71a67d13408ddc69ac34ebc51e67bbbf49#rd
+中国泛安全领域投融资专题报告发布 2020-2021（1-9月）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529546&idx=1&sn=ccda17ecae6a51caa5b631f0acb60410&chksm=e915a470de622d66d8b6eaa4671c63ab2556e590f976678684ef48e20c0b7123057232e0bab7#rd
+美国政府和军事网站上发现成人广告:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529546&idx=2&sn=500659978d08a7edeb6f347097a31a7e&chksm=e915a470de622d66c1684a55b7e2dac57a4ddd3cf9d10b2dbb105da66d6db2e6186d52a8092b#rd
+利用 LLVM 攻击 VMProtect 代码混淆（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529546&idx=3&sn=504e4e5ae747c8b67f4da587dfc818f1&chksm=e915a470de622d6617f54f0d5f50b495d303f8feb7245f2b0b51d564fa31e5077b885c2f6aa2#rd
+【技术原创】ProxyOracle利用分析1——CVE-2021-31195:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529474&idx=1&sn=5ee997f21ea9ec247d4a8c1026a00180&chksm=e915a438de622d2e08a916096579307420b74d258f673dc42004b1666169e25b86838a85da0f#rd
+研究人员发现3个iOS 0 day漏洞PoC代码:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529474&idx=2&sn=83cc927e56b70a2bc035c3c568ccb752&chksm=e915a438de622d2e9a8779ea108af2e35067b818a8cc1e9fa3d3bc58190aff0b74cac9eb0d4d#rd
+微软修补被频繁利用的Windows 0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529474&idx=3&sn=1e04bf43c8818b4a47a6c2b73803ec45&chksm=e915a438de622d2e81485cc355ec6b0aacbabb48f7231dd17941c7984cae41a5db59b8da9920#rd
+微软Exchange漏洞暴露10万Windows域凭证:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529441&idx=1&sn=5f7903f638ba6f2dda607ecc7b6de059&chksm=e915a3dbde622acd0fc1dfe4231e584e1c948a8379a83307f8c0666604771591761e792b7f50#rd
+利用 Opera 浏览器中存储的XSS漏洞读取本地文件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529441&idx=2&sn=16fa00c094f911ca86853d329e4c2d95&chksm=e915a3dbde622acd2fd24f830c3d5cdd3dc7e56e206dadc5af88b5331e666a4133d212f7e8d7#rd
+海康威视远程代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529404&idx=1&sn=38ff343fd62f655350358a8978b4e7ad&chksm=e915a386de622a9002142bd3c40bcc8382d8c45893e6651221cab4954c58a7b7c75a588dc9ac#rd
+CISA、FBI：民族国家APT组织可能正在利用Zoho漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529404&idx=2&sn=e89847c1f934150a775d1b1c1a6dc4e8&chksm=e915a386de622a909295225d31e5a8b5f6d2cab5083937bf488ef73f4b6a4596a01204926cd1#rd
+对银行木马——Numando的分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529404&idx=3&sn=f34f5726c6211baf98eac2a1fbdee31e&chksm=e915a386de622a903401b81974df11e430a4eefe8bef353d7b849d2c56429905941b916288bb#rd
+Apple发布紧急更新，修复“零点击”高危漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529350&idx=1&sn=f3b54b61c212a27866b7b999b2e0a5ee&chksm=e915a3bcde622aaa88d7f95a4906956135e71a6b15003fa58ba22e5c6926328933a1aa83146b#rd
+阿富汗动乱后，Turla APT开始种植新的后门:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529350&idx=2&sn=81da3de21ea8710a9988f7d238cae302&chksm=e915a3bcde622aaa0c908693c1c1116a50014293e1113e68e4566e201fb8640b9d1c1b4b1fc1#rd
+AzureScape：ACI容器中的K8s跨账户集群接管研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529350&idx=3&sn=4d7356a96832b297dc4050a806643639&chksm=e915a3bcde622aaad90cf1e562b2ed59d572d883579ab2f81dc3dd1baf68af4a2d790cbc2c5f#rd
+官宣 | 观成科技获泰岳梧桐战略融资，将持续发力政企市场:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529350&idx=4&sn=a1ebee116d7759480228f30e29587baa&chksm=e915a3bcde622aaab31649c3e81a9666dff03f152ff219d9fbe52d4b96e80c8c4ba8baac99a5#rd
+《智能终端安全与用户认知专题报告》正式发布 | 第三弹：用户认知发现:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529297&idx=1&sn=be873e764094f5e728102fadd1e6823b&chksm=e915a36bde622a7da325424d16b336a9a814f4a6516bc1acb87830040423a982b2bacf8df30f#rd
+macOS finder 中发现 RCE 0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529297&idx=2&sn=ffd99742e0e8892874beb0bd0bc44d86&chksm=e915a36bde622a7d2d5869cce998f2b25a82a7b0ae53f2a29faca5187bb2a3c0f4f3b292176e#rd
+维珍宽带VPN用户信息泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529297&idx=3&sn=f4ca2d42ff502149c235030723f69d25&chksm=e915a36bde622a7d3f3f913681780a1acb7c1252a0f659570749a37ed0c2737efccd149e1485#rd
+平行世界的镜像：勒索软件如何运行地下经济？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529264&idx=1&sn=a2da944c7f380a9c45e816d6b9985b5e&chksm=e915a30ade622a1cd236b6e8170ef00f1d8247c98060e878dc4868b0141558ccc6d7806d6d33#rd
+Azure OMIGOD漏洞在野利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529264&idx=2&sn=4572bceb2ebf7260cb61ebc76d81bbb3&chksm=e915a30ade622a1c42fa845058d00227b797511266435c10a3e0ba1273963b9c728ae9efba51#rd
+【技术原创】ProxyShell利用分析3——添加用户和文件写入:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529263&idx=1&sn=7706717927d8175aae28c0ea0d69bd23&chksm=e915a315de622a036043bf80e93bb72b2ee3d54cbbf7dc5f074c64491543d26f7af0020ced26#rd
+微软MSHTML 0 day漏洞在野利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529263&idx=2&sn=d0e13323c8b7dd69eb74714d80d46104&chksm=e915a315de622a03f7f39d92fc59350d22cc5ca8431d863109da1ad9b9a8a86d8a3b05bd1440#rd
+黑客和安全专业人员最重要的网络渗透测试工具:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529262&idx=1&sn=db837e43ac6419e3868bae6f464afe4b&chksm=e915a314de622a02b996afeead2644a9a9dfd285267fbf70bad9b93b62e07a503cf5c002b5f5#rd
+破解 CloudKit：攻击者是如何删除 Apple Shortcuts 的？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529262&idx=2&sn=9db0a980377bf22ff5a0e560a2539133&chksm=e915a314de622a029d6dabbe5243944383242dc5e1e11ef578c41617974934da480cf3b147c0#rd
+俄罗斯互联网巨头Yandex遭受DDoS僵尸网络攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529128&idx=1&sn=20fd35a96df929b5483e21105c8a7e31&chksm=e915a292de622b8497843abb6b74f5c38a948b8eac3ad0fcf3546593f664b2d8f9ab9207f5bb#rd
+一图读懂《关于加强车联网网络安全和数据安全工作的通知》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529128&idx=2&sn=e9b0fc537b98b355ce668991eb9d362a&chksm=e915a292de622b84bb9dcd844c795f647abc981fe6065d50205cc0af18c53e540fbbf67f0994#rd
+OWASP Top 10 2021初稿发布:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529128&idx=3&sn=55efd6b3f3117ad2f098eb5d771c722a&chksm=e915a292de622b84ae0c26c3d6ec41640aaa49054ba1b6dc32cdc5daeb7efe822f38dde95187#rd
+BladeHawk 组织利用Facebook钓鱼攻击库尔德组织:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529128&idx=4&sn=a1267a1b9dba65a7a29e6eb8df272e51&chksm=e915a292de622b84aeef694c9d9f555b450af1ffbf770272535b8f315716f3e6bd8a57876577#rd
+超级任天堂游戏模拟器被曝安全漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529081&idx=1&sn=4056d3ddf30aee4c6bc82eda1e40d049&chksm=e915a243de622b557287f7b78b90a37417d6d932be8836d28e2468daac858d63ed9e1dff4f25#rd
+HP OMEN驱动漏洞影响数百万HP设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529081&idx=2&sn=bb0a6de9788d950e01543ecf9c8ec019&chksm=e915a243de622b5593e4ae6d118f90284c435f2a8a21c6aaa25d2fb01566fdf20100b21159aa#rd
+HP Sudo漏洞可以使攻击者获得Aruba平台的root权限:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529081&idx=3&sn=d0e416eddcfcc27e0695718b82ed93a0&chksm=e915a243de622b55c1e123b18b3223efe75f81a3db43c270f372cb6d3cdecb19d2555eb2666f#rd
+注意！畅销的TP-Link路由器固件容易受到攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529031&idx=1&sn=d0ebd1b632fe7b1a64fcd91c8b2f5d6e&chksm=e915a27dde622b6b511beb4c8e070e68aaa3c91c61e646492e947f44a88041e45ed0617fdd4d#rd
+APT-C-36新动向：揭露持续攻击南美对象的活动:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529031&idx=2&sn=2a596b7fa39242e736dfc5b02fb3000d&chksm=e915a27dde622b6bf0f4fec04a667d4d38f3ad9cb79937b6cb06f583a64afe61910a81f42d01#rd
+Web 文件管理器elFinder 的漏洞链分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247529031&idx=3&sn=59671ec43f84fb7bd92c2b72398f3708&chksm=e915a27dde622b6b956479106b4a69bc3e4e06a8ab62d280dc3def07aecd1b3277b0edf79123#rd
+《智能终端安全与用户认知》报告发布 | 第二弹：智能终端安全产业链路投融资分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528967&idx=1&sn=f292e644971ce817e8a8531aae09e6c7&chksm=e915a23dde622b2bcb5a603fbb35f129f325aed3c8a2a821c09e79d7860e95041ce4748831dc#rd
+肝了过往19年的XCon，为你总结出4条高质量刷会攻略！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528967&idx=2&sn=b0659cda341506233d7fe4f4b3e2e2fe&chksm=e915a23dde622b2b2c0b85d4f9cef349e9aca596390fe391a3458ae7e05971d37fc84f1c6c74#rd
+Spook.js：通过推测执行和类型混淆绕过谷歌Chrome严格站点隔离:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528967&idx=3&sn=3d0dccff1d016bbc840925d870486784&chksm=e915a23dde622b2ba59b5e5419d2a508217a040a3cd1e33878596078a709ab2dc87a1371e242#rd
+Windows RDP协议 Fuzzing 漏洞挖掘研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528967&idx=4&sn=15ee5d64e9a32ff7d1c133d761094525&chksm=e915a23dde622b2b14493887ef2db49afe80905ce39dda8a08c59fff4a2516042524bc686a93#rd
+麦当劳的电子邮件中发现大富翁游戏数据库的密码:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528929&idx=1&sn=35650aa48aea13931b1acc5561e09dc0&chksm=e915a1dbde6228cde6d93ca670eac2d551ba7aaeefe8cd1ae3cddae85d83e20f3bcb69007f0c#rd
+不讲武德！实施“双重勒索”的7个新兴勒索软件组织:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528929&idx=2&sn=509319750d01e3888a5a6b25485b3c65&chksm=e915a1dbde6228cd0621279ca4edd3ffc4e87fd855078ef140541b66585bcb88f215db35a210#rd
+Metasploit生成的Shellcode的导入函数解析以及执行流程分析(下):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528929&idx=3&sn=158e5dfca84411701af40817edac2664&chksm=e915a1dbde6228cd91b0fd0b88fe687890fe1cbd33c6858b2d97377f029b5f2cd7558aa88131#rd
+《智能终端安全与用户认知专题报告》正式发布 | 第一弹:智能终端安全产业链路解读:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528846&idx=1&sn=5f2e5b314569d82f6577417d0c634c23&chksm=e915a1b4de6228a2d1756680722175dd5a5afe09bb25e7a14f192e2b678607340ea14617e31a#rd
+Windows IE MSHTML 0 day漏洞利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528846&idx=2&sn=a5e467975422672219a6ec993445aa94&chksm=e915a1b4de6228a2e3291f3460299ab3c391f6147f092242d55ad59f3d7f59829fbc2203b0df#rd
+Metasploit生成的Shellcode的导入函数解析以及执行流程分析(上):
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528846&idx=3&sn=3da593b0c01fe5ec1891269227150903&chksm=e915a1b4de6228a2f29a7b3249a398f0a2afd0fa80b89c736aeee9dc53a6ac6c5331b5fb0bbb#rd
+为修复漏洞，TensorFlow不再支持YAML:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528781&idx=1&sn=70b86d408586b7984b6c0a269fa76cac&chksm=e915a177de6228616bbc83cc2b38e91ef28e1c3d3b8a63fd651d38317d26b6df69951ddfda84#rd
+Instagram 帐户是如何被黑的？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528781&idx=2&sn=727542666e406a8b6182f00101d44589&chksm=e915a177de622861dcb6dc19a55181dd329aa5fb37b3edcead5595cc44340fddb852673ef685#rd
+8.7 万台 Fortinet SSL-VPN 设备存在漏洞，大量敏感凭据信息被泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528780&idx=1&sn=5f28bfd36b888f2d7d8536e7f13f8c8f&chksm=e915a176de6228603c7757a8e9518f99254e5347ac13d5ba361425b3e734adaac505d685488b#rd
+QakBot技术分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528780&idx=2&sn=5681efcb5899d2a3a9858d637f9898d6&chksm=e915a176de622860331390eae58c04a47b537fce970a8c663a45192f1d6e82169d7d58b52743#rd
+注意！犯罪分子可能已经盯上你邮箱里的礼品卡了:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528653&idx=1&sn=734f360ea91131ca36f842a8e610107e&chksm=e915a0f7de6229e1c294c48ce023ba80b399788b2604eb6f803493ac3c5d86f5df92c2160018#rd
+Windows MSHTML 0day漏洞利用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528653&idx=2&sn=f495ee2df08d9dff092c47d6954bb69a&chksm=e915a0f7de6229e10ad16d6806f38020f6c0c89f993d5f0c3a5f88a775bbf5e92481869e9c3d#rd
+Formbook恶意软件框架在macOS的演变历程:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528653&idx=3&sn=b29516d598ff0b7c1c90443a8daae8a6&chksm=e915a0f7de6229e11dab259ff3b6e31f5d088ff1020945d17a4b2e25f79939692d85f56707dd#rd
+小心！功能机中也有恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528608&idx=1&sn=c2eeb127574b0233cd578acbc7f30d03&chksm=e915a09ade62298c4265c28f726e53fd3a1d7829dc6716fa5ed236311d789c7ed99ba6336b07#rd
+Emissary 的SSRF漏洞发现过程:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528608&idx=2&sn=b11d41e8b3c5a3e6df95c4b3293605d9&chksm=e915a09ade62298c0e89e19f2d7fc0369fec03a53f1d7b4319e98804db4e6e2fae7d0dc22dcf#rd
+解析针对 HTTP/2 协议的不同步攻击（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528608&idx=3&sn=36735c3a0f3126cdf8b21251da3d91a3&chksm=e915a09ade62298c8942e1aafae4e65a1e238158875d9777933d22660de5b2032ad86c57aa38#rd
+瑞数信息获C2轮3亿元融资 | 安全业务再上新台阶:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528608&idx=4&sn=1409f2b0f168aa2b19f06a1996f83828&chksm=e915a09ade62298c934ccb65e5ab28421f98472816a9e2e7caa89e1907ce0c951325462634d4#rd
+“捍网”行动ing：2021年9项值得关注的政府网络安全举措:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528537&idx=1&sn=1ef9c6c24aeec7a03d3051b4a4ad7199&chksm=e915a063de6229753db6b79375a1476a86a7e058ba136c62a837d365d2fa38b5d18b5746dc9b#rd
+火力重放 | XCon 2021主会场演讲日程重磅发布！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528537&idx=2&sn=aaaf8442207b2ee2a4ba487fd3bbb44a&chksm=e915a063de622975fefcae318234f030fc991463e411d45a04b77ad7dc6bd7081e868c0d5564#rd
+OpenSSL RCE 漏洞影响多个Synology产品:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528537&idx=3&sn=7d6292a215fc7ef2223c8a1af61c5d7a&chksm=e915a063de622975ec65c302edc5d715eff971ad76b2ada1f9c32f27166f07bfdf8e026ef5a9#rd
+解析针对 HTTP/2 协议的不同步攻击（中）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528537&idx=4&sn=1b10af298685ccd2c9b4e1b25f8b27e7&chksm=e915a063de6229751933a6c237ca00a8f4d4fb650d0da7a8657e35d8c925f5f7cd630993374c#rd
+​大型组织防止勒索软件攻击需要做的九件事:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528491&idx=1&sn=bdff945b633c78a37d06fc26e80f5dfb&chksm=e915a011de622907281b192518a242fb23aefd199e3e5a8c1ff5b9da80a813219bf03e7ce1bd#rd
+LockBit 2.0勒索软件在全球扩散:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528491&idx=2&sn=dbf526f4252a3ce0d5a9d77c2e3bde30&chksm=e915a011de62290775ed96faa4cc495a23bc8eb5db9d29c9a8457b46a30d756c7ce75287dbe8#rd
+SolarWinds Serv-U SSH 漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528491&idx=3&sn=c6891880803783cd05dcaa162ac7cbf1&chksm=e915a011de6229073473726fd0c52972dcb062fd565b78abd1799b501eec349b0ad9c0f69d6b#rd
+Babuk勒索软件源码泄露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528450&idx=1&sn=7ff0ec83d617901a11f996e40c9957d4&chksm=e915a038de62292e90d7151ef47931f65dae11077abb331743d315d770d38c1ec38d272a8a8a#rd
+中睿天下完成数亿元C轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528450&idx=2&sn=17dce30e5868f2952a2ef21ac8b3441d&chksm=e915a038de62292e458f02fd5670bc14ed6bb842c0770175abe41aae3ccdf1f9d0a61070a468#rd
+Fortinet未修补的漏洞会导致防火墙被攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528450&idx=3&sn=9fdc837f17b792ea6f47839081e8b20e&chksm=e915a038de62292e16ea0104a594c8df890c20716ce44b657425b78d988835487842fb91c50e#rd
+解析针对 HTTP/2 协议的不同步攻击（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528450&idx=4&sn=8b649394aa1a295d045d90439e338c85&chksm=e915a038de62292eca851dede45efe43943ecc67bf7cec04fa53e78c38e396c8bfe59a4558a3#rd
+勒索软件恢复：云恢复是一种值得考虑方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528397&idx=1&sn=9e9431d5adce9771dc3f1676aeb4a609&chksm=e915bff7de6236e120bbe772a7e5b4bd47dcac353582e72ac11157e85738c624c9ac66daf311#rd
+APT组织SparklingGoblin使用的SideWalk后门的分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528397&idx=2&sn=ca908d26ce712d358b26fea3e7ca9b0c&chksm=e915bff7de6236e145cf3bc479e7b28d499c29aca4819cfeb3c5fdf5772716d7e5dfe33e70d5#rd
+BrakTooth漏洞影响数百万蓝牙设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528396&idx=1&sn=459e9ad4ca3767d7a2c0365f5dfb9935&chksm=e915bff6de6236e06bbb3fb224973fb4c1b5f055116d449120339613fd87184e12382422cdf0#rd
+一款基于Python 实现的恶意软件加载程序:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528396&idx=2&sn=055f854c5c8cbb1727d52b41e3b62eeb&chksm=e915bff6de6236e01f53fdb630ddb05aff97318b465ce7837d86aef3abc7565f19c27df4f254#rd
+嘶吼访谈 | 以安全企业角度出发解读《关键信息基础设施安全保护条例》:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528279&idx=1&sn=d722eb73ad4c6ef099269342b5accb9f&chksm=e915bf6dde62367b6f39a518f10b0ef021916d6733e8dd94f8f2bb13193cf8d4cfc3b7bd44a7#rd
+Hyper-V逆向：硬件虚拟化和Hyper-V虚拟信任级别分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528279&idx=2&sn=daf5741c2f909136ec50f4b0c96151e6&chksm=e915bf6dde62367b4f4d9d223d1fb6cebe8be7a5d83e5a89e4fa7cd926404c34768da6b36f36#rd
+对 M6 智能健身手环进行逆向工程（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528279&idx=3&sn=3cb3aff73b9c60cc36a004ec0df19969&chksm=e915bf6dde62367bcdbe8b13f77a43e09bedefcaa5b6e1bb9435a2bc13933d679aedf00fc3e2#rd
+请勿将主文件夹共享给不受信任的访问者:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528213&idx=1&sn=c596df0066bd8f002f7a75d7df9d3980&chksm=e915bf2fde62363978e83ad5e020285993cd4be00313b0a6dd339181595db537f6f760ad4e1a#rd
+Telegram自毁功能漏洞利用场景分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528213&idx=2&sn=02381582210a860be07bde1fd6938d74&chksm=e915bf2fde623639f5218430415839400ad34c49e7cd0e3e79090661f8a52814747ed7d8a266#rd
+2021年恶意软件AdLoad绕过了苹果XProtect的防护:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528213&idx=3&sn=630cc69202a704be9e559fe40796964f&chksm=e915bf2fde62363914e9e862d89d28f616859913935b8208a806f069fc38ab4f898f7dcf5f61#rd
+从初始访问代理（IAB）趋势看网络犯罪服务的演变:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528186&idx=1&sn=4a6be54ab9891caaa7ac3d06d3d81c36&chksm=e915bec0de6237d6655f9f58ea4fa246b0b7f0d3e7625bc2797b5d3f0b5442fd35b696616487#rd
+Exchange ProxyToken漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528186&idx=2&sn=5b74570171f0e7d0a0c6fcf65c22c789&chksm=e915bec0de6237d6c12c8a11563c2081528bc6339bace67c804579ded518e7dc6593d804e8a8#rd
+利用软件包管理器实现Linux提权:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528186&idx=3&sn=ae8086b6af9d432f0657c78d0c7858e5&chksm=e915bec0de6237d6e063026c56abecb78c684119b011bacf86a4cd1f08e27b52b7c02113bb19#rd
+API 的5 大身份验证安全隐患:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528040&idx=1&sn=4db7ba922d1b1d9e30ff382cf9e33cea&chksm=e915be52de6237440db98a9bd2a5b99c18ddbf925a1f7635d41ee3dc0a595822de5226565ca0#rd
+微软Azure Cosmos DB严重漏洞被披露:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528040&idx=2&sn=510eba2de6b050b4a6338b050ff1fe77&chksm=e915be52de62374484e01ba444a08a2b2da59e89770b6805bea9410d62dddc93bdeaa74b2866#rd
+Parallels高危漏洞的奇葩修复指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528040&idx=3&sn=17155b0bd3c9c7655af905a3df3cb685&chksm=e915be52de623744769719df7c78228a1cac8d05bb0c826f3b87e16c88022b598d391f7188dd#rd
+身份验证凭证为何如此重要？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528000&idx=1&sn=9f9592d6e553fb33b5a363d85e781a62&chksm=e915be7ade62376cf852ec76eeb1e7cd9a592851b25fe426f1826b800a18129e0c8290f941d1#rd
+Razer Synapse 0 day漏洞可获得Windows 10管理员权限:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528000&idx=2&sn=9ab21733282fc2cd7371c2fe01bedb0b&chksm=e915be7ade62376c43f20bcd298e3eb1a28515062f04868874041a60b600f6cc66d674680f3d#rd
+Windows Defender网络检查驱动逆向分析研究:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528000&idx=3&sn=15025e756b10adcdbae1a25ee9309a68&chksm=e915be7ade62376c5c79b23ae307f7f0575a772a1ace8f9f75b81f0e9647ffd9351cb2daf072#rd
+软件安全公司「开源网安」完成亿元级别B轮融资,琥珀资本领投:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247528000&idx=4&sn=68524d22aff66d8728eca2005d12bdf1&chksm=e915be7ade62376cc7b329c49b181a323c6d9a2350f404a6b8bfde4fc8fe78d474d30645ed78#rd
+【技术原创】ProxyShell利用分析2——CVE-2021-34523:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527917&idx=1&sn=bc1c5711829e317efc52c73d9aa8c14f&chksm=e915bdd7de6234c1a03b2526f8cbc1583a3d82d32627132bbf8fcfb713c0e6351aec710a073a#rd
+犯罪分子利用SharePoint共享文件进行钓鱼攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527917&idx=2&sn=1dad53351dc6f941db05c7006565f920&chksm=e915bdd7de6234c1552ea5eb00a35bd339312849b895632aff85322a26ff9b690a604d0867ca#rd
+单一供应商安全威胁同样不容忽视！:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527916&idx=1&sn=1f77be2f20037e8b9b06ac0e71dd7f33&chksm=e915bdd6de6234c0eecb263286e3d7354d4dc8cf3a2b212ddcfb6db46237da8ec5cf5e752481#rd
+朝鲜InkySquid APT组织利用浏览器漏洞感染受害者:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527916&idx=2&sn=e24586fb2c93de5867e7907859bbece1&chksm=e915bdd6de6234c00f7a1fe105e5fd143a0becc3da6893a77eb4dd2a2daf01a1ceeb0ff3e9fd#rd
+在企业内网中使用个人 VPN的潜在风险:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527863&idx=1&sn=51f987dd6a84074067e9f1c6d602b5eb&chksm=e915bd8dde62349b2e00943fd1e40f28808f68e23577822befffe420581eaae0881404178d16#rd
+LemonDuck木马进化，危害性增强:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527863&idx=2&sn=0abade7a0ffb5efeb864cd0c4d62c57f&chksm=e915bd8dde62349bf9597d126c23d765c59e0c4957085a3af47c4df5baff2fa4f9f90fcf3b06#rd
+开展专业的红蓝演练 Part19：CAPTR 安全评估模型（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527863&idx=3&sn=c028888ff8f47d0ddbfbb2af7dc42d2f&chksm=e915bd8dde62349be7b561145b5ccf16f46e9702ec865058fc183c139c954cfb2d00c2ce3da7#rd
+【技术原创】ProxyShell利用分析1——CVE-2021-34473:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527823&idx=1&sn=c555a26a7d2465e697045d818100b2fe&chksm=e915bdb5de6234a31bd30d3163a377a90588e3fe8befd26ec38617e008a7651cc3f3fbcba618#rd
+黑客从Liquid交易所窃取近亿美元数字货币:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527823&idx=2&sn=b83567c18658cb3523df2f945231f014&chksm=e915bdb5de6234a3f18e940bd01fb8e0bd4b39814418a7ebcf56b125d4b873a28dbe4c18a21f#rd
+Indra——攻击伊朗政府的幕后黑手（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527823&idx=3&sn=87d4662eed87a06c86d9e976ca630582&chksm=e915bdb5de6234a3a090ba2e5e1d7887de0e19ba0eba254128db997cfb5201dafcfb2dd26a0e#rd
+快来捡武器：Black Hat USA推出的8款安全工具:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527771&idx=1&sn=abcca491ca4f12a36c85ba07f03f86e1&chksm=e915bd61de62347793e9b3dd560d6e7a446e2f2bb54a79259ee32000a6a1ceec11ba6bd4b527#rd
+WordPress网站在Aggah的鱼叉式网络钓鱼活动中被滥用:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527771&idx=2&sn=8628b71e182dfc2fa231270ab1f29787&chksm=e915bd61de623477c22b0294206e2e173987a6a405b1c8eee146666451011d827e2e8954289d#rd
+从托管检测、响应角度和信任关系看供应链攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527771&idx=3&sn=5292b9f7ea92341d0de4acff7572826c&chksm=e915bd61de6234778e36dedae601d0860a7e433edfb3b6b8fd1972d45977f32f3ccd821bbeb1#rd
+Mozi僵尸网络可攻击华为、中兴IoT设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527717&idx=1&sn=5571abd8dbb8b3fea2c050859c19bdae&chksm=e915bd1fde6234091f4ad82727294266a29b151db8a70ced8afe4aac9d4c4a3f626b7cd9d7de#rd
+Windows注册表运行键安全攻防指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527717&idx=2&sn=4888264182c38ecd1a484b961df32470&chksm=e915bd1fde6234098996b14f028eef1cbf229175ba7a34dfc50d183fa40948839d0a41ed57cb#rd
+印第安纳州COVID-19患者数据被曝光:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527717&idx=3&sn=10edfae9c958f08257ff566e996ca6ae&chksm=e915bd1fde623409805f1dc72ccaf5b8400e87735a8a067421793732ff66cd6e6b38a922907f#rd
+战略布局物联网安全领域，信长城完成千万级B轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527717&idx=4&sn=030995ed9500d28ce04da55e63372f15&chksm=e915bd1fde6234097ae375e6f91738331c1c5969c773a62a14d02d8c8a5e6169ebba5acca5fa#rd
+17.2M rps：最大规模DDoS攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527654&idx=1&sn=d345be4c73cda05bccf4ef3963ac42fa&chksm=e915bcdcde6235ca2465c99d384ca2e9d3d9b1f86d726e9eb44094cfe1cac18c2432b3659124#rd
+PlugX变体已经悄悄更改源代码且正式更名为THOR:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527654&idx=2&sn=379ec5898be9e286b0385c0cf3be5c59&chksm=e915bcdcde6235ca14fdd50a62fd0bf86e9c3d56b5cc38313834324efa5913ee1eb3ba31c3c6#rd
+RealtekWiFi固件和使用RealWOW技术的键盘记录器:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527654&idx=3&sn=43ba977354ac004237e47cf750f35e9e&chksm=e915bcdcde6235ca6754e9c88c81b9320410ad0aa40f7b48add2907b9a556be831cd7fda6869#rd
+进入数字世界的物理安全将何去何从？:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527596&idx=1&sn=dbc04d67ac27deba85146ad1b8087df7&chksm=e915bc96de623580aee88296caf222c92c08c846879716d84ee9701af349f2479fa0fcac21bf#rd
+STARTTLS相关漏洞影响多个邮件客户端:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527596&idx=2&sn=c9179f25c50f0c87a60cb8e172fea54d&chksm=e915bc96de623580aba39ef78c2c5a94292d64c9cadff55ed7fe4286d920c584764778410776#rd
+2021年第二季度网络攻击回顾:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527595&idx=1&sn=79f17fac45fa42c17e4be2afc62a2193&chksm=e915bc91de6235877925afaf406d82c56d2caa2e8a715c51c1c6446af33734c8c74221f8ea54#rd
+Raccoon盗号者通过使用谷歌搜索引擎传播恶意软件:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527595&idx=2&sn=b3b4d709a96c21d621159b0c8dd4498f&chksm=e915bc91de6235878473222bf58d3f9b4f65fe2ff41f630a32cdc6198244a4b7168e70718686#rd
+世界500强埃森哲确认受到勒索软件攻击:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527538&idx=1&sn=c2b93ab43cf349b03f2097c30b7956b5&chksm=e915bc48de62355e03272869f6e7c56854f2170661c4c87d1e365242e84e013e8e9b25d6c011#rd
+Windows print spooler再爆0 day漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527538&idx=2&sn=bbad6e5ebae119a0278b9cefa3312091&chksm=e915bc48de62355ef7c01aacfa12bc4b559e78a8c33abbcd7364ffc585d6bf61b4589013b6a4#rd
+Indra——攻击伊朗政府的幕后黑手（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527538&idx=3&sn=a3e52f92589328cb21cf2627e61bd38b&chksm=e915bc48de62355e30d09f635f2c12ee7ed1ac6d148cf4a4c3206b62a7fbce2202c1ccd5a669#rd
+【技术原创】MailEnable开发指南:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527492&idx=1&sn=cf0fea46a82b152ee3635b51efb81e8c&chksm=e915bc7ede623568ec6c83f638f59419b838ced223ea75d769a82c6e9e6e8286f927f990477b#rd
+Firefox91支持用户一键清除指定或全部网站的Cookie:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527492&idx=2&sn=5543512531d1f00bf91fc0f01374087e&chksm=e915bc7ede62356836f77be09a2717138f925eb7fb65528b8e6443797b9b541709f68dca2377#rd
+开展专业的红蓝演练 Part19：CAPTR 安全评估模型（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527492&idx=3&sn=7a7e97088aa9d0dd83742901ff86e4db&chksm=e915bc7ede623568a3b2115d45da23c6728cbaaab422a7f249fdc939c7cc28ee1d3c0569e885#rd
+中国台湾芯片设计商 Realtek 的WiFi SDK漏洞影响数百万IOT设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527447&idx=1&sn=a29b75a59cdcb862b7fedd0c40e3d0a3&chksm=e915bc2dde62353bef4af57603dcf82ae8657d6d485eed23fc93a2a97906a527582186f1751f#rd
+ProxyShell漏洞复现详解:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527447&idx=2&sn=5f184937ba7e1be629ebfbad6d0948e3&chksm=e915bc2dde62353b21ed5037b671fd817baf5a69835035c0e7bfa597cdee3862173bdd92ad48#rd
+全面分析Raccoon Stealer木马活动（下）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527447&idx=3&sn=fa548b84aa317604e87ab5fb69717195&chksm=e915bc2dde62353bf87580ee824affbe36d08e70051681293ee428696176126ba8d8e31d6073#rd
+DEF CON 29 技术分享 | 如何解锁高通骁龙660上的安卓引导加载程序:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527380&idx=1&sn=db8a3e8ce82515866228a4eddf2ef2d5&chksm=e915bbeede6232f82fa52914495bbe72aea7351653b54ac74a234cdbacdc0ce6449201bbc4a8#rd
+Golang加密蠕虫病毒感染能力提升:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527380&idx=2&sn=8acfcc6de5a555722fc35b30ea32f6fd&chksm=e915bbeede6232f865942dac6ee8326aec1be2db43e76ebb563961834eb74b53ec6f3fd226b9#rd
+最危险的Microsoft 365攻击技术:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527380&idx=3&sn=0e78a481b6a8302c78354bac5ed839ac&chksm=e915bbeede6232f8f94248a31d9ffe0b6d8c183a21d69fe65df233ae4437da3e8ecd7654e224#rd
+5G时代电信 IT 基础设施中所潜藏的安全风险:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527320&idx=1&sn=efdeb590b720a7a8a81c4abe66c29bb6&chksm=e915bba2de6232b45f20123679f2e2a36ff1dccab3754eeb1afdc2d914627fbb6eefd51fa1a8#rd
+Android恶意软件“FlyTrap”劫持Facebook账户:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527320&idx=2&sn=0c42b57bb6880bc194c1674181d17a77&chksm=e915bba2de6232b4a2360cbeff22a1e31ef2fc4cddc434bc05a2cafc976ffe6844cd7a0db491#rd
+全面分析Raccoon Stealer木马活动（上）:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527320&idx=3&sn=2113ca72ffaab0a88d9574aa26f726f0&chksm=e915bba2de6232b45d5938b6c27f8f0b162e337b41f9aabf2ba0b57ccb4fc1139b4393c7bb65#rd
+转发抽奖|WMCTF2021强势回归:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527320&idx=4&sn=b22fd8b716e8a108e566f478491c06d1&chksm=e915bba2de6232b42a3ef84b108fc855580c4f1b5cc35312b65f22d6bd131d92fa97249d1c3d#rd
+2021年第二季度的垃圾邮件和网络钓鱼攻击趋势介绍:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527251&idx=1&sn=567f645f65163717fda4c82cfa074e42&chksm=e915bb69de62327f65b5a491ceeb1045c74f3fa807b332e95353f4835b95cc4f00d5387bf60c#rd
+9 种勒索软件"助推器" 以及对抗它们的策略:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527251&idx=2&sn=090efbaf4bc9df672fe7cf352c4c1967&chksm=e915bb69de62327f21aa2fe96b3be0b5e42e8e9653ba433946ad8d631df94cf4847a6b4c5b32#rd
+DEF CON 21：IP地址验证漏洞影响Go和Rust语言:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527250&idx=1&sn=0e8b14aa43c8a4cc794767c15fbfbc44&chksm=e915bb68de62327ef75312c70a4eb7406d40a00960968822ff1183a72d61c8265b0ff7b77713#rd
+苹果取证的分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527250&idx=2&sn=f9fdc3c2b878719cbd070f1f3984f0fd&chksm=e915bb68de62327eb0e84b1b50d1c376fe8b258bb16c098a42e094b3cbf9bb2ec8ce021b32d7#rd
+【技术原创】域渗透——利用DCSync导出域内所有用户hash的方法:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527164&idx=1&sn=7f1d6db1d229b06138cf05bdaf3ea76a&chksm=e915bac6de6233d01f3704383f109e4c0ddea6f36342ba0d07146bdd1edd0e8f3fdfa60e344e#rd
+Telegram上的新robocall机器人可以诱骗您透露密码:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527164&idx=2&sn=879c4e2696c1f82718f9fe537241a1ca&chksm=e915bac6de6233d041a28682f9c4727c1b7014e7f04f6718033d1a0a97e73ba105a70740c9d2#rd
+深入考察微软Windows地址簿中的堆缓冲区溢出漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527164&idx=3&sn=18d70bb9749ef380765071ef3e54e232&chksm=e915bac6de6233d09e1262c23aaa1252879446592433ce22f89e9f483be75e3ee1d203c1c870#rd
+史上最大规模DeFi被黑事件：Poly Network被窃超6亿美元:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527098&idx=1&sn=0d836cee31e8535d8ddefe679e6fa1f4&chksm=e915ba80de6233960f15da89760e594e3b6c2c481ee3e03dd537c1b6df260b5905387aad23ba#rd
+思科VPN路由器上的关键漏洞允许攻击者远程接管设备:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527098&idx=2&sn=ae07eae860a2b6e64a85b91ab03d8f7d&chksm=e915ba80de623396b6864a405dc15293a126ea76070f0a7968b5d3dd553ce6e25a0add48850b#rd
+对APT28/SOFACY使用的新型恶意软件的逐步分析:
+http://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247527098&idx=3&sn=2b8a5ddbad3a6e910992dbfaa1c4f54f&chksm=e915ba80de6233964ce340ac44e2fbd7704a664e48f3aa9c7606a7380b8c05dfd5ab0b1098fc#rd

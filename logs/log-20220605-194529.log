@@ -1,7 +1,4 @@
-['网络安全观', '网络空间安全军民融合创新中心', '小贝说安全', '行长叠报', '依蓝云', '邑安全', '远望智库', '占知智库', '开源网安', 'OWASP', '深信服千里目安全实验室', '网电空间战']
 启动浏览器，打开微信公众号登录界面
-/Users/dip/PycharmProjects/TornadoCURD/main.py:47: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
-  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
 请拿手机扫码二维码登录公众号
 登录成功
 <class 'list'>
@@ -725,3 +722,5 @@ cookies信息已保存到本地
 正在翻页：-------------- 375
 20220606-005653
 'NoneType' object is not iterable
+/Users/dip/PycharmProjects/TornadoCURD/main.py:47: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

@@ -1,0 +1,128 @@
+2021年暑假红队训练营！费用全免！助你实现研究梦想！:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247486073&idx=1&sn=54fc2917412781e46300bf57282b583b&chksm=fbebc038cc9c492e86bb912571d36e68a1c359715bac5977c6b099b1d276c8e3821bbef5f27e#rd
+2021年暑假红队训练营-常见问题答疑:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247486072&idx=1&sn=d9aaf326b1973e3955e222492ed80c60&chksm=fbebc039cc9c492f44f30a5bebd1dc508b1e408830fddb260f5cc2d0e431333604e5de0abc8c#rd
+2021年暑假红队训练营！费用全免！助你实现研究梦想！:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247486059&idx=1&sn=cb1675fb19ef1bc0215b0207560d7323&chksm=fbebc02acc9c493cba485c4c9dea217cf53337d6156266b2c2a78cd47bf167272add9dabc6b0#rd
+TA551(Shathak)正通过IcedID银行木马发起新一轮攻势:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247486048&idx=1&sn=1e9d5d9059e52d856a35816af0428936&chksm=fbebc021cc9c4937e2c7319f82eaf05b3d973d35da491a25b21c92406e462191bc81ad7e307a#rd
+在内存的目标文件上执行shellcode:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247486013&idx=1&sn=6f1f7bb9a3e7052905e7e3203255de01&chksm=fbebc07ccc9c496a1c7c9d7c22303d01782a3d89bcebfb80626687d1e4a584b2961ecb5743b4#rd
+用Frida检测Window API:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247486004&idx=1&sn=be802a57678f166438c67754adc5f73f&chksm=fbebc075cc9c4963e482d7c8d44233e0123ed7722516456ca9a50c3ce0ec038e1ebc98df5e5c#rd
+安全建议：MSRPC打印机后台处理程序中继（CVE-2021-1678）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485992&idx=1&sn=f1aa1b4a489a8c9e3860e67ee5799630&chksm=fbebc069cc9c497f2702250d489249b7c9219e2968710aba3f06ed856a7d13bfec288b2cca56#rd
+BitLocker锁屏绕过:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485939&idx=1&sn=972c3a022a3e9b350477b49cecb047a4&chksm=fbebc3b2cc9c4aa4a147bddb78c585da82d8dd9720380559e9257703eac2f96d59041c15881c#rd
+破坏Windows Defender应用程序的控制功能——安全研究案例:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485835&idx=1&sn=170f9cf27f9a67130b2b9521e3eadd3e&chksm=fbebc3cacc9c4adcf91fddcc12088e62a414f7ac0c9df2a2c899dafd40785ed0515ef3e8514c#rd
+破坏浏览器 —— IPC，凭据和后门:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485774&idx=1&sn=8dda7a4c718f765a2947768c5c802fa5&chksm=fbebc30fcc9c4a195c893c2ed5a914aee9d1d5f04b9a1338b2f856352fa97c0d05c1c9364b59#rd
+可以实现隐蔽持久性的Outlook后门:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485735&idx=1&sn=f809a274bede0f799d2f263fb6a32a4d&chksm=fbebc366cc9c4a70e16665d53d1ecf7c6dab875f5928fbba07865acaa9e56a830709caa33dc1#rd
+通过SMB进行横向移动:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485723&idx=1&sn=a00611a4da98cd3f12e7239348f56f76&chksm=fbebc35acc9c4a4cb97b2d2a599931075c0dcef0ea6e97ee46a8e26b43f543c7603be885c76d#rd
+在Cobalt Strike BOF中进行直接系统调用:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485712&idx=1&sn=8bcd0ead6c372c89323a26e56510cf68&chksm=fbebc351cc9c4a4712e6df9c2cc5ea4ded23f2691ef6d05ac359d59342261c47cae8d803924c#rd
+Workflow的代码注入导致SharePoint RCE（CVE-2020-0646）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485711&idx=1&sn=3481f5b464f0cf4d088d720406498a44&chksm=fbebc34ecc9c4a58b3a55d0e3f9206c4bde1e066123b0aee7022a63272e36f5800d84edcf7b0#rd
+CIS 2020 议题拓展｜Redteaming：主流杀软对抗之路:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485700&idx=1&sn=a8406bf055ecc14baa3f7a9681cb2843&chksm=fbebc345cc9c4a53cc64b743d2f836e2bfea7a8f43dc41f332cc360d45e598e45aa0801efd27#rd
+FIN7 APT组织有趣的另类样本:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485686&idx=1&sn=1db97067a6bb3e7338e807bf92cdbcce&chksm=fbebc2b7cc9c4ba1843b2e3cafd3b5a152083bc26d09a0983ea1c41d78c3b655c5ef2f560c27#rd
+基于Outlook邮件的持久化技术:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485619&idx=1&sn=ab449bc8e09857b4437465eb41076962&chksm=fbebc2f2cc9c4be45a332407fa8454bc76a93b0978b9aa0b8f1a86d7592b9dc0cd432b120c07#rd
+WSUS攻击Part2：CVE-2020-1013 Windows 10本地权限升级:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485618&idx=1&sn=8c96f080f20bdb0eaf6aeb50d35503d3&chksm=fbebc2f3cc9c4be5817a08aa4abe160268b47e1009507aea90ef73165184d616479024fb3afa#rd
+WSUS攻击Part1：介绍PyWSUS:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485553&idx=1&sn=e92417db0adee01b4227438044d54408&chksm=fbebc230cc9c4b26b88a252715c30310cf52eec68edcdeb60712c36dea94a47f48469589751e#rd
+浅谈杀软挂钩技术:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485544&idx=1&sn=485633c72653fc608dfb832523ffef77&chksm=fbebc229cc9c4b3f3dd25811db04bd48ebf01abcc3c4979d4c45cf0ec7d02e0dcf6c3ca8a96a#rd
+动态获得VBA中的敏感函数:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485518&idx=1&sn=81cd2185a3848908df3a12d6a661149d&chksm=fbebc20fcc9c4b19fd0b5fda1edb36c011859df64851655ac82a57508a4b23a20dde0299253e#rd
+使用受密码保护的Excel文档进行模拟钓鱼攻击:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485486&idx=1&sn=cae6799abec8a9f125eb3afd91cb15a0&chksm=fbebc26fcc9c4b7997e98d604854309d9fe65e534947a8009b440344c3bddc0ea62423f696b7#rd
+绕过Credential Guard:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485448&idx=1&sn=7694cb3e61d101d4756e4da501d50d07&chksm=fbebc249cc9c4b5f98c0c4defe7c882ea6407a59cdc0a094cefe1aa10b86cbaf107d79c9b264#rd
+CVE-2020-17049: Kerberos Bronze Bit攻击:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485437&idx=1&sn=f37c90925185460d47807a8361af9284&chksm=fbebcdbccc9c44aade1d6bffdc63f5535301cb84b3f4805d10ba4cbe7c1b6d394146f4433ade#rd
+恶意软件的开发与检测 Part 5:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485352&idx=1&sn=c33b8b9f0442095ea1957d2f4f0fba15&chksm=fbebcde9cc9c44ff8356ae66a77b2b752e8691eaddafeea1611634076d90b0ef22ba9827d5c6#rd
+恶意软件的开发与检测 Part 4:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485344&idx=1&sn=bf0bf09a5dca8ca63ede2acc809edca9&chksm=fbebcde1cc9c44f794b7b27f33571fcd965c3a5396bcc9a117b1679099cc413357c80a474dd3#rd
+恶意软件的开发与检测 Part 3:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485339&idx=1&sn=564adce3cf0a8eb7086c20f058095234&chksm=fbebcddacc9c44cc3f89cdf9091e1c533602f346db2c5207609eed7e42e42638be951579c6be#rd
+恶意软件的开发与检测 Part 2:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485335&idx=1&sn=46da00fd36ca47d083e18ef6a48567c2&chksm=fbebcdd6cc9c44c0932c19a6b773f9b0fcfe3e6ccc266de8e0cb0242d8fcdd90d207e12a0344#rd
+恶意软件的开发与检测 Part 1:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485334&idx=1&sn=5b80d87a4385d5862487367f81071feb&chksm=fbebcdd7cc9c44c16f644db987387e0d126adcdf635618bee6db036c45163f3f5984b3e34c0f#rd
+KimsukyAPT组织针对朝鲜核问题发动的新一轮攻击:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247485301&idx=1&sn=adb99e561b675305bb7b717f33b4f9ce&chksm=fbebcd34cc9c44222c5c714dcc5123fb9a114c94b2cf2f3f873b0507f8ed29fd76b9063c5aef#rd
+如何用C编写和编译Shellcode:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484602&idx=1&sn=5940c3852da99fd15d9f41f4fcb1ca82&chksm=fbebcefbcc9c47edc5dfccc3b8590c9b9a65212d1e849918aaec27749a918c11b285828b994e#rd
+利用.NET的调试功能进行代码注入:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484601&idx=1&sn=b85342e0f85bd890650b1f8d7e92bc3b&chksm=fbebcef8cc9c47eec4ca741ab2adac3bfd5f75e89541ffe98463ebd66261c132792613be28ba#rd
+C#中的Module Stomping 代码注入技术:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484517&idx=1&sn=ecf68aa30980e6bbd05d5edeeb3138eb&chksm=fbebce24cc9c4732d64f2395e33f762a00818a82292c80e0cc39ba74aabd0de4bd9b040c0181#rd
+BloodHound 4.0 更新介绍:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484508&idx=1&sn=29486708cb0cc74956608906c52bbe4d&chksm=fbebce1dcc9c470b915900f93808e4a424f086a3547f7d65742acca0a99e1dcc3154c8efa197#rd
+使用 Sysmon 检测已知的 DLL 劫持和命名管道token模拟攻击:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484491&idx=1&sn=74709c35b30bff510a6032b973c6471e&chksm=fbebce0acc9c471c034be1bd6e6798ffd62b1e14fde36783d5d9767eb834a78050ea4a1a7195#rd
+Windows域渗透之Kerberos委派议题扩展:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484490&idx=1&sn=76e0026bbeb7248c9fe874b85fc1386e&chksm=fbebce0bcc9c471d12e43f7cf6a1e09fba08c7384a6b9870f81dfa48aafb8742751a1d231fbb#rd
+Emotet钓鱼邮件分析报告:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484459&idx=1&sn=a245c46417d506cec21b0c7ffcf5c497&chksm=fbebce6acc9c477cc8d9e10f5547906f960fe237cd3eb3fe70d4f651c2c6af1e55622e5e58b5#rd
+XX音乐缓存加密算法分析:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484379&idx=1&sn=e28e6dd2729b0ea6cdfb585d8d6baf03&chksm=fbebc99acc9c408ca26483bac881c77485a06c2230fddd8eddb899c2324520c5b8fe933fdaf7#rd
+【漏洞复现】工控webvrpcs DrawSrv.dll 基于BwBuildPath栈溢出漏洞:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484348&idx=1&sn=33e34c7613c25c993e316a484e1cd7f6&chksm=fbebc9fdcc9c40eb85d0de01131873d553b1fed1bbfee449a99a2406698f0ad4bd14872058bd#rd
+浅谈工业控制系统安全现状:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484315&idx=1&sn=82723ba2d7a2205895cfb8b675cab147&chksm=fbebc9dacc9c40cc72c07442de0ac4e5cb1ddb09f76ea07f2131a0e25f918a873039eeca2c15#rd
+Windows文件签名验证绕过漏洞分析(CVE-2020-1464):
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484301&idx=1&sn=4f4d192eeec7ce5723a3b3e5cc5ab6a0&chksm=fbebc9cccc9c40dac2ac04140601730bf1dfe8f1a33fb4ebbf4a5b5c624db22cb86539b17a35#rd
+PLC开发环境CODESYS V3未经身份验证的远程堆溢出漏洞复现:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484278&idx=1&sn=3f4489780102becc871ef0208bbde7e5&chksm=fbebc937cc9c402101d7a2b74fb58edf4c9926d0e32d33fa20c91914771551382b813d5a4b87#rd
+西门子PLC S7-400通信攻击（附EXP）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484239&idx=1&sn=74f8ad7105b6024ef9e1c9d4f48c521c&chksm=fbebc90ecc9c401898ce71425df4d2aa5c6977c0ffdac1c76c7f2737e5c59cf2ceaeefda9fbf#rd
+木星安全实验室2020年安全研究员招聘:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484165&idx=1&sn=9f0c2169e6863c46d31c9fcaeaeb9ecd&chksm=fbebc944cc9c4052c6c3538ca14bdaaacd9f3fddb17f246afc9c1d181ddf745ee6252d82ddf5#rd
+APT34组织的Dustman（数据擦除）工具分析:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484160&idx=1&sn=68450417a93c9a64d00f43b9a898dc36&chksm=fbebc941cc9c40576b97d9c25eb8d9d5294172636c9ef8d7739fa65f610d41b66cfc9b6981cf#rd
+【安全风险提示】Apache Tomcat 文件包含漏洞:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484111&idx=1&sn=7535bb3cd2aac6095d13f171d1c64558&chksm=fbebc88ecc9c4198b25b3d7027de1bead0102923362ff3e150655e70b988073230062533a4ba#rd
+APT攻防之红队入侵 ——DLL劫持与白利用:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484100&idx=1&sn=1b032da13a28f8f77ad1b13fa503c506&chksm=fbebc885cc9c4193580a4a29f6fcb9794bda45639ecd4405110332842d171eb97ef78ca3507a#rd
+【安全风险通告】WebLogic远程代码执行漏洞（CVE-2020-2546、CVE-2020-2551）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484079&idx=1&sn=18c54094d07c7d15b4b84f25e34e37bf&chksm=fbebc8eecc9c41f89ff30b1c006094e5689a1d5be94a6484a72c98f85f2ac87bd4bffced9819#rd
+【安全风险通告】Windows CryptoAPI 欺骗漏洞(CVE-2020-0601):
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484079&idx=2&sn=7fcb25bd4789c98dc536af2b74dd5758&chksm=fbebc8eecc9c41f893c6c79d7412a153d7de2600569e1fe4787e0f94495311bca7b327061921#rd
+【安全风险提示】ThinkPHP 6 任意文件操作漏洞:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484069&idx=1&sn=a2f7c6b47601f73c93e5e7f2e5d5154a&chksm=fbebc8e4cc9c41f21488c1a04f9c92e54aa2c53a3aaa894ce54970c2c9ed84e335b0764cd53c#rd
+【安全风险提示】Citrix ADC和Citrix Gateway远程代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484069&idx=2&sn=a13160933cbb569e33f30109d09093e3&chksm=fbebc8e4cc9c41f2473054a911d02e56eaa7ff763d042b5bcff69f03814ae671780035b272aa#rd
+CIS2019大会 《现代“碟中谍”——多国APT组织的杀戮之路》:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247484046&idx=1&sn=7fb9fb3c66b7232e398db81decd565de&chksm=fbebc8cfcc9c41d9adb6e3417011266b2ff2fce651fcab8262003b525ce974f3bad1837b1eba#rd
+【漏洞预警】PHP-FPM 远程代码执行漏洞(CVE-2019-11043):
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483937&idx=1&sn=0dddde3bfe892671f91fa2bc8281e392&chksm=fbebc860cc9c4176a48ad2a2f1f3ac97a151aafa20063c47e515f7bc72760df7f2dec8caab49#rd
+【文末有赠票福利】我们也会上台，你确定不来看我们吗:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483908&idx=1&sn=f9a59af58419ac59bd3941dc85d1d246&chksm=fbebc845cc9c415364edcf8a98e862b64bfbcc14816cdea800010cba24b9d45da7e937660444#rd
+【漏洞预警】WebLogic反序列化漏洞（CVE-2019-2890）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483908&idx=2&sn=e003dce425391f8fa526b2da7c8bb8ea&chksm=fbebc845cc9c41532a7574b37ce83c5130a908bf9095041c744bfde638bebaa08edaa7ed11fa#rd
+APT-32(海莲花)样本 分析报告:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483893&idx=1&sn=8ecb0ab99beab2fa098b88537c5fd077&chksm=fbebcbb4cc9c42a251dc2dd814d99abd9c49a4ee089cf3e821b812644a282d40ec3f6634dfba#rd
+议题拓展 | SRC漏洞挖掘之前期信息收集:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483836&idx=1&sn=3b074c00ade79c2f0b92e30fd826f778&chksm=fbebcbfdcc9c42ebfe2178fc2a7e1f4164640f0615530f0fcd9e646c38b325938209b8775508#rd
+SandboxEscaper披露漏洞POC研究报告:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483824&idx=1&sn=a5611c5b466e7db4505c267ca3522235&chksm=fbebcbf1cc9c42e7e30e397e311819b9b8ad2042d702289515107f7cb1f9c2fb98f1fab0119d#rd
+【漏洞预警】Windows远程桌面服务代码执行漏洞CVE-2019-0708紧急预警（附详细修复方法）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483803&idx=1&sn=9c690a974eefe66ded04326a59843141&chksm=fbebcbdacc9c42ccffa3489f0f1c43ce19ae6efa0bea6aa2406a354d12ad9dc4820c0c72175f#rd
+WebLogic wls9-async反序列化漏洞复现（附POC）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483789&idx=1&sn=ccd5a8a0583bb12d6eccfb68b7fc42c4&chksm=fbebcbcccc9c42da357835c1d265391fe97df500abb8c98ec44fb2091439c7afbaaafa4399e9#rd
+广州三零卫士圆满完成“博鳌亚洲论坛2019年年会”的安全保障任务:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483774&idx=1&sn=f03abf4a65a85e992ffe583a027e7290&chksm=fbebcb3fcc9c4229e3a4a7003c5eef04f31c0a77445975b520e280c89908fad1c88414d3434a#rd
+【紧急预警】Windows 域环境存在远程代码执行风险（附详细攻击过程）:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483694&idx=1&sn=a11b033631f8858a219e98ef0b6d0404&chksm=fbebcb6fcc9c42791b1baf3ac30e5436010522b54c92ab1ace00497d314eb18ca5f9f5c92cd4#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483682&idx=1&sn=d47d38c0bacf82895357ee8f35081797&chksm=fbebcb63cc9c427570e26c1788fbc941f61d5c1d7c569d248e152aa46ccf2e06088abdd04e42#rd
+“实战 Windows 取证”之时间线分析:
+http://mp.weixin.qq.com/s?__biz=MzU1Mzk4Mzc5MA==&mid=2247483678&idx=1&sn=66bc38d63ff9e06babd79e1e8e172f85&chksm=fbebcb5fcc9c4249e5229bcc4a65d64f0318c1417d8c2088d03d76dfac0aa2f0d5c72663cda4#rd

@@ -29,9 +29,7 @@ user = "email"
 # 公众号密码
 password = "pwd"
 # 设置要爬取的公众号列表
-gzlist = ['计算机与网络安全',
-          '零日情报局', '漏洞战争', '绿盟科技研究通讯', '弥天安全实验室', '木星安全实验室', '奇安网情局', '秦安战略', '清华大学战略与安全研究中心', '赛博研究院', '嘶吼专业版',
-          '腾讯安全威胁情报中心', '网安杂谈', '网电空间战', '网空安全观察', '网空闲话', '网络安全观', '网络空间安全军民融合创新中心', '小贝说安全', '行长叠报', '依蓝云', '邑安全',
+gzlist = ['邑安全',
           '远望智库', '占知智库', '开源网安', 'OWASP', '深信服千里目安全实验室', '网电空间战']
 print(gzlist)
 
@@ -49,23 +47,7 @@ def weChat_login():
         driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
         # 打开微信公众号登录页面
         driver.get('https://mp.weixin.qq.com/')
-        # 等待5秒钟
-        # time.sleep(5)
-        # print("正在输入微信公众号登录账号和密码......")
-        # 清空账号框中的内容
-        # driver.find_element(by=By.XPATH, value="./*//input[@id='account']").clear()
-        # 自动填入登录用户名
-        # driver.find_element(by=By.XPATH, value="./*//input[@id='account']").send_keys(user)
-        # 清空密码框中的内容
-        # driver.find_element(by=By.XPATH, value="./*//input[@id='pwd']").clear()
-        # 自动填入登录密码
-        # driver.find_element(by=By.XPATH, value="./*//input[@id='pwd']").send_keys(password)
 
-        # 在自动输完密码之后需要手动点一下记住我
-        # print("请在登录界面点击:记住账号")
-        # time.sleep(10)
-        # 自动点击登录按钮进行登录
-        # driver.find_element(by=By.XPATH, value="./*//a[@id='loginBt']").click()
         # 拿手机扫二维码！
         print("请拿手机扫码二维码登录公众号")
         time.sleep(15)
@@ -158,8 +140,8 @@ def get_content(query):
     print(max_num)
     # 每页至少有5条，获取文章总的页数，爬取时需要分页爬
     num = int(int(max_num) / 5)
-    initial = 1965
-    begin = 1965
+    initial = 390
+    begin = 0
     while num + 1 > 0:
         query_id_data = {
             'token': token,
@@ -175,7 +157,7 @@ def get_content(query):
             'type': '9'
         }
         print('正在翻页：--------------', begin)
-
+        print(time.strftime("%Y%m%d-%H%M%S", time.localtime()))
         # 获取每一页文章的标题和链接地址，并写入本地文本中
         query_fakeid_response = requests.get(appmsg_url, cookies=cookies, headers=header, params=query_id_data)
         fakeid_list = query_fakeid_response.json().get('app_msg_list')
@@ -188,7 +170,7 @@ def get_content(query):
         num -= 1
         begin = int(begin)
         begin += 5
-        time.sleep(5)
+        time.sleep(50)
 
 
 if __name__ == '__main__':
