@@ -992,3 +992,1007 @@ http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483657&idx=1&sn=1df3dd5
 http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483654&idx=1&sn=84ae654edf563a73008da0571bf20b32&chksm=e84fa7d9df382ecfa63bba6d8a019d793a9e9433f9fe1b959507e76c505c7988e996ea88cf60#rd
 看见到洞见之楔子（一）:Vectra知其然:
 http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483654&idx=2&sn=f04f6a1d5bbfed42baa616b24d1dd06f&chksm=e84fa7d9df382ecff455c3f0347c00d786fd6d1ab201c5bf72bce82eb98ec3d317d609b08efe#rd
+RSAC议题解读｜真实云安全事件复盘与思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492295&idx=1&sn=c944e98857bdf5ca0addaf25eaaa56a6&chksm=e84c4418df3bcd0ecad386172a6389b219ac863de585226b1c91652ddb1541e893f284d98b5e#rd
+洞见RSA2022 | 守护5G终端隐私:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492252&idx=1&sn=46b016ae62b0a5aae66124100b81669d&chksm=e84c4443df3bcd55b559901d0ee8bd523b2705922696da2323e1583dd1a22a16a748e1106414#rd
+前沿研究  |  容器逃逸即集群管理员？你的集群真的安全吗？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492240&idx=1&sn=06991ce468f9491a546e87a49d216318&chksm=e84c444fdf3bcd598c60a63f33cb0859f206430cce8ab71e4d9669a4e09100906445b1228cc8#rd
+vsomeip — SOME/IP 开源实现:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492198&idx=1&sn=6a258e632f9f640fbb5de37017d679a3&chksm=e84c44b9df3bcdaff14a704d202e4f7569cfa9feb2fb858b85c1e2ca8f5cf0d37395d85b56ef#rd
+前沿研究 | 云原生服务风险测绘分析（五）：Etcd:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492161&idx=1&sn=1062355ec58020921be7e8ec71270494&chksm=e84c449edf3bcd88966f62f5e643ed720af0b117e3e65a6991fd6d8182c2bd8cf8de03fd796b#rd
+《绿盟君的咖啡时间》| 洞见RSA2022：从云创新看网络安全转型战略方向:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492150&idx=1&sn=99c4732ec845d0261de51b2885bf6470&chksm=e84c44e9df3bcdffeaaa156e0d3b6006c74733d5d07abcf79770cd458f97e9ae5905c6111235#rd
+汽车以太网协议之 SOME/IP（上）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492138&idx=1&sn=70cd465e9b9a624ed918e280a13ae0c5&chksm=e84c44f5df3bcde38da557cb96b4c85ae8421f74c79c5d79ef5204ebf786ed21575f854c4b4c#rd
+汽车以太网协议之 SOME/IP（下）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492138&idx=2&sn=ae4280ecaf901ec3926336b090ecaf65&chksm=e84c44f5df3bcde3c6179ccee1c3b0b2d5ffaae2b32ee1e3fff3bea526abf1064a3267d6e658#rd
+有奖竞猜 | RSAC2022创新沙盒解读，一网打尽:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492035&idx=1&sn=f2dd3044178e46239f2d96d1c3af9690&chksm=e84c471cdf3bce0ac6d04b39c81ce70e7e583ecffe5570351d052011451b71381774e544618e#rd
+云计算安全的新阶段：云上风险发现与治理:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492013&idx=1&sn=c9dbe2f249d3a1710b40752f93039448&chksm=e84c4772df3bce649291714519e36db6d81d91b0495080da879a13cab8eaae585f62639a60c5#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492013&idx=2&sn=e043c50f81beccdf2c99ebf8423bbeae&chksm=e84c4772df3bce645ff50b468821b0ec8b481913e926d5d76a00b65b88f9a37184998e843f6c#rd
+RSA创新沙盒盘点｜Lightspin——攻击者视角下的DevOps安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492009&idx=1&sn=e642088d2005d64b70488d749b1c0d1a&chksm=e84c4776df3bce6056e776b0e9169faf7dcde651f586664496621bb0f5d94b0873931820e946#rd
+RSA创新沙盒盘点｜Torq——无代码安全自动化:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491985&idx=1&sn=7a2d9f3ac98b18f2f0620bd70c37253b&chksm=e84c474edf3bce58540b60d3ab499570b7a04b71682e70c1d83b6fd1ef7bed458c4fc9b6ac46#rd
+RSA创新沙盒盘点｜Neosec——面向API安全的SaaS化防护方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491961&idx=1&sn=0e6776832f307337c6baa141be457a1c&chksm=e84c47a6df3bceb0b2b5dd60588dba4573dd4aa99c68c44a53547c29433573200d951807e1f7#rd
+RSA创新沙盒盘点｜Araali Networks——云原生风险缓解:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491946&idx=1&sn=d8a519bacc07a11d743a94519e779540&chksm=e84c47b5df3bcea3145df342d85dd2abd4af1b0be37b28aeefd857100bb8d21cf30f23fd8be5#rd
+RSA创新沙盒盘点｜Dasera——全生命周期保护云上数据安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491899&idx=1&sn=1371170e2fc18f15b8e0c386ad1e982b&chksm=e84c47e4df3bcef2b16bd3203157b9de9fd58529c70f63c8671257629a8f07b96aead7693d3c#rd
+RSA创新沙盒盘点 | Sevco Security——专注数据融合的资产管理平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491886&idx=1&sn=5d2a584d4e1c98d7db16b54852bb4c5a&chksm=e84c47f1df3bcee7609c5114c69e85256ae845d7794550f773b50c2df6a6d797345f77e8c3a4#rd
+RSA创新沙盒盘点 | Talon Cyber Security——面向企业的安全浏览器:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491874&idx=1&sn=acfce683ece7e8e0791f8f595fff3d67&chksm=e84c47fddf3bceebb36e35187eb2e11e4b6cb1e4a8cec27bd3ab1323517d9d6144ca19d44ed6#rd
+RSA创新沙盒盘点 | Cycode——软件供应链安全完整解决方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491861&idx=1&sn=02b72b151fb66c38b18dd0b01de02edd&chksm=e84c47cadf3bcedcae463097a6d5d94fd864dce14428cf4a9f73004fa94b6f5bb686a23f4307#rd
+绿盟杯 | 直播预告：企业上云安全实践:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491861&idx=2&sn=875a1de760e8352425eca7434964f316&chksm=e84c47cadf3bcedc8d904eadaf6271851b5d96a31e92ff4cec3564d8dd551df684c582e9f232#rd
+RSA创新沙盒盘点｜BastionZero——零信任基础设施访问服务（文末附带有奖互动）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491830&idx=1&sn=49c479864fe661d53483451b337f584e&chksm=e84c4629df3bcf3fd9858baf0896817dc41374f2237327a0caab498d6d49b146c40dce2e0687#rd
+RSA创新沙盒盘点｜Cado Security——云原生取证和响应:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491813&idx=1&sn=24fe20d58bc623063bae135be0321a99&chksm=e84c463adf3bcf2cd70fa8b44693c8d4aa5759b48787966900466b49b552959527fa6d8c71d4#rd
+Linux内核跟踪：ftrace hook入门手册（上）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491790&idx=1&sn=46766ab5ecccc86276bf13a953483a38&chksm=e84c4611df3bcf07df831337d66169c616ad3abed146650904bbcf965fd2c76803cda9f1a153#rd
+云原生服务风险测绘分析（四）：Prometheus:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491716&idx=1&sn=f647cfacdf4b076f7375618912883ca4&chksm=e84c465bdf3bcf4d9c088226bbf87c77987da891d3f230e738ee89dfd40267c130bd6eb37a1d#rd
+国家技术战略制定、实施与监控评估流程（二）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491682&idx=1&sn=2a3cb0307397942382e654810f2de130&chksm=e84c46bddf3bcfab8219b744a4c92adfe429c177774d13bb55c94d8bc2366fb5b37e7155a300#rd
+元学习——让机器学习学会学习:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491673&idx=1&sn=72b42e0aba984d69ca06cf3648b2d2f0&chksm=e84c4686df3bcf903f26cd2c0dcd72d367e4e92ba7ba1ed6f872df7f2d9b111ecfe51e8379b0#rd
+一文读懂https中密钥交换协议的原理及流程:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491663&idx=1&sn=ad307984894e0ba51e3abedecf457ff5&chksm=e84c4690df3bcf86eea401cab9e6ecfce9491def788d98d5edd2473c032167cc63dfff672023#rd
+DPKI的崛起之路——分布式数字身份(DID):
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491628&idx=1&sn=0bce8f445647a3ccc458554f1d0c3b81&chksm=e84c46f3df3bcfe5a9eccb4cd139f34790974dabfbd281421731291a71dfc2586247cdb1cea3#rd
+从Falco看如何利用eBPF检测系统调用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491627&idx=1&sn=1070592c4440e8891641e14a60b8a1c1&chksm=e84c46f4df3bcfe20f31046342775243d0bce2c840c882cdb2d316b86d92d3957463ba1e9c3d#rd
+央行数字货币CBDC：区块链技术新起点:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491593&idx=1&sn=2940e5073dcd351c617fe15bcef096c5&chksm=e84c46d6df3bcfc09c62038a17caa61c68bcac98b554f815c132ae9344be5e0cda45bd23f510#rd
+云原生服务风险测绘分析（三）： Kong和Apache APISIX:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491579&idx=1&sn=784cf74e6f19190450e66ab50390313f&chksm=e84fb924df38303292c6922a85440803da2b3b7b3c3b770c62f8c281891f2c2e73080a5a4cf6#rd
+面向XDR的数据质量度量方法（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491578&idx=1&sn=d9648a51ded59184238add45dcd0aa49&chksm=e84fb925df383033bb6bbbd58ce0650c2fe7cc144ae3c8266533689ece66498c77e84f18296f#rd
+计算机安全深度学习的白盒解释方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491536&idx=1&sn=67f0b5cc36b3f4e56d7ccedbd0da2aea&chksm=e84fb90fdf3830195fec73917aae8ce51ead03baa7629cd03a632d0499fee0b10a59a483ffb1#rd
+《2021网络空间测绘年报》| 国内77%的 Kubernetes资产受到已知漏洞影响:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491518&idx=1&sn=1ae11b7b8c5409a0eb0c85f7eea8b3a3&chksm=e84fb961df3830776aed39d6974e08cf9e483a4fb234840aadc453554d7e0c0203a353f5ac4e#rd
+同态签名的妙用：云数据完整性审计技术（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491517&idx=1&sn=667551c8f4b43fed0eef2cd71f81e62d&chksm=e84fb962df3830746d5c2bf0910c0b935be81c14804f484e28a32a6292cdb77b7f6025023845#rd
+拨开俄乌网络战迷雾-域名证书测绘篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491495&idx=1&sn=be528d770dc0e7cae2eeeced4595195a&chksm=e84fb978df38306efef52dc0d7828b7b3b435c16e1c150b573c3457dd5461ed8162a63f88a99#rd
+去中心化Web，Web3流派二——Web3简析系列（3）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491494&idx=1&sn=d8eaf2987e662b00fc84644b3759230f&chksm=e84fb979df38306fd7ab5e10280633136b3a68fe56805657b4240a52262104993e65ecb185ea#rd
+Web3概念的演进——Web3简析系列（4）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491494&idx=2&sn=2f1cce84290e0098af1191b61286ea8d&chksm=e84fb979df38306f60e0d6d94caab035da3a11d3f27891f5c7f3ad9429a4553d3f8979678af1#rd
+云原生服务风险测绘分析（二）： Harbor:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491473&idx=1&sn=56b78c6410363ba0ad5fe91fbe0a5671&chksm=e84fb94edf383058a5d56216cf73ce014fff94e22146d1066602595504dc660da58e1de44d91#rd
+区块链身份管理技术浅析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491429&idx=1&sn=fd105ea27b2c07ef9010ef767d310ea7&chksm=e84fb9badf3830ac9ec010cd5fea9d4461a6e8bb922e1e771ca7509139d0ba7e49b3273637e0#rd
+“隐私计算”为数据治理提供技术“最优解”:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491410&idx=1&sn=2b8ffa3940368beb2daa95088d8f17c4&chksm=e84fb98ddf38309bf43b6ddb96c4df69e5d93743a9af06dade218de58490b338f9a49427bf7d#rd
+基于机器学习的自动化网络流量分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491400&idx=1&sn=0f987ba799cbf1e54f6ae39b492d8fd6&chksm=e84fb997df383081c5a5d6f9ca171736e0898e25a535a4c4a103e4356d2050c7a670971b9919#rd
+《2021网络空间测绘年报》解读｜应用风险分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491390&idx=1&sn=823930fa759c401bdecc1c096ec63936&chksm=e84fb9e1df3830f7d4353c38d7391ad0ae5cf6e1ef297837c0455863733dd6cec27be1685427#rd
+谁动了我的core_pattern？CVE-2022-0811容器逃逸漏洞分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491389&idx=1&sn=accc29dda7f80838d5bbfb7afebc24e2&chksm=e84fb9e2df3830f4e1bebc20ce4c3b30ba81cef68ad89c2b32583b6e244b2120aace0c9a7b1d#rd
+云原生服务风险测绘分析（一）：Docker和Kubernetes:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491373&idx=1&sn=93b43b956602c7bc8b4a5f12af544ec1&chksm=e84fb9f2df3830e49b18647cf58e8ec12b73e384dee3fe07ab7c8201a622cd2c4df9d3037e9c#rd
+从Web1.0到Web2.0—Web3简析系列之（1）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491344&idx=1&sn=c484b1c53c5bb819b261451d622f6ab0&chksm=e84fb9cfdf3830d9333264c9b7663ba543316a19f3c20f8a6b008d05845fde85f57b13d42069#rd
+语义Web，Web3流派一--Web3简析系列之（2）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491344&idx=2&sn=20a8f0571207fdf65243e8a447e478ba&chksm=e84fb9cfdf3830d9e46e8354b6b585fcc48d3acbd23b04727043d30ec6645f4c6d14b3b848d4#rd
+拨开俄乌网络战迷雾-代码仓库测绘篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491343&idx=1&sn=f2bfc2719e309da01604fb8a7b46f73a&chksm=e84fb9d0df3830c692dc1a89a06d2132914f0166656c353b4e06caa04e3aa64caefd7881c942#rd
+拨开俄乌网络战迷雾-网络空间测绘篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491326&idx=1&sn=1d9b12ba15d2de40e415c3659dc58d8a&chksm=e84fb821df38313715c70c2278d668df867cb29bc75ba132c50ac57a656e5c5e695b68f7b0bb#rd
+《网络安全2022：守望高质量》报告之数据安全热点事件与趋势解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491272&idx=1&sn=8c32bda4362d6b5947daccd41d3395bd&chksm=e84fb817df383101e031e8b7f9ceac646bd2ee38b70d060e411808a38ddea240e751917e8615#rd
+《2021网络空间测绘年报》解读｜安全设备和数据库资产篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491269&idx=1&sn=d38aae0f980bb477096d85b0f5346f40&chksm=e84fb81adf38310c57e213946d07cb951d26df469efa2f9c4206aeedb0f99c87557bb4bf99ff#rd
+The Route to Host：从内核提权到容器逃逸:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491266&idx=1&sn=f54eda55bc72f15af9eac3362cf4a971&chksm=e84fb81ddf38310be08aa1951263df841c9e1f08443ded8006756fd540346135ae3f5f066b81#rd
+Linux内核漏洞——CVE-2022-0185分析与思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491255&idx=1&sn=73e8ba5aab991ee6c08db1e7e703b944&chksm=e84fb868df38317e70386358233212f31f40b2168ec7433b2805715b3a15e15f91b6045a9a24#rd
+国家技术战略制定、实施、监控评估（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491253&idx=1&sn=e0d05f5aed7f4d239dd97377f57d65d5&chksm=e84fb86adf38317c2f8a671e6910e2a3746a8766bd4771cf3a7d1b5a1b9f87d7434c3f7ee5f4#rd
+深入浅出云原生环境信息收集技术（二）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491236&idx=1&sn=e9ef6b9bd322a92fec97f0ab315c9441&chksm=e84fb87bdf38316d7015ac17910713c3efd1e892c8b40d236f445c448c0cda28dec540c125e2#rd
+【安全告警分析之道：四】扫描识别（上）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491235&idx=1&sn=523bdb089e851431cd8e363617caf911&chksm=e84fb87cdf38316ac245c2dda3b33ada6531389c924ec8264db3ef8111ce4720155612278af0#rd
+告警载荷嵌入的前景和难点:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491214&idx=1&sn=146d0b6f0984e3b411d9fe2d3b93259a&chksm=e84fb851df38314705725484b1cdd74b44cd966acc76312ee91ca22df451ce372d9adc76dce7#rd
+《2021网络空间测绘年报》解读｜公有云资产画像与风险度量:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491196&idx=1&sn=986cd04beb0a59cae5203cbd6a48998c&chksm=e84fb8a3df3831b5ba9a5436501e3456b841e958095c39cb2e3617909cc59c71251ee4920427#rd
+设备指纹技术介绍与综述（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491193&idx=1&sn=af305772480966a92c51238d1a2a9ab1&chksm=e84fb8a6df3831b09ad6f7e8a05831628aa12fe2d52c9827c70b9c96915d9b424d987466c8f1#rd
+安全多方计算:(2)隐私信息检索方案汇总分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491183&idx=1&sn=302ac95cff5842162694c4fbdd6b3def&chksm=e84fb8b0df3831a629d9dcd40e62856ae7ae36884dde0b539ac969a2fde006408cb33c86baaf#rd
+区块链隐私保护技术解析——零知识证明:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491140&idx=1&sn=b707398a32d5b519311d2c570f1e493a&chksm=e84fb89bdf38318dba7c0b94aa95ff96280e5ad61c2118a919d701b7ffcd5fe7c96fd2a63ba6#rd
+内存马的攻防博弈之旅:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491127&idx=1&sn=8b1048b1bd1d5276a2b4c92d684b3a43&chksm=e84fb8e8df3831fec7c9c254ef200086399175b8afd7f5f5233e929c051c0eca369af0587e17#rd
+火线沙龙第22期——云安全专场，线上直播好礼不停！:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491118&idx=1&sn=41c51b8890619f6508986a4b0997bb54&chksm=e84fb8f1df3831e714387c723ef64f8f65bfff4a0045163dbed575e20d9ae12f736aa8fd27c0#rd
+《网络空间测绘年报》|从安全事件透析网络空间资产安全热门风险点:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491110&idx=1&sn=466af1629024b9180b601bac141bcb8c&chksm=e84fb8f9df3831efc923835327d0f99edc503fb77f99b9fced2674d74c4df646db5ded5e5b09#rd
+《2021网络空间测绘年报》解读|物联网资产与风险篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491110&idx=2&sn=f0907024318b24e750a05b41509b67cf&chksm=e84fb8f9df3831ef470fdb4ca04b7aa49f8a255a2ebb312e3ccf664010c4fffd036722f2fb2c#rd
+深入浅出云原生环境信息收集技术（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491109&idx=1&sn=8b1e3bbf98aa2ed4081f9798d4ea2e27&chksm=e84fb8fadf3831ece019208dcdca3900fd6dea3c4f5358ecbb92f2a767a93fb18600cd9d4aee#rd
+NASA网络安全工作的有效性:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491083&idx=1&sn=a8cfac9ebcfdef55427bfb4f0763b756&chksm=e84fb8d4df3831c201fd9cbb14d7a8625db7b63e93c9e50c130e4a707034c94ee14861568861#rd
+流量全密化趋势下的检测困境和思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491082&idx=1&sn=d1549b25db63009ecd3dbdb762d70655&chksm=e84fb8d5df3831c3bfa3df2d7c85ad7915983a709867bcf7832ba95b508bed4fda4744db86a8#rd
+基于机器学习的反欺诈研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491075&idx=1&sn=11fabf90fe5d98ad0d6199496bb977fe&chksm=e84fb8dcdf3831caf1ec9ad20f3ede53a454c64012b37f35391e7388981ec9fc62461fb3e0bb#rd
+【自动化渗透】DeepExploit框架深度分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491073&idx=1&sn=4cb855b14cdc037158095c3272470ebb&chksm=e84fb8dedf3831c89c5a2a057ef80dafde5de431b2d9f2e7676a398035ad1ef89d74b6addf30#rd
+新技术给5G核心网所带来的安全问题:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491041&idx=1&sn=c64d94fc6c49ea652b94a061b2b5e6c7&chksm=e84fbb3edf3832288f170387cf3b3c84aa55d5e6f77f71082632a9d5e665aed257d2f0b942fa#rd
+谁动了我的DevOps：DevOps风险测绘:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491025&idx=1&sn=58b8a19b330cc4a0f4c992870d5f6ba3&chksm=e84fbb0edf38321831fb2590f5950af4fc45bd84ca4b941e8306e43b0fdba3d5d0d08980bd14#rd
+容器运行时信息收集技术介绍:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247491000&idx=1&sn=b818b9d197e808c7eff961604f1b9d60&chksm=e84fbb67df3832719dd59d4cc62657e5cec340b3ff4502c6d14292b4e0e6d5c113087ef233df#rd
+安全知识图谱 | Log4j事件云端数据分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490962&idx=1&sn=217cec30d4185a5249f9d0b3ae4fbd43&chksm=e84fbb4ddf38325ba2db1e24b53b8ef34101a4eb5972c814f882dab54272f47694d2a5a05b2f#rd
+安全知识图谱 | 威胁建模助力企业“建防御 抓运营”:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490959&idx=1&sn=f35111daef1bd345c7241e9483613a8f&chksm=e84fbb50df383246fa64ce951ca79ecf355bc810f0d8b15615e53be43079e375f11b9b3c8c93#rd
+安全知识图谱 | 绘制软件供应链知识图谱，强化风险分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490959&idx=2&sn=fdf58c126ab07d1d96d6c79c9dd44b3e&chksm=e84fbb50df38324604ef3ca89cd311f61e23941fb9205b3542eafbc12882a603d40e8f71bffc#rd
+安全知识图谱 | 深挖两安融合，加强风险防控:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490959&idx=3&sn=faa77edb5c01da061a8e33e8a7dbcf62&chksm=e84fbb50df38324667b88c08b24965b23f0b9a7b551eebb31067c1be747b85a6c445f5d6e346#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490958&idx=1&sn=fa1e78cea42b85b7f8566ffccfc85d6e&chksm=e84fbb51df383247014d6c656a7bc07faae4980b5e7c1989e5803f281a7ed44bdc1a76ee3830#rd
+回归也是一种传承，绿盟科技开设离职员工回归通道:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490937&idx=1&sn=20de6500c8c8d364cdd22197ad6e103d&chksm=e84fbba6df3832b0c5ed0d81921918c39d0c045f89b9b88cf6966fe12a8bbf8733daa045905c#rd
+高频增量告警查询中的轻量级区间LRU缓存方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490934&idx=1&sn=538122dd1f788525f77e832379be4de5&chksm=e84fbba9df3832bf7c392ab77deead2db2ee4be5d513477e1286e767a750e52285affa4c61c6#rd
+【顶会解读】安全运营中的告警分诊技术解析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490918&idx=1&sn=0f82538a7285b182e6b0ecb826cd0338&chksm=e84fbbb9df3832afb1ca387135c468abd122067ef34ebc926752be262a8ab45717b5c6b58e8c#rd
+NASA网络安全准备度（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490902&idx=1&sn=d77b25b1436732c3b611ece463d20d15&chksm=e84fbb89df38329f4b4244c3163b3f7cac7c49d20b23617371811ab79e07593861f50914a5fc#rd
+面向开放环境的机器学习—属性变化:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490891&idx=1&sn=4e51e902f2bee30459bfe9d05882d58d&chksm=e84fbb94df383282b9150ac4b7b3373faf8b3238a4efc1e5e82e1b75de709e2972b45f96f9c4#rd
+警钟长鸣：S3存储桶数据泄露情况研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490871&idx=1&sn=c0f34a1a068b8b14c8471c6fadc4d042&chksm=e84fbbe8df3832fe6cbcc332dea356382e07e8830e25cd8ce6e2a89d1e82921d960e22d1ed67#rd
+再传佳音 网络空间测绘研究成果获顶级学术会议录用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490844&idx=1&sn=5d4306d4da3cad3f3cb4c4d920ae1d95&chksm=e84fbbc3df3832d5a0a56d37ff20e06bcdb4bbd95a52ad76c0ba6aa6fffbe0201a9e4fd09f4f#rd
+【小蜜蜂公益译文】五角大楼高级领导备忘录:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490836&idx=1&sn=a40751f489a81aa6833dc6fb442e4d61&chksm=e84fbbcbdf3832dd9f4476a4710a25e07d6fd23a8cd33ebd18a8c9d092abd33864e877c25220#rd
+安全知识图谱 | 网络空间测绘助力安全防护“量体裁衣”:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490830&idx=1&sn=1345368238469cc580bff3ea7cc00964&chksm=e84fbbd1df3832c7066f5100507de1a4d83bfcb4deac66a7b52d8aa7a81f87dba511ba6cf6ba#rd
+首站起航 | 绿盟科技TechWorld2021·创新派技术沙龙成功举办:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490827&idx=1&sn=63b94a360aff60d5a6ced9963ca9a67d&chksm=e84fbbd4df3832c26bbfd1d2b766d2fc3a98a7ee572eae4e9150160aba0d075e252f37ad13cb#rd
+安全知识图谱 | 按图索“迹” 追踪溯源:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490827&idx=2&sn=61e00fa6771578d35523e62ec12fd139&chksm=e84fbbd4df3832c2018e3a14f84dfa4e3747e5b47aeb65947f427f24d2f65a83cc7374615baa#rd
+原创 | 资产可见性与资产管理共筑OT环境安全防线:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490821&idx=1&sn=468a017f8a3cff7486b73a46faea27e7&chksm=e84fbbdadf3832cca1ee8964d6f6c590fb387801f332eadec7cbf735b53ab9deec30408ddaff#rd
+原创 | 上下文资产信息（Context Asset Data）助力OT环境的SOAR:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490821&idx=2&sn=717318d63c04d5870ae241abd95c6a4d&chksm=e84fbbdadf3832cc32ee384f900998190a6334e03313f6a70e42606d895fff034a2fa8d9603e#rd
+安全知识图谱｜知识图谱视角下的威胁评估:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490819&idx=1&sn=2242644ece202231d0dc705a3524595d&chksm=e84fbbdcdf3832ca4a6f92133eb336ec3b0078a69b5a1ae0134cd45a4e9e61ca3a828ef7decd#rd
+原创 | 从研究工控设备到发现供应链威胁:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490819&idx=2&sn=c90f6e3519030467166fde2fd3f1de21&chksm=e84fbbdcdf3832ca6e17668eb01b7ff78394605a0516fbf51e8c30df91a0325563dbf80293b6#rd
+报名启动 | TechWorld再集结，首届创新派技术沙龙蓄势待发:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490816&idx=1&sn=b620d0adab4fec8cf6c4184625fb5cbc&chksm=e84fbbdfdf3832c905528bbb0e2ff6d312d80369b342af5e56b52a9d77dabec8566cefbe18f0#rd
+安全知识图谱 | APT组织画像归因:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490806&idx=1&sn=d5421464612c946a32c9d40f63203322&chksm=e84fba29df38333f304d8ac5c2d7aead169faad7d803802eac2eb3a480435c9b8eda5eae47b4#rd
+安全多方计算(1):不经意传输协议:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490803&idx=1&sn=f21606da1b7856e43d10559ad67653aa&chksm=e84fba2cdf38333a727c36a15c1cdce935462d773189b1193d2884bc05aef73e79e922e22951#rd
+安全知识图谱 | 构建APT组织图谱，打破信息孤岛效应:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490780&idx=1&sn=f901291df41cf97bdbc6ea374877834c&chksm=e84fba03df383315bc31a548ca23e321e4dc1761e45de812ddd180d75db753c2f2477b39d89b#rd
+携手迈进认知智能 ｜ 绿盟科技安全知识图谱技术白皮书正式发布:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490777&idx=1&sn=5acf274d246ea09dd86f83daf68df1fb&chksm=e84fba06df383310aa2d2888bbd987a37eee260f0875fc08dc92dfd75ddf448df7c1ce68f046#rd
+天枢启智|绿盟科技获得知识图谱产品权威认证:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490777&idx=2&sn=bfa2854d90783a5b210cdb99e74a4617&chksm=e84fba06df383310a4968a10acc99f0e2560c934137c8081ddfbd68667692e9b30720c174009#rd
+攻击推理-如何利用威胁情报报告生成可用攻击子图:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490772&idx=1&sn=7d748c8da94d1a3869d0fbc10778a251&chksm=e84fba0bdf38331d4e35ddc9dd1b908bf1bc81b6833a6ffef3ed535570b8e35adaf73f01c976#rd
+云原生环境下的API业务安全思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490761&idx=1&sn=55451c19da88195c98ca9596dccc23a7&chksm=e84fba16df3833006c0dbd5b2c4c3827297a1067791496159de2a5066de1765b044298871c65#rd
+移花接木：看CVE-2020-8559如何逆袭获取集群权限:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490713&idx=1&sn=8cbf3d0cfb4d96c884a17ee48a06e8be&chksm=e84fba46df3833502f8ca0a88a58346b43f9d114117c1701207c5cdb47b7ac53f7ca0905d3bd#rd
+《云原生安全： 攻防实践与体系构建》解读：动手实践篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490713&idx=2&sn=a8ebde6a773e5a255987e2a5d99ea7ca&chksm=e84fba46df383350684fbafc7a52df9f46a83a88c705c7df2aa8530916f24497b605e6356e59#rd
+原创 | 制药行业面临的远程网络威胁:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490708&idx=1&sn=0c2e64a9a736e9edc7b6951ad11bffcc&chksm=e84fba4bdf38335db54b39fe725e863b1802c8bbabeefbf5bc53276661b39d4b2a2c10f813d9#rd
+工业控制系统信息安全与功能安全研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490708&idx=2&sn=b0384355091a78123203f6694b704e70&chksm=e84fba4bdf38335d49929dda2d9814d8dfa248575776e3aa19d2f0cb88c4feaced50607b8d68#rd
+【新书速递】应用上云成必然趋势，“安全左移”是云原生安全的必经之路？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490683&idx=1&sn=e018e406391f890928297d197057e8af&chksm=e84fbaa4df3833b2958b838cd04663b75a1a6cee4c378c651d9c76cf0aff954ab95390d1e339#rd
+《云原生安全： 攻防实践与体系构建》解读：业务安全篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490683&idx=2&sn=b8a21874ab4131b46aacd44caf7af2b6&chksm=e84fbaa4df3833b245709a9b19fc7e7f07101a7c84fcd06234257438fd92be4d27843775b11c#rd
+联邦学习技术发展研究及政策建议——《网络安全技术和产业动态》总第14期:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490652&idx=1&sn=e80a66748aa9d19c82a436647335f4f1&chksm=e84fba83df3833952afd8a8ce64027e6deeeceeddb9e0642bcd7d8159ddbb40fa582de486ccc#rd
+《云原生安全》之原生安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490646&idx=1&sn=41dc936df9c0e1180daf648da9fc5995&chksm=e84fba89df38339f9b1a4e6e8dfe5746e6b505535d966a9502f9e7c1ee8f594d5707e24f7843#rd
+区块链上自由市场的信任基石之（1）——燃烧证明:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490617&idx=1&sn=1f1b7c072c8859802ac59dd1e2d7d3af&chksm=e84fbae6df3833f0e2e53dc2dd343145e06c00f5fcbcb081e1f3f9f96b028228826e20ad0766#rd
+区块链上自由市场的信任基石之（2）——捐赠证明:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490617&idx=2&sn=e6200cffb8614f80331dd29b4e1d2bad&chksm=e84fbae6df3833f0caf8adb88c14153fc89f66d48f6b3ec549a560194a91ac81ab9eec3b9c91#rd
+5G基础设施的潜在威胁向量:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490616&idx=1&sn=aec8770f13ab113c99eb8c063bc3a8ca&chksm=e84fbae7df3833f1caf5e28aef1e547ca35089e333b6668904cefc229c926a4f6b139a4aa1df#rd
+区块链隐私保护技术解析——之门罗币(monero):
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490612&idx=1&sn=f77a86fec3e9e1bebc033c03b701695c&chksm=e84fbaebdf3833fdb7263c806f7e01d8b8decb97045106b067ebca86b6c7f570b2d25c41563a#rd
+逃逸风云再起：从CVE-2017-1002101到CVE-2021-25741:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490554&idx=1&sn=3f07a99384048b665605aa5d5b52e0e5&chksm=e84fbd25df3834335308577d0a0d7be2dcdd1533a7d0a93fbce5bed6685c9f3700b1a2607d8a#rd
+【云原生应用安全】云原生应用安全防护思考（二）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490535&idx=1&sn=e9e7ee0600e43aec8b54da1b01f4b66b&chksm=e84fbd38df38342efd5400a741d930d1228f572663ca59ae394e8cb4870476d62ca7be0391f3#rd
+还在为告警筛选而发愁吗？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490534&idx=1&sn=bc1033e3322dfc9fee346631f0018dc3&chksm=e84fbd39df38342f000d34e97ab3c0e2108e679471e4b75539ab9f578a1f564582920e9ed607#rd
+AISecOps：基于动态图的威胁分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490504&idx=1&sn=fb581a96e28aa9d24ca6d38cf9caec55&chksm=e84fbd17df383401857b3431d7afe06ba75e286eaa99eb1341288aa6c22a75815f8c893e4fc4#rd
+【安全告警分析之道：三】异常处理篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490491&idx=1&sn=482584e72c11e4283ee84628986fe9b0&chksm=e84fbd64df383472e48cb9d9d3bd402f93357a9dc480899b42fb0c0787478e6275f78e18ef7b#rd
+物联网设备的几种固件仿真方式:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490474&idx=1&sn=5a7c8bd2adb8615234454bdf51fe5bcf&chksm=e84fbd75df3834633836cb251476eca01c9829623f67cd952c63bafb48a282499112b4b4efbe#rd
+【云原生应用安全】云原生应用安全防护思考（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490472&idx=1&sn=318917492139e6b469c19e66cef50c99&chksm=e84fbd77df383461493da83bac98a9dfcdd63de5154e3c14ff4bb662497cfd932828694613c6#rd
+打好人工智能战争 —— 未来智能化战争之作战构想（上）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490464&idx=1&sn=ffb8324d4769ebc7244b857fc40d4806&chksm=e84fbd7fdf3834690da19d9241249db224f451191bffd9d80d45e3e4e1276199581ff7e06349#rd
+打好人工智能战争 —— 未来智能化战争之作战构想（中）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490464&idx=2&sn=b67e05b9a28c96fa240ff19c3124f948&chksm=e84fbd7fdf383469d21519ba22cd79e7a0970b0e0bb6b0459957c9a066daf3034c7a8d3def3a#rd
+打好人工智能战争 —— 未来智能化战争之作战构想（下）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490464&idx=3&sn=8bd8af5e156bde170cb5733da5954c12&chksm=e84fbd7fdf383469d1b077dd58e6437ba74b5d4eda961d50effc008b6db97f38f2f74e1fb04d#rd
+【APT行为数据分析】终端溯源数据中的依赖爆炸问题:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490448&idx=1&sn=31d141a376c9c202a6b3e282c32b4c04&chksm=e84fbd4fdf38345929739485376959fe20a9e8a262c468c81a3e08ae2e5a989ed83c178de63e#rd
+攻击推理-安全知识图谱应用的困境思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490435&idx=1&sn=d411132d76faeff8dae86572a7f2f737&chksm=e84fbd5cdf38344ae454a693e481aa671f0d4c04b96738d829600976238d7cea69dc7756bdd4#rd
+从关基条例和安全运营曲线谈资产暴露面管理:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490434&idx=1&sn=7f92384fb1f3e0376a8771843b7e7d6a&chksm=e84fbd5ddf38344b2642ec8e3bf0442b19c4d21dde3c4bba8ab809fade84e44bedb9fccf365f#rd
+原创 | 关键基础设施防护发展:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490407&idx=1&sn=a8072cd20cbad2e1a9e91b296e315a20&chksm=e84fbdb8df3834aecc574e4ed40e0225398efbab8d2ce83a9afebfd6be31f89a25469472848c#rd
+原创 | 一头扎进 IoT Bugs 中是种什么体验？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490407&idx=2&sn=28e15b40f8282e238c1076cecef61871&chksm=e84fbdb8df3834ae4041ab39374ca490558d361e8da962724f0758fa0480b39150443ff48a1f#rd
+原创 | 黑帽大会议题解读  BadAlloc内存分配漏洞致数百万设备易受攻击:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490406&idx=1&sn=e971999c3d319609dcebac5348943384&chksm=e84fbdb9df3834af8de0c977079a7fa8d91ce962a48a570c6d748928b1b39085bcf9461bdabf#rd
+原创| 工控防火墙安全测试技术:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490406&idx=2&sn=d0dce484d503a11db913b19a2630bd70&chksm=e84fbdb9df3834af71795683b24d980df3c1160142b613bb1dd4d8ad3f55f0c371ad720def15#rd
+【AI安全专题】谁偷了我的模型：机器学习模型水印技术介绍与分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490376&idx=1&sn=26c8cef7fc7142761fcbb67523925823&chksm=e84fbd97df38348103e878cb9c390301f6324d0addbc3f86bd8c19209a961323d4f858e72273#rd
+给未来写信——时间胶囊技术（二）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490358&idx=1&sn=69652360d950e83f2001269a57b3e903&chksm=e84fbde9df3834ffe3f6e90388bd3549936d830c36d740bf9911777798b49e6c26d851bae7e6#rd
+给未来写信——时间胶囊技术（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490357&idx=1&sn=86bf063b65f4da34a0d9d4a4a945870c&chksm=e84fbdeadf3834fcc65e73e21aff7896d274e82ae45e170aeabe0c7706afd0951e77446c6493#rd
+两法律一条例 | 绿盟安全专家解读网络安全“新风向”:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490325&idx=1&sn=1bb217b834bb6b6d2b701dc5ac036f80&chksm=e84fbdcadf3834dca33bcd93dfd28897a78874dbbb572ce9f000f5cd78cb85258631d90f9ab6#rd
+防止云端数据与查询行为泄露—可搜索加密:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490322&idx=1&sn=9ecb0c30d3145038cae0acaa3b1ff5fe&chksm=e84fbdcddf3834dba1cf15034aba678d846055ec90beb56cb33ae25df8b0894ee5f5f6c5a781#rd
+改善国家网络安全行政命令:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490284&idx=1&sn=453dcab1e21adfec80ce37008f5fa1db&chksm=e84fbc33df383525a49cbd81681cc936624470f4b33008777d13648aa878598888edb5f0a359#rd
+《个人信息保护法》之技术赋能企业合规建设解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490277&idx=1&sn=1df624f0869c86a3bfa900669f6fc2b3&chksm=e84fbc3adf38352c4f0034612abdec731573dffd77cf125d20a9172259ce76e9ebb202148dec#rd
+附下载：《个人信息保护法》终稿与草案的二审稿修订对比:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490277&idx=2&sn=938400cda1de5c6c516f77c21d8d45e8&chksm=e84fbc3adf38352c2ceadc939d6ec1795cf0a6ddd764e8ab0066bc212a33a6d212b2aeb029eb#rd
+数据脱敏的风险量化评估方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490262&idx=1&sn=e592320681f09150f707b3a69242e34a&chksm=e84fbc09df38351fbb036cd8662d343a203d4909c5607a2df092a99d839e48902e04e93b0d9b#rd
+【AI模型安全性专题】模型安全性-图神经网络后门的攻守道:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490246&idx=1&sn=fe23bbafcdddc263e75208dce11335f6&chksm=e84fbc19df38350f30e657e6fdf6b94e67c74aaefda4d664dc1bc418e510558a8847785536b0#rd
+秘密共享—隐私计算和区块链共识中的榫卯:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490199&idx=1&sn=b1035fb000c721918534d60dcc075621&chksm=e84fbc48df38355e9cc90c2ac81cff625a67aa0bf18730b48999f18fc6998aff7b12bd5d67f7#rd
+航空网络安全指导手册  第二部分：飞行器（上）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490175&idx=1&sn=e117bb63c2a5faf5677039e223943c4d&chksm=e84fbca0df3835b631e064a438bdbc45ac09610ee629365fdad514d4d9542ff1bf327c551f14#rd
+航空网络安全指导手册  第二部分：飞行器（下）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490175&idx=2&sn=35c1cd631e9937cbc980d0246b7204a9&chksm=e84fbca0df3835b63e2ede49d5c250faa6c0f787aaeaed2fa795fc38d30618b5ed5aba4e883a#rd
+安全多方计算之前世今生:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490149&idx=1&sn=e898631511d238d29e0b8168dce62daf&chksm=e84fbcbadf3835ac060f1bd03eaea5b38aa3850539517165b0684bc8d867bc72f45d6169079d#rd
+【5G安全专题】5GC控制面异常检测策略:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490107&idx=1&sn=574a1c6c2850295ea00288a72c1ea07b&chksm=e84fbce4df3835f24535d987c29ce8ef088c4c57e1351ef8618b12715a8eef85f4c6c15fcf0a#rd
+原创 | 工控系统的“一个中心”:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490072&idx=1&sn=07b987e86ef302542ec1c069ce2d51fd&chksm=e84fbcc7df3835d1239636b58e8c42fe1ca87a82a48130c0f938e475e05de9982b7eb3dea601#rd
+原创 | 建筑行业的网络安全挑战:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490072&idx=2&sn=f4991724155f073e85c3354d8bbed5fc&chksm=e84fbcc7df3835d1183d4087a86ed778840cc8c7b53582b707e49d5f92e1532bb555f24a04d6#rd
+【安全数据分析】让防护告警说人话，可行吗？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490070&idx=1&sn=a8f2c1d4c02c6bbf9117c786b89da2ce&chksm=e84fbcc9df3835df3cdf7c222b01d2f6ad91659966e4f7548337ced01b0f53b395de5279df25#rd
+【招聘】绿盟科技创新中心招聘公告:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490068&idx=1&sn=823e8a21b54805e53c91630d83cd7d33&chksm=e84fbccbdf3835ddc93790cb779fdceb471754b16b5ca9b81cab196135cd91f8a73c03763a15#rd
+AISecOps：基于异构图的威胁分析技术:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490038&idx=1&sn=5a871a1da25d1e73adf7320d359a13b0&chksm=e84fbf29df38363fde5974f971c13dc6054611f00170fcb69290c92ec93c6891d81d5bfe5698#rd
+小蜜蜂公益译文 --航空网络安全指导手册第1部分：组织安全文化与状况（上）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490029&idx=1&sn=f19fce1ce3d332b35f915115af8e2662&chksm=e84fbf32df3836241453a99a2a66dd97aa83042e4c7aa5b43fd2e4e9f12df9ba54317e48e02b#rd
+小蜜蜂公益译文 --航空网络安全指导手册第1部分：组织安全文化与状况（下）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490029&idx=2&sn=fe6c827ec69b4fc34f27e10d0e533ade&chksm=e84fbf32df3836247989d3d31706ed05f26baba7984b84309cf5ab580c635e64d8e37c219e25#rd
+小蜜蜂公益译文 --航空网络安全指导手册第1部分：组织安全文化与状况（附录）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490029&idx=3&sn=b871ae02dcfc5b8f5301d4a9abc4a428&chksm=e84fbf32df3836244ad5cc4a9b12c734ef9224e94a55508ba8ba19e6cba83a36927e2ccb9d12#rd
+【云原生应用安全】云原生应用安全风险思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489995&idx=1&sn=453349d9fd32d15437ebe05f9832c03d&chksm=e84fbf14df3836023b7aa94558c23f378375d8620fd598083e1fff290276b12075e30bbee788#rd
+小蜜蜂公益译文 -- NISTIR 8011 第4卷 安全控制评估自动化支持：软件漏洞管理（上）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489969&idx=1&sn=beaaab9ae5660dd37c77dbb0b047ca66&chksm=e84fbf6edf383678d826e5cd0c869e6c0de6966c6790dcbade814856e1476caf72dc6cc56132#rd
+小蜜蜂公益译文 -- NISTIR 8011 第4卷 安全控制评估自动化支持：软件漏洞管理（下）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489969&idx=2&sn=7889c9116c25cffd483d33d01a822f5b&chksm=e84fbf6edf383678608f4164615ab9d29e95111d44f95d92ead83d516a20d717cbb07293780d#rd
+小蜜蜂公益译文 -- NISTIR 8011 第4卷 安全控制评估自动化支持：软件漏洞管理（附录）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489969&idx=3&sn=c8081384bb9ee317afa9172e717c7ee9&chksm=e84fbf6edf3836787e5d25fcee3ecc37d3df90674b7b70edb3ae732a4848d3792acd99b4c18a#rd
+原创 | Google应对软件供应链攻击的框架SLSA:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489921&idx=1&sn=656fe19383c2eb225a77bfbed3a69520&chksm=e84fbf5edf38364885be76f65dd4545abf1d48ff1cb55c00a69aa41cc0089b349d62847493fc#rd
+原创 | 关于汽车软件安全保障改进:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489921&idx=2&sn=c5c21d24e2a1bd12543e5e44313ee02b&chksm=e84fbf5edf383648db788fe69a1fa316a9b07b651ae7fb78324550771a48cbe27631a3bdbb38#rd
+以梦为马 一决高下 | 2021黑客马拉松，寻找“摘星人”:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489919&idx=1&sn=cea614e3f03a8fbc9bf8ab6912665b5c&chksm=e84fbfa0df3836b690ecffe8883334410bda88c7f00a573bdba9de84e7dfff3616e838f8d99a#rd
+原创 | 西门子S7CommPlus_TLS协议浅析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489916&idx=1&sn=e12e3ad8caa3181e0769dceeecf44d38&chksm=e84fbfa3df3836b5d6cad90c7a7f5748f3a970220925fe174319c26aadf608f739833a4e622e#rd
+【安全告警数据分析之道：二】数据过滤篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489912&idx=1&sn=cdc9eb40d4df0be670851b24c5722f4d&chksm=e84fbfa7df3836b1b7ca3b1a546cdad16f99c5ffb2d85da3a492862d31229dee6e14623969e3#rd
+面向开放环境的机器学习—样本类别增加:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489891&idx=1&sn=64c47470ba931d780456fe6a5f587b9f&chksm=e84fbfbcdf3836aa21de90fff3ee8b830f7df41d3b9b804de84d8f52b3544fe650db10c08162#rd
+网络空间测绘专题——资产地址动态变化研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489881&idx=1&sn=3631e5895138b189dd65b6b2a17d228a&chksm=e84fbf86df3836903d04f03a932f688e5f2bc8e16fd9ef476186abe3d4cb4b68a1320eaf642c#rd
+智能运维-告警太多看不过来？需要告警优化啦:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489862&idx=1&sn=d68a0869f1955a08b10aba439c184903&chksm=e84fbf99df38368f1427403a8e101edf40760f5eab2395aacda5f170799aac501b7f462890bc#rd
+原创 | 来自 Bitdefender 的IoT漏洞研究分享:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489849&idx=1&sn=1f8dda16d372ad8912d3727cb75acf86&chksm=e84fbfe6df3836f0fb6f7e47bb0b719653b384256cd53801e64e9c7a04d8e62ce028e9ca100e#rd
+原创 | TP-LINK WDR 7660 VxWorks系统分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489847&idx=1&sn=7233f60a647af5fc9b04fffa7b8cf00a&chksm=e84fbfe8df3836fed7b5da075bd0d8329bfba5474ea400e2f42a1a9432ece5db24c932f20a5c#rd
+原创 | 固件安全之加载地址分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489847&idx=2&sn=acc6805e168b2df89628a85a590df610&chksm=e84fbfe8df3836fe370182d35f04700806711cae71d3b347bea8efe57273ad69f797fba11093#rd
+小蜜蜂公益译文：勒索软件威胁现状（下）--卡内基梅隆大学软件工程学院:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489845&idx=1&sn=e908dc7930cae62da2f86daa41c166dd&chksm=e84fbfeadf3836fc76cbb38067ce5654cdf03f0f037ea42866a10aea22a8f16dcccfd23e32b8#rd
+小蜜蜂公益译文：勒索软件威胁现状（上）--卡内基梅隆大学软件工程学院:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489840&idx=1&sn=b5efd5cbda0747c33cc193f7b343d1fc&chksm=e84fbfefdf3836f9d7de48194b2ee530934d016c49503944930494f45a7f4d053708191ca369#rd
+AISecOps - XAIGen技术解析：模型知识抽取促进模型可信任:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489820&idx=1&sn=9d514bf3a20fba3440fed729942ae754&chksm=e84fbfc3df3836d5a0ba6aea4ce0ef9c9be794191271d1bb17fb0b3ef7877329975e4eee7038#rd
+攻击推理-安全知识图谱在自动化攻击行为提取上的应用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489797&idx=1&sn=9a5472025a7a1ec17a6fcb85898ebdac&chksm=e84fbfdadf3836ccecac352411f875024b836aa12025695266bd23e4fb3e6a7d3cb47fe53f35#rd
+《数据安全法》9月1日施行，企业如何进行数据安全建设？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489785&idx=1&sn=9f1cb82dae633f113e3bdb8490798e1d&chksm=e84fbe26df38373065a9ddaf4a91a2cb2dbcbe0c2df4e10c0004b6ccc77e84ba294f7a1f900f#rd
+《数据安全法》最新内容解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489785&idx=2&sn=42513662890e2f24fcf609b3f8a81f25&chksm=e84fbe26df38373091f94b510b5ddffa2ef386156afab24d509689219bd26fcbfc4137076908#rd
+如何用全流量检测5G核心网网元服务异常:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489768&idx=1&sn=fec7ce59942b065f9584770971fe1f82&chksm=e84fbe37df383721440f56c4c1be66d7dd444a4590236c75a575771d576428aaa4ad9082b4e3#rd
+【安全告警数据分析之道：一】数据透视篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489737&idx=1&sn=b10ca90ed5e89c35333faea57d6b9135&chksm=e84fbe16df3837006de1362f9c572bb48672a97e4e40a8e2891d8b4c996ee54000eb21e13cb2#rd
+安全运营中攻击路径可视化之重:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489723&idx=1&sn=8fe04050b7aa5a1e46a936787d285a21&chksm=e84fbe64df38377214aabb6bef0dab4b5378d39c04709091a4914b061cd08fafc39ddd6beb5d#rd
+新架构，新挑战：5G核心网业务安全问题与异常检测:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489722&idx=1&sn=2f96daeaa4cbf480a4065e837ad0d2f9&chksm=e84fbe65df38377355c9a7481d7bdb9bb8b0ecdd8f1da9cf28644da924c95995486b8d1978b5#rd
+【攻击意图评估：总集篇】手把手教你搭建告警筛选系统:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489713&idx=1&sn=c23df302a652341f85242c7eb21dbbd1&chksm=e84fbe6edf3837784562865af5a0e48624375573cb701c0d15f945d6eb00ff94903058e6dca8#rd
+绿盟科技刘文懋RSAC主题演讲:物联网中基于UDP的DDoS新型反射攻击研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489655&idx=1&sn=095841f5d4fa13ba5e1c92db08485f10&chksm=e84fbea8df3837be66cfe25de736860958956f37d991dcde9fdfe320ce369e4cdd751e399aa1#rd
+今年 RSA 2021的所有看点，绿盟君都圈出来了:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489649&idx=1&sn=485a616426d3349597f41e22b8aa4a37&chksm=e84fbeaedf3837b86d2214d99223572a1ecf4d54c7f610ec9c8588d88ac19f30ef26567d465c#rd
+RSA创新沙盒盘点 |  Apiiro——代码风险平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489649&idx=2&sn=67d9c7e95a13b4b70987251dd95d87e3&chksm=e84fbeaedf3837b8f0583590357f8f27ed768048c2cf972a79991aeed8ee95300b8b2f67fd95#rd
+RSA创新沙盒盘点 |Deduce——数据驱动的身份欺诈风险分析平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489649&idx=3&sn=b5174d46db2d33f7c7e701d007dba671&chksm=e84fbeaedf3837b8bed94f8bae43172e4302c04fb4e89ca87e708ee50d5cb6603c85bd7edaf4#rd
+RSA创新沙盒盘点 |Axis Security——让零信任更简单:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489643&idx=1&sn=d7ce23577808263f87f5b37e67983862&chksm=e84fbeb4df3837a2562c920de7667220abacda10e57a3950b41a6037a2c1daf62c2452f7d192#rd
+RSA创新沙盒盘点 |Abnormal Security——下一代电子邮件安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489643&idx=2&sn=21ba6a558ffb2b6cddff6531e29f0275&chksm=e84fbeb4df3837a2aa48485335138f113c774db36b0f0cdfc86065427da28fc028a3c25c19cf#rd
+RSA创新沙盒盘点 |STRATA——分布式多云身份识别:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489638&idx=1&sn=326fe76dc8d48c08a3d361da0d4ec0aa&chksm=e84fbeb9df3837af82bf301cd83e1c179ecccf486087a23258447725a22ab99d6d80899c867b#rd
+RSA创新沙盒盘点 |Open Raven——实时监护用户云上数据安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489638&idx=2&sn=6a4c6d8c37932cd2679d29084a3e9e17&chksm=e84fbeb9df3837af0e7501383c0912d24464ae9523233a551e6f95de1deebcf3d39da3b47114#rd
+RSA创新沙盒盘点 |Cape Privacy——基于加密机器学习的多方数据协作与隐私保护方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489633&idx=1&sn=d02b9f8ae3243ef65aed70d57b0f6c25&chksm=e84fbebedf3837a8b1f7defaa907187bebc18f34bf1eab610ff7b5187ae1857deaa9c2f218db#rd
+RSA创新沙盒盘点 |WIZ——无需代理的全栈多云安全平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489633&idx=2&sn=c92cd1f40ad658931b0dde9f820ce7a6&chksm=e84fbebedf3837a8013606ffbc5acb1a44385eba5501f4efae6b9af78f38ba597338b93b48bc#rd
+RSA 创新沙盒盘点| WABBI — 面向应用全生命周期的安全防护方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489626&idx=1&sn=90a474cf741c8037cd403d028f3e50ed&chksm=e84fbe85df3837932e5a58e5523dab22a84f4058ad551f3525637a0ce183af1f1872babc1dfd#rd
+RSA 创新沙盒盘点| Satori —合规、快速、高效的隐私保护解决方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489626&idx=2&sn=ae73c50f7e2211a397fb10032c7b8c9d&chksm=e84fbe85df38379360c1b1f6d9158eb704d6941e0580639c186a6c958299eb7a3615e0676758#rd
+Metarget：云原生攻防靶场开源啦！:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489415&idx=1&sn=4aea7b7ecff51710c79037ab07a889bc&chksm=e84fb158df38384ee0d2472685e6d4075b3574c99b9682368d22233cc7482c562224b602216b#rd
+原创 | S7Comm-Plus协议分析之数据区访问:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489376&idx=1&sn=030702f14a2e329983c278c8ea1cc1f2&chksm=e84fb1bfdf3838a9829a6bfb685fb186a76ba2a4d771e31fc9d410c097d69dcb47940dc0a50e#rd
+原创 | 摄像头逆向分析之旅-程序还原:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489374&idx=1&sn=0bea4eb1a79c35f6aba2a7cffee5b781&chksm=e84fb181df383897b69efb195ad03a987002aeb6f23c1e726847f6369ca97704262820c2c285#rd
+原创 | SBIDIOT IoT恶意软件分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489374&idx=2&sn=ec1fc6f6700eef4c695bf0d15f878ef1&chksm=e84fb181df383897864cc2786e612aa4d0578949f082b427e73fc908c4195925c494beb5b3e8#rd
+从技术角度解读《数据安全法（草案）》二审稿:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489372&idx=1&sn=11733609097c5573889832028dc79509&chksm=e84fb183df383895e787645600e04e6b482567c204c31de833bd26d045601a3707e3fe8a4cee#rd
+从技术角度解读等保2.0对数据安全的要求:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489372&idx=2&sn=6230ea9091a33ba6473ac1b3514b1100&chksm=e84fb183df383895a00ba312811488841eff167709c23023716110e7e1fec0e1167fd46c0b0a#rd
+安全是一门语言的艺术：威胁调查分析语言概述:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489297&idx=1&sn=3b23e2658e01e0e80db26b6f707af0bc&chksm=e84fb1cedf3838d8baf0aecf8bd1f2c27e9c4273c403f1889e94066e215813d79213cbddf064#rd
+伏影实验室在行动｜7*24h攻防演练技术支持和威胁狩猎服务:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489287&idx=1&sn=f5dd57f7dbd552b09b2b12456dc35607&chksm=e84fb1d8df3838cee82a2e3cbbdb2341d0c20c2a7ebe8a9c960ed5ec6bf3e2fb044fdc7d34c6#rd
+安全产品不安全？僵尸网络瞄准SonicWall SSL VPN:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489284&idx=1&sn=a7fed3a5ec35ebb6c45095ce452d0707&chksm=e84fb1dbdf3838cd6e6b566bec5832a92bf191610e85d09f18ec86eb625777c975bfcf898391#rd
+知识图谱技术如何赋能智能安全运营:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489265&idx=1&sn=8c75ab46b58253fdcd331d44d89d2109&chksm=e84fb02edf383938d68a1bd15134613077e0a77b6d44417c24a60b8a705edcc870c6e276e763#rd
+关于AutoML应用于网络威胁的思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489257&idx=1&sn=af90c5d9907bad2eaeaae6b95a0785a2&chksm=e84fb036df383920747734830d5485b44245d4566b7a6f0268da07e47abd7a1632017c0d357d#rd
+物联网安全研究成果获顶级学术期刊录用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489245&idx=1&sn=267a6573eff1222a0b9f5a40e65058cb&chksm=e84fb002df383914d7a1e164f00dca697de819e59bc56c41d811b88e8488917d18fd42c68933#rd
+ATT&CK框架在企业安全运营中的局限:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489223&idx=1&sn=88ffc0c7ce2af8728297cb0673433e2b&chksm=e84fb018df38390e9bc820f9451eaafee639776b0cb8256864bdbfbd733533a7472eb3aa4587#rd
+数据泄露频发，数据水印技术如何做到事后溯源追责？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489214&idx=1&sn=a58fa810c2467dec726875ef8a9577a3&chksm=e84fb061df383977b3b8a9ea78235aae693865aa3e26d87fe22ad185bdf881ce572e0707c779#rd
+加密恶意流量优秀检测思路分享:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489204&idx=1&sn=7457a2c51ebec3732f4572424415fcab&chksm=e84fb06bdf38397dd2464d410444ef7073cee51091fc58522729829b2f516aecea79302e779b#rd
+【格物猎踪】压缩？base64？10个漏洞？攻击物联网设备愈发隐蔽！:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489192&idx=1&sn=2acf884a11d9777884cce9275f3581b1&chksm=e84fb077df3839617e2b07af726a69eee5cc0ed9adbbdbeb48d8243f09d1b3e1179fe545555e#rd
+自动化的攻击溯源之痛 ：数据获取与关联的困惑:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489184&idx=1&sn=f303b1051632b6bf2eda95da8842dc88&chksm=e84fb07fdf383969d9a8a3add708073c00c5e80be9d0a4df3f031f9fe7458f5059cc504d1edf#rd
+5G核心网：模拟环境搭建与网元通信关系还原:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489177&idx=1&sn=95fb19c4327a6b4c3de2623b20e157ad&chksm=e84fb046df383950905e1165a1f12738a158735cd4cd1d9f5c7488b16ed8759066b2c02213e0#rd
+2020物联网安全年报｜漏洞从被公开到利用不到24小时，物联网安全已蔓延到个人财产安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489161&idx=1&sn=aecb76e8ffc7b7131b5054ca3bcda8f1&chksm=e84fb056df3839401d8e60124c4132007a55c854aa2cca749f5bf37326f447b0e4c9ca3417c4#rd
+关于恶意软件加密流量检测的思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489152&idx=1&sn=fbe9a42e889e78c19e593d2dbbdbbe35&chksm=e84fb05fdf383949eb014c692aaa83e9a854c257da79882135cf6671eff3e7806792fdaa05ed#rd
+构筑云原生安全技术底座 | 绿盟科技发布《云原生安全技术报告》:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489138&idx=1&sn=dec733d38be78b005b09c34d2ca5c0db&chksm=e84fb0addf3839bbd6ffd97424ede9aa0644abad9a474a071d5ed8fede5123f7df54a33846d6#rd
+XAIGen：自动化攻击特征提取的项目开源啦:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489126&idx=1&sn=20b04f23da8e4bfec22c9d0989c32c6d&chksm=e84fb0b9df3839af1a2e1fd4e97d0bb1448d843c9ee2e356430b362efa8a3d98405c67a47187#rd
+k0otkit: Hack K8s in a K8s Way:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489116&idx=1&sn=61aafceb34863ea990fdbc728999904e&chksm=e84fb083df3839957467a77d18cb3b7a026e41e5a643d05576b00b30576a73ba45b69bdeb428#rd
+AISecOps白皮书精华解读之背景内涵篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489105&idx=1&sn=0b824afd38c31f0cc6945f64d19a9e42&chksm=e84fb08edf383998916464306710d01b9e5464fc9b761aa1ec57ab8f21d941b4d1e3823f6eaa#rd
+报告发布｜十种前沿数据安全技术，聚焦企业合规痛点:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489104&idx=1&sn=af89014fd9365356bc57e61705214e27&chksm=e84fb08fdf383999b138d5e97ff7635017bba76a4cb2690c85bfb82cc9676994d1bc51a2fd92#rd
+攻击推理专题-属性图异常检测及在网络安全领域的应用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489082&idx=1&sn=d04fcaab56665d4af015d22757ce6408&chksm=e84fb0e5df3839f3baeede2c12cb8ec4ac13e3ef7a93f677087600981f04401b6ca7dec0124c#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489069&idx=1&sn=032af6c8a64d64cc6477486ffac0ff96&chksm=e84fb0f2df3839e44d50179560f40760a7c0a9d66c245cb4e5122977e2ee47f72a6f5f6e12c3#rd
+物联网资产标记方法研究【三】——基于机器学习的物联网资产标记方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489066&idx=1&sn=0999e0c523839edb08395356182837ba&chksm=e84fb0f5df3839e307853bace58a0eb322ed0af9d2863ece2aa042c2f645a7129e5fe2e5c6d0#rd
+Serverless安全研究 — Serverless安全防护:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489053&idx=1&sn=4b1e59880a6b0afa61a89e614856bf28&chksm=e84fb0c2df3839d4c99770e6e1c357aeefe89bf4f16e5d1591a16edd76ffb40b9741e87632a3#rd
+基于图的技术在企业威胁评估中的应用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489046&idx=1&sn=b9db34a65882b47d0e586041522ee284&chksm=e84fb0c9df3839df45a687f5b9c087f282cc9616401f4eafa462ab850d4fb10370d74fe3b43f#rd
+模型又不适用了？ --论安全应用的概念漂移样本检测:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489045&idx=1&sn=ebc57435e0fbbbab1a38cbeb11548f1d&chksm=e84fb0cadf3839dc0787dda8f7e00af6a7eb0c3d24581747e412d29cb8843f8371286a2ffe28#rd
+【云原生安全】从分布式追踪看云原生应用安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489002&idx=1&sn=9abebfffabf6d1f3e387f1d7acc24347&chksm=e84fb335df383a238ad5dd380f45dc97669ebeb11a5c8926c1844634a5ae850e41545df40996#rd
+云安全的下半场：原生安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488987&idx=1&sn=4a46e66c27d1335bd629e01a99e69561&chksm=e84fb304df383a1234b35fe6b772f37e1c7095b421c629ba03ef261011a1a8a3a6a0c19336d2#rd
+DHARMA -- 为微服务架构下的API修筑城墙:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488971&idx=1&sn=52de9e039212a612f40564d0b50dc103&chksm=e84fb314df383a023a9eae5ec2d45b58f0113dc6e53e0d32ea6b479a61c3a2d1cf89d85d3762#rd
+我是人吗？关于人机验证绕过技术的一些总结:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488958&idx=1&sn=0fc159ca471bbc0262b416b3928291cd&chksm=e84fb361df383a77055dfcdc75f97b692e5a0da0a256318f5111a99b877a1e5bf46000bf0a60#rd
+物联网资产标记方法研究【四】——物联网资产自动化监控研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488947&idx=1&sn=9de09369479b347b0996b31868a29182&chksm=e84fb36cdf383a7a85ec3c1626a4ebaa4d1b4e3bd829f577e69f2fa120bfbc10a94c081acf67#rd
+原创 | DIGI开发板救砖指南:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488947&idx=2&sn=ab1246e527f73bee3c84ed9ab7858833&chksm=e84fb36cdf383a7a538545c838640f2ae8fc7704f027f9c91cf3543385b663267ad9583d616c#rd
+原创 | 被动式FUZZ在工控漏洞挖掘中的应用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488936&idx=1&sn=291299b0c3fe67346b30da079f60e00a&chksm=e84fb377df383a619ae54a4502d2a4735119585b5bbfbeb7db5f6b2ac387c94da27fdef041ac#rd
+原创 | ICS网络符合CMMC模型的几个注意点:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488936&idx=2&sn=b66ede02cab6eefc6a3f6816a3f6abfe&chksm=e84fb377df383a61961ef53295831e37523a50f586a170faaa1fa37646cb00609f77539522e5#rd
+攻击推理专题-基于攻击溯源图的威胁评估技术:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488933&idx=1&sn=e6bff27f7c1d32ccb99799b6b4b19282&chksm=e84fb37adf383a6c6a4b0012e6ef016ea7c9d42f36b3d12f2044e9820587a7f34b92ebea5454#rd
+原创 | 初探逆向将电缆调制解调器改装为SDR:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488932&idx=1&sn=365874b5f99b8d55263a40bce20156d6&chksm=e84fb37bdf383a6da82915e7c2e5baba8b35246fdba30c866da99fff87b71b70446fe0d99a47#rd
+原创 | 工控安全之危险的工程文件:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488932&idx=2&sn=f1bad0d9e63602d2ebcdb8d261c3fa06&chksm=e84fb37bdf383a6d5a9a949e8c0f03918dcbb814d26c8bf51638366528af0daa2c4f9ea7fd44#rd
+自动化入侵响应的理想与现实:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488919&idx=1&sn=32afe0711236729c543f126a83edf08b&chksm=e84fb348df383a5e9f5452a28bd161c175c3f7bae58debd8af7974b5a4b1868b4f44e37bcbc0#rd
+原创 | 私有5G网络的威胁分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488903&idx=1&sn=a35cb8be8bd0cf51ff1d48436f127269&chksm=e84fb358df383a4efddf80ae2954cda05531c686f107fbeb4b2ab33dae80d21000b301db7ecc#rd
+原创 | 某SCADA的远程代码执行漏洞挖掘与利用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488903&idx=2&sn=3d4b598412da789df57988bfc9830a35&chksm=e84fb358df383a4e29a3f752e7d71e79e2ce4745b16d9cb8d4d1a7b3bd0ceae6994c5feddbd9#rd
+【云原生攻防研究 】针对AWS Lambda的运行时攻击:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488901&idx=1&sn=4d7bdb1ddf015cb77ea4e8bc0978712f&chksm=e84fb35adf383a4ca9e9b7cb0dce91cf757e043d74201361537aa6cd0e80cf6afaf1c63eb1e5#rd
+【攻击意图评估：二】AI不好用？融入专家知识的告警筛选实战:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488867&idx=1&sn=00782da19765022b4aae7285cf18c605&chksm=e84fb3bcdf383aaa527a60e9744a301915ab74001e16b33b4cc961d1d75631d1490d8bfef4c7#rd
+人工智能人工做——基于特征相似性的安全告警评估方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488852&idx=1&sn=5fd1f69b18e3c63827ee2de969982c99&chksm=e84fb38bdf383a9db3c499aa662c61bee9cd191c4f64f1307f7a4ef9fdd7c7d2328e7b658c9f#rd
+HTTP、HTTPS、加密型webshell一网打尽:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488835&idx=1&sn=7fedffa62538bf40f523742bef21a671&chksm=e84fb39cdf383a8a89937ba6b21fbbb87934fdbce1ecfa1edf1e5266202b90a3a15884c364b1#rd
+透过隐私合规，看数据安全技术发展趋势:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488822&idx=1&sn=e45237be0515365b32dff8c4d6080516&chksm=e84fb3e9df383affec74fab30343d1cb7fa668d180bbe5a84c81b2764600ed75c8f4f250aa99#rd
+浅谈物联网蜜罐识别方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488815&idx=1&sn=d3eb395554825036fbd0fb45381c50f9&chksm=e84fb3f0df383ae64c9b3d9d5eb8487c033c190c6e5ef028c76439f0ef61f6696ea6fc1edf5f#rd
+Serverless安全研究 — Serverless安全风险:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488798&idx=1&sn=485e2131f347ff4d8c3b5b3286b36c97&chksm=e84fb3c1df383ad7624e8a6aaff27de463f5d396b650e872983b771edd214c0e72fad2015a4a#rd
+【格物猎踪】突发-新型Gafgyt僵尸网络变种感染Seowon路由器:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488764&idx=1&sn=72fda3dcabf99b613e89f8d64785d384&chksm=e84fb223df383b356b671065f38412db112dd309a4cecac71dc7acea393d73b809410085fe78#rd
+物联网资产标记方法研究【二】——基于聚类算法的物联网资产识别算法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488749&idx=1&sn=48f410d9cdd71d9db5d43d47c9be0184&chksm=e84fb232df383b2487332bbeec14a505ef53aa91679ca0d36fefa64670571c8def0f169bfa07#rd
+ATT&CK驱动下安全运营数据分析的实用性挑战:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488748&idx=1&sn=20b2710ad2f51933075c2dcd2566dafe&chksm=e84fb233df383b258178f3082b19f73fa5952fe3ec06faf5c332f6a955d0118737c332921845#rd
+2020绿盟科技黑客马拉松赛题及解题思路分享:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488728&idx=1&sn=e2ff4c821cdbec190d63a916e2175c41&chksm=e84fb207df383b1174ee13e10fba51b97cbd3660308dd3efdf9132f50afc1f0bec9f1bd8c2dd#rd
+国庆献礼 | 绿盟天枢实验室学术成果再获学术界认可:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488693&idx=1&sn=67a08dcf985f7da9d5f042b1826e12bb&chksm=e84fb26adf383b7c511b7218dd473ca2de8892b82909bc24987481052bd1782ca91ac7f0115a#rd
+数据匿名化：隐私合规下，企业打开数据主动权的正确方式？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488685&idx=1&sn=9e675194c3b4a67e9fc328bd43a7b99f&chksm=e84fb272df383b64af8977e492b3f37977764a7c0e283921733eb220ba6b69093dc0510e01e3#rd
+【攻击意图评估：一】业界难题？谈自动化筛选关键告警的可行性:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488674&idx=1&sn=6b188a930a4420a5348b44fdb3333076&chksm=e84fb27ddf383b6b62da114e3e11d97957dc27f1812c2c9aaa8be9024f78ede28f31f1ef8279#rd
+未能幸免！安全容器也存在逃逸风险:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488661&idx=1&sn=83f7283b078e8801584cbfcc09b41918&chksm=e84fb24adf383b5ca248c9b8b306655b5958b8a9ba3ec677e6662e2d0ac86119a440db77d511#rd
+DHDiscover反射攻击：可将攻击放大近200倍:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488622&idx=1&sn=6d166bd6dc64024d03c294f5c43f3d73&chksm=e84fb2b1df383ba7a94bdf2d8bc048079a05e01fd5a9d93df70b8cbcff95eb0c4cd7a882dc1b#rd
+钓鱼新手段：劫持你家路由器:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488608&idx=1&sn=90ecd1931c5dbf9d2d49c21becebe852&chksm=e84fb2bfdf383ba90b53cc09ff0f8ed475828a7431d0e61343265702174bda1ddfe4be6821d3#rd
+探索MITRE Shield如何用于主动防御:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488588&idx=1&sn=be285ba4f17e7f133854c65eae911791&chksm=e84fb293df383b855184ae400f2ee79f5a7703256d4e7243110f1d8f2d4af8455fac2451c39c#rd
+【云原生应用安全】微服务架构下API业务安全分析概述:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488576&idx=1&sn=421ef6c2aeee5bb0523918233a23e6ab&chksm=e84fb29fdf383b893220bf2588dfa7ea2d81aa8869d79c78b7bf86e8c338a7813cbb30af87ca#rd
+攻击溯源-基于因果关系的攻击溯源图构建技术:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488568&idx=1&sn=34cdb63e1dc0125df6206257efd5eeff&chksm=e84fb2e7df383bf1165129126da59c4ff2f4470c00d6100710ac268b694aedb7a37285376175#rd
+Serverless安全研究 —  Serverless概述:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488567&idx=1&sn=6bd22d362c85cc801b7b3588ceca3635&chksm=e84fb2e8df383bfecd29efca6018e8bf76957c239c2172d65fbcb5b5131cfd329b6826f6ab47#rd
+【云原生攻防研究】容器环境相关的内核漏洞缓解技术:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488536&idx=1&sn=fd2fcb732e76b2243f972f7a79be2b19&chksm=e84fb2c7df383bd12b2f4a01eb22cd244f9edea9a29028cceacf85220f21051ce48d6a3a90dc#rd
+【云原生技术研究】 从bpftrace看如何利用eBPF实现内核追踪:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488528&idx=1&sn=4070713639ab362546e6151d9ecd3c88&chksm=e84fb2cfdf383bd9ea3370036b8c4bda3b61708493f0d1255502b4b18bc8fed6e7ff3286a3c0#rd
+中国ICT 技术成熟度曲线安全观察：零信任、数据安全、云原生安全的兴起:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488527&idx=1&sn=2c24e643148f0dca1cef2767199739a7&chksm=e84fb2d0df383bc6b09809c1fbc6439ea0702984d201a158ba4e78114097d59b90de4754247d#rd
+AISecOps：从DARPA Transparent Computing看终端攻防:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488519&idx=1&sn=665b820a46ce361a7010953c95049b7d&chksm=e84fb2d8df383bcef37b3a86e3d72101fd29c07146a3327dfced10e6ad78a3134d4deacc02c7#rd
+XCon 2020：绿盟科技带您聚焦堆管理内核池和智能威胁推荐引擎（附议题胶片）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488518&idx=1&sn=5ed2a1ce3fee274fbfb39544be903052&chksm=e84fb2d9df383bcf2ae98c4a74bcfef53016fe11c7c945efa192d1f402ebe7896359d373e1c9#rd
+物联网资产标记方法研究【一】——基于先验知识的物联网资产标记实践:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488447&idx=1&sn=286fbc642dd954c7ea03283c48bb39ac&chksm=e84fb560df383c76f62ecdafdd3c96ac3fa65636debdce15a22cd6f9273fa04220fd5d75d4b6#rd
+【格物猎踪】关于OpenVPN反射攻击，你还需要知道这些！:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488433&idx=1&sn=900f03eb3cc7e1b77c2d0c6a67b9c6be&chksm=e84fb56edf383c780b614346bd70383eecbec1eefaf4f6e6edf6274e8e48f80b0c0345caec5a#rd
+【格物猎踪】“磨刀霍霍”—ASUS DSL-N12E_C1 RCE漏洞正被探测:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488422&idx=1&sn=2191b9ab354e8b9c0ee8c70035a0fb4e&chksm=e84fb579df383c6f29369d93e3f5d754b7ebe8864ec50198f26a5cab297ddfed65bf125e142d#rd
+【格物猎踪】“老树新花”——新武器已更新，目标TVT DVR:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488402&idx=1&sn=8ecbe827105b733d5e2da3107c7cb606&chksm=e84fb54ddf383c5bc3884b60060f9f90aa64da6e68fc459f6689a9913c097becc45f23c87a0b#rd
+【攻击意图评估：序】误报太多？谈海量告警筛选:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488399&idx=1&sn=1594518cd62608c6e323fe4214e065ee&chksm=e84fb550df383c465ec2a875769fef35a10eebe2e2b2bf168572c9b81182b66e8cc54f04501d#rd
+XCon议题前瞻：打造风险驱动的智能威胁推荐引擎:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488367&idx=1&sn=0ec34602533be45942fbe4593f394290&chksm=e84fb5b0df383ca6cab25a58eab52ab452772cf57a3f11801a65f7ef05793a3a5f4fe7b08ab6#rd
+目标Avtech摄像头，Mirai僵尸网络新一轮攻击来袭:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488358&idx=1&sn=8a6b284b2afd134f55d2aaa58da2931b&chksm=e84fb5b9df383caffd99b7a2da9be6459f87d111bc482de237da1e63db4234850ea5d10074a8#rd
+针对AVTECH视频监控设备的攻击者显著活跃:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488337&idx=1&sn=236e455eff39125a515d7fc4e2c4af08&chksm=e84fb58edf383c98d1419098ad112a295484d76bae8e0a0ed77109aa00036f0d8377127f1932#rd
+注意——受Ripple20影响的Digi设备可被用于反射攻击:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488301&idx=1&sn=136eaf849123630c81d5984e7f8deda9&chksm=e84fb5f2df383ce4ab359f35af91a5793534227a464bdf34e1be3488480d02af2fbf06c27068#rd
+【云原生技术研究】Cilium网络概述:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488284&idx=1&sn=12436ea0a31daf2b2e463eced3e165dd&chksm=e84fb5c3df383cd5bea931989cf16da47a77dc885f092f2dc51602768c522d502c64cd9b0d96#rd
+喜报！绿盟科技博士后再获中国博士后科学基金面上资助:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488214&idx=1&sn=63e42f16ca7e863fbf8e31eff258b02c&chksm=e84fb409df383d1fb43ab909e9b43911a72ed46ba5fe117f9c4bab81553a5f7de3f99fdc96f4#rd
+初探网络安全智能决策:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488196&idx=1&sn=4d89b0d3f9fc3af19b26cb6483bfd471&chksm=e84fb41bdf383d0d1f455a110e13f81076b726bc4462e1e9eddd97b484be93d8967947c47e13#rd
+聚焦数据安全建设难点，绿盟科技发布《数据安全白皮书2.0》:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488191&idx=1&sn=89872dac83d03ee8f1f324734df66011&chksm=e84fb460df383d76b263fb688b932396c91a6139bd820e7051137014d43dfea8412eba56e62a#rd
+从疫情起伏思考网络安全未来防护思路:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488186&idx=1&sn=ff232961ec2f4c2775bba714d0eed942&chksm=e84fb465df383d73f70a8d1b384713dd9b6fbbc04b92b23b2631ac881e4512f4cb5e264cb5e4#rd
+图卷积神经网络在企业侧网络安全运营中的应用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488182&idx=1&sn=c94808f60a30779d414d85aa07a10e8a&chksm=e84fb469df383d7f4f9f76b42b618bef698bf37b022f7eec5e1bcf91ed61fc1c6c0a38bcfac7#rd
+喜报|M01N战队荣获第三届“强网”拟态防御国际精英挑战赛一等奖:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488031&idx=1&sn=f4072835456ac507334c0076cae70a3a&chksm=e84fb4c0df383dd6b0dd0bd835edc2ad43ea63b347aba3d78e382b1bdfa59553cbd2611ab03f#rd
+【云原生攻防研究】云原生环境渗透相关工具考察:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488000&idx=1&sn=e26f47643efe3b454b9f3e3d45341ce1&chksm=e84fb4dfdf383dc9a64a306826f1c967977bebad002d0cd42f44d1181a464ecc753b46437657#rd
+物联网设备的6个特征:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487999&idx=1&sn=46973a4fc1f7965ceae4815cc3b93409&chksm=e84fb720df383e369442bf6d09c75bcf097688b9909b6fb06be88fdd3901da411c4cedf0c9b0#rd
+又针对物联网设备？以Abcd为特征的新威胁:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487964&idx=1&sn=2d00204e13864dfb3454b628fd9abf16&chksm=e84fb703df383e150e6342717a5ba0eb1e3a9aaa2ed31b93ad5e3699486dfb67d5d1587633e2#rd
+CodeQL漏洞挖掘实战:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487932&idx=1&sn=5d7d876e2e66e2fdb7a9a3b82f17da0c&chksm=e84fb763df383e751f64d7f177750057c0631b5861cf355ad6e243cfa25836e49601833c0bfc#rd
+基于多维度关联的告警评估方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487914&idx=1&sn=b600ba9d57dd2e45f8657a28e781bedf&chksm=e84fb775df383e63bd23b007b50325a91b358a5a53869d4e51922ca0a988d9ddf46069efa0b7#rd
+AISecOps：打造可信任安全智能:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487904&idx=1&sn=0bc00ecb38f5c491ceaddd1d85b73e78&chksm=e84fb77fdf383e69429ca8987ec4e1f140be231523edcc6d3b6f415cdfe9b7c95933d7f115f2#rd
+好书推荐 — Kubernetes安全分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487886&idx=1&sn=41c441850fd373a3eaee9b005096da61&chksm=e84fb751df383e4703a789c44971f973272a0400047e075d02377a2b196e841dbc6d1ce5f46f#rd
+大数据下的隐私攻防02：身份证号+手机号如何脱敏才有效？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487769&idx=1&sn=f190ac1f164348c8ae2eff21b701230a&chksm=e84fb7c6df383ed0ccbb6a226b21e6de5516715d21a6d4b1c08fccf486f6039c84c99c02d6cc#rd
+API安全发展趋势与防护方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487746&idx=1&sn=facba2be2deba7d7ce58fc4135587f75&chksm=e84fb7dddf383ecbc43afa8fcd8ef3448b02041bc1d21df49dd8bd4b896feddca445279a09c5#rd
+神秘的sigs文件中挖据出新APT组织-Nazar:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487731&idx=1&sn=170a299f35db1198daf314d9e14b402e&chksm=e84fb62cdf383f3a2314dacf0adc9e8633a566c7417c1eafc73b6c70cd7937c300b4a33bd942#rd
+基于深度学习的物联网恶意软件家族细粒度分类研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487720&idx=1&sn=0bd0db3159cd55ca6bf40b8b79a30837&chksm=e84fb637df383f21991dbd372c36e5f8b44a17eaa764c0c1a81ecdd8c48483a8056348386635#rd
+一种针对WEB前端混淆防护的通用对抗方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487703&idx=1&sn=44fcceb4ecaf0ee2919f3617aa5970a3&chksm=e84fb608df383f1ec2c50037321896606450a9579aba2ef862a8fe8f36ce9f42533a49f13c3a#rd
+《企业级区块链安全白皮书》全文发布（附下载）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487703&idx=2&sn=41fd972909826628d49d62e01978bd6f&chksm=e84fb608df383f1ee07e905c045983418699c76e4723fdb5cbba192e7e61ded43693dcc43e97#rd
+2020年Q1 WS-Discovery反射攻击观察:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487691&idx=1&sn=d3dc9c8c110b87d415a8a8ed6e38ce66&chksm=e84fb614df383f02d53e73331b8b3a3156e5c216ff80d73e812caa36673fda659c49eae92408#rd
+物联网卡业务安全分析发展之路:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487671&idx=1&sn=3e253b55411e11e2f3071b2257a678f9&chksm=e84fb668df383f7ef94e46c3ed319afdd3c96bb42ebb8b97555bef51aa08754c7cb3037ec069#rd
+物联网安全始于资产识别:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487662&idx=1&sn=e0a13d0c7b1b7d6c7dbe0e6ed27be49f&chksm=e84fb671df383f67b07afb6ecaf4f45a980f225028728c927f8e3dcefeac1440b0568bdaf68a#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487658&idx=1&sn=f447e9532bb1b0f0626be91076432b6c&chksm=e84fb675df383f63affbf0b85dfbebd6d93e9ea21ce0308fe237a386ab43b8da51dfa3ae04e3#rd
+首发—攻击者开始攻击Edimax WiFi桥接器:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487656&idx=1&sn=6bc98e1dbc3640468713371aa0756950&chksm=e84fb677df383f61fce9597a08e883b06bdf220acad7572f32084067baafcf2db990129c871b#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487656&idx=2&sn=a4b489cd52c4be0bdd5a9f9248ea4db8&chksm=e84fb677df383f6195c8652be0c9a6182e499c51d4b6f8fd89c06a93541fde3f4a43643f478e#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487629&idx=1&sn=d5debb25f82436b8188105d36a76b6f7&chksm=e84fb652df383f441b6cb3f5f658ff6796793fd2e9a0a221fcf5b13db4df6606856f863ec176#rd
+攻击物联网设备？黑客钟爱5555端口:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487623&idx=1&sn=978efefd49eb93acbba0d86892c80546&chksm=e84fb658df383f4e524c9b97b42bbb2e5b21361b9573ee62884d75ac20cd1594f3612eb7041c#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487623&idx=2&sn=202b15bdc7016c36f6c9863d043a12b0&chksm=e84fb658df383f4ec4f03f14e1d4f40077eb1ea1207fdf392e7c0fae45bb18387ae76e3ba733#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487606&idx=1&sn=4741646b7bbbfe7e8580581ef0160e59&chksm=e84fb6a9df383fbfbce43ee0b4f806e49528ae11a571cfc4890c7bd70aeb3515777c046bcb96#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487605&idx=1&sn=f845f4f4de1a8297cacfbb86581d509b&chksm=e84fb6aadf383fbcf8a0d7bbe199fd7bd7a44c4e71d28fb78aba1ae9670040209f05b8cb179a#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487604&idx=1&sn=c882bddd05c4b7b2f689e8d94bdf71f7&chksm=e84fb6abdf383fbda96941577876bc064b309d9a1c340a569c4cd23dc69e0dcb549099d8914c#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487602&idx=1&sn=179299c62dc7a1a8a0f82d6611c01536&chksm=e84fb6addf383fbbc432572b8f793645ccc6e6ccd464532d8eb8b5f967bcf8034d7ad63d0ece#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487600&idx=1&sn=44022fe22f4e01e835eaae47e8924521&chksm=e84fb6afdf383fb9a0e574b0b1656ac8a5e8dba1e3025d08d14fa26def107f3ec799c7167f28#rd
+【云原生攻防研究】针对容器的渗透测试方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487590&idx=1&sn=060a8bdf2ddfaff6ceae5cb931cb27ab&chksm=e84fb6b9df383faf1723040a0d6f0300c9517db902ef0010e230d8e802b1dfe9d8b95e6aabbd#rd
+Provenance Mining：终端溯源数据挖掘与威胁狩猎:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487572&idx=1&sn=8324f91dfd73efc85a07ef2cd889daca&chksm=e84fb68bdf383f9d0542a39afde7c77a65dd42f279f0fc93f2a57a567c71a182774b4dc9c915#rd
+注意-polaris僵尸网络正在攻击全球Netlink路由器:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487566&idx=1&sn=2e3c6af8c1ca5347c819d61a794e7400&chksm=e84fb691df383f87cab8e0a1ec085381589a91926c31f5ace9dfaa023dae011d59d542af0c29#rd
+2月13日国内视频监控设备攻击事件后续分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487556&idx=1&sn=c643b84a0d6ba31ffdd81fce2c33ec26&chksm=e84fb69bdf383f8d80d20138686e9abe53e6b86523bee562ec985a752d2e0b57ed82ae0346ab#rd
+大数据下的隐私攻防：数据脱敏后的隐私攻击与风险评估:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487545&idx=1&sn=f1c4e0a841279c24107917c7cfff7be7&chksm=e84fb6e6df383ff0fd4202def1c87f30a16c73b5fb361bcc43c1d7ae9446eba6018b369c1f24#rd
+恶意软件命名与描述规范研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487535&idx=1&sn=c8c71039b7d980a890a84d9bb402cf4a&chksm=e84fb6f0df383fe6cd72dd3e7459c1725ffbbef74b8cb123ef8a3a9c61577af3acd367da6e3e#rd
+IP黑名单质量如何提升？看看BLAG:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487511&idx=1&sn=56ca30d58584de7b0cd797fb09b0123c&chksm=e84fb6c8df383fde263a92f33ad63e039bd33c77c6bc96920aa0d1333df503349305cfa39b22#rd
+【云原生攻防研究】Istio访问授权再曝高危漏洞:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487481&idx=1&sn=02a38db691331634fe41a413beb58694&chksm=e84fa926df382030ac57be9c1ee9cb8836ec37fc79e3a2cef68acb6945a51f0ed94882e39611#rd
+创新沙盒inky的一大关键技术分析：Logo识别技术:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487464&idx=1&sn=f7ec21cc4b61d0d594d2437defab18bd&chksm=e84fa937df382021258a4c16c9cf6fe30e45fc472ffa59e8104c6fa6f818f24b32757c9505a2#rd
+【云原生技术研究】BPF使能软件定义内核:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487440&idx=1&sn=cb6379cfc4a1bba0881363840afc438a&chksm=e84fa90fdf38201990781e3c95d9857e6d4ad083ce40a575e1cbdc12aaabb4f58ba527dc58c1#rd
+美国天然气管道运营遭勒索被迫停工:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487426&idx=1&sn=f48954ccf5b005ffaf119055b0c0aad1&chksm=e84fa91ddf38200b286fc1bdc4763349ee91a9d8b71a0eacb0523004cc7fd71a4a44224a5d3f#rd
+基于ESP8266 Wi-Fi模组的弱终端安全功能构建研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487426&idx=2&sn=91f9e2c685d2545870a818b75c579855&chksm=e84fa91ddf38200baa5d85514f349a41f95fc551faa72ca52766a3bbbf69bf99c36f169ecc01#rd
+洞见AI对抗，从频域视角看模型泛化能力:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487413&idx=1&sn=8ff9d6cd8535ed2c245e236f9bf2aafb&chksm=e84fa96adf38207ccb8d6e9d78d9e4180c5cc04a865c8c8430460eabddf34ac451b39f2b5424#rd
+Securiti.ai 为何成为2020 RSAC创新沙盒冠军得主？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487411&idx=1&sn=99de0275978e638171a355bc95e3652e&chksm=e84fa96cdf38207aa564dcc9f9178e6fd9845cfa32765d48a1d74e7d1a704f0346879285d0eb#rd
+【云原生攻防研究】容器逃逸技术概览:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487393&idx=1&sn=6cec3da009d25cb1c766bb9dae809a86&chksm=e84fa97edf382068250b4811419aa17811c7f244ab87dcbcbe63be328f98ecaf0ab9feeedf8c#rd
+RSA 创新沙盒盘点| Securiti.ai——解决隐私合规痛点的一站式自动化方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487393&idx=2&sn=dde1c087f2d5e987f47a92c4ac45b40a&chksm=e84fa97edf382068f32831f0f1973b54ae4ec3b48e85c8ce4324b54d222d24302bd9a00b1c34#rd
+RSA 创新沙盒盘点| Obsidian——能为SaaS应用程序提供安全防护云检测与响应平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487393&idx=3&sn=666b76a0fd7101817efa76f0c69645ea&chksm=e84fa97edf38206843648f4f99b6a5e66362a8d414f3bc4415b4e3ce77e4d37b65d93bdd47c7#rd
+RSA 创新沙盒盘点| BluBracket：让安全的保障和代码迭代一样快:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487386&idx=1&sn=0b4e7c6d8dccb3e6d177ff2a4d7a9cc2&chksm=e84fa945df38205318e928f4214cab7a8f7fbfb1f7dfbcbd37854201dded8d6857bbf41d544d#rd
+RSA 创新沙盒盘点| Vulcan Cyber：化被动为主动的云端漏洞响应自动化平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487386&idx=2&sn=6e5e82b232f4a5c6e1aa0129f4516027&chksm=e84fa945df3820533d3a1f6b02de9b729c8cf7775da065a872f0fcabe6d371a37b34ee8bced7#rd
+RSA 2020创新沙盒盘点| INKY—基于机器学习的恶意邮件识别系统:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487362&idx=1&sn=5d2e255f53462e6c2924f776d4f730ea&chksm=e84fa95ddf38204b6513e1ec173e61901dca311c936e6989ba0dbb3164074166303289a7cd44#rd
+RSA 2020创新沙盒盘点| ForAllSecure：融入DevSecOps的“下一代”模糊测试技术:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487362&idx=2&sn=78ea52ec79f2361796592f3fefb993b6&chksm=e84fa95ddf38204b5c2654d04c04744bfdc4b033839ad9fd05bd71b783c8ea86f8fa3b51cc86#rd
+RSA 创新沙盒盘点| Elevate Security—“以人为本”的安全行为改善平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487355&idx=1&sn=eb49bd56e1738b2cd15b9cd43e9bf21d&chksm=e84fa9a4df3820b23f5831624233c2f9e94f8380f7309df23641ce4fccb3f850a4dee4e2486e#rd
+RSA 创新沙盒盘点| Sqreen—WAF和RASP综合解决方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487355&idx=2&sn=bebff7bfa4a02bb7157835941acfb3cb&chksm=e84fa9a4df3820b2d32b3c7ea85c90bc48b912b354726a93cbb553f8a89634c036377eb412c0#rd
+RSA 创新沙盒盘点| AppOmni—面向SaaS数据泄漏的持续性监控和告警防护:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487355&idx=3&sn=8e18256e43eddcff5ca8a11f887f1264&chksm=e84fa9a4df3820b2dc5f41b857d0f22df376d79196ec900240c7f205d2f9067397c2b764ddab#rd
+RSA 创新沙盒盘点| Tala Security—高效检测和防护各种针对WEB客户端的攻击:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487355&idx=4&sn=db0834a0a9392032978e553675068be0&chksm=e84fa9a4df3820b261f6703020b9f412f79e58c64afd5ae57f8533a9e2c2e5e1bd2b781e5d64#rd
+近期黑客攻击我国视频监控设备的情况分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487313&idx=1&sn=7da13d8184f96341b6ea14a29da070e5&chksm=e84fa98edf382098882cd0bbd1b23cd56ddb619c623a146628de457fd53cb87cf1abac974831#rd
+恶意挖矿攻击现状分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487290&idx=1&sn=340d89ae3212827507008824a943c9ef&chksm=e84fa9e5df3820f3dd084b93153d42facb294453cac58e4fc76259dc7d79126ab80ebe268b11#rd
+网传海思后门实为雄迈产品漏洞:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487289&idx=1&sn=abba46cd3be6efff099320b1f6f88c34&chksm=e84fa9e6df3820f058359fbad41200d8cdc2bd36b1973ca3e077ad8c077fe2078c0b19ab82ed#rd
+零信任原生安全：超越云原生安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487282&idx=1&sn=c2fee2f472f20ec886f12ac3b917908d&chksm=e84fa9eddf3820fb2852b7559351687e307980261d1213b779c7d38e5c2dad2a6f7b513e6c65#rd
+2019物联网威胁观察:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487266&idx=1&sn=7fcc0ecc43c8a123d16e1425631ade99&chksm=e84fa9fddf3820ebed42251e274bbb824f444409dc3b076890bba77fa4a4581e2112e08053df#rd
+物联网资产暴露情况—IPv6拿起接力棒:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487235&idx=1&sn=2695be077c178cb8280a426f1ac655e2&chksm=e84fa9dcdf3820caff27bdcbfeda0e7333dfabe835f945b89af014688ccc4386406c1ed5acc0#rd
+年度盘点：2019 物联网安全大事件:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487222&idx=1&sn=b36e373d9fd4e64417ce3d3a3d4223ab&chksm=e84fa829df38213f8fd38d479c11b219defc0640868dac65fdecbc460a30993e446a576b0cdc#rd
+CCS 2019论文解读：基于自动化App分析的BLE设备指纹识别:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487215&idx=1&sn=d51a5b3b250d2c1d2d187c2209daf938&chksm=e84fa830df382126253d00008b012841d5d16f1230faaca10914d039a1fb465cd5c1d3b7ad61#rd
+2019年国内外数据泄露事件盘点——个人信息保护刻不容缓:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487197&idx=1&sn=c4c31b064379265a5533113ea11eb485&chksm=e84fa802df382114f1c8a0d20a676e3edb7c0d4cf6cfb6a45bcb33a98e28304b05685707922c#rd
+ATT&CK攻击艺术的科学化:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487186&idx=1&sn=2bbfa0d577d7a5fa4cd60f020b8d64ac&chksm=e84fa80ddf38211b627e191e7da32e7fc541e99810f0ed1168eae2a5216173679a9fdd277fc2#rd
+主流云原生微服务API网关成熟度与安全功能对比分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487177&idx=1&sn=f0f8e2722b94e559114403efae967c3e&chksm=e84fa816df382100c733b8f6f4c917b88ae96c791483987d073d3f7511fcbfe7f8dd5b97f267#rd
+人工智能的矛与盾--对抗学习:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487168&idx=1&sn=32e0f7a8a670d8aebbb9375e76325238&chksm=e84fa81fdf3821092aca83f05180d8cc3b838ef5bd51212e3b4732d7e14c0007b30b1a4e7229#rd
+以ATT&CK为例构建网络安全知识图:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487167&idx=1&sn=d0ee3b7369c806c3e7f4f7e926b8ccf9&chksm=e84fa860df38217679d033ffcc26682af5f3a4d84950b2ce57c07098bddc5f3d94fd6084f33f#rd
+安全知识图谱助力内部威胁识别:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487139&idx=1&sn=17c9f054f6e09a3adaeb6e9c976cebd5&chksm=e84fa87cdf38216ab0cbfb46e0c87bd680bd38aac7d7ca3e2e1249e752e23c1184fa90508bd6#rd
+基于知识图谱的APT组织追踪治理:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487111&idx=1&sn=c87aa3a9cd9852a0d87ecd8b565a91ae&chksm=e84fa858df38214eac5c7ba86ae74341efe7730fc82438d27d857ad3c45ee9f98e1d53a024fe#rd
+机器学习在网络安全中的正确打开方式，你学废了吗？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487097&idx=1&sn=8fa18557162f7aa76dac35df32455114&chksm=e84fa8a6df3821b0246f037353b97b89c2aaf6662f81397f616926340b2c3d60c6ae4b5f0bc4#rd
+五年之后的回顾--磊科路由器后门利用情况分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487074&idx=1&sn=0cc3c71d2b699245a851573235c2134c&chksm=e84fa8bddf3821abd851e58683487600f3803cb6393795fb77d89eaf783bcf04d7d443f7388b#rd
+浅析容器安全与EDR的异同:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487064&idx=1&sn=5a674d6ac2a42e5b48dac0084d8696c5&chksm=e84fa887df3821919173007a7bf38b86eab56a86ca0b9838f86caa2dc9ebf6de48b06787f607#rd
+解析5G安全（二）：5G安全需求:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487050&idx=1&sn=6df183d4c3bc8848dfcce5bdc3210feb&chksm=e84fa895df38218321a44b763c68883c84049ae7938790bfb38e6a4c3af469ed1ecf5f07dc07#rd
+倍福PLC安全评估实战:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487046&idx=1&sn=9a2cae6b2fddd8df140a4da989a228d9&chksm=e84fa899df38218f00dac017cc08bc2e185f89e8614e477e1adafd4bf318d09fdc0e357b8c82#rd
+Sinec H1通信协议分析及模糊测试:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487021&idx=1&sn=1f877c36836c835d299b28361f4c42af&chksm=e84fa8f2df3821e43732e41638f839f92c032afa0883239f349a29be84b4aebd5a7ef1f2cef2#rd
+woot17议题解读：突破微控制器的固件保护:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486998&idx=1&sn=9056c9aac693cedccede7cd15750e727&chksm=e84fa8c9df3821df50bfa4c8972841f4d6cfd75359d7995225f0914d27cf348a515c1cf397aa#rd
+容器逃逸成真：从CTF解题到CVE-2019-5736漏洞挖掘分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486996&idx=1&sn=7c4e107e26ee59d0fcb1f8b4bb49e30d&chksm=e84fa8cbdf3821dd47827a1f91ff540fd25df5ecccd03d216a65d25feb3297aee89c506a96e6#rd
+另一个角度看神经网络回归-频域分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486957&idx=1&sn=9242871d53e845ab0e662f7541f13836&chksm=e84fab32df3822247887a6dc5ea9bf6bfc9858c8ac4ab3c92f43227e823be57a708220d29f6b#rd
+只要运营功夫深，大海也能捞到针——IPv6地址扫描实践分享:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486933&idx=1&sn=d10919b79393d9b6c25adef3e47a3b9a&chksm=e84fab0adf38221c0b6069d13e6a2a7f596d0402c45ec7b17ba693a0830fb5147f9b015baffa#rd
+XAI系列二：模型可解释性技术概览:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486910&idx=1&sn=4b30e1afdc4a0ff2e566c8184fc22bff&chksm=e84fab61df3822771998170cea84d6feb2cd04246d7789f5ea0bbb52a207c92debb941dc989a#rd
+从“青铜”到“王者”-图嵌入在社区发现中的升级之路:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486900&idx=1&sn=48e5e27a2b8249bb5446974710ae5310&chksm=e84fab6bdf38227d91551befa7218da70db7ecb3fdd8cff37b9f641b7a1a24b2699e6fa6d954#rd
+2019年度容器安全现状分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486893&idx=1&sn=f69c40afd80557cf2dbae9c19f40445d&chksm=e84fab72df3822645d282da5cfc1bedb857afba7f0c0ce30a48adf40fb5c55d45a9e7a318e0a#rd
+用区块链挣钱，黑产也这么想:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486881&idx=1&sn=0e8846be20621855681e4a6ca5a3675d&chksm=e84fab7edf3822688e91090ed035fc6a6bf37c637053a4f90768e9cfb830d0548f78d572c3b9#rd
+数据淘金热时代下的隐私问题何去何从——探讨国内外法规下的匿名化概念:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486849&idx=1&sn=d1ed46ee54ff54b55d5931cca1ab5c86&chksm=e84fab5edf382248a0eae7b724913ad066cbfe9c6e5869e37b722fb7721ffdcea427db44227b#rd
+一个月内首现三类漏洞探测活动，僵尸网络又在酝酿攻击？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486802&idx=1&sn=59647773b8e1d7c92c816e700da21c62&chksm=e84fab8ddf38229b6cd6a5efa20f3ed0a237916b8cd0dfe73100f7c3ef3baf02a737ec4b7788#rd
+CVE-2018-14847：一个能修复自己的RouterOS漏洞:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486775&idx=1&sn=512c676a4916cb2f471e6689257d1d40&chksm=e84fabe8df3822fe49086a07e584a9bd79d2cc21dfd3ce512c18d7a41ca513f1aca37b1d294b#rd
+物联网安全事件频发，你怎么看？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486731&idx=1&sn=030d99e22d239f94025a292144a18cdd&chksm=e84fabd4df3822c216c7783dcb28248eb36400f26e03166c32df3a41f30b0e8e991ab8f49129#rd
+DGA域名的今生前世：缘起、检测、与发展:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486709&idx=1&sn=265ab7da2222e5c4f2facc5ab3e12cfe&chksm=e84faa2adf38233c7cb3cebd5b249bf99f75ab763466e6d8c7a045287b44a36139d368b639f9#rd
+初探加密流量识别:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486699&idx=1&sn=0143318826a546f2e67283e843b5bbb1&chksm=e84faa34df38232266f7f963dfaa666f34c74a7415032a4296e73fb19d2be1cdeee7d2d263ed#rd
+解析5G安全（一）：5G网络架构:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486686&idx=1&sn=235e7cc51b3e855e2005e341e234a392&chksm=e84faa01df3823171c41654e317e4ce96f95424e0806121492635ddddf0163dd298003780354#rd
+物联网终端应用TEE的一些思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486659&idx=1&sn=85a10b624464b7dc1a96449a3c2fe300&chksm=e84faa1cdf38230a156d22292b09c11ca3892b101662cd207af0a5fe1d115265b32126dc5afe#rd
+AI新威胁:神经网络后门攻击:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486658&idx=1&sn=6bc077df06472f46ff00c2e00a486de4&chksm=e84faa1ddf38230baa30929e62f801b78581f78b998bf9b094f6ca1b2c77076623c17a1e36d7#rd
+WS-Discovery反射攻击深度分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486652&idx=1&sn=71341b9941c590140349bc5e351dcba7&chksm=e84faa63df382375fb8943af9ed38da302b164634f9abded667228989e35ccd45fceb04a3bc1#rd
+探索Sysdig Falco：容器环境下的异常行为检测工具:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486613&idx=1&sn=f56934b2df7ec1fa12248e03928c96b2&chksm=e84faa4adf38235cd9782d7f6345e851dee340606ea37c6ade7ab76101d5eba048bc4b003859#rd
+拨开云雾见天日——数据安全治理体系:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486597&idx=1&sn=a3b8a562309d873fd580ae35fc27e20e&chksm=e84faa5adf38234c637048e12dbeed8bd8921eb194453fd8b509eec5812bac92740cdd6ae2cf#rd
+鱼和熊掌兼得——隐私保护与价值挖掘之利器:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486582&idx=1&sn=3736778c9901e9df29b6f415443304ab&chksm=e84faaa9df3823bfd33a5ead4567074d7a9b73c769826cc0f97f198dfc97bf9e4f0d364be505#rd
+JPEG合成图像检测:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486573&idx=1&sn=94d702d58b928237faf0849f80ec2032&chksm=e84faab2df3823a4d971bb48452855db560f0952f426a052a910cb258d664a2cc647264f6501#rd
+GoBrut破解型僵尸网络悄然再度来袭:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486569&idx=1&sn=8ce458c4fd6fe267fd8d27c9566b8151&chksm=e84faab6df3823a0ec4c18f654be1bc4c499ec28ca02a2ccf30c9c9c92c5ef9b39fc82fbf563#rd
+Cryptojacking浅析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486568&idx=1&sn=21a63fb194595ad5d51866c3c76e45c0&chksm=e84faab7df3823a1c8ce2ee1d2ac292467b1e83cdcadfcf665013f5da76a0476990bb6116042#rd
+物理安全之U盘数据恢复：三起U盘断裂引起的惨案(最终完美恢复数据):
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486529&idx=1&sn=1b3922b258d910eaf7e101a960a2bff1&chksm=e84faa9edf3823881b8aadc749a04983018afeb31118ac8130e68171f3def36f06bc6b3a17b6#rd
+XAI系列一：可信任安全智能与可解释性:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486492&idx=1&sn=d17dac3ee7a87c35ba0fd0b07bfc5071&chksm=e84faac3df3823d59526dfae0360165c2de0128a80a9c6d42d68a894a5ca7f1a82babab7af61#rd
+DNS 隧道通信特征与检测:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486489&idx=1&sn=675cf7f515af7fd9905602489c1023dc&chksm=e84faac6df3823d02916cac02fb7b6f8d70faa66780ba6031a8984a823b4f73f53e418577e25#rd
+KCon 2019 | 威胁狩猎告别"刻舟求剑"——物联网资产变化研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486401&idx=1&sn=a02234a8ff0c54595bdb4de3e264fd64&chksm=e84fad1edf382408e70296feb1da7dd6578259ef59214aeaace40fc3114017d98a91c131082d#rd
+AI被滥用，如之奈何？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486268&idx=1&sn=bebd47016265d408229d1cade14bc50d&chksm=e84fade3df3824f5cc72368c29d2d26150f3ead15dde6159b6266fcd1a15706615611aaf190d#rd
+NDSS2019议题解读：通过恶意蓝牙外设打破安卓安全机制:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486256&idx=1&sn=8d06e633ffca1044666d662bf5b65cd9&chksm=e84fadefdf3824f96c9c4386033398f37b622821549f124426313dec26646c48dfa95c567104#rd
+NDSS 2019议题解读：从运营商角度清除Mirai僵尸网络:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486210&idx=1&sn=66bef579b34ea0417314f4b24c5ea98b&chksm=e84faddddf3824cb829fe5307a313ba45c52368d231848d0799629b33397c10548888cd169ff#rd
+Istio系列三：Mixer、Pilot组件分析实践:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486196&idx=1&sn=e86ad6be334f6cc24df69e75824f8648&chksm=e84fac2bdf38253dd9f3facbcb75fffc7d9aa77d003f6a26ebd6e9088471f4addefc17a0e917#rd
+浅析数据安全与隐私保护之法规:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486171&idx=1&sn=adf1d415cbf0b0b073285b065658faf1&chksm=e84fac04df382512f1ac6fbfe9316dab0bd7caabaf420ac923cb6590114ceac7b51f6b03c99c#rd
+图智能分析利器-Graph Embedding与动态图异常检测:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486161&idx=1&sn=f4a312f274d5dd86e31bc509a98eac8b&chksm=e84fac0edf382518df35521d275018e873541330c2a143bbfbdc9d65a546ea2023aedad74816#rd
+对抗样本原理分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486150&idx=1&sn=e9893349272af9cbcdaedf77c717cb77&chksm=e84fac19df38250fa3b5fc58afaf4293d5391fe80f50f643a374905c50f39e5cbc3261bd85e7#rd
+Istio系列二：Envoy组件分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486128&idx=1&sn=35ba57c44d26d4b67e9a809d33841225&chksm=e84fac6fdf382579ba55f6ef702c512acd083aea9f2a5b43cbdf27d3901e2e708af63eb6bf68#rd
+Graph Mining：审视世界的眼睛:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486099&idx=1&sn=14ec9ecd9a34164d8de6d2b10c5e84ff&chksm=e84fac4cdf38255ae1f7fd63c6253650647106974e47c76ca4766832678e4b55a4ac3f72864f#rd
+SOAR：软件定义安全之编排篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486072&idx=1&sn=77a0837d91cacc863210ec7a45a2f485&chksm=e84faca7df3825b1a22c52477f44db0783da0370f12a5d48eae3a5484a73e1108792b9a9ee6a#rd
+安全第一步，密钥管理服务:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486058&idx=1&sn=5b0310b4c4e1a452eb84b3d838c8bdbc&chksm=e84facb5df3825a3b0e47798f24f042d5324abd17433ae45b33edc848cf31bbd7041b65f32e9#rd
+黑马队伍征集令:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486052&idx=1&sn=8e2cde1da1cb44a976a945ba9ac0e2fe&chksm=e84facbbdf3825ad5b0bac7d18c9cc07d52513055cded1454dcf1589f3106b3e8aee5342a389#rd
+物联网设备安全防护探讨:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486048&idx=1&sn=eaf885aad4e91b18dd43c098f0d643ea&chksm=e84facbfdf3825a9533719a8bb8bbe7375b62c83fb6caf668b966d25ab6431f6a81d3c635264#rd
+Banjori银行木马分析报告:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247486047&idx=1&sn=2d1476d5d0b76e5f054e6fc774047ef2&chksm=e84fac80df3825965d9bd0822c23b2079d2472f2eab5d09be6b2a4943ca34d67d5596009a8a2#rd
+智能威胁分析之图数据构建:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485983&idx=1&sn=a7195a5a552b3e78edd636f6863c64a3&chksm=e84facc0df3825d6ce2888e0588a219654f9ae4f8ca014bacae31a0d607e99a03c45732c422a#rd
+Istio系列一：Istio的认证授权机制分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485972&idx=1&sn=022448f50cb6d1617b609a4d2c23e1b3&chksm=e84faccbdf3825ddf14dd3ccb7c346a68a7885f7ea2a46a0102dcd268b0efc949a1eb7c0b893#rd
+【报告系列解读四】绿盟科技发现两类恶意端口映射家族:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485916&idx=1&sn=58b6afa118723de71e6ea0efc8d259f7&chksm=e84faf03df382615abb960de31c138b26492ab107d91dd512e81c51cf38dc9781b987f509bb7#rd
+【报告系列解读三】2018年IoT与GDP的恩怨情仇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485915&idx=1&sn=9b03089367d3503a6aabd0628f352b37&chksm=e84faf04df382612e829d70a63b5460a78706664e1b0a911e0325224f989a02fcdb3f91435d4#rd
+【报告系列解读二】2018年度国内物联网资产暴露与变化情况分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485914&idx=1&sn=697ca42f524886f722da1d689987a812&chksm=e84faf05df38261377cc1d36a0b157d67c65c0a289fdb0e977e1c57595633e10d7893d874ae9#rd
+【报告系列解读一】2018年重大物联网安全事件回顾:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485890&idx=1&sn=8959f544c47cb08b86d8a0cb7af623f0&chksm=e84faf1ddf38260b9e877ca97048408ca2cf8d9f5b0e47c256c7ea21d46eebf36a30dc104b6d#rd
+【M01N】资源约束委派和NTLM Relaying的组合拳接管域内任意主机系统权限:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485870&idx=1&sn=1d11d0a21ec3129c9eb7d107cba5feb7&chksm=e84faf71df38266732fdb7ae12ee2cb189be4a84119a10a2b02af131a2cdf5c7d3a484081c2b#rd
+【RSA2019创新沙盒回顾】技术层面看RSA的创新沙盒:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485841&idx=1&sn=d9eefb294ddcb19d5370c7dfa4c3cda0&chksm=e84faf4edf38265857f6ec0ccbb41551e82c598e8a456533cd8e9891a6e7d77a9632555d3254#rd
+【RSA2019创新沙盒】Arkose Labs：基于客户遥感和图像编排人机识别的高置信度反欺诈机制:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485831&idx=1&sn=0eea4d99b1bf109b5a9a8270adf25728&chksm=e84faf58df38264ecca07e8aceaa12777c392b5247cc1dedd4db60c1c0e6ecd9c571b2d9dbaf#rd
+【RSA2019创新沙盒】ShiftLeft：面向软件开发生命周期的持续性安全防护:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485831&idx=2&sn=925d1227b00f424c07c61f0d1e0e5dd3&chksm=e84faf58df38264e20d1c8640c2dbb146ac26e10c553b2e408bc6237b5a70b2f53b7acf610a4#rd
+利用资源约束委派进行的提权攻击分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485831&idx=3&sn=64d9946b23c412621209f08ddf27689f&chksm=e84faf58df38264ece60b6e4ad2df91d9c704d02df95deeed708c0cd9600ad1ba8f0dcdcf476#rd
+【RSA2019创新沙盒】Salt Security：探测与防御API攻击的解决方案及平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485829&idx=1&sn=ff734baebea5956084e84668a7bf1bc1&chksm=e84faf5adf38264cda272b38f495e26874027042f3989b09e62dfd78042391226f0ef62b147b#rd
+【RSA2019创新沙盒】Eclypsium：专注设备底层固件的安全防护:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485829&idx=2&sn=6d0398f230abc3b59148ae6a8a3f293b&chksm=e84faf5adf38264ce063926086eeda99ac3ec31e663144a8903b554dc35093c785f2fd19ae91#rd
+【RSA2019创新沙盒】Capsule8：混合环境中的实时0day攻击检测、朔源和响应平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485751&idx=1&sn=a31bcff575e82b864ec19a39b0e5e68c&chksm=e84fafe8df3826fe460633190b0e0bbd242fa00ebbf30ea8eaf42d35dec51c7a15e9fd9fa231#rd
+【RSA2019创新沙盒】Axonius：融合多方系统的插件化资产管理:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485751&idx=2&sn=f8ad0836d7724961dbe7d1520778ea24&chksm=e84fafe8df3826fe17af2027959bbae27420b9877e6adaf692563b78275c2fa15f12b525a77f#rd
+【RSA2019创新沙盒】WireWheel：基于SaaS的企业数据隐私协同保护平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485730&idx=1&sn=e5f85169f4bba0b2edb1d0ee13f2c195&chksm=e84faffddf3826eb646a80e8cb0fc32627b3f9a666b037bf00b9ea906de2bfd9f04deff1204f#rd
+【RSA2019创新沙盒】Duality：基于同态加密的数据分析和隐私保护方案:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485730&idx=2&sn=fe1129598003f23aa708ec1950d670be&chksm=e84faffddf3826ebe1d9088b823b1fe877741f1d7d25be8a7d577596628dbdaedbd39a8dc411#rd
+【RSA2019创新沙盒】CloudKnox：用于混合云环境中的身份授权管理平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485694&idx=1&sn=29f6b9911d0f15c7d42f55b291d74a1e&chksm=e84fae21df382737387515d49551c9e20a548036c683be3430fa53caebe80ae5db862c2493cb#rd
+【RSA2019创新沙盒】DisruptOps：面向敏捷开发的多云管理平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485682&idx=1&sn=69a767fd2cefe55347bad6c84229dd15&chksm=e84fae2ddf38273b611f3c44237b73701d9e3d4b5ab77b534f4832f46f65fc3792dcb53b8a7f#rd
+绿盟科技研究通讯2018热门文章盘点:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485670&idx=1&sn=d5cbbf482ee40525fc15aa5659a0388c&chksm=e84fae39df38272f3cf455761113408b11e371630ec267dd9a2e12387bad91bb8d6f929d844d#rd
+物联网威胁情报研究:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485665&idx=1&sn=46e0af180f768fdef84b70488de487cf&chksm=e84fae3edf38272870fe34c942ce5b0525f8631793270371f2df9ffbdcf8918bf1d0e4af7d66#rd
+基于AWS Greengrass的机器学习模型边缘部署实践:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485647&idx=1&sn=77e87db6a6e08ccdc105a61e7a333152&chksm=e84fae10df3827067d86d23619ac2e5dd5f104e59d4cfc28f8a35ba474d1d196c87918fc248e#rd
+ADB. Mirai: 利用ADB调试接口进行传播的Mirai新型变种僵尸网络:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485644&idx=1&sn=8f34c0bf5071ff97a862e1d45b982032&chksm=e84fae13df382705c18dc202d5008fe491b365b3b1af900a56d31da4c81ec9d67f564e43a324#rd
+五剑同辉 聚力安全：绿盟科技五大安全实验室震撼发布:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485643&idx=1&sn=a30477155e3b4f6dde1b2e0d755b083c&chksm=e84fae14df382702633167c7222ed2d689b148113e44024c18ca17d5fcb4ea8748f6eb44ba44#rd
+容器网络的访问控制机制分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485596&idx=1&sn=ba2dda37232d06a34cd4cc6de0308777&chksm=e84fae43df382755d35d4bb5c83cd21f967bcaf787beeadbc3dc80a227fd1dcd47fdfdcc8796#rd
+绿盟安全风险评估算法体系:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485566&idx=1&sn=b1f1d017bf26a01c240e5ec1dc5013cd&chksm=e84faea1df3827b7cd59c6625f1f9eb9dcb96cc43d517eea7ac6bbd4ca56c5887110a0e2ac17#rd
+Docker安全配置分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485557&idx=1&sn=06ff6acd8ca748fd7acf807cf4ab06ce&chksm=e84faeaadf3827bc807941888c90b8300f9cebdb2e27c99575c8653425ca2d9efa6935642949#rd
+基于MCU/MPU的物联网设备固件防护方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485540&idx=1&sn=7333007f7ada22ebcf03e82a8b41ffad&chksm=e84faebbdf3827adbe49fcd9726f46e68225f56ed5cc9c2667b2e927a20f007eef39d2bac34f#rd
+围绕PowerShell事件日志记录的攻防博弈:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485538&idx=1&sn=ee9fc71dc1988173b6c2a3b569e2ac8f&chksm=e84faebddf3827ab808fe66ef0165c8dd2b11fe969be2270bdd0b25d1d1b328fc6b144c2bdf4#rd
+容器镜像的脆弱性分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485473&idx=1&sn=bdb043f1f0b8e988a3643587a2773c42&chksm=e84faefedf3827e89a7b9b073bf7539fa9cfe5d67a6107fb3fca2dc3e941f099d196d59f609c#rd
+容器安全的全球威胁分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485449&idx=1&sn=821972e7282e7c39292e3790ab673664&chksm=e84faed6df3827c0d94b1539165f42c72c8c740487d17a89bf6ec090344582751f095709b08c#rd
+基于keras的文本分类实践基于keras的文本分类实践:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485430&idx=1&sn=b2fe3f7d3b9ddf02c472480aba52d5b3&chksm=e84fa129df38283f5eaa695307cdb31aebc63630b46d702397c9cb2cca5ad1dd1ab2f8cb588d#rd
+使用QEMU chroot进行固件本地调试:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485418&idx=1&sn=9443c997bc05382f1e87d73f5bfd9622&chksm=e84fa135df382823125d449cec6ba71a8bccb73ada8318d766d6eff9cc2203641c0d9eb1bec5#rd
+基于Kubernetes的原生 Serverless 框架 Kubeless实践:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485407&idx=1&sn=390843db0fb174d5c0adf0dbb67b827f&chksm=e84fa100df38281659c4ee5fd33fc5504dca07c730503d2d890ffb129ef762e141f1a0a16e83#rd
+逆向心法修炼之道Flare-on 5Th WriteUP:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485372&idx=1&sn=d30d3f5ba77c7255148b3931261ff74d&chksm=e84fa163df382875f8cbacbf1d85d1271656d03b52599f43c7e9c7e48fcc580097c811582730#rd
+NuggetPhantom分析报告:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485269&idx=1&sn=9d2a98fe543dd0da796892d7cdfc6288&chksm=e84fa18adf38289c6f9fb08457077823bb34227d3241ed326388cb503906b0ad7adb59fc7a58#rd
+属性图数据库JanusGraph初探:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485250&idx=1&sn=ca73aea7ffc2e85c15a717c5d1ef1ca2&chksm=e84fa19ddf38288bae90d453cf365590e3a9a4491176b590a4e9d039c62637ecfa057e654543#rd
+QBOT变种近期活动及分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485237&idx=1&sn=cd5ad543a1a86e1bdb5ffa2686eaed6f&chksm=e84fa1eadf3828fc44e718713556a81c3365073b18c9b59ceab1f891b312e1eebe819739d05b#rd
+比特币节点识别的原理及实现方式:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485221&idx=1&sn=f0ce290a88916dd71d7d54e3afa91762&chksm=e84fa1fadf3828ec17f33ea77a4ce066a880be1088ebac7e2bbfc13cf7c9f5b7bde99ea50db2#rd
+Kubernetes网络初探:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247485056&idx=1&sn=a06c1ea803b3080b0d706198b1dba60b&chksm=e84fa05fdf38294924774305763d7ce250f09eeab1b298f7241245c282c8081890be5a0b54cb#rd
+Kubernetes助力Spark大数据分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484981&idx=1&sn=83d4816a6c644b895b4e515eb5ba8e7a&chksm=e84fa0eadf3829fc63e74d5a624ab72c43fa15127323dda296984afd2559f3114bb2569fc293#rd
+量子之盾—打造防窃听和安全的量子通信系统:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484965&idx=1&sn=a7a3f0b8f9be2b63a1a8fa2832952fee&chksm=e84fa0fadf3829ecf25927790e5adae0f93116797718658deb3f980f662de09b4c61125a101e#rd
+量子之矛—后量子计算时代你的系统还安全吗？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484964&idx=1&sn=dfcbdb354486cc40c4fd2a8b865d6bcb&chksm=e84fa0fbdf3829edec101d2a6fa238c4b3f949a509892d6b132994d2d03be0072bc8e3cc0f8c#rd
+转变思维，打开量子的大门:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484961&idx=1&sn=9bb906984aa0ae338971115dcc78d7f5&chksm=e84fa0fedf3829e8b5a28c15b0740bdbc2e2389855f2b0694530060165d6cff7bd52fb2d4e5f#rd
+Service Mesh实践之Istio初体验:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484914&idx=1&sn=6ac1257b0759abaff7c761a22cfd591c&chksm=e84fa32ddf382a3b530638d537e7429f39b3bdeb2cce11408c21071b685c175791629af1e89d#rd
+Istio的安全机制防护:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484914&idx=2&sn=93ece3b46f4bb8cf9cf8702df03e7f0e&chksm=e84fa32ddf382a3b64577a53a49fba121de478b5b623f57775e02ac3f74fd04887c7dd1d5a05#rd
+物联网设备固件的安全性分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484851&idx=1&sn=da29eeef21c9e7849c4878cf8234c662&chksm=e84fa36cdf382a7a83c7dac07276446a4b516a57972f4c270398f6887add774316c66f365620#rd
+Kubernetes核心组件解析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484846&idx=1&sn=e975c3f35ee1d0188772b4f4ca127285&chksm=e84fa371df382a67e9a023eeb4f97bd7f84ef2f5e66ff4d81aaeb790ee9071873bdf8ece320f#rd
+【题目征集】2018绿盟科技黑客马拉松:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484808&idx=1&sn=241fe29fa82ecfe9cb49be8d04d270e2&chksm=e84fa357df382a416a99de36160d70ca58b3bb6f54d8c8ff3f79836dd33c2dc389b66a89391a#rd
+黑客正在利用Drupal漏洞进行客户端浏览器挖矿:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484802&idx=1&sn=6daece282194de6e6ba14c9386103205&chksm=e84fa35ddf382a4b48e565f1fae11fd809cfda4a0227fca355d6238fa9ac4c299990d825b19a#rd
+网络协议逆向初探—Netzob简介及优劣性分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484756&idx=1&sn=179b7139334d5749bcacdfb3f517be81&chksm=e84fa38bdf382a9dfd6dcad1e3554f8b2035233bae631299cff016a217e8b24e5a36aeffd4a4#rd
+开源流量分析系统 Apache Spot 概述:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484643&idx=1&sn=fed9091fa323011e1d8ace248043410f&chksm=e84fa23cdf382b2af15deb485e4a159e77a0a5683972b16cc08b634c2b557e087b2dc3ab7f51#rd
+智能家居设备的另一种打开方式——如何控制局域网中的小米设备:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484621&idx=1&sn=57b78ac22bb3ef38a8e03b400e9c5f56&chksm=e84fa212df382b0482ef6f8794585ec1de79ac83561337d4faf568874b785865e04593c39a5f#rd
+Drupal远程代码执行漏洞威胁态势分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484599&idx=1&sn=febbcc995ee519cd41945dab733b89ed&chksm=e84fa268df382b7e2f78f4a3e4c30944bb709fe0a1d4a7d50c929dfe59d8be8de57ecc9cfc4f#rd
+Docker实战：用Elastic社区开源组件打造属于自己的网络探针:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484574&idx=1&sn=0a7cab1120d57c78eac751e2f002374f&chksm=e84fa241df382b5760555bf355e326c999715ab2c2e0051f9b67dfcfb43a9bced5202274e64c#rd
+数据分析与业务安全:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484572&idx=1&sn=4a55e363029aedaabbed75415cf5feb2&chksm=e84fa243df382b5502391949563486ebf40dc9fe273422d4c907b3c64ea7c6c0aabd6d7262c5#rd
+边缘计算与安全概述（附OpenStack边缘计算白皮书中英译文下载）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484501&idx=1&sn=c4c448a861cda3a0a81dbccd08ff79ea&chksm=e84fa28adf382b9c990f8eedeeeb01db6c01734579a643f1505095aa1af6b6feeefa065f5eb6#rd
+【RSA2018】10家企业激烈角逐“创新沙盒” BigID夺冠:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484500&idx=1&sn=cf35beeedf33e56b998bd5a558f9635d&chksm=e84fa28bdf382b9df59f865d501ccece233261bd76301c33193c7b7e098a3c5d21aa22e5d1a2#rd
+【RSA2018】创新沙盒公司解读（五）|StackRox容器安全防护平台:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484492&idx=1&sn=106bbe82f34693884e1cc5afbd90185f&chksm=e84fa293df382b8535dd03a9d6c08a240fcc49fd04436024d4075dd88bdbf929ba633485fcdf#rd
+【RSA2018】创新沙盒公司解读（六）|ReFirm Labs简介及技术解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484492&idx=2&sn=4013c2fba3a3a81c7b36f2393a1dda5e&chksm=e84fa293df382b852ec2c97565fa38012f709a62fe4f4f1ec1dbeee569ae9daf9e81b5accb10#rd
+【RSA2018】创新沙盒公司解读（七）|Hysolate简介及技术解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484492&idx=3&sn=bbbfcacfd5e7b524064bc9f3f181054a&chksm=e84fa293df382b858c2770f8f498daf72535d86c9ef813453eca4f1a1b4ac9314bb7df049daa#rd
+【RSA2018】创新沙盒公司解读（八）|ShieldX Networks 简介及技术解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484492&idx=4&sn=bedb5af057b56209f763b60e35155197&chksm=e84fa293df382b85db360cd570087ca69fa9c420754fc2496fd03b7ae01b1a50dedba2055919#rd
+【RSA2018】创新沙盒公司解读（三）| CyberGRX简介及技术解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484458&idx=1&sn=878d366db528febd656a002338b79516&chksm=e84fa2f5df382be3f929c5dce4e0bd55d4b5e1d09b821684adf8bcae4baee758381c39053e6f#rd
+【RSA2018】创新沙盒公司解读（四）|Fortanix简介及技术解读:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484458&idx=2&sn=653e0b72115f198073d52d0d84d062ae&chksm=e84fa2f5df382be39a0f4a8d04d750e0e183c30582451bc12345052be68b4bd5fbe772345463#rd
+2018RSA创新沙盒公司解读（二）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484432&idx=1&sn=89500d9bca42569490f4b21e3b4ecb2f&chksm=e84fa2cfdf382bd9a00949aeb596da28ef0b6fd77f4770d7b489d5f9a5c935994043e33affcd#rd
+2018RSA创新沙盒公司解读（一）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484382&idx=1&sn=288dc1659439892553e22bae129e4b3c&chksm=e84fa501df382c17f852fbc09544d6e4187eb45a65c4a479b7f66d9c2e20df9a5ddf04a15405#rd
+弱设备防护方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484348&idx=1&sn=2bca704790deb6f570befa4e8909d3fd&chksm=e84fa563df382c75b36ad8f70a8693fd68442535141a0c73c8236646394bbab55db35d463c59#rd
+容器镜像安全概述:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484334&idx=1&sn=d700d4aa893ad69b677295d615c68362&chksm=e84fa571df382c672c95f345c5dcf1cb6f4109b86b6dec8e3a442a13e71be4eddfd6dd6f0d3c#rd
+威胁情报之落地实战-由灰向黑篇:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484248&idx=1&sn=58225a0a8b07c44cdbd3f93c153583ba&chksm=e84fa587df382c91b356530533bab8cabf8c8282509d3f87adbb14f49826bc842ce06e018bdc#rd
+旺旺旺，你有一份新年祝福待查收~:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484189&idx=1&sn=b766a57a417f528224af8456d35563ba&chksm=e84fa5c2df382cd48444f220e384f16c4493c3da08ac1c49d907e0a27222c4ef2fb4b2416041#rd
+【物联网威胁情报动态】GAFGYT僵尸网络愈演愈烈:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484166&idx=1&sn=5facf562300cf75136d3ad6db37dda59&chksm=e84fa5d9df382ccf7bb17a407aac41486ab7b632ce0dd045b523befb1dd376b898478e566d98#rd
+2017年国内恶意物联网IP分析:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484132&idx=1&sn=39c984bdbe8baa54a17f09a9e52c482b&chksm=e84fa43bdf382d2d30e6ee964de2c77a2a970c6c57a77e1231c6d6dbca7719252917f2c33384#rd
+云安全，从“软件定义”到“智能协同”:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484114&idx=1&sn=e4f69f5cd0939fd1e9b96f28c9e085a7&chksm=e84fa40ddf382d1be14b86cb01b015311d7828e97e456213eed8c953c3fb5bc1ec54385c2108#rd
+感恩2017，拥抱2018！:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484101&idx=1&sn=75123a36146a1bba833818890517f5e7&chksm=e84fa41adf382d0ccd26be8c0aa005dfebc77fad45f5deef66b9c258f4f3da8f5b85896aa153#rd
+威胁情报之剑指落地:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484091&idx=1&sn=f325c10d755d97f8cdbbca8773178b21&chksm=e84fa464df382d727c3304a0a458dee6b29acdabea6828853ad75f177b83546c9852cf0c56b6#rd
+2017 物联网安全研究报告:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484049&idx=1&sn=7f0c1ddd408243c09ec6ae2df89a5e92&chksm=e84fa44edf382d5817de65f26ecb9b5078249ec9976a3a1cdff7179b65c150a2ed667b2bba8c#rd
+东西向流量牵引方案小结:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484035&idx=1&sn=949dfb56750116125af0e8db0c5a296a&chksm=e84fa45cdf382d4ab7007c31b59251a619505f112dabd3fcdef860bbf748b1a29610601e0b69#rd
+Spark DataFrame便捷整合HBase:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484023&idx=1&sn=661a30c944961adec2550c246a0fb837&chksm=e84fa4a8df382dbe049aa9e6f225551349496d4222ccccb5cf5a37e14564990075858ee99475#rd
+【招聘】绿盟科技创新中心实习生招聘公告（长期有效）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484009&idx=1&sn=9411779e0b73b5007712d0a0f4324d4c&chksm=e84fa4b6df382da069a7092c4aecdc4dabccb13d77fc43c189450a250fc9c7daa85e2ba35276#rd
+渗透低性能智能设备的关键技术-固件提取:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247484008&idx=1&sn=85524707533fc0a50806d972c7824ea2&chksm=e84fa4b7df382da139d244814001c097da7341a6c2a62c80eebf196694b7f42d7e8b7afebd09#rd
+Gartner 2017安全峰会见闻:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483986&idx=1&sn=254c9de698287435668f1cd11ed4834a&chksm=e84fa48ddf382d9be3c882120a72f2f4933643c35cbe1caa04a2bd9829df93a62d672e572104#rd
+杂谈：数据分析与威胁防护的落地应用:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483940&idx=1&sn=ece6e56d595576986d9b2e6f649bcb3f&chksm=e84fa4fbdf382ded3c1c2e72a34a78cd6604cd4ccf2f12b609e14b5b3b5d28ce58c03786cf74#rd
+基于SDN/NFV的云安全实践:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483928&idx=1&sn=96facdd1fd7ff9d8c661b266513a8ac3&chksm=e84fa4c7df382dd141db115d9e525e50a07561650cb61878d6dc030165e4978878fd133b2c18#rd
+绿盟科技走进北京理工大学 深度推进校企合作:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483893&idx=1&sn=7ef51fccb8d5621a25f1bb68c2560ac3&chksm=e84fa72adf382e3c1b4ab09b7ceb11312a01130fb38688b708a0656b0ac58e80f58b8e8cc7a8#rd
+基于SDN的蜜网技术概述:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483878&idx=1&sn=d9ee4649db893a880b054748c6494326&chksm=e84fa739df382e2fec0d20a174586bf0745c1ad1d2907c48ea50c4705382153ef7adf04778ab#rd
+云安全团队斩获公司技术创新奖冠军:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483868&idx=1&sn=753ae36d5201874646152f5d1d4fdd0b&chksm=e84fa703df382e157126f411487868645a5617ca47aed25272a1e5e1a2cfc5d33a0a525cf76f#rd
+CERT NetSA Security Suite遇见 Spark：网络流量分析新操作:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483859&idx=1&sn=b691e35c17f718bdf52c127c1cf70621&chksm=e84fa70cdf382e1a8be07a8efc6bdb64692b133862de363fd7cc80ca236d4ce6067e7006d800#rd
+要泄露密码才能连接物联网设备？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483853&idx=1&sn=c4a80f0d9b1852cdbb42842f4a701638&chksm=e84fa712df382e043bddd4d797693b15f850243667879570b0f7b23c2c29b07d74e41c5bb8c3#rd
+网络流量分析利器—SiLK与YAF:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483841&idx=1&sn=75198ac34bd7bcbd992369e0899beb1e&chksm=e84fa71edf382e08b2dd7899fd8c97c0ff95680a60bb1ef84dfed09c5cc5be252b954521bf40#rd
+黑客马拉松 战火重燃:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483838&idx=1&sn=9ba478a1a648982168075f94cb905b0e&chksm=e84fa761df382e777dc69648b272b83d5f161018759aca948e78a7726791603d7249c0710e38#rd
+有奖竞猜，猜猜谁是赵铁柱~:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483833&idx=1&sn=8dcf2575a73580563bb79ce6638047b5&chksm=e84fa766df382e70e692a1c3740c86cdaeec6aa5098354df5f48af4a19323c03646fa5fe446e#rd
+你的智能家居守护者——业界家庭网关一览:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483830&idx=1&sn=7fcbbe1ca868c7308b79eff3923fae46&chksm=e84fa769df382e7f59c3e32ba92f351b12f6a8032b51a52232c91fb130851f486089d33bb673#rd
+IaaS与SDP的美丽的邂逅，此生相伴有你更安全。系列之三：IaaS与SDP的幸福生活:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483810&idx=1&sn=d059cf2baa8459525efd66e958e2bf7e&chksm=e84fa77ddf382e6bec71631d0713248dda8ba44cb29a69e8125661426de4ae8f0f7c45b2e079#rd
+IaaS与SDP的美丽的邂逅，此生相伴有你更安全。系列之二：千里姻缘一线牵:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483807&idx=1&sn=6f78dfd7c0319e4ee771ae9efa91b700&chksm=e84fa740df382e560a60f9c359233642b7cfade6a3f79933062cdf23e6c5d558662963cf3c11#rd
+IaaS与SDP的美丽邂逅，此生相伴有你更安全。系列之一：IaaS的烦恼:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483804&idx=1&sn=bec53583908585446e1c53f64be65ba6&chksm=e84fa743df382e55167137dff95f1091c30e14035f489c3142c82db17706860ce20f57266ad5#rd
+江博士带你轻松搞定KVM虚拟化（续）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483800&idx=1&sn=7f85be008cfaad934e871bd0b498f874&chksm=e84fa747df382e5171781407741323aab2a117ec686e96b441c79fb43f236b30a3f4422aa255#rd
+江博士带你轻松搞定KVM虚拟化:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483800&idx=2&sn=6b58467e655154fc3609dd30d5bd2a5f&chksm=e84fa747df382e51d8aed98a73aacb8f95dc3c2a6a4b43cfe9ac1f52cca8cdc9a34d6d0d4da6#rd
+玩转大数据-Docker轻松搭建分析环境:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483771&idx=1&sn=362813d8d53a02be1f9529e344534fa1&chksm=e84fa7a4df382eb255ab6728957af81a2732f1ba81ab6f3d31fb2e47f8b45c0eb371e5503ffa#rd
+江博士带你轻松搞定KVM虚拟化:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483737&idx=1&sn=a17b526916292bf4734fa25755c80623&chksm=e84fa786df382e90b4a6610cd4c5de2e833d161fa0b99a4325e32485cebcfca7b16c999ace30#rd
+江博士带你轻松搞定KVM虚拟化:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483736&idx=1&sn=b3a0a6f0449b3d8a3d2cb00c43e973a9&chksm=e84fa787df382e911952ffa8a1a3f292ee2be053f81d5f0540573e4033a1bad2b56659ad2d62#rd
+Security Automation&Orchestration:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483706&idx=1&sn=ff495da279c928ffab3ce41d44bc710f&chksm=e84fa7e5df382ef387172341bde836c8a27fb472c4238f9cab8bf87eccfced407fc77a50544e#rd
+关于安全服务模型的一些思考:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483687&idx=1&sn=05c5b6c93be3c57f3ba12d1ec957ea6e&chksm=e84fa7f8df382eeee9ca68babcdf0aae63cae682365b6c5abe7ce73bb6883c20a25cf0da3792#rd
+Security Fabric：软件定义的弹性安全云:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483680&idx=1&sn=cecfe07d7136861d7a795bda4112114d&chksm=e84fa7ffdf382ee96cca95dde0383ecc0632b6fb4f78b7e4dd86272db8854e03eb55249a9a41#rd
+SDP下一代的企业访问控制方法:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483672&idx=1&sn=5fd5d7e6df0da11b6edf5064fd338eb2&chksm=e84fa7c7df382ed1f8beb56abc1fd4aacbaa0a25928fd6b0da86e08fa5bcceb003381f94433e#rd
+你的云安全吗？:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483669&idx=1&sn=99ad89724caf9ce382c7569a881e6368&chksm=e84fa7cadf382edcacd0b979412da22393caa1cafa46e6615585d94e31b00ad75cf6783c4fba#rd
+看见到洞见之引子（二）： 机器学习算法简介:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483660&idx=1&sn=b396b97b07823cfda78af06c983bdbc2&chksm=e84fa7d3df382ec5ea9979b2af4e8db0bad4d0bb0ba8fca9afa978cd7a01aee032bd54bc54b5#rd
+看见到洞见之引子（一）：机器学习算法简介:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483657&idx=1&sn=1df3dd56ed8aa745edfcdc2f062f202b&chksm=e84fa7d6df382ec07d01953a9324a3d5ef9f6afd1797d5719dd9d9b7d7182d96df3a4f84c4fb#rd
+看见到洞见之楔子二（Vectra知其所以然）:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483654&idx=1&sn=84ae654edf563a73008da0571bf20b32&chksm=e84fa7d9df382ecfa63bba6d8a019d793a9e9433f9fe1b959507e76c505c7988e996ea88cf60#rd
+看见到洞见之楔子（一）:Vectra知其然:
+http://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247483654&idx=2&sn=f04f6a1d5bbfed42baa616b24d1dd06f&chksm=e84fa7d9df382ecff455c3f0347c00d786fd6d1ab201c5bf72bce82eb98ec3d317d609b08efe#rd

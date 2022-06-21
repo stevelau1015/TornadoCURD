@@ -29,8 +29,8 @@ user = "email"
 # 公众号密码
 password = "pwd"
 # 设置要爬取的公众号列表
-gzlist = ['邑安全',
-          '远望智库', '占知智库', '开源网安', 'OWASP', '深信服千里目安全实验室', '网电空间战']
+gzlist = ['嘶吼专业版',
+          '计算机与网络安全',]
 print(gzlist)
 
 
@@ -156,7 +156,7 @@ def get_content(query):
             'fakeid': fakeid,
             'type': '9'
         }
-        print('正在翻页：--------------', begin)
+        print('正在翻页：--------------', begin,'/',max_num)
         print(time.strftime("%Y%m%d-%H%M%S", time.localtime()))
         # 获取每一页文章的标题和链接地址，并写入本地文本中
         query_fakeid_response = requests.get(appmsg_url, cookies=cookies, headers=header, params=query_id_data)
