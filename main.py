@@ -29,8 +29,7 @@ user = "email"
 # 公众号密码
 password = "pwd"
 # 设置要爬取的公众号列表
-gzlist = ['嘶吼专业版',
-          '计算机与网络安全',]
+gzlist = ['计算机与网络安全',]
 print(gzlist)
 
 

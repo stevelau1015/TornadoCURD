@@ -1,0 +1,831 @@
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247496346&idx=1&sn=a8274e8cef4e9367174279564d79377b&chksm=e9ae7df2ded9f4e4725aaabfcd71fc75914236cdd72559a05ad899a50065aaf258510d321a95#rd
+开源网安获选中国信息通信研究院「可信开源合规计划」首批正式成员:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247496342&idx=1&sn=f0c3ee58631a7821a0946f27176e09e2&chksm=e9ae7dfeded9f4e8df05da31c650cb7a70d0f8f119555cab5e537616f1f32d0e529c80164840#rd
+高危｜Fastjson反序列化漏洞预警通告:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247496303&idx=2&sn=d06c02b12263ef199fe5948c4bde4e7f&chksm=e9ae7d07ded9f4119809aafb563044e0956cc903d89a723e21782247beced5a96b72ca9ab681#rd
+见证软件安全“后浪”崛起｜16位学子荣获开源网安“捍卫者”奖学金:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247496187&idx=1&sn=0f6d0ed65d630683c4ab71abd9c07285&chksm=e9ae7e93ded9f785a9b2e976b9222b1c8075915f56b4697ff54381735d2f14918821e51fe7bd#rd
+今夏5月，一起见证新一代软件安全“捍卫者”的力量！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247496029&idx=1&sn=36aced1af01dfb948356293420ffe0d8&chksm=e9ae7e35ded9f723efa8aec922991a1fdcbe9770f685fb08dd1c484da2b8f8089fe7b236ca99#rd
+严重警告：F5 BIG-IP平台中的一个身份验证漏洞正被攻击者积极使用:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247496001&idx=1&sn=2e1b457e894ac6fefe87abad90580cb1&chksm=e9ae7e29ded9f73f1d168166f0d336ed54850228873d1aebf7dd088a9c7b09a9615432378acf#rd
+开源网安获选【中国信通院安全所】全能力评价工作组成员单位，助力构建数字安全未来:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495965&idx=1&sn=36757ae8377ab98d81c01e481dfd9649&chksm=e9ae7e75ded9f763f90a6980490563d51b5c685b39440838d7a595eac7bbc9c5abc0373dd363#rd
+漏洞预警｜CVE-2022-24706：Apache CouchDB权限提升:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495916&idx=1&sn=3a37682880e7a218e919e4c50bf22585&chksm=e9ae7f84ded9f69264682b702e2e8692f37df7fc6c90c797a62628af7f7d0dc20475d181ec35#rd
+逐梦星辰大海，让我们共同捍卫中国软件安全。
+开源网安祝所有劳动者节日快乐！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495915&idx=1&sn=88ebe35e0a6254216283984f72d321df&chksm=e9ae7f83ded9f69520f4ec148f970a4ce96ea37e35aa946cd9e97a508371b216ca165d529d95#rd
+开源网安入选《智能互联网汽车产业发展年鉴》（2021）:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495894&idx=1&sn=dba9f0eb6bb68140074abed01add47bf&chksm=e9ae7fbeded9f6a8112f1e28039d80cd4e20f8ce762973bf2d5eb0fab9085e5c706e2a18b374#rd
+开源网安参与起草国家标准《政务网站系统安全指南》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495894&idx=2&sn=4e975bda1d75dc5e6a418e3e677fc77c&chksm=e9ae7fbeded9f6a8bfd009b1fe87caf0c8152dc80636a614893c242ac1b5bef5d846d3e998f8#rd
+专注软件安全，开源网安入选数说安全《2022年中国网络安全市场全景图》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495876&idx=1&sn=14295508ff87f04a9ce3a7c12572cdd5&chksm=e9ae7facded9f6bade7cb7eb3d0150ae043a7a60f44790f1b6f9a5df9389d41c4f4404bdd7d2#rd
+开源网安SCA工具SourceCheck对 Apache Struts2代码执行漏洞的防护:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495847&idx=1&sn=1ae85821d9a8a13af22f493b17f6f615&chksm=e9ae7fcfded9f6d9fa0519308ff63ee2a23c24180eb0be634cc976254b41ae5b6d1fb5620eec#rd
+浅析SAST静态应用安全测试工具的分析引擎:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495847&idx=2&sn=c35ef9a153635649730dfa2ccd547cae&chksm=e9ae7fcfded9f6d953772ffa019e311afdac92c390003e3891a979bb86c14a83e5d49978f2e1#rd
+漏洞预警｜Spring Security OAuth2拒绝服务漏洞（CVE-2022-22969）:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495808&idx=1&sn=4efacec213b281d212b0d6afc7d39d16&chksm=e9ae7fe8ded9f6fed7978e4957e0b85779950b8f22feb160854c14dcd2e2c441e874bf034c7a#rd
+从OSPO 来思考开源治理问题:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495761&idx=1&sn=b6148be952e2fea46c7c53a84d546d73&chksm=e9ae7f39ded9f62ff41ec2edc67312b46e14076aae41ed5e7e1dd9416d18300392ca73790ab1#rd
+为什么说 SDL 中安全教育至关重要？:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495761&idx=2&sn=b0120979bc8a30e22a236be6ccbd634e&chksm=e9ae7f39ded9f62fba2d20a92181ff4a2958021d0b7f6d66140601f92c4a3072d1ec1f7cc673#rd
+安全提示 | Oracle 发布多个组件安全补丁更新集合:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495666&idx=1&sn=7224af36fb4441600dd546333c50693d&chksm=e9ae609aded9e98c27efcefbdaa0fb6523c34cc9f6cc10f61c209caf02ef1dc73290420ca903#rd
+开源网安入选“2021年度中国信创TOP500”榜单:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495437&idx=1&sn=30a1701f42506dbeb0e62b5e54c5aff5&chksm=e9ae6065ded9e97371bfdba76f1baf958d3a146661ca10573899fa713dbc60c8afa6a39e5a36#rd
+415全民国家安全教育日:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495437&idx=2&sn=37bc6b7c8c7ef788a63e8080e6a92f9b&chksm=e9ae6065ded9e973a2e8fc6d25818dbc741b8d77ef81b64cfc3149dc91cf065c29733a2eec82#rd
+漏洞预警 | CVE-2021-31805：Apache Struts2 远程代码执行漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495345&idx=1&sn=45ee538fd87022a7c2b5189db9579e27&chksm=e9ae61d9ded9e8cffe2048ed768129cde024b77a670e515b470de68bb126d66be3b35aad1b3e#rd
+战略合作｜开源网安与武汉科技大学共建工业软件安全实验室:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495324&idx=1&sn=8ae95a0a230dc8dd11d9bcd60689bd2f&chksm=e9ae61f4ded9e8e22e8aaa15ad5e38d30d7510f151eb3afd90edebbeef700302e5753120e637#rd
+技术分享 |  Fastjson反序列化漏洞研究:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495324&idx=2&sn=f69837aec0eb3dcfbca3fabed054229e&chksm=e9ae61f4ded9e8e226c64705a1fd1c765eaae2e5c034ac296c8e772b16a673acb2a13e869fdb#rd
+8大细分领域：开源网安再次入选安全牛「全景图」:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495248&idx=1&sn=ce5dd6e3025089aa072d48a6ddb9461d&chksm=e9ae6138ded9e82e700a75aa898922299469a2a4c62ec9b5995d43896679e42a3d8d507de518#rd
+Spring Cloud Function漏洞报告:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495235&idx=1&sn=2b8cce24eb82680603c3f02b75bf81fc&chksm=e9ae612bded9e83dbfd9fe874051e0ffea25c7299ecfcbc0bb50e0c254d524b4a261aa9d7f10#rd
+技术分享｜从SCA 看开源软件的安全检测与治理:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495235&idx=2&sn=ed23d964d9888f240f7c5dad1cffb8d7&chksm=e9ae612bded9e83d0acea46f5f454938020f4db5ae6c91819c2e512803f0dff09cc2cf0c9cd5#rd
+技术分享｜从Fuzz到SFuzz，模糊测试的进阶之路:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495161&idx=1&sn=abb1917586d298379896ae05ba0b124c&chksm=e9ae6291ded9eb87c541183f793f3707fe281f28d9aafad589d3416d88ec12316d88c5923a82#rd
+聚力向新 进无止境:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495023&idx=1&sn=100c8e50deba4d31b8c8a3400a4272ad&chksm=e9ae6207ded9eb117c5507dbf1b87765c5560d20c0a64b193aac8cffbeda5ea4b49448491c8c#rd
+重视！混源开发中的开源组件风险:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247495011&idx=1&sn=2580ab672a7c8b2ec75667f89affde3c&chksm=e9ae620bded9eb1d759dc67a05c6000c94b5ea6a8a1bdb95dc6199bbb1ccbecb43223f9b0285#rd
+从开源组件安全现状谈开源治理实践:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494975&idx=1&sn=0098b7b5ecb6238bbcde7427c74f09ab&chksm=e9ae6257ded9eb41ed8b3528c0d6f6b68d7c53fb2bea5c289c0b5aac5cde7ef7b2fef68673c1#rd
+即将开启 | 开源技术与应用线上培训班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494959&idx=1&sn=255a96c5d26298aa418fee748ac0d425&chksm=e9ae6247ded9eb519c6b01a3a6fc785ed10541116713b1dedfa73f5f35670d23f61f9bfec14e#rd
+温暖如你，致敬女神:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494944&idx=2&sn=c83c717f9d0768e352959b361c6ab056&chksm=e9ae6248ded9eb5eaaf845c0a97ac4d9a2f3f541151ee89ded534698d6aa5825ad6775a38772#rd
+喜讯 | 开源网安三款自研产品均通过CWE国际兼容性认证:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494861&idx=1&sn=1f8f3a204e8b1d8f834a649491a7fa3f&chksm=e9ae63a5ded9eab33c58a35348d67b186f4446dc4b6cf52edc4800a9a475c245740e8e9dc3d9#rd
+开源网安祝您新年快乐:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494806&idx=1&sn=ecf6420f34a34512373403ebef2ffced&chksm=e9ae63feded9eae87e3437bb841cbf1b3c65b8ffbc277a18139ab5c17482e0b8ab26b238515a#rd
+开源网安品牌形象升级，全新LOGO亮相:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494784&idx=1&sn=2018044d38de8f3328538d5c596fe093&chksm=e9ae63e8ded9eafe1ccb616880cd32984c2a5641e24536b829e9e21a6e9e53e91e4e7f4d171e#rd
+请查收 | 开源网安春节放假通知:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494784&idx=2&sn=e93ad1594ba9b6fe37ccfffbdd085b26&chksm=e9ae63e8ded9eafe2c15ad2f142cd08cbfa57342fe87edbeb445ac0dc2c0ddd56af6a5f66311#rd
+利用CodeSec代码审核平台深度扫描Log4j2漏洞:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494731&idx=1&sn=f57e26a9dad80c34aad67454aa2c2df8&chksm=e9ae6323ded9ea3560ae28a2129b01a190adcf4902608b10e91d23b3dc6155981e145cffc897#rd
+开源网安获评“物联网安全十强企业”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494700&idx=1&sn=cf844e01479e5e6e92da0d855b2751ac&chksm=e9ae6344ded9ea52632e435ad25b7740db740bceee1734102e91f110670051388877a682904c#rd
+实现高效、高精度的静态应用安全检测:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494700&idx=2&sn=877a3a907ac725d8953e1f105b3c4c29&chksm=e9ae6344ded9ea52ea71fff018c7f0a213addf4c7b111d94b5d0e9a859cc029c3e698cd474cf#rd
+SBOM，再次现身白宫开源软件网络安全峰会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494582&idx=1&sn=03af0ef562c433a69cf1b4e3841f0ac7&chksm=e9ae64deded9edc8b5be16608e925a72864854bab51f2f7192cb7a5aac1005a8b1da0514e151#rd
+开源网安受邀参与第十九届中国国际软件合作洽谈会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494334&idx=1&sn=49e4c816dd78ef8416c5d3abe6d181b3&chksm=e9ae65d6ded9ecc020b1ab8b2e05c76884427518e8d9153ecf0052d43ccfef2b6fda6aeceac1#rd
+回顾 | 2021年软件供应链安全那些事儿:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494334&idx=2&sn=4f3258f4a6e00bf1e1f0443c9cb6dda8&chksm=e9ae65d6ded9ecc0db9335ac0c24408627fa9809c84c1c2cfeec478d39ff7a13ccd2dfc106b3#rd
+汇聚专注的力量 | 盘点开源网安的2021:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494185&idx=1&sn=f399b46f0c25277005cfeee48f613079&chksm=e9ae6541ded9ec577c2105749d441220de1f9d363975fa7a4da9e4533226cd6a059b3766b1f1#rd
+《网络安全审查办法》修订发布，开源网安要点解读:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494101&idx=1&sn=b33b804f8baabd26a50d1e4c9a5f16c5&chksm=e9ae66bdded9efab72fbebab9d176032c2d6de5b3dd2473123528336c23d803b78f8a011c2cc#rd
+感恩2021，你好2022:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494078&idx=1&sn=4e6a2d8c979fc2332ecb957f26b2dbc9&chksm=e9ae66d6ded9efc0863bb61b48361ebb65bbe7912d4f6391c695a3b4738f18d14772e81789c0#rd
+《软件供应链安全洞察报告（2021年）》正式发布:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247494058&idx=1&sn=2be9c5d6dd22e9bb9f1716c3be71756f&chksm=e9ae66c2ded9efd4d447172479dae829cc181a7593370c37f8f45487e1ca4d6b8f6cd4b2ac99#rd
+开源网安荣膺信通院“云安全守卫者计划”优秀案例:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493933&idx=1&sn=a11dbb2a3758afe57e9e682098c8216b&chksm=e9ae6645ded9ef53b63369084674a98f91e3165f73d3c6352bfbb38d1953943be8990731534a#rd
+直播预告 | 软件供应链治理核心技术SBOM:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493918&idx=1&sn=98f2337cac03f6dc18739c409acf65ab&chksm=e9ae6676ded9ef60fbe02509f472cd309beaa871cd572f0514edea742cc5cb2f45b1a5c906be#rd
+重磅 | 开源网安SBOM计划正式上线:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493900&idx=1&sn=ef7e999f32aee95daae737201e39ffa4&chksm=e9ae6664ded9ef725075e2fe3308386f8d0d9b80ac5038a88c0de5bf39dc0f68d18fa3002804#rd
+倒计时1天 | 开源网安SBOM计划:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493873&idx=1&sn=cfad5b660503e9f4671b1dcf3762b691&chksm=e9ae6799ded9ee8f11fe982ed712a92834fd44e941feb2495814c71a2e79233253448c2a5a77#rd
+即将启动 | 开源网安SBOM计划:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493861&idx=1&sn=4a045ae8afc2e9371a448bde022cf9f2&chksm=e9ae678dded9ee9bcc9ba8b507cc661073ff9ba442fbf018b909c88d5595e8c370ce76c7e360#rd
+喜讯 | 开源网安荣获“信创安全优秀解决方案”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493831&idx=1&sn=e9796c85770916ced8c77e09b1893407&chksm=e9ae67afded9eeb983481879496f06eff40fae806de071d7cf0884ac7fb3502302edd2afb8f8#rd
+再获殊荣 | 开源网安成功入选ISC 2021网络安全创新能力百强:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493830&idx=1&sn=101963522077965360857971a340ebe9&chksm=e9ae67aeded9eeb893b15d06587633e4b245cb76dc526bf72b01d15d304c59e1d387813af084#rd
+预告 | 2021中国软件安全开发论坛即将精彩开启:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493830&idx=2&sn=8e2ca253bb32193e26d12d8eb565359a&chksm=e9ae67aeded9eeb8fd4ca40c53c278d70ed4d8bda3c32dd4dfe70d46e6ed0e671bc98010e09e#rd
+喜讯 | 开源网安入选2021中国数字安全能力图谱:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493830&idx=3&sn=bcb8a762b5be9c1f1e5bbfa1e9b4d595&chksm=e9ae67aeded9eeb801fb8f027c7a7033e183f6c7e3915fbdf925cb3b2b0c83c51441ef9e4705#rd
+警示！Apache Log4j远程代码执行漏洞 | 风险漏洞提示:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493751&idx=1&sn=f7a72527c0857b60ce79ce272efdb3b5&chksm=e9ae671fded9ee09ce86353636fd6c275387864046c2414c3b4a6258d84e93ac304b230b167b#rd
+CCSIP 2021全景图 | 开源网安入选多个领域:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493682&idx=1&sn=46f0daa585af252e3ded5604c3017d90&chksm=e9ae675aded9ee4c17c0228fd0310737fb0755c535c2b438b0a9532673ffbc43fbb8705691f0#rd
+从软件产品采购环节做好软件供应链安全保障:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493658&idx=1&sn=e0072ba6ce0de24bf17f55bef1a8068a&chksm=e9ae6772ded9ee6471a7fbe80e25cc180cac4e655f36e47e262ddab0b7c90f33ea25c2a57f8f#rd
+构筑安全生态平台，开源网安开启“云为先”战略:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493641&idx=1&sn=e0c3ef206cf698c99968cef8cdef8dc3&chksm=e9ae6761ded9ee775182ead641cc1c3286774c4d64a148d0f534e556012b19e336db62b5ece3#rd
+构筑安全生态平台，开源网安开启“云为先”战略:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493635&idx=1&sn=deb6404b5725a53f4cf9ccd8716e259b&chksm=e9ae676bded9ee7d6ac406b2727a47d2f45c20efde133a143578ab810e1186c944c9028dc452#rd
+开源网安 CodeSec 代码审核平台为政府机关守好“安全门”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493615&idx=1&sn=fcb820218a0dfda091a1562a0caba2b2&chksm=e9ae6887ded9e1911f635b47c572f69bbfd41177648e26c6a8c9b71d297751c15aebc1172764#rd
+涉嫌隐私不合规被点名，开源网安AppCheck为你预防:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493293&idx=1&sn=5346241fddda99199853b74c74bbb5bd&chksm=e9ae69c5ded9e0d3ea1a6bf9798c45bf2a9c0102afc4e3b4634fd89db9e4d385c50b2e1b6d71#rd
+数字化的未来《提升全民数字素养与技能行动纲要》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493270&idx=1&sn=5fcb5072ea6ec389c4a2303121265970&chksm=e9ae69feded9e0e80f10cd14bf6f84f63102a7add4aaa962f4c498df107d014528d16d809c19#rd
+开源网安再次实力入选安全牛《中国网络安全企业100强 》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493195&idx=1&sn=c9caeee8f31922688482751795a015e1&chksm=e9ae6923ded9e035d6389fe92d4c0b1cf95b2c2525008ff0547ba7f6f1104aa3a0594adab7f9#rd
+打好金融机构开源安全基础，从使用开源网安SCA工具开始:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493157&idx=1&sn=a72c79fff7be85a5219723254ad39af5&chksm=e9ae694dded9e05b02f059b3dbc36d1b8b7fa1ebf3cca294db532f4343294ae03af96d6a7e86#rd
+开源网安SAST和SCA产品无缝集成GitLab CI/CD:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493135&idx=1&sn=9fe6af1bf0995796cf7a856f3e35d049&chksm=e9ae6967ded9e0717549aa36d149f48d89c1dfd0dc8726a560c5b53fdf11cd357b7e9dd2a625#rd
+开源网安受邀参与2021信息技术应用创新高峰论坛:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493120&idx=1&sn=eaad41cced99a2eed1463ce24d4eb2e8&chksm=e9ae6968ded9e07ea137c63a0c2143f2dd888a5723bffafbded8a919cb9c1cfdce6529f5d34a#rd
+开源网安SAST和SCA产品无缝集成GitLab CI/CD:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493101&idx=1&sn=a12af5b30966377206d201397db3b799&chksm=e9ae6a85ded9e393fa4212caee1bbcd80209084b86f7079e721f45798dfc4d4f069d1b3aab83#rd
+中国人民银行等五部门联合发布 《关于规范金融业开源技术与发展的意见》 开源网安为你逐条解读:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493080&idx=1&sn=252d9d90f180559d51b2cb66aa6ebf50&chksm=e9ae6ab0ded9e3a66999440df8dcf49bfa28a2148a56dae3ccb1fbfd1263af8024845953d918#rd
+开源网安SourceCheck开源组件安全及合规管理平台再获行业认可:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247493061&idx=1&sn=32d8a935aa7e5ac259fe8fa7f7d23c39&chksm=e9ae6aadded9e3bb3f3ff6008e39063f682e9670768be31b84542e1a37779cf8205d15cf61bc#rd
+以匠心致初心，礼赞祖国华诞:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492975&idx=1&sn=a8e732965eb25031ee083cc03c942f30&chksm=e9ae6a07ded9e31169c4de74652c9eb3d5e6f09d3df9389fbdbe9710cbf44af44c621f5d8696#rd
+中秋月，月到中秋偏皎洁:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492917&idx=1&sn=df83e148ad8af70831683a899f55c897&chksm=e9ae6a5dded9e34b0f8ecd1ba69d51b2ad8c04f118a9a13e2f3cde10779e5186132607b6c07d#rd
+《CU-DevSecOps实践白皮书》来了:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492895&idx=1&sn=55eb85d2f956daf0e9466a970a4bcabd&chksm=e9ae6a77ded9e3617605da722bc8c83b6c7c110ad6e98a2ef1df28143a3a40562d5bfde1d0be#rd
+开源网安SourceCheck开源组件安全及合规管理平台通过可信开源评估:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492857&idx=1&sn=d17cc7e1971754db8e086a68f224353e&chksm=e9ae6b91ded9e28743bd0b474d8240113f940f905303288a62cebdfdad77ecf683cab414c168#rd
+倒数3天，OSCAR大会即将召开，开源网安为开源产业赋能:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492769&idx=1&sn=553a31c4fb7a81c6e632f439348a7b11&chksm=e9ae6bc9ded9e2df757bec54347bf84081e8bb4626a3fb9a053e0fa9c1e1270f79423bffcdaa#rd
+师恩如灯，照我前行:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492732&idx=1&sn=fd28689e9b7cfc13bfbe58e96088c3b3&chksm=e9ae6b14ded9e202c0ecc56cc05c526290792cd71bd4c525bfebbc2e317bbe646c6f341a0ff7#rd
+开源网安完成亿元级别B轮融资:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492509&idx=1&sn=046c1d1a248af43d6f86517c145e0055&chksm=e9ae6cf5ded9e5e38bb9d8296e60b9020e2e5ab418109a21f731dac598ebc02440e8ea879922#rd
+开源网安 X 澳门华人银行 | 本地跨境两翼齐飞，让数字金融更安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492386&idx=1&sn=dfa752665eb4231a9969dad8af52a883&chksm=e9ae6c4aded9e55cb40051e2e18d839213241b1949d16647044b0ae746791b33d3bef59d5eba#rd
+信创企业如何落地软件开发安全？:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247492285&idx=1&sn=d7437e5be662b4ce5286beb8c5db2d7f&chksm=e9ae6dd5ded9e4c35feeff68eb67fb8dc77707f0c3a60d6bb629ec301d8e3d7ba079079b381f#rd
+快速解读《中华人民共和国个人信息保护法》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247491974&idx=1&sn=96f8e8cfd759385e49e6870fc6dd602f&chksm=e9ae6eeeded9e7f8bac1a1593742b4f68a0fe5143d1d3404404adaec239c0b90e8d56b6ce738#rd
+七夕，佳期如梦:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247491838&idx=1&sn=f245e1a56dd8a6e165f5931be95a5066&chksm=e9ae6f96ded9e68074cd634b444c325be22e9135da99533a4f3fa1e37121360b3e264c407af1#rd
+立秋，万物从成长走向成熟:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247491548&idx=1&sn=01e99226cb01bc3c17329f4f2483d112&chksm=e9ad90b4deda19a25dc6b32136b9cdb5dbce7700de8dfd2741031848ba7d1b9bfb68e5079ec2#rd
+由《数据安全法》看数据安全的那些“法”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247491538&idx=1&sn=8df7857b6f3001b7a570b6e098c72dfe&chksm=e9ad90badeda19ac378146575e319907ec67d8a658bb12d2eec5a32b341f500cbd9b1d6e8e4e#rd
+开源网安研究院发布《国内高校网络与信息安全研究成果调研报告（2016-2020）》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247491411&idx=1&sn=b7f035adc0827591e24a7dcd9937e754&chksm=e9ad903bdeda192dd7bd00555a6d22ff35aae8376687c329397689dc88f2abdf6759f3b56970#rd
+软件开发的安全痛点及IAST技术浅析:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247491341&idx=1&sn=d21ec7becfcb1e91d23980835a7e7dca&chksm=e9ad9065deda19739939637b3ae6951220d625ba95f55ed1ea8bd6e01da39fd42e3dda7cdc16#rd
+引领网络安全新风向，开源网安荣获ISC沙盒大赛季军:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247491120&idx=1&sn=180b690ab01b28db165d101be5086cbd&chksm=e9ad9158deda184e1377372788a01680a4b97886db2a96a8003be25de277f1e70d6a30201484#rd
+开源网安灰盒安全测试平台和代码审核平台通过可信云评测:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247490655&idx=1&sn=4646af5f2f719451595a39cbd4567860&chksm=e9ad9337deda1a2177da176ba089df9e82bf7f7979a99d99bad243a4e3250625e757db31925a#rd
+开源网安&桂电 CWASP 认证软件安全专业人员实训课圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247490542&idx=1&sn=7c578a2ae52019f922c48a5d838cd952&chksm=e9ad9486deda1d904dce040fc0b9462ef289e5045f330b3088458c7075c9fd463cfd5d13d9c1#rd
+预告：软件开发的安全痛点及 IAST 技术浅析:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247490458&idx=1&sn=6a9f2e0e09a3ca1214359cd637764c5f&chksm=e9ad94f2deda1de4858de4f480303cbbd1669baeb5af15c46ed909f76a6eae61bfa534043835#rd
+今日大暑，夏季最后一个节气。
+大暑节气正值“三伏天”里的“中伏”前后，是一年中最热的时期。
+同时，很多地区的旱、涝、风灾等气象灾害也最为频繁。:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247490397&idx=1&sn=9f0be324a35c78317eaea028b969c77e&chksm=e9ad9435deda1d23e5186616a85061c838a366afe465b5fdc53f0fab9e0a12918b8a16d1cdfa#rd
+实力 | 开源网安入选《2021年中国网络安全市场全景图》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247490318&idx=1&sn=187d77f7941106c61409f9acf37e35ee&chksm=e9ad9466deda1d7040dd01a5741a6213583cddc4ad30131b253995845d2dfad27fedf2751a7b#rd
+浅析《网络安全产业高质量发展三年行动计划》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489957&idx=1&sn=aa5eace9d63a5a8e29be999ed91ef948&chksm=e9ad96cddeda1fdba34d4ee56ae611a4e8871b8b0b2b7e350da502f0c7d9eec54f211a476f11#rd
+开源网安8周年 | 行远自迩，以初心致匠心:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489859&idx=1&sn=14a026ef554f7872e2d61cc2cf3daa80&chksm=e9ad962bdeda1f3d09e773d763fafabe343373cdea44735b11abe09f55b443b7a5b4c756cf00#rd
+庆贺中国共产党建党100周年:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489813&idx=1&sn=01b8567939ad4df665ad29914d86dbd1&chksm=e9ad967ddeda1f6b9b2b4f6b0a5eaa0d916275e985f8c6717d0288c875f104d86d7f683c9abe#rd
+开源网安谈“软件供应链安全的现状与对策”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489802&idx=1&sn=b8f4c64cf0f242b2082226b409099ee0&chksm=e9ad9662deda1f74bd4ac2aa493372763bf6ca04a33baf9a79c16fb7141990ddd0042a05e281#rd
+Gartner 2021 AST魔力象限权威发布，看今年有什么变化？:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489729&idx=1&sn=2681746e3a4a26663bf809647b32f0ba&chksm=e9ad97a9deda1ebfbd89acb11b62bf6352f4a4f3d8731d4b0c45ae2f1166a3710dc1611273f3#rd
+喜报 | 开源网安灰盒安全测试平台荣获 “补天奖”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489615&idx=1&sn=b75506275bc375aea28afb7d8caf3821&chksm=e9ad9727deda1e311a3f764c64e6698ba8f46aa7faa56a1d24c47791d9883b0fa014a09add61#rd
+开源网安荣膺“2021CCIA成长之星”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489496&idx=1&sn=19c6203c5ad11c41f8ba75cc68c40faa&chksm=e9ad98b0deda11a6f7b3cb835f63439cb9572f5e93eeadb8c6d884656bb79eabb465a3879cf0#rd
+开源网安受邀参加2021网络安全产业发展论坛，并获“优秀企业”奖:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489496&idx=2&sn=2ab9bf6bce08e02d4d06f3f2c37e0415&chksm=e9ad98b0deda11a6298ce45e94799619ad7b6f5cba499adfde0af1fb598338c1adfefe96c31a#rd
+端午安康:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489400&idx=1&sn=494d5ef97085a85db9bad37ebf5ebc95&chksm=e9ad9810deda1106fc7c501e6dc72fa237f528ff527705ef2603a1376de43c5d00ae764cae51#rd
+重磅消息 | 《数据安全法》正式颁布！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489400&idx=2&sn=50e386e2855592a7566bf653e311735c&chksm=e9ad9810deda1106529766259ab9e140755c8125a7a6f6a37d9fee6f22b49ca3c5d7e70f89db#rd
+分享 | 开源软件治理之企业开源软件痛点分析:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489362&idx=1&sn=a511e9af93217c894998db433dbec5ae&chksm=e9ad983adeda112cf1720647174433e18c40af566358a536924a21f6ecf61544095993a1d259#rd
+实力强劲 再获认可 | 开源网安入选2021网络安全产业链图谱:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489283&idx=1&sn=a3ed5447c47f576c6141c213d8c91dd2&chksm=e9ad986bdeda117dd18dc6498083ed27dd486082295586582b4083f3b92994628caad8d75f49#rd
+再获认可 | 开源网安SCA产品获可信开源治理工具认证:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489198&idx=1&sn=2913b6a71346efcdd69a7028ccd7d3d1&chksm=e9ad99c6deda10d06f67fb61374ba45950925b21d33346704069bbb339e3e600f2f07c079d46#rd
+迁新址，谱新篇 | 我们搬家啦:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247489180&idx=1&sn=a7d1b08153ab4149f22756fb491dfb1c&chksm=e9ad99f4deda10e2712bcd756b5887cf8e42b8643a5ee484964ce96a3b31bce80316495c0987#rd
+2021智能汽车信息安全大会开幕丨开源网安助力智能网联汽车安全生态建设:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488917&idx=1&sn=f2d1a986d9b7c9c4dc8de61c0497db64&chksm=e9ad9afddeda13eb5e013e26b4c38faac434ea2f4ce08650fd27a03f08b2b07c854e4043d1ed#rd
+软件定义汽车丨车联网安全风险如何消减:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488896&idx=1&sn=c4c50f2e849084a1707ac679fcb2e8d5&chksm=e9ad9ae8deda13fe59e63a9fa673b73a16a4f4b86e8fb17ee6d57e71434cab3d523c957a98ff#rd
+从Apiiro获得RSA 2021创新沙盘冠军，看国内软件开发安全市场:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488837&idx=1&sn=f49e1be9ea39b421296c53fae160a0a9&chksm=e9ad9a2ddeda133b77d11962eb36624f202af2d7795bc65d81f6b3bb508d88534694cee7cc7a#rd
+开源网安入选中国信通院首批开源供应商名录:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488786&idx=1&sn=20d93983348bbbd638992079865e7cb5&chksm=e9ad9a7adeda136c45e8683c25c7cd37ebbfab714ad26f98317a0a64e623c63170d6dfeff4c4#rd
+2021信创分类排行榜 | 开源网安入选信息安全企业排行百强:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488766&idx=1&sn=ebd9ca0a3dd0f75071bde8d1bba720cf&chksm=e9ad9b96deda1280ad88d6e5f8b498158defa1c314a0d321a03f1cc655a5efa3445b19b7d178#rd
+DevOps一键升级DevSecOps，开源网安赋能GitLab建安全开源社区:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488746&idx=1&sn=d1b0f2974fe8f9f06b45d2330b406c59&chksm=e9ad9b82deda129491b08df9b264451cbf6eaae64fc0db18d1e84bc533f5bb81eb2771346fd2#rd
+预告｜“开源GitOps信创产业联盟”启动仪式:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488722&idx=1&sn=de983a7c91f9bf0e1e2fc28b7ae5fd1b&chksm=e9ad9bbadeda12ac495dfa46a929cf7c1ed79028560647fc2dccb24e6aa47b19da99e3c162ea#rd
+名列前茅 | 开源网安入选《DevSecOps能力指南》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488709&idx=1&sn=3dcde59eeefe0d6d1a7fa089335d96bf&chksm=e9ad9baddeda12bbd1681782181d7d891033b2c81421cd8d21f50c973743af19049a623686b3#rd
+母 亲 节 快 乐:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488595&idx=1&sn=549149b77a9e583025e20aaeb5e69749&chksm=e9ad9b3bdeda122d6adf88c0387e8e24f83f97bae021df5762f43386936893be54d5c4e4fdd3#rd
+致 敬 劳 动 者:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488586&idx=1&sn=61e7b4ff6c8c22daddc7eccd85c95772&chksm=e9ad9b22deda12343491aa9e528652ccf466a8e3a92216dde494a1f788b55fd98d896940c52b#rd
+开源网安受邀参加车联网网络安全合规研讨会  助力车联网软件安全体系建设:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488579&idx=1&sn=56d9dfa44c2bcf2a08801b80f4a03a44&chksm=e9ad9b2bdeda123d37adf6127e12cf3f8a488a85b9e43dbcb0432e39d3f0ff8c36d28c519417#rd
+开源网安为软件安全铸就“铜墙铁壁”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488566&idx=1&sn=ddd860b9397c79403b270b8b798bd98a&chksm=e9ad9b5ededa12480f89a92240d8064eda1cc78e4eba0e7d2fd76297d57336019cecd495afb2#rd
+开源网安 x 中国工商银行 助力金融业数字化重构扬帆起航:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488555&idx=1&sn=0af38d92e5247f5e68f873060cf35c81&chksm=e9ad9b43deda1255fde439a54a84155b8988c69dedabccfe975ec2b9a33a0abef1f5e65f3075#rd
+招聘 | 开源网安为你提供广阔舞台:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488549&idx=1&sn=144a6932c26fa9049eada3def089504b&chksm=e9ad9b4ddeda125b7e55d8ea962d78546c81fa5cce2022c2430d30622c2e70c42206c9187e5c#rd
+践行社会责任与担当，开源网安获殊荣:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488496&idx=1&sn=f1959626c16a8288a3f002b2dd020ed7&chksm=e9ad9c98deda158e4f94ac1079e38c99ab51a4d1961d91b49af80a7728243d168f7b161c73b1#rd
+从Codecov脚本遭篡改来谈如何保障软件供应链安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488484&idx=1&sn=c53358fefddaa15a564fd44d23ce6b0d&chksm=e9ad9c8cdeda159a7b1324f9fc641236e584fe7153251654dfa7bf736d881907bcc1a0c5142b#rd
+强势入选 | 开源网安入选FreeBuf  《CCSIP 2021中国网络安全产业全景图》（第二版）:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488468&idx=1&sn=ac8894608df6e55ed54abb37ec5bcc32&chksm=e9ad9cbcdeda15aa41832919611c3f10fd8c818a9cdaf70dc8eac4e721d79cfc1db62f87f83d#rd
+开源网安研究院帮助SAP修复高危漏洞,获官方致谢:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488451&idx=1&sn=18986159c51e37d7b711353f6cedff96&chksm=e9ad9cabdeda15bdb2f2941cd53184fb49564864b958f8e348a7ebb8470ff4b9c48d48dc4e0e#rd
+开源网安 x 国内首家互联网民营银行 筑安全堡垒领跑金融服务新生态:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488384&idx=1&sn=b2e7992fa51c9150337501be44fd8678&chksm=e9ad9ce8deda15fefae1e4ae39b1cfb05f73a4c2c7410b176638f5ec590b9aa9425362e22b62#rd
+暮春清明，万物皆安:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488055&idx=1&sn=a00ce51db52a0a38372863a3451c513f&chksm=e9ad9d5fdeda1449d03471a154f503bcf5dd0826a07ebec002f50ed10af28aa0c44eb7eae1b4#rd
+4大板块8项细分领域: 开源网安入选2021安全牛“全景图”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247488039&idx=1&sn=cc5adabb6114b792898916a520610032&chksm=e9ad9d4fdeda145905d2ee83c8eb12d380599529b931518df309a8df866cd6a43fec23db11ea#rd
+建生态 谋发展丨开源网安助力2021中国信创产业安全生态高峰论坛成功举办:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487983&idx=1&sn=548da28afc8663e650606ec50bb734ce&chksm=e9ad9e87deda179158b618672c0d188f0ffb94c5b28805478a96344416bb5eb417484e701db9#rd
+开源网安致力打造权威网安培训品牌  获《长江日报》专栏报道:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487883&idx=1&sn=2974757efbc0db2eb66870374949ee28&chksm=e9ad9ee3deda17f597ed8dcdee77f6db6035905190fe8572bd2faa137856bceeec46ff5131cc#rd
+倒计时2天丨“2021中国信创产业安全生态高峰论坛”线上直播通道开启:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487883&idx=2&sn=a233a1c218d3e0cc9610ae29469b22cf&chksm=e9ad9ee3deda17f53edf5a0c4ada41ca0d19e2b472dc30582b1776f45a1ec3f0a17b68da35e7#rd
+​“网络安全万人培训资助计划”正式启动 开源网安领先入驻国家网安基地:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487838&idx=1&sn=02a63240521835afeed3c4f469c4b3dc&chksm=e9ad9e36deda1720d8270313ec94db77d8736e6ed7c7e821ff8c4f619cc7f1d7e34599ab814e#rd
+邀请函丨2021中国信创产业安全生态高峰论坛震撼来袭:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487758&idx=1&sn=88835bbf42e73ef30d314efa826c5ed6&chksm=e9ad9e66deda17708f1e7bb9cab782a1f2d0603e3ea6e12eafc49cb3053aaa64d04ec82056a4#rd
+开源系统安全：智能交通行业的机遇与风险:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487693&idx=1&sn=5cad3fa30b3be385b90b7bcf4c4223be&chksm=e9ad9fa5deda16b3aece4ec0461288892c5c0a3ce9a18197335b793c67c0e69007561c0aa161#rd
+捍卫中国软件安全，开源网安势在必行:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487670&idx=1&sn=5eafe73c36acc378919dfe7ff0248633&chksm=e9ad9fdededa16c8ac9b85a5ac3bd532a5f9bf500643407e31757f928c7b455c4352305dabe5#rd
+花好明月夜，开源网安祝您元宵节快乐!:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487670&idx=2&sn=9c2a6ebbc76539c6866925616ea1a783&chksm=e9ad9fdededa16c886b7ec87a923f106a1525195254cf249f716e1674566ad6f7bfae2917ef2#rd
+开源网安恭祝各位新年快乐:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487662&idx=1&sn=0f055514be02f568a12919fa5fefce47&chksm=e9ad9fc6deda16d0ce8ccedea2a3172a3a3bbf7cbc19fb8caa3ab4f792215b65945e948188ff#rd
+请查收 | 开源网安春节假期值班通知:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487657&idx=1&sn=d33d056c26b3f849b30e37481d4d3655&chksm=e9ad9fc1deda16d72412225e2c73c221401de5a74bf15ad45e1a6678d0a49162a6071311a4f1#rd
+喜讯，开源网安灰盒安全测试工具再获认可:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487650&idx=1&sn=0a64387088977c050bd7271f54a253df&chksm=e9ad9fcadeda16dc4149754b09df0df667f174ab8274f4eb91731fa8db868e03a3bcc53ac1f6#rd
+人脸识别爆出巨大丑闻谁之过，怎么办？:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487637&idx=1&sn=6b52441a4a496019a4f0678c2bacb11a&chksm=e9ad9ffddeda16eb533c2c2203100ca42f946ba4beb0b6dff14275f2be8972c5247a141aa322#rd
+开源网安2021年1月员工培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487626&idx=1&sn=e9d78c23c0c72013943d04c328f4327f&chksm=e9ad9fe2deda16f43c3f05778503ad7e5857d3b319b4ac9e8c770f149acfade600bab75dd53a#rd
+2021年度“精英百强”参赛指南:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487605&idx=1&sn=c739a8e88538857b792d590bba02c645&chksm=e9ad9f1ddeda160bf5965459bda5fb88e7111ac9176171414c08822d13427534868b4b6b25a0#rd
+开源网安与达梦数据库完成兼容性互认证:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487603&idx=1&sn=93c45ab9ea9172192d75fa8b8e111408&chksm=e9ad9f1bdeda160d6acb20acc4c0481ab136383030b2cd42cf7adf2528d740a30c32adc3144d#rd
+践行工匠精神， 捍卫国产软件安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487575&idx=1&sn=cb1a1c52d23da7d31738132b75c503b9&chksm=e9ad9f3fdeda1629640cdf5bf653e50ccc95830882e2c2c905f33675f101a17eeb081404494c#rd
+桂林电子科技大学-开源网安“软件安全联合实验室”签约仪式成功举行:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487559&idx=1&sn=73cf85ce61bc883128dde3029e312d50&chksm=e9ad9f2fdeda1639adcf855ba6ac6b567bc8b0c57c3123e0da9487873601954f26f903adc3b0#rd
+喜讯 | 开源网安携手统信软件，产品再获认可:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487543&idx=1&sn=8701e7e4b52f10f47e0e7e7d3d088193&chksm=e9ad9f5fdeda16494fc03fd602cab97e07699e6418363b9c21278382188349cf975577eeb9fe#rd
+乘风破浪 聚力前行 | 开源网安2020大事记:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487541&idx=1&sn=386913d5a7711a30102ab34568589fbd&chksm=e9ad9f5ddeda164b2811304b6bc74646efd0968ee25ba47331cadb7a355b901c9c50fcc3d08d#rd
+从软件研发管理角度理解开发安全中的SDL和DevSecOps:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487524&idx=1&sn=33a9d938c707c0299c1ba763e6394a7c&chksm=e9ad9f4cdeda165a53c2b57f44737ba13ba7c0946d60bedf4a585da5959b98947863d4ea664b#rd
+开源网安再添新战绩  获“CIS2020年度创新产品”企业殊荣:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487499&idx=1&sn=a9d6974b10a39208ee433597ee6c4230&chksm=e9ad9f63deda16757d90af7149a11db7ea7faa8cc6566acfb4563db3c2a2d0ff2ec1d84eadc8#rd
+重磅！开源网安荣膺“2020网络安全产业百强”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487483&idx=1&sn=4f875c1933b582bbc1d17928a8dc8469&chksm=e9ad8093deda098563fc37ba02a6c03d2045c70b5f4962aa08dc5cebe8d67ba4f68bb60c0954#rd
+喜讯 | 开源网安加入工业信息安全产业发展联盟:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487388&idx=1&sn=ac730b9b294759df300cbf5f2409bcfc&chksm=e9ad80f4deda09e2ff16155aeed909fc845581a6596185563001966d11fed49562265a343066#rd
+认证连连 | 开源网安携手统信软件，共建安全新生态:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487354&idx=1&sn=5a9da58c209de93af3a7ac0d533d261b&chksm=e9ad8012deda0904f9da2b02d36c3cce2cc54e51c5541cdbce21e4202dc8e1e520a37db19b0c#rd
+聚焦国产化 | 开源网安获得麒麟软件 NeoCertify 认证证书:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487315&idx=1&sn=fd37a1135a88799f02fff1c71b70e594&chksm=e9ad803bdeda092d305c4d84f98a0b89bf9d1f839c7e947d68ca38cece66bf6af3764f123385#rd
+聚焦国产化 | 开源网安获得麒麟软件 NeoCertify 认证证书:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487314&idx=1&sn=cb4cb5bdd05e9b0849da4810c05231b8&chksm=e9ad803adeda092c98e09fe16302d93b03e5277d311241028ccadaf4780e18c237fe393cc5a9#rd
+接连上榜 | 开源网安荣登FreeBuf《CCSIP 2020中国网络安全产业全景图》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487308&idx=1&sn=109b5e3e1173dc3e8c361963975689da&chksm=e9ad8024deda09328c1fa0b2371575c1ef6e664cf6dbfa0590a238ce7b074a98270b52321c81#rd
+开源网安入选数世咨询《2020年度网络安全成熟度阶梯》报告:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487246&idx=1&sn=ed81de7ccbefc5884bcadff17107ddbe&chksm=e9ad8066deda0970abb0a06fd7abe4b977838ee9934dd85373b82db88ecc3d14b53c681e4f1c#rd
+实力上榜 | 开源网安荣登安全牛《2020中国网络安全企业100强》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487219&idx=1&sn=b858021b362e2bd82f8ad14ff86b0301&chksm=e9ad819bdeda088d905d5b47c794e2941c8af0af627d00e92b390d01b0bf7add980c55dae758#rd
+精彩回顾 | 开源网安精彩亮相AFSS-亚太金融安全峰会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487204&idx=1&sn=50ed03bca08a1d97f3f5cc581f67755c&chksm=e9ad818cdeda089add83e05471935c866c08122f4d0ede456b59ae060bdaf2cc3192c8bac3fb#rd
+开源网安助力“首届中国I²S峰会暨工业互联网安全大赛”取得圆满成功:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487204&idx=2&sn=a61e62c1a835aaeafcb807fe06dc94a0&chksm=e9ad818cdeda089aec90c0e1843e7da70225f4fdd19046af6ccc18edfef32bd04cd4336afac2#rd
+网络安全产品漏洞排行榜:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487157&idx=1&sn=d2e6d96729ad62baf649cf03bbef2260&chksm=e9ad81dddeda08cba512c1c0f096a2f06798504d2a0a0576fa6757436a775e39d5d46c1357e8#rd
+《个人信息保护法草案》首现，开源网安灰盒测试助力安全防护:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487132&idx=1&sn=0dc450d65760dd2d9145fa51759a5d46&chksm=e9ad81f4deda08e25e2060083ec52cec63e82b71969ccb1e193343cbe19ec763adc62a27841d#rd
+开源网安将与您相聚AFSS-亚太金融安全峰会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487132&idx=2&sn=256d1e3a3915203d15c2fb042c1d3a7d&chksm=e9ad81f4deda08e29bc93a68690b48cc0965b50ad4a527ae2ce696239a491a29b639f9617cfe#rd
+开源网安招人啦，多个岗位等你来:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487113&idx=1&sn=fa9ca1ec360e4be5a740c117c7c6720b&chksm=e9ad81e1deda08f7556ed969b97b679000258a734f03c67a830b92068eabce27a7572fc8b43c#rd
+开源网安获数千万元A轮融资，聚焦软件安全产业:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487097&idx=1&sn=c9789555aaa7f08bce01d822ad76a83c&chksm=e9ad8111deda08073240e54bb44b1b64ac95429932fb77bb28f80b05f3212b81c993c847d5a6#rd
+开源网安祝您双节快乐！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487083&idx=1&sn=2fc00331181ca43049b58e47b3b0f187&chksm=e9ad8103deda08156343e5d4a831ede01c79fe6a059817ac4414697f29b0432bbd4c60d7ed77#rd
+第五届湖北省“楚慧杯”网络空间安全实践能力竞赛圆满落幕:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487081&idx=1&sn=0a0241bf0c5929a9a354197480d56c8d&chksm=e9ad8101deda08179e7bf4bd01661f9b30e0a07d4631f9759891256e46c086eb468577ff0b25#rd
+开源网安祝您双节快乐！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487075&idx=1&sn=d5b6e930f9fa58d4990b1bfc53b7ceb1&chksm=e9ad810bdeda081defe7cc069dce3c72cd69ac343fe83ed3f548cf834b9143613f7279a71a23#rd
+新趋势，开源组件治理的安全问题不可忽视:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487063&idx=1&sn=aa52a46cbc476ad60c3ff61773538a40&chksm=e9ad813fdeda08299b4a3eb1cbff62073991b8d707f4e3815efa75867b0ba442825d7351a565#rd
+2020年Gartner十大安全项目发布:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487055&idx=1&sn=b4f80b7b9ac003db45de0dc21d9327fa&chksm=e9ad8127deda08319bd533441ae36069b1a02771c453fcd04dad539da3a2f90309fec00b83e7#rd
+开源网安助力2020年“黄鹤杯”网络安全人才与创新峰会取得圆满成功:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487043&idx=1&sn=423ae3d7b8d460f577f1592fbee25bd2&chksm=e9ad812bdeda083d2d1a947fd035ad35e71e6dee06853b4ed2f32331911c9b66c7c782b0d7d8#rd
+第五届湖北省“楚慧杯”网络空间安全实践能力竞赛启动:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247487043&idx=2&sn=3e9988167bb8ad7ce46868f24bfff3ae&chksm=e9ad812bdeda083de7dc9b99ada9b568b90a1ab565271c9f98d8c630a8f9f9bd25d2eee789e6#rd
+燃，安全有你-第七期 | OWASP SAMM 项目解析:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486957&idx=1&sn=9afc319a7dda046a1149627884a27851&chksm=e9ad8285deda0b935f655203f198efeb1cdc876c3daf0b482ff51886bf655cc7cb69548c2e95#rd
+预约 | 贸易战下的安全新形态:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486949&idx=1&sn=bb9564c1e0e7d3ed0429777d26fe289d&chksm=e9ad828ddeda0b9b4ad91b7345e461d7f41b668582b3d588781539cbd409ba85bb568085a958#rd
+软件产业发展获政策扶持  软件安全市场全面爆发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486935&idx=1&sn=8453a3e6fdf203fd338e9a2a24ef5d5a&chksm=e9ad82bfdeda0ba92691f004814a9b1a9246fa541891b371a34f0fbb626c6086d4b2ff9bb106#rd
+实力上榜 | 开源网安入选《2020年中国网络安全市场全景图》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486902&idx=1&sn=a3553d59bf89699a5f31aeefef5aa4aa&chksm=e9ad82dededa0bc8268392d3933e4df1f0a88484fdf5126234c0540e8a1a6d23129b604eb190#rd
+《中国网络安全能力图谱(2020.9)》发布，开源网安入选代码安全领域代表者:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486847&idx=1&sn=099c68aa5c1cef6c6034ef396473382f&chksm=e9ad8217deda0b01aa7e0a657c0e95d84700a8796f4feb1c25dca884e8cbce3666c670e72a6f#rd
+IAST | 开源网安灰盒安全测试平台，支持 CWE TOP 25:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486820&idx=1&sn=24f2984b28af45db7b32b9033a166da6&chksm=e9ad820cdeda0b1ac770dd6f096e240048f51a9540ca1d514046d8ca328bce05ec444dfb1943#rd
+开源网安2020年夏季新员工入职培训圆满成功:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486820&idx=2&sn=33e8ac15b00ceb6e4de2f3660a20fa78&chksm=e9ad820cdeda0b1aac25d62309d2d9c5a487193ac075bc14ff9a4c2c8ef39644b91cb7aa8983#rd
+第六期 | 网络安全-从入门到进阶:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486795&idx=1&sn=209a95411aa45e536cb8aae154529b8b&chksm=e9ad8223deda0b35e723f6d2e67f6df355fc0f989c6266c812f83930899d915ecc168425e3c1#rd
+从RCE漏洞看国产网络安全产品的沦陷，论软件安全的重要性:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486781&idx=1&sn=467db060dd6c5bbd9fc3f25aeb3609ed&chksm=e9ad8255deda0b4364b4761afad71b19fc0d4a3e2592e1666b588fa8040909207d0b69c10a35#rd
+抢占优惠 | 开源网安CISP线上培训班报名开启:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486764&idx=1&sn=c4c4924d20b3c2cdb05fdb1cef646ead&chksm=e9ad8244deda0b527c4e08e7d093b1d83b01550bdf39c21bad650542f67456ea286cfc174bf1#rd
+开源网安BCS2020精彩回顾:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486764&idx=2&sn=ff816bff0ed4adb86a56f43dcd856a05&chksm=e9ad8244deda0b52d6334dc4382d2adba6649c27ddf3dfa20587a125ee88772612734f814b6c#rd
+分享 | 从软件成分分析看软件安全测试:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486721&idx=1&sn=cbd88b24b62f4e359fb36208bd621059&chksm=e9ad8269deda0b7f3797179f5f9901fb127360ed4f8a1be7d237cf3eba8978697af18f2ffec8#rd
+ISC2020预告 | 从软件成分分析的角度看软件安全测试:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486711&idx=1&sn=282660a96c5572cdf21e44e8d9651e13&chksm=e9ad839fdeda0a893d9e92915dc1f51a4e0b3d93b8b31e4fdd0899bf6317b231b814f7eb1359#rd
+透过2020北京网络安全大会来看DevSecOps:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486711&idx=2&sn=5f38b1e7b857586933338f9d9596d267&chksm=e9ad839fdeda0a896c67a5bd0c457125865f06771b6b5cf9ddcbb716e96077e4ac2e5aeb4b54#rd
+软件安全测试：安全左移的痛点与要点:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486697&idx=1&sn=db157b8a967966c9a2e10e83bac0e367&chksm=e9ad8381deda0a97ece52b434f76b4f28451e434e47373c527651704a90f54e4e8d842a1f77e#rd
+第五期 | " 燃,安全有你"系列活动之OWASP 十大隐私风险:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486662&idx=1&sn=ee4e6be8dbdec0811f002dd508baba9a&chksm=e9ad83aededa0ab8f5b7947cfe0f66ed98b412da5c340f6d401fabdb291dc7c2f34516007314#rd
+开源网安荣获CNNVD二级技术支撑单位:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486653&idx=1&sn=d66ca3fe3689c23d0f3fd1a66e1525e7&chksm=e9ad83d5deda0ac3636a3e36fc250d9d6aa2770e3b239e4bf2f5614ef7356966667863d05c64#rd
+开源网安总公司携手深圳市海岸产业集团，共建“湾区金融软件安全实验室”，为大湾区金融软件安全保驾护航:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486589&idx=1&sn=88ef6bb6173bbba3059f4ce9c9a74cc5&chksm=e9ad8315deda0a032792ed2ce4aaccb69771039aefb3d615d3ce6e0753d5cf4cfd1a10c8193d#rd
+掌控开源 | 企业开展软件成分分析工作的思路与实践:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486579&idx=1&sn=effed84d5144acc2cc655652ff6df42b&chksm=e9ad831bdeda0a0d86dc76f48f489a690667ff5ce7717eddeb273c82c2a7d2c63161eceabea3#rd
+第四期 | " 燃,安全有你"系列活动之浅谈OWASP IoT TOP10与物联网安全开发生命周期:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486578&idx=1&sn=881e37925d9741769e6870c3e7edd20c&chksm=e9ad831adeda0a0c1772cdf9d5b7f8b61fa4bee32a7d0d0ef3b8f8244c7bf7b396710ea3ff13#rd
+开源网安核心安全产品获得国家信息安全漏洞库CNNVD兼容性资质证书:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486551&idx=1&sn=d0bd19b0aff00c7e7b11260ce9b7b521&chksm=e9ad833fdeda0a294483cf2efbb29fdaa52840ed08f2d79b001e3fd4852ef9b829ef54de29f8#rd
+第三期 | " 燃,安全有你"系列活动之浅谈Docker与容器安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486540&idx=1&sn=a1197bd5ac7f87c6beee180f258c45e7&chksm=e9ad8324deda0a3223b0b77e7a277b6329f0b75b9b4d0da7a900eeb59a21fb4bd37a8f1ff99b#rd
+开源网安荣登《中国网络安全能力百强》:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486522&idx=1&sn=2997d3ca1e48f7347983cff6ba14c3a9&chksm=e9ad8352deda0a4499a406cd27fd81e737362f70f534e67510a6fbc3a45eb3fdcba6c3e5142b#rd
+透过2020智能汽车信息安全大会来看车联网信息安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486497&idx=1&sn=4b0a63ab6568d256e8a9c5272e1d0928&chksm=e9ad8349deda0a5f8bfc5afd4cf900ac2619018ff7a4f9d4ccbab58c44a6c86ed731018cf2a6#rd
+开源网安携手随行付做好软件开发安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486478&idx=1&sn=292b460824f34137f105afff752fcb3b&chksm=e9ad8366deda0a70ec68202c1db40c3650e29cd98aff856e628b67b9bb9310e5cde615acca70#rd
+第二期 |" 燃,安全有你"系列活动之如何做好勒索软件的防护:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486436&idx=1&sn=af9a51c1603ce649a50ee8c41dd17086&chksm=e9ad848cdeda0d9a611b6f7507ed8fe7cbde90433146966673461737df6c174bb4c87b4bbfc5#rd
+喜讯 | 开源网安中标广西电网招标项目:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486421&idx=1&sn=acaa0f9f02671ce93a26a0942ea4554d&chksm=e9ad84bddeda0dabe1ced2a3c4e6c0ac04b3626d821462ebad5ba2dba04884b45852791ee95f#rd
+如何应对“软件安全”卡脖子问题:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486399&idx=1&sn=2fb9c375245a22640d5d2871c4102175&chksm=e9ad84d7deda0dc1f683860a37f5b35419ca121f054882ce6e7a32e073a01dbf669bc15207d5#rd
+划重点 | 做好软件安全开发不得不说的那些事儿:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486368&idx=1&sn=e5cbc1e21082e590c5d9f5b7e79f550c&chksm=e9ad84c8deda0dde95115c0386e6cb351b7eb82d89b3427521db42f0e528ca94e65fcf8df4de#rd
+开源网安CISP线上培训班报名开启，培训费用优惠25%:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486355&idx=1&sn=76fcf293a0e5f8e77a116360750856ff&chksm=e9ad84fbdeda0ded8ac09836d72cbb5aaf33462757ff666b21ab51bf804652cb2e05cf0b0280#rd
+开源网安荣登《2020网络安全产业链图谱》多项细分领域:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486352&idx=1&sn=5e288e1a5b790f245efb31def0471a73&chksm=e9ad84f8deda0deeedb24a7acbbb496ba98891f7e336d23879ddd4714343aadd6b8930c6b0c5#rd
+专注开发安全，开源网安入围DevSecOps领域代表厂商:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486307&idx=1&sn=f08a699ed6a9b8126483050a659c241e&chksm=e9ad840bdeda0d1d511162e52efb7fc59cec70ef580cc086494a94b65b3ce3f5ed4a767d9400#rd
+开源网安入围2020年度网络安全十大市场热点:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486223&idx=1&sn=d78b88c396a7272da391df31b737b81c&chksm=e9ad8467deda0d71cdf8bd790426e93420f481491305209a1abab491c0d5b5068bb1a7376a68#rd
+喜讯 | 热烈祝贺开源网安荣获ISO27001认证，信息安全管理已达国际水平:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486172&idx=1&sn=99f827169e685d3e7842a416f3fc4d7c&chksm=e9ad85b4deda0ca2cb350f7b03a450c8e530a603c3f39c3f822d34f5d6fa28c76427954e771c#rd
+走进网安基地办公室 | 加快推进网络安全人才培养:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486167&idx=1&sn=1bb221716270aa21656ef8d1bdd01df7&chksm=e9ad85bfdeda0ca956ca1ee6069396dd484a9598d09f9fab4d452a2741c3ef0aae878d4a7b72#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486162&idx=1&sn=5c41b22bfdc3f0b73ed64c707af14839&chksm=e9ad85badeda0cac257c0d68708324f2ed07aa49b238540a4af64349fb58ba43e4f226d04749#rd
+热烈祝贺开源网安成功中标国网电子商务有限公司（国网金融科技集团）2020年第一批服务类竞争性谈判采购项目:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486153&idx=1&sn=ad656971b4e98b6e44e5ecf475b579a7&chksm=e9ad85a1deda0cb73f65c0128f1095de76459a20ee2fa3de9ad4393d2d508dca0927f72faa04#rd
+我们在招人 | 虚位以待，“职”差一个你:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486149&idx=1&sn=930dcf828393e5f022f4650640300ac7&chksm=e9ad85addeda0cbbae8aac02ae5794b8bfd86cfc85289b0e94929e333147da117e03c65fcd20#rd
+DevSecOps | RSA 2020 10大网络安全趋势之一:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486139&idx=1&sn=121088379d8677c4993d71fd23c3e4c6&chksm=e9ad85d3deda0cc5c2620a839773bc3294e386e465bed5492f26f45f02219468fda2de312650#rd
+有序复工，携手战“疫”:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486132&idx=1&sn=70dab257922f056ec04edf62900eb8c3&chksm=e9ad85dcdeda0ccac14a04536f7db50bf2245b146b17d0e55e40b17434ac8f79b892d8678cd4#rd
+来人啊！开源网安招人了！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486127&idx=1&sn=ad48a411f40aaec0a350706dea442a36&chksm=e9ad85c7deda0cd1e92ce622b87dd7c045d06a0c5a8dd7970eaaf02ac2db07296a82ba4193d6#rd
+抗击疫情学习不停，CISP线上培训全面开启:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486117&idx=1&sn=e92200175d2ef3ac4b13d77a45d2772e&chksm=e9ad85cddeda0cdbfe60a9482120f143f9b82a201bda3c0111d75796c89135cc898fc7ac20d1#rd
+疫情危急，我们携手共克难关:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486109&idx=1&sn=210d3b36fab0a90bb6e2a35140771fa9&chksm=e9ad85f5deda0ce3426d8d3d9e84f7ac7ba88877a65c392b495dcc903f3c88fcf3895dce06b1#rd
+开源网安恭祝各位新年快乐（含放假通知）:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486097&idx=1&sn=b7f646c3a9e64ccbd4fd9d7b1a1457fa&chksm=e9ad85f9deda0cef620df9e2e4dfff00a03b36a37cf5f9c6ff137d5a5be7332fffd9c5ee9b85#rd
+开源网安招人招人招人！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486090&idx=1&sn=4d39912d2ed7f05578b5bed5dfc4c443&chksm=e9ad85e2deda0cf4e9c794f086bcf0e71a5a6a11c783b5309d316113902f0d7d859ed4abc3a0#rd
+发布 | 从软件安全开发生命周期实践的角度保障软件供应链安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486077&idx=1&sn=e242c949c02eaa35aab62db3ba7ecdf6&chksm=e9ad8515deda0c0336ac2aedcddcf0e9db333306589a12996a3e71074380c6ad81b293e6430b#rd
+中国网络安全能力图谱发布，开源网安占据开发安全领域:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486063&idx=1&sn=7bac36d901900571962cf04f3206e65f&chksm=e9ad8507deda0c1138cd970e46a1e5ae37ae81eed25d920d4732b0ae597cc499a58811dc60b2#rd
+喜讯 | 热烈祝贺开源网安荣获ISO20000认证:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486053&idx=1&sn=ea4a25a9ac40afaa10f0c22a238c2204&chksm=e9ad850ddeda0c1ba6513455ad7b463be40a10bcfceaa234f873667747f3b199dc8c8c4fbc1b#rd
+开源网安 Source Check荣获2019年度深圳市软件行业“创新产品”称号:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486048&idx=1&sn=5c840672291084438458da82ce69b963&chksm=e9ad8508deda0c1e518e4bbb4efd7a27ab94a698b95d1ea4c159c336ebedf8430f3bd618eb38#rd
+热烈祝贺开源网安成功中标国网信息通信产业集团2020年度服务外包框架采购项目:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486040&idx=1&sn=6ebfe5aff899aedff9ac33ebb872a4ea&chksm=e9ad8530deda0c2667cc9297344cf1928b09b922a3d09f0677224ed4a5ed844f1fd836f72d55#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486036&idx=1&sn=c4220570cdb260c85e1e379684696d55&chksm=e9ad853cdeda0c2a60535c5ad8a941d540e424f8733317c267bc0bed6e083b6eda4ef8972c94#rd
+人才培养 | 一月武汉CISP培训如期而至:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486031&idx=1&sn=63261cc3e3ce2cebc4af9579b03fdb85&chksm=e9ad8527deda0c3164b93db0474219e4daaaa3600a40b67bbcb141095bd6e90f73258a31f272#rd
+中标喜讯 | SecZone开源网安中标国家电网安全服务项目:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486025&idx=1&sn=1fb45be6ce02210a266f6c7d2b504509&chksm=e9ad8521deda0c3783b4c6088819c3af07bdad776da7e168886812b3b5a21c338d637fc8b230#rd
+喜讯 | 热烈祝贺开源网安荣获ISO9001认证:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486019&idx=1&sn=ed933a6d360697be22aac538af3199ef&chksm=e9ad852bdeda0c3d5aa30cb76851bb437cbb873df1a2476705566b34cbbb12267660adc519d2#rd
+清远CWASP CSSD认证考试圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486012&idx=1&sn=2a8105d1112d16199d32cdd2e1b662cf&chksm=e9ad8554deda0c4211bec6fc3e32309ae98decfff8b8ea9c2753e87f558c3d3e9b08f270eb3a#rd
+开源网安携VulHunter亮相第十四届深圳新兴技术创新交流会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247486001&idx=1&sn=8ea35106cb732132241f2036965572fb&chksm=e9ad8559deda0c4f3a3d8dfaf0f4259efc52e0ed518eb9ca235875d7b5f8e23aa6558d9c1dd5#rd
+开源网安 | 2019年华润集团CWASP CSSP12月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485994&idx=1&sn=0fb0f3559004afe7e0e8459da81c7a83&chksm=e9ad8542deda0c54fd13be1a9ac18057f9b26fc6c7c208fde3223e2d0849b44ebe818afaad51#rd
+开源网安 | 2019年 CWASP CSSD攀枝花12月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485984&idx=1&sn=4b2aff38040082660e0a0f3281c8e128&chksm=e9ad8548deda0c5e46e3fa8f7fa2fb3c1d6d55ff78780d28ae8fc3a55362573f6273846776f1#rd
+南宁CWASP CSSD认证考试圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485977&idx=1&sn=53f289f938d7a568fadd6e0f3d618ac7&chksm=e9ad8571deda0c6746e306b5f2ca0ee58574f7d521a712eb895ff233eec584e5afc640d8e763#rd
+开源网安 | 2019年 CWASP CSSD清远11月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485966&idx=1&sn=573b5a629924734eb708a23dfaf78544&chksm=e9ad8566deda0c70e669ffb9ee7a272f24ae7f250c126ee067ba9d692e46e3fb108f5928d222#rd
+开源网安 | 2019年 CWASP CSSD南宁11月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485959&idx=1&sn=49ca40f10166d69ee8c269d81788462e&chksm=e9ad856fdeda0c79d290179a517256c374ecb62da9a248c099ca97d043d381440f8da4712386#rd
+开源网安 | 2019年CISP合肥11月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485944&idx=1&sn=d5e829bca5cbe7892d57ab1e4ea80414&chksm=e9ad8690deda0f8625f6bc58c09dfbe2fd76405826ac4895b34f92e1f3dae323f432e37c82e4#rd
+快戳！SecZone开源网安合肥分公司招聘JAVA开发工程师啦:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485944&idx=2&sn=4c67672574df2802b399fa9e77a4d66d&chksm=e9ad8690deda0f860c4ece2c822e74b7b344b466237cdddc1b3d60df7c90828542e48e466ef5#rd
+SecZone开源网安精彩亮相第二十一届中国高交会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485929&idx=1&sn=2e03c1ffe76ca3beaea92357c01754f2&chksm=e9ad8681deda0f9785a0cfeeee1ebb20435c7a54752b7679a0bb8831c8865a81153223680745#rd
+快戳！SecZone开源网安招聘渗透测试工程师啦:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485929&idx=2&sn=40dbda3f0d57b5bebc4aaef0641c6d70&chksm=e9ad8681deda0f97cba0d38ed41b3d12b124d00117c2959a9fe6c618c74cc3415c22002eccc8#rd
+SecZone亮相第二十八届中国国际信息通信展览会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485914&idx=1&sn=8e031fff565ea7cb9be2dbf76e3792b8&chksm=e9ad86b2deda0fa46d08f2cc85a6d1e29490344b26ac9f47118b60c3dccfc480395592a8b657#rd
+开源网安携手国家电网做好武汉军运会网络安全保障工作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485908&idx=1&sn=1cf54dc9de7f1b4a6d251408563a748c&chksm=e9ad86bcdeda0faa6f6f78bb88a35605f2428acffc79f5c5d778cee1f2aa482ed46e14a837d6#rd
+开源网安 | 海南安全开发专项培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485900&idx=1&sn=190c1d7de9f646250354da93d826857e&chksm=e9ad86a4deda0fb222365ffc00e21323cb84ccc0c0b6dbd909a75f3115fea3b0d68037356aa1#rd
+2019年度“精英百强”选拔现已开启:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485900&idx=2&sn=76324bf2ca8ca3445b6d5ca287434b13&chksm=e9ad86a4deda0fb2d3dbc43c0ad4b82ba19bd98d43a36dfecfa2df3b065e98a7084494d4477d#rd
+人才培养 | CISP深圳培训与您不见不散:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485888&idx=1&sn=f23f8bf148f59de08e9dec0a9a4ad153&chksm=e9ad86a8deda0fbe4e8dd0a7eaa83ed68885c523ee1a9f89d97558985d52ef7ef625f2d56714#rd
+人才培养 | 十一月武汉CISP培训如期而至:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485883&idx=1&sn=ee5a3238bd4b7426ae1a6085bcb3975b&chksm=e9ad86d3deda0fc54731cd9ce81f2af05b5966a2b11ca61612c651459ae1e84a7e292a3715fc#rd
+开源网安 | 2019年CISP深圳10月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485876&idx=1&sn=6527290ee95ef351d025b4568a1dbb0f&chksm=e9ad86dcdeda0fca85d488d9b4356fad0b94febaa08ca97848489a684cc41b2ead23fefe9514#rd
+祖国，生日快乐！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485868&idx=1&sn=0c41bb15f647cfcfd0780308af945070&chksm=e9ad86c4deda0fd2dbb8e751338a8845c32b10c4eca6ec8bee189bc2532845c99b74552b387a#rd
+人才培养 | 10月武汉CISP认证培训开启报名:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485866&idx=1&sn=abbbf247c498ab5cac5d62679b38e045&chksm=e9ad86c2deda0fd4bced3cd8fe818a90f96c4017fdd3db3eb672d3bef02efd593321f1791373#rd
+人才培养 | 10月深圳CISP认证培训开启报名:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485861&idx=1&sn=8a673cf25e861730e5219cca62d2fc4b&chksm=e9ad86cddeda0fdbb74e69bc176e1b9ff4932b00c4cf8780eeab522523fe456f39c765884874#rd
+开源网安 | 2019年CISP武汉9月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485857&idx=1&sn=b883417e9296158b9b453861b9103735&chksm=e9ad86c9deda0fdf8ef8274bf7b91c69e39bcd494ad70997c491f37499a5f6f44fb77501a252#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485848&idx=1&sn=532e444b3876d0b3645061c4f93d42f4&chksm=e9ad86f0deda0fe60aa3cde4b5c3de26fa40beb2b52b03549d78492b3290bc09432ef8ee45b4#rd
+合作 | 开源网安携手百度共建车联网安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485845&idx=1&sn=b77140bf5f97e6f2e4eac7db7afae328&chksm=e9ad86fddeda0feb90605ce70a57d386205b98c29341bad4e9a9e9c4a8a33179e58dd7c96167#rd
+VulHunter携手亿联银行共筑软件安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485838&idx=1&sn=32d7ede47db79573b5bae2bbf30274a8&chksm=e9ad86e6deda0ff00b8ffd269fcf70fbd30a439d13e4801166b8dc1f43a27f9d3a2a02443794#rd
+合作 | SecZone开源网安助力碧桂园集团做好软件安全开发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485832&idx=1&sn=4250fd56a7044edbe22ea04a132f31af&chksm=e9ad86e0deda0ff6229f0effc77d8b584bbc29ff5099f5c8ab71117674d1589a72652ab19fbe#rd
+开源网安 | 2019年CSSD山西8月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485832&idx=2&sn=d0367b215892d96c3271c43f74b1c1e4&chksm=e9ad86e0deda0ff6ac0c7dadaf43e31bd8c1097fdca6a78863ab113e582478d954d994c0a24a#rd
+开源网安 | 2019年9月CISP深圳平安科技培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485821&idx=1&sn=262c4fd67d27c60fbdb5cbb2ed031b6b&chksm=e9ad8615deda0f0353bf194b8276bdfc81dd4f7b077aa1b56302949c4bc0b0d5eddce141c57b#rd
+SecZone开源网安中标国信证券，助力证券行业内生安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485813&idx=1&sn=28fc44eb65d3e5639339e758128d73ab&chksm=e9ad861ddeda0f0b5473166dc2c5be100f8b07fb217d5b4190234565f30ade2f379e0b4a8769#rd
+开源网安中标国家电网研发安全项目，全面助力能源行业做好软件安全开发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485805&idx=1&sn=b4bac0b880665b051d0a8d61bf15e665&chksm=e9ad8605deda0f13a345df480661ac6a143d921294c80b1d6ad8859889834362f3873713e771#rd
+喜报 | SecZone开源网安入围国家电网项目采购名单:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485798&idx=1&sn=eae9ee8c32bd773bad22fb82f91803db&chksm=e9ad860ededa0f188c4a1bd079b76c67e09e76319a50d2ec5c64bde88d4efddfb60a465059ee#rd
+人才培养 | 9月武汉CISP认证培训班开启报名:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485792&idx=1&sn=54a4846f7ecc9d94310eccb04dccc688&chksm=e9ad8608deda0f1e4b575595c47b27c5e9226c23d4ededaeb5cec074676f81b7ed8d0fd8d872#rd
+SecZone开源网安BCS2019三天精彩回顾:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485787&idx=1&sn=447cbd32c837f8a5179d93ac3617081b&chksm=e9ad8633deda0f250744f6d15129dcb8d2c77752630345f6c5805ff90dfa70e2bdc79eaf8181#rd
+SecZone开源网安携S-SDLC及自动化软件安全检测工具亮相第十七届国际软洽会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485786&idx=1&sn=3526d4caadc043266b3ac751e23fe3bf&chksm=e9ad8632deda0f24d0a8f2d5aebdd93f6a1ca002d80e1c4034918293d7786aaf418f9d800547#rd
+SecZone开源网安亮相2019 BCS，助力内生安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485764&idx=1&sn=4e02cca7da6e338cfbbd11aa954dc892&chksm=e9ad862cdeda0f3a008422e3f36b14c42c8c1c6ef9a5b19cea22ea588bbf74489ec3aa0ec8f3#rd
+开源网安 | 2019年CISP武汉8月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485751&idx=1&sn=696e08951a6eea2818d430f2296bcb0d&chksm=e9ad865fdeda0f49975888045aa0e72578daf505d96108dea21192d413296b89251000b21a9e#rd
+SecZone将亮相第十七届中国国际软件合作洽谈会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485739&idx=1&sn=93b4ec68680c0f27f7f12184963c97ff&chksm=e9ad8643deda0f55c85665839ed78b848ca5cfdabd545744a76c9128f5a7aaf4375f6437dd6c#rd
+SecZone开源网安诚邀您相聚2019北京网络安全大会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485729&idx=1&sn=015157f7cc9a617202168767e4bb16c8&chksm=e9ad8649deda0f5f46d5384c012226859748f8a87277cb7107c21a8bc08c0c02e6a28e603624#rd
+开源网安 | 虚拟网络安全学院首期师资提升培训班圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485713&idx=1&sn=cffb705f75637cffb48788fbd7bd278e&chksm=e9ad8679deda0f6f6ec079ddd702bf448149b3fcf0e8f0ca329a73326e84a54faf19966005c4#rd
+SecZone开源网安在2019行业信息化技术创新峰会上连获两项大奖:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485707&idx=1&sn=d2a378fedbffc9b7fdb6ff4c4b1bb8f0&chksm=e9ad8663deda0f755ed5c26b6bab468d278e8b6c4aed1807fa9acfc2be8bcfd9ded9114fb955#rd
+人才培养 | 8月武汉CISP认证培训班开启报名:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485691&idx=1&sn=6b33fdb43389ac4b48b5a764ce029df7&chksm=e9ad8793deda0e85bb2c76af97435561fa8acd656f8cf830e8e5537c7b26bf462bc8044d8c35#rd
+SecZone开源网安与武汉临空港经开区正式签署“全国研发中心及软件安全基地项目”协议:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485685&idx=1&sn=c6708021c5042905c839190bd17e2bd2&chksm=e9ad879ddeda0e8b5ec8cc43aea2485a27755633182979425b3c3ff040585737d33b33e78fa7#rd
+SecZone开源网安参加第二届全国信息安全企业家高峰论坛:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485669&idx=1&sn=ba31bd7666d29ca6bb1f28a5d9c4478b&chksm=e9ad878ddeda0e9ba8e32821aafb0ea28bccc830723745a5caee4fefd21b5f1d52fd0d6a59c5#rd
+人才培养 | 7月武汉CISP认证培训班开启报名:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485664&idx=1&sn=8df78841e54e4250e35d46dbd09c8593&chksm=e9ad8788deda0e9e74cef4e85291888fb973760109c7615e0266b6d936c7038377891d12eb37#rd
+开源网安获数千万战略融资，持续发力软件安全领域业务:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485658&idx=1&sn=c50b190e913263b620dc60842a5be6c9&chksm=e9ad87b2deda0ea460c6ee41a7cc6a97393fac7db8b260e8d0fe658cfcfbbc5ac4bf67b38818#rd
+SecZone开源网安进入新阶段，加速在软件安全领域产业生态圈发展:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485658&idx=2&sn=4e7459b140e863e9cce0630f54771928&chksm=e9ad87b2deda0ea41e3261e0018b85ac23f124d55a4c6397a0a25fa71d95a4962207b322c3eb#rd
+中央网信办国家互联网应急中心实验室领导莅临开源网安调研考察:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485632&idx=1&sn=9446af12c236a6c4093948bd30c84cab&chksm=e9ad87a8deda0ebea56131bf4ba754c5581c2d65a2bf573ac88b260788635fd410f1adcf3c4c#rd
+人才培养 | 注册软件安全开发人员（CWASP CSSD）IBM内训班圆满举办:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485627&idx=1&sn=f6e89df06b3428e904f3727d7d06e8db&chksm=e9ad87d3deda0ec5004bf7b37e835160be74eac36429add85879bf1e8931550a58d9ae8d2ef5#rd
+开源网安院士专家工作站正式启动维护国家网络安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485620&idx=1&sn=eb6ed53c8404472b9bf274254728f8ad&chksm=e9ad87dcdeda0ecaa147c4747c6e9c207575cd904dee41868c8e17a0000e7ea67b0a84aa9b52#rd
+深度解析 | 虚拟网络安全学院:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485614&idx=1&sn=3e5918f62c8282cfb547d56ad73070c4&chksm=e9ad87c6deda0ed0271a0e41152971aa241b311c33e43ac08412ad7104061c5c5e3d893e46c8#rd
+聚焦 | 国家网络安全人才与创新基地，助力国内软件安全行业发展:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485606&idx=1&sn=84d24504807308756d7edf19398e5acd&chksm=e9ad87cededa0ed8b211dadb7da4de49f51610080ef1295a18ccd3fdb799c89ff5fa66cbf29b#rd
+干货分享3 | “聚力*引领”ISCAS 2019软件安全学术论坛议题演讲:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485606&idx=2&sn=1553ba15a5252c5be9a73a55f4d46ffa&chksm=e9ad87cededa0ed863c4b819ea3b434635df9a55090c0ede78617dbfcd622a84afc6924542cb#rd
+干货分享4 | “聚力*引领”ISCAS 2019软件安全学术论坛议题演讲:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485606&idx=3&sn=5e370131e96548e4703cc248660db989&chksm=e9ad87cededa0ed8f472000c51a7ad2ed92182487616230283273a224e898a60098d3cec2fc2#rd
+机遇、潜力与未来 | SecZone开源网安亮相第六届中俄博览会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485550&idx=1&sn=fae2ce0e6f8ca4fd3f633fd64b02a22e&chksm=e9ad8706deda0e10076b975638d7daa510abca2b5d7dd2049ecbe57dc2e57284608dac41e59a#rd
+干货分享1 | “聚力*引领”ISCAS 2019软件安全学术论坛议题演讲:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485550&idx=2&sn=0b02c9775ccc7de1ddc6e28d7bcaef30&chksm=e9ad8706deda0e10bf24c4e328b06ff00913cfa85173308df42bfd3e9f9d4b51f491f56b3121#rd
+干货分享2 | “聚力*引领”ISCAS 2019软件安全学术论坛议题演讲:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485550&idx=3&sn=01dd234a5de1827da66d22435074825c&chksm=e9ad8706deda0e104b1ad73329e6fbbf9591ace6eaed3c38f2e53ad06622aba31d2a0d6f24a8#rd
+保障金融软件安全 | 强强联合，携手打造金融软件安全实验室:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485453&idx=1&sn=c22c387603a64d207f7af5550a8672d2&chksm=e9ad8765deda0e738b6f7363b1748b833a27c9c02d98ee153fbad0ec9f88c7d44a0060afa7ac#rd
+ISCAS 2019 软件安全学术论坛在武汉成功举办:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485447&idx=1&sn=d18eba8e6406b177eaa0c0b1f18eac13&chksm=e9ad876fdeda0e791986187afd96c46a54d7da9edb27524738089a94774322048bf79cf48242#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485420&idx=1&sn=7cfd605e2113d4119bbe1d352bc3ae24&chksm=e9ad8884deda01926975ddd9ae1b39c67254b2bf99729dd5855567571791996c0f52b7df047b#rd
+ISCAS 2019 软件安全学术论坛即将举办 大咖云集武汉共议软件安全发展:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485417&idx=1&sn=5cc98eb22b719d3de4571cf775586c39&chksm=e9ad8881deda01973e65f0328c0d0a2f62eeba30c598263966c99bb26b83ea4bc7d2667a2cdd#rd
+合作 | SecZone开源网安携手山东维平开展培训合作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485411&idx=1&sn=0083ff65a252187c1b3dbdaf9450a4b4&chksm=e9ad888bdeda019d43b2e284263279d4e9389607daf3dbc6902f07ee29032d80bbd50bf771c3#rd
+SecZone VulHunter亮相第十三届深圳新兴技术创新交流会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485405&idx=1&sn=fb14c69bbd4c2e122555498a19468f8d&chksm=e9ad88b5deda01a32ba956bfd173a78bf42ae5149ddefe9854dd2fe41241fbcd1c6ba533d8a5#rd
+合作 | 开源网安携手联软科技做好软件安全开发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485393&idx=1&sn=e027ab9487687da2181590cc26782bcf&chksm=e9ad88b9deda01af7953629be69785d498744603ff3ef379b5dc0b4ec7722351fad0c9f9efe3#rd
+人才培养 | 2019年CISP武汉6月培训新增开班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485378&idx=1&sn=274f226021e03031dc3b757220a6a4b4&chksm=e9ad88aadeda01bcb979f018a6d1b134055edf3b639160b71631dc57c83d24b36b5d0ec7492c#rd
+开源网安 | 2019年6月培训开班计划:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485373&idx=1&sn=9d8df2c18bc7cdafbe7e36d2a5502628&chksm=e9ad88d5deda01c3d1c301efef3384a357efa036b3a422308d882bed7c42ad3a0ac79100610c#rd
+人才培养 | 2019年CISP武汉5月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485357&idx=1&sn=58f94c3c29669b29d332b6169cfc4344&chksm=e9ad88c5deda01d3ff8d39722b2e7deaeb2eee715a4d367f52a56df9794d5c2ba274cf32cb2a#rd
+致敬公司成立6周年 开源网安亮相成都国际智&安科博会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485347&idx=1&sn=081e893a17d4da6463bfefec3fb5045d&chksm=e9ad88cbdeda01ddb3dce699eedc9250406b2f7759055829e18dfc78780abcd993667de6bfe8#rd
+人才培养 | 2019年CISP武汉5月培训顺利开班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485337&idx=1&sn=0e7835d5b747b244560de2661d849511&chksm=e9ad88f1deda01e7a09a82513268b2c1f0e02bbf1f4a14ed085b3668f3f03db024b529812076#rd
+开班预告 | CISP认证培训武汉本周开班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485331&idx=1&sn=55678c7425c27736a50bdca018a53df5&chksm=e9ad88fbdeda01edbb96f23e0d2178145929ff96e07541b42250c8285c3a11fd36145515686e#rd
+开源网安即将亮相2019中国成都国际智&安科博会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485325&idx=1&sn=f44b2a54ec74ef4ff32a17c1343bb9ad&chksm=e9ad88e5deda01f34394dbcf9f003260f5fdb07318265e4d6a6cc7b647d80088c85dd29243b8#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485314&idx=1&sn=f73c959285ea079d57e81b1e79b27f9b&chksm=e9ad88eadeda01fc9add376344fec91130bcdf1af70fc420b83d6021aaae791535b16bd36c0d#rd
+开源网安参加全国信息安全标准化技术委员会2019年第一次全体会议:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485312&idx=1&sn=30abe2109bbd2cb6b7fbaaa93be2bad9&chksm=e9ad88e8deda01fe8d2c4ff8f8ca5e6e59c23bfd81b4e755669116f03f82e067e8760ed7f803#rd
+合作 | SecZone开源网安与华康科技正式建立培训合作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485312&idx=2&sn=850bcc8fabb537053a67699505b1fef0&chksm=e9ad88e8deda01feef91aac4dbfd5614c908bd7314e9e3d8fe76690db27a41048f44f96734d1#rd
+武汉 | CISP认证培训5月开班招生简章:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485296&idx=1&sn=cf8cdfc13061916004afb4e15cdb9aec&chksm=e9ad8818deda010ee51616e5fc110be1e61c4c1f66dddd929925d841dfd94cf47c0efe42bf8b#rd
+开源网安携软件安全开发解决方案亮相香港2019年春季电子展:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485282&idx=1&sn=eceeaa153081cc9cc9a939abe891ee78&chksm=e9ad880adeda011ccf244c57291fc2d805e7c2d962ca759507920660e21b44378f034c0c19b1#rd
+四川省经信厅领导一行莅临开源网安考察调研:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485267&idx=1&sn=e6f72d2ccbbcf22397bacf89478b80a2&chksm=e9ad883bdeda012dbb48e1d4bfd8d860dd11cdd903dded775e5a859170c5d498cb447dcbd49b#rd
+开源网安 | 2019年CISP海口4月培训圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485259&idx=1&sn=d49094a4cddb010117400609e82ee698&chksm=e9ad8823deda0135c365994f4908f2b0ae4d76138536dd9878470541b7603f41ef7b3634928d#rd
+开源网安 | CWASP CSSD线上课程即将上线，敬请期待~:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485251&idx=1&sn=b3a1e3fa28e2691d95d335be67e07ce7&chksm=e9ad882bdeda013d48917ba7a45e9d8c2340e2c85ecf76a54c165bd65b892baef9b6d5a268e4#rd
+有你的名字吗 | 2018年11月考试成绩查询:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485251&idx=2&sn=043407560535d5da6eb531eb53f5fc88&chksm=e9ad882bdeda013d3066df3a5afaacf063fa0d27be83f13f0dc7cb853ae13e13306ac003747d#rd
+开源网安 | 2019培训开班计划，春风十里不如开班有你~:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485234&idx=1&sn=99a6b3397b6e562d94ff79478af75f72&chksm=e9ad885adeda014cd983d73688829da2ddeb9b4c591077f6359bba6b8cf86e187ea91db09a24#rd
+湖北：双高聚焦网络安全人才培养与产业发展 全力推进国家网络安全人才与创新基地建设:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485220&idx=1&sn=68ff0e94578eca10112007a9497c8142&chksm=e9ad884cdeda015a8ae1af7e4c0f4ca5556b363d7803f637400d23aaa27c3941cd892bc68ffc#rd
+CWASP CSSP 认证培训4月班开始招生啦:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485215&idx=1&sn=627b24fa16ee181f91f05e134f993639&chksm=e9ad8877deda0161cb07477d201677958d751bf81e3bf80702e827377345dc1efa8f0d86ea42#rd
+CWASP CSSD山西第一期认证考试圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485215&idx=2&sn=5b365202119a4de9dc3836e4632ab20b&chksm=e9ad8877deda0161248220aad402b64fbb8e70b588b5a2a4f87f029a044667b7ef3651e1e483#rd
+武汉 | CISP认证培训4月开班招生简章:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485205&idx=1&sn=5ac63addc24e1c4bccf44bad8fc546e3&chksm=e9ad887ddeda016bd1de56a6842f68d573965dc35816a1e0749aa5b03b3a63be2adae92459b9#rd
+广西壮族自治区党委网信办考察团等莅临开源网安考察:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485205&idx=2&sn=8e31053fde88cf32ff11de461f0ba441&chksm=e9ad887ddeda016b86f6f5b585b10fa2d36a361df8a78af7b7477672103bd1fa720f79163d57#rd
+防范软件供应链安全风险，是国家网络安全保障的重要条件:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485203&idx=1&sn=1ec72d87003d01fd2a5f249f8f1dc1aa&chksm=e9ad887bdeda016defa4beb4a867673b7f5e930e420631bb58ebe06a812552eb4b12b0b607df#rd
+培训报名 | 深圳 武汉 合肥 4月CWASP CSSD陆续开班啦:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485197&idx=1&sn=6fd061ad93396e3a428fd9b9e00e8a99&chksm=e9ad8865deda0173f0766e386ed1450f6ea40b4f9a18dd2f7f438775bd9937476fd1098e7631#rd
+热烈祝贺我司获得“高新技术企业”荣誉资质:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485188&idx=1&sn=1d371ff5c414c7a7bb8f0f8586cd051e&chksm=e9ad886cdeda017a9a1ab83eb87c07b8003c6241d29b7125883393aab7d6a7a52fe87dce18b8#rd
+安全培训 | 武汉CWASP CSSD认证考试圆满结束:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485159&idx=1&sn=46f005bbf0c401a0d05dae3efb53f267&chksm=e9ad898fdeda00993fd303bc882233919ad811b5ef2d956fa19d221128b5dc5649f91b6ed2fc#rd
+开源网安 | 王颉博士谈如何“从右到左”保障软件安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485153&idx=1&sn=63f47ab4b112939a7bbe2475bb6f20d6&chksm=e9ad8989deda009fa0ddd3f273495ba552eff4514ebe6211388273fa8484618ddb697d14dd0a#rd
+合作 | SecZone开源网安与益安在线正式建立项目合作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485143&idx=1&sn=fd477791bca69446e84649ebba820580&chksm=e9ad89bfdeda00a970a0a2f4b822d8e00599edfb9b865feef5d111b338ca64e18af2fb027dbc#rd
+开班计划 | 开源网安网络安全职场C位出道指南:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485128&idx=1&sn=1788ab787323c7b171e152b1cb33838f&chksm=e9ad89a0deda00b6b6a9929db1ac1ca1dcdbd9b7fedd2b47e30517e978b65f41b42a97528a19#rd
+喜讯 | 开源网安科协成立大会顺利召开:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485118&idx=1&sn=244363a6624b6a40b186e471ece44121&chksm=e9ad89d6deda00c023fb38343fb67031df6431ef9950d9e4a3f6894f80764663cd401def49d4#rd
+合作 | SecZone开源网安与山西开源聚合正式建立项目合作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485118&idx=2&sn=729eb9cfe61c14cbec8a752f7f381607&chksm=e9ad89d6deda00c0b7dce9b09da05fda554c49982ebb2c36bee219037234a58103642d86df5b#rd
+我们招人啦 | 未来已来，你来不来:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485105&idx=1&sn=509acc5271c1a8bcc2e045ca04a68f0c&chksm=e9ad89d9deda00cfe773dd0938df4507a5ac9cd842659b8ade9340bd1e5cec5a10790e68632e#rd
+成都招聘啦 | 就等你来:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485097&idx=1&sn=980c6a2f3183d4e05aad37042cd3f6f5&chksm=e9ad89c1deda00d78ab4743445ea7c31f35bdf929db2f5b76e1a3ebc1b3ab024adf9bda68d07#rd
+SecZone开源网安与海南神州希望建立战略合作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485093&idx=1&sn=0fa2a9cc463aa1cdb8843fd867b32f7f&chksm=e9ad89cddeda00db983ee4d64b1c6887290b93e259a158f0d30577ff67c73673e68fbebe2259#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485087&idx=1&sn=363cf9165fda8b1906f53f1a4e20c8a8&chksm=e9ad89f7deda00e1ef8935c8e28d8277db56bea9d7c0db0a9799321e3789c8da73c435e3a0be#rd
+SecZone开源网安与中科院软件研究所建立战略合作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485082&idx=1&sn=5cca31fde4e94a1326d9910165d5b051&chksm=e9ad89f2deda00e448622e8786ac16bc5f597bed80b63739f7da8d13dadfdf78198e6ace31e6#rd
+开源网安 | 2019年首场CWASP CSSD认证培训班在太原圆满举办:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485077&idx=1&sn=ad7c635a30fb2a8d05a632eff1136373&chksm=e9ad89fddeda00eb210d1c0ada86abd23d98a8cb62f9f9685041e9a26e8a66dc292aca889fcc#rd
+招聘速递 | 北京、深圳、合肥、成都地区等你来:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485072&idx=1&sn=3041fea12aa0f27573bc9f56b59205b8&chksm=e9ad89f8deda00ee889563e62c8bfac9113e1d8a6b0eaedace49edf0513229b504090a6eec47#rd
+砥砺前行 | SecZone开源网安2018年企业答卷:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485066&idx=1&sn=d03ebbf851909ee3ab081e728db288b3&chksm=e9ad89e2deda00f43e5242f8cc0e0299cb68a680fb5aa3a99d5f0c9bab1b4be7863fca103827#rd
+SecZone开源网安将出席“第四届中国汽车网络信息安全峰会”并做主题演讲:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485027&idx=1&sn=fd57e11f52d918ae280f4f45db9d7934&chksm=e9ad890bdeda001dce6fdc344a586a5e5cbb0c5454e96a1dc1c2e5b39f6c8c7cc5db8253422c#rd
+2019年首期CWASP CSSD认证培训班即将在太原开班~:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485019&idx=1&sn=7268f34f2ec58e54ec3f85c53e105549&chksm=e9ad8933deda0025a606e67a6e5d74f90c774885aed54e59f5cef8dfe67ef44dfacfca92f38a#rd
+SecZone开源网安成功入围2019年网络安全行业全景图两大重要领域:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485018&idx=1&sn=246695ad2301e6d91978c7ea2b10c142&chksm=e9ad8932deda0024591274585c8b86eafa65ebe06eab5445d0b0fb75ea325f14ebaec7075b97#rd
+SecZone开源网安加入成都市软件行业协会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247485003&idx=1&sn=a78820a6b0fe207726704a1cb71be487&chksm=e9ad8923deda0035e8faed7f4890cce33d6d4702046bd5a772b6a0af7482acdbdfc52463a86f#rd
+SecZone VulHunter亮相第十二届深圳新兴技术创新交流会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484992&idx=1&sn=84bf59d0e305ef9f4d07bb2b1600328d&chksm=e9ad8928deda003e81d730e224b2f77f7a5ef0f6594bee06b35972a13f6d3d367776d03c8e47#rd
+SecZone VulHunter入围“ITSS中国IT服务运维工具图谱”并荣获“十大创新产品”奖:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484983&idx=1&sn=ad98fe80c5b8682dd09d19b49be37271&chksm=e9ad895fdeda004955d70da156ed1762004134a9cd314c1c27539a99a5f586d89dc16b02ddc6#rd
+获奖 | SecZone VulHunter荣获2018年度深圳市软件行业“创新产品”称号:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484960&idx=1&sn=cfa4b2d1ac3a58484e939e90b3f450ed&chksm=e9ad8948deda005ebaf516d705e885bd3611a8e43986e0fbec3e4944c7d32a3f8297a636b390#rd
+IDCC2018 | IAST创新技术，助力软件安全行业发展:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484947&idx=1&sn=4ecc2b400bc4e04502eb82c264700409&chksm=e9ad897bdeda006dc40d0e19b412f0823301faacdf22e494973ba4b5d1c42166220e2de6c703#rd
+CWASP CSSP助力企业落地实施S-SDLC，降低软件安全运维成本:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484941&idx=1&sn=f8e6e68eccc56e1eeef8e5c27af6cc18&chksm=e9ad8965deda007326c2f0b7bb2f2996fc2daf86c7b7df5d7342a6882852800575b12fece76f#rd
+武汉 广州 南宁 |“凛冬计划”Web安全培训特训营三地同时开班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484930&idx=1&sn=a83c38c74c2232098096b92381cdc233&chksm=e9ad896adeda007ca4b758bfb06b842e20e43d2c402da041c47792aced77ff9d73a66d193d7a#rd
+SecZone开源网安将携IAST技术出席第十三届中国IDC产业年度大典:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484926&idx=1&sn=b61b1c93a980228acfa18757339cf1f1&chksm=e9ad8a96deda0380ab19042fd8b6e23b29b1c2aa3b00e25c495f113dd41e378224af6abf0415#rd
+SecZone开源网安S-SDLC解决方案助力平安银行荣获《亚洲银行家》奖项:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484910&idx=2&sn=6f5a7edfbd3d3bab0c9257604dee86bc&chksm=e9ad8a86deda0390bf8da6858865d7fd33bccc398cef6389dd8f364bfc9fd9a3f6abd8a3602a#rd
+海南首期CWASP CSSP认证培训班圆满举办:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484892&idx=1&sn=95acd5fd4e1fe31d9934c9b8ca108e90&chksm=e9ad8ab4deda03a26b579f78abeb1e290a1f33fc38c0e989eaacc8ea5b7ec7283fac6097b3f5#rd
+国家级认证 | CISP认证培训班即将在武汉开班啦~:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484886&idx=1&sn=711fc77b97537faf69fe9dcfa93e4037&chksm=e9ad8abededa03a8d5efa1498482b395429310dc392460d4c164130b6b97b87c31b36b3f8744#rd
+做好安全开发和S-SDLC，避免东航Bug机票事件再现:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484877&idx=1&sn=548f361bb5418c1d24a0bb259ffcd6ba&chksm=e9ad8aa5deda03b39b813e609d968dd95552e3e60527d76f4bb8a68949b58c86ef0b5f7ef57d#rd
+报名开启 | CWASP CSSP认证培训班即将在海南开班啦:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484857&idx=1&sn=bdcedefad08278e3c9d93fb1ac1058f1&chksm=e9ad8ad1deda03c7addde74ddd05cca50b0a09768b6abb9ace27ac9c08959e9122297d752da5#rd
+IAST技术产品 | SecZone开源网安携VulHunter亮相第20届中国高交会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484844&idx=1&sn=4ba7d063539f9424d1c9c126279c7f5c&chksm=e9ad8ac4deda03d25a0c828d5c95b9bd5a958b3885131ef4f4c9142c886982bfa0d621c0476f#rd
+中国南方电网携手SecZone开源网安做好软件安全开发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484834&idx=1&sn=94c4c02e51fe427c6da3b9e339b21c3a&chksm=e9ad8acadeda03dc3cad7479c0d5a3ed21da933f93d1ff552ebaee8d740bbed08b190d792982#rd
+中国工商银行携手SecZone开源网安做好软件安全开发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484819&idx=1&sn=0cd8c20b0b22fe0223f61ceb02e5ac03&chksm=e9ad8afbdeda03eda62385b97222d404e544e396867c84d89ad38ac95c932f2b2745472c2a50#rd
+积极推广IAST技术 | SecZone开源网安出席OWASP中国成都区域安全活动:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484809&idx=1&sn=a191202da939703716b5aef07f6e02ae&chksm=e9ad8ae1deda03f7a55fc66ec9f28837d6d5e50ccde2df005535be8563c1144c78e6201d4b96#rd
+CWASP CSSD认证考试 | 注册软件安全开发人员:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484809&idx=2&sn=55bdceac867c8f66ccddd867698ae378&chksm=e9ad8ae1deda03f7bbc87458db61300babd1f087f9cff7b762c0f4b07edc67547b5e909894bc#rd
+积极推广软件安全 | SecZone开源网安参与OWASP中国广西区域安全活动:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484792&idx=1&sn=07c1c466fa01c98f4a171aa2fa1de5b7&chksm=e9ad8a10deda0306739c8a6950834d9bb8f67fca34f77fb432a07b2528750f81064eb4cc12a9#rd
+软件安全行业创领者 | SecZone开源网安亮相第七届哈科会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484775&idx=1&sn=005b22da035a5d309e0782e805da49d8&chksm=e9ad8a0fdeda0319ceac2b1ddedd53053b3016c45d581aacc1c8c482a2b9ba3dd0b4361b0f39#rd
+注册软件安全开发人员（CWASP CSSD）10月武汉开班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484768&idx=1&sn=29fbe40c63364b119afa64902acfb5f3&chksm=e9ad8a08deda031e75cbe20d356a2b4026d0ca69dece5b24d8f67f7f3657b66338c02a45b3c3#rd
+注册信息安全专业人员（CISP）11月武汉开班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484768&idx=2&sn=e7d074a8a9679c275eebcb4d4b3569dd&chksm=e9ad8a08deda031e51b9fc7148793ae0b5ecaae6ddee0d3c898a64bd56d687c636d1c2cc9429#rd
+CISP武汉开班 | 注册信息安全专业人员需求递增:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484756&idx=1&sn=c4c3dab4cb5ffc880f97b0b0385a7e66&chksm=e9ad8a3cdeda032a8bbd36a1b80de174c88c3dfaab6472126f409de779388ca3415e01c6886f#rd
+联软科技携手SecZone开源网安做好软件安全开发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484740&idx=1&sn=6d2a77fd49946c9670f53a3233a0b7d7&chksm=e9ad8a2cdeda033aac415a8ed00f1e63709367526382b60d4aaf4b0b1345e6e7be4fee34fe25#rd
+SecZone开源网安即将亮相第七届哈尔滨国际科技成果展览交易会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484730&idx=1&sn=e47a34e3d7c39abcbc365d90e979becb&chksm=e9ad8a52deda0344d2de419bd717f716d6814c4742f413526910e671908c368480b44d1ef995#rd
+分享图片:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484713&idx=1&sn=d21532b693a25de9d2a13eacfef227d9&chksm=e9ad8a41deda03571d771e2fc3073d04980c8a3156c13580b37668f28d0b8f5a2f6d657bbc21#rd
+SecZone开源网安携自主可控软件产品亮相第四届商业航天高峰论坛:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484705&idx=1&sn=9977e8d411edcd146bb6aeb60bf34b29&chksm=e9ad8a49deda035f16ff4451452df1c1cfb5fffb545e968eb10732a8906001e0cdae307ba71d#rd
+亮相服博会 | SecZone开源网安参加第九届服博会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484692&idx=1&sn=725684920b366b45eeff4e2ccdc8808f&chksm=e9ad8a7cdeda036ae1b274455bca01599f83ff7395337523b14cbf78a364abf09eba42a48853#rd
+长江日报专访 | 扩大安全认知边界，培养全民安全意识:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484680&idx=1&sn=120ec1a91b1135e29666484bd61119a7&chksm=e9ad8a60deda0376de0c85e528024876fd5898832b08c525841e91d7524c1d302df2cdf5f445#rd
+软件安全 | 保障数据安全的第一道防线:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484673&idx=1&sn=9cd068acf5ceee0df2c245355ba0db7c&chksm=e9ad8a69deda037f677dd94749ffe2878bf6dee5d86446139bb3f9b774c444b1558eaf1e354f#rd
+热闹非凡 | SecZone开源网安高调亮相国家安全宣传周•武汉站:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484661&idx=1&sn=f31fe205f461fc9c5bfd5d5910afed64&chksm=e9ad8b9ddeda028b2fcac69b26f26f41afd75cee6df2ee7de98eac82fe97b318ae3642679b05#rd
+聚焦软件安全 | SecZone开源网安带您走进网络安全周:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484647&idx=1&sn=b5a74c40aac4b7451246e8e204ec7a47&chksm=e9ad8b8fdeda02990083baaed951caf7c99d01184f86489164b05ec157eab2152228687279e1#rd
+蓄势待发 | SecZone开源网安积极筹备武汉网络安全周宣展活动:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484628&idx=1&sn=23ff051f6f2e15694af0e4b25e00df97&chksm=e9ad8bbcdeda02aabfc157b4d78495a13b5c1d74b4ac6fd72100ecce5aaeb33ccbe3b19e9754#rd
+武汉网络安全周活动 | 抢“鲜”了解SecZone开源网安最新动态:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484622&idx=1&sn=209787ad0285b79074fce9a2a4cf3757&chksm=e9ad8ba6deda02b0f6f7275b2ab43cda1636175164169f6847db8e89e5419e362cdfe7768aa3#rd
+电子科技大学SecZone开源网安企业课程又双叒开课了！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484611&idx=1&sn=3e14f3aa1357ff226604d1e2edcb68da&chksm=e9ad8babdeda02bdd855472dda460e93916a8b2708d893fc87bde12ac5830f5d03625e7a5cd7#rd
+SecZone开源网安VulHunter灰盒安全测试工具在2018东盟博览会上获奖:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484604&idx=1&sn=6753879cb2bbf829e77ba17873221a88&chksm=e9ad8bd4deda02c207ddae2b847cdc8ace89ae248bc76628e2d701bc4198cb0638ec8ab29050#rd
+3、2、1，SecZone开源网安即将亮相2018国家网络安全宣传周:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484591&idx=1&sn=b2d7dca17d9493ad10008ea97e3facf9&chksm=e9ad8bc7deda02d184cdca0fa754397e1d5fd046135041bc3d2af1c84f5d87ee3ac01643646a#rd
+专题报道 | 加强自主研发，开源网安在不断努力:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484585&idx=1&sn=1a5c1e120ff6a04d15390ba8ad083875&chksm=e9ad8bc1deda02d74baa23d4e4b3fc773816df46ea0c5116f135cd312b68fdd7fe697f76c374#rd
+软件安全行业创领者——SecZone开源网安惊艳亮相ISC 2018大会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484568&idx=1&sn=6f1f50b5d5e9c8af02ac421a55f494f2&chksm=e9ad8bf0deda02e632b93f989ae3dfeb7cd53e48a80cf7c3f1deb9c8bb9fe4273dc165d6b463#rd
+官方报道 | 武汉临空港新闻报道国家网安基地开源网安培训班结业仪式:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484557&idx=1&sn=d87528f1d41ce7061220e88344a2893e&chksm=e9ad8be5deda02f32e26aa229fed2e3524bb1a716d993315bf87566018df92c13637948f79b6#rd
+获奖 | SecZone开源网安荣获ISC安全创客汇2018年度“最具创新性初创安全企业”十强企业称号:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484548&idx=1&sn=e2cda25f108739de9569169d4cc11083&chksm=e9ad8becdeda02fa18cd7954a30082cabcb562f0173c5ac1dd1c366a140193adb71f57eb287d#rd
+直击ISC 2018现场 | SecZone开源网安展台今日火爆开启，将持续三天！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484537&idx=1&sn=2e1a742fbf0a8d55faefddf006ee3ef8&chksm=e9ad8b11deda0207c24af78264ba68897f7af7ca5a595b063a8106ef8f6acc0cebe3d7246885#rd
+金蝶软件携手SecZone开源网安做好软件安全开发:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484537&idx=2&sn=9b11846ad88c5b00b7a9ff1b5cf9cb09&chksm=e9ad8b11deda02071b7a6a09fffcd19e5eb09a2b98f635f84e8b71c7c4d87efa32cac68e85ed#rd
+ISC 2018互联网安全大会开幕在即，SecZone开源网安展台多重互动好礼，只等您来~:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484520&idx=1&sn=3884f2a550eea784f74c25361320c25c&chksm=e9ad8b00deda02161b8823e2cb92eeb702b9d9bb2eeb2fc568cb21cfc01022c2d6d8ffc7f6db#rd
+SecZone VulHunter社区版即将来袭~:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484520&idx=2&sn=d8745f854481399edda9af3021396279&chksm=e9ad8b00deda0216ac772236462a9c98d0f70edbd04b0b7837b4fff83af94a7f164d252e2f49#rd
+『功守道』软件供应链安全大赛•PE二进制赛季启示录：下篇:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484507&idx=2&sn=c5728550ec59525b8487ccfd6c9b1b51&chksm=e9ad8b33deda0225f3e875b51ccf6b856facfcaa36d7f87c39cff1e432ea7c94607660fff21e#rd
+『功守道』软件供应链安全大赛•PE二进制赛季启示录：上篇:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484485&idx=3&sn=42e503a0b24447c8c4e767a14fec78f8&chksm=e9ad8b2ddeda023b27b437648662b9a17ffe28282c71ecbf243ce3e71fe7fee8012cccdf2a5b#rd
+2018 ISC互联网安全大会即将开幕，SecZone开源网安为您开启软件安全技术饕餮盛宴:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484457&idx=1&sn=2973fc96db4a22b9629af2aa2d94ad56&chksm=e9ad8b41deda0257b759247a62ce521debf4af9a4daff13166c8e827a5947003cbcef0b40907#rd
+SecZone开源网安携软件安全开发技术议题亮相OWASP中国区域安全技术沙龙:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484450&idx=1&sn=3ec2a99bd6b234dfe0f18618b22240cd&chksm=e9ad8b4adeda025cdb3c5418b174a3430b0090fa95533cd65e86c73de64155f6b6de8c213df3#rd
+SecZone开源网安诚邀您一起探寻IAST技术的奥秘 | 2018 ISC互联网安全大会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484436&idx=1&sn=91c27dc73dc758e4e2bd9aa5c4b1d6a3&chksm=e9ad8b7cdeda026af487ef9f3bef7bec30684eeb949b92f4efe026b6a6f77eca4b5054d3540a#rd
+JBoss | 如何加固应用服务器:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484436&idx=2&sn=0e09e03a6972459340bfa41696e1953b&chksm=e9ad8b7cdeda026aaab9bca82cff4a4893237f51941c2fca4eb1d732d0e0961aabe1d1ce0333#rd
+SecZone开源网安携S-SDLC解决方案亮相2018网络安全生态峰会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484425&idx=1&sn=bf73f3b5c1c57dcbc14896b11c73fc61&chksm=e9ad8b61deda027786301ae47a6717259ecf4dfa426be9b8910647cc412ae185709dc048350e#rd
+命令执行漏洞 | 谁在给应用软件下命令？:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484393&idx=1&sn=a14d67c0ece641108479fc9559436282&chksm=e9ad8c81deda05973b05e9ea7a2c6a1aa3b3fbe72f99d3a30ceccbadc726474e096efa5a5621#rd
+有你的名字吗？|《中国信息安全》刊登最新CWASP CSSP注册人员信息:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484374&idx=1&sn=402854e1bf7642cde769f0d1a797e293&chksm=e9ad8cbededa05a83f66f910d8ec70f3e292227d54db23d7710bfe7303feac1801a59dc2402e#rd
+不穿黑衣不出门，白帽子如何进行“踩点”与“侦查”？:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484366&idx=1&sn=fa39a5e815bbd751bd2d3cff7211e127&chksm=e9ad8ca6deda05b000d651c0093d7c56765d2e3de07d71b16a50d5cdef112b5088a3bd72914a#rd
+中国人寿携手SecZone开源网安从软件开发过程保障业务安全:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484351&idx=1&sn=d4f082c5e775a348a6997a72ec0a1e5c&chksm=e9ad8cd7deda05c1bc1ca7667005b804c411fcb684a03cb1efd88efaf03368b598b616abd020#rd
+干货来袭 | 暑假集训班前置课程我们都学了些什么？:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484344&idx=1&sn=34ac6e92178dc0a9227e7a338b0ccad9&chksm=e9ad8cd0deda05c62bf63484cd6e32875cc856779b8b8988476854db674f552e3d200dc73234#rd
+VulHunter，符合“Gartner 2018十大安全项目”范围的安全工具:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484303&idx=1&sn=25e0a90acd3cf958b8b5527906af2981&chksm=e9ad8ce7deda05f1aed5c34f109dd182aaf79b3244e118b30784d2dd6d13d3942b5008468b1b#rd
+集训开班 | 开始是成功的一半，期待各位学员的成长:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484287&idx=1&sn=5bfc14ff5a210798ba93f2d55751198f&chksm=e9ad8c17deda05016d643bfcd05c89f0ac1a71da419877d783ac5396c4f025e8a8c1cd0d56e5#rd
+SecZone开源网安受邀出席合肥市高新区创业创新券专场推介会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484276&idx=1&sn=542269e65c5b17729c1e01e79001c40f&chksm=e9ad8c1cdeda050a2f87147d1f097b82f9465102be5a72ec34222c141bd685c7d8cdb981631f#rd
+培训接力 | 中国石化江汉油田网络安全培训班进入实操阶段:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484270&idx=1&sn=7cc14cb3a3a71c8daf722bb47912b5c8&chksm=e9ad8c06deda05106b242fb73d4ff7409ca944f900777411f0e10f2e260f26d01a233fcf2591#rd
+武汉市委领导前来SecZone开源网安武汉办公室视察指导工作:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484264&idx=1&sn=da2ffe2ad6f2b3544b13349cf58aef2a&chksm=e9ad8c00deda051631eeecb4d2e29feaf96621e4d3e435917f7af907bb97a83ccd4a9c208419#rd
+Web安全技术之道暑假培训班将延迟开班 | 我想过保卫地球的一千零一种方法，最酷的还是这个！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484256&idx=1&sn=bf13932e9b8e663e8e7ea82e5f7b10f5&chksm=e9ad8c08deda051ebb3e9cc2eb38a62a4e2ac771794eb0dcd9f4b255f5af42fa95edcb26680e#rd
+CISP第二次调整后的首场认证考试 | 考取认证不是结束，是新使命的开始:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484248&idx=2&sn=d665977a8504ef62c5aeefdf350000bb&chksm=e9ad8c30deda05267f8d0057fb62fcd5b72a61d4c6e681cbbd8c98d567fa7b93fff1cda6c612#rd
+敬请砸单 | 收深圳创新券和合肥合创券:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484234&idx=1&sn=c899d58a873c387a8894517a7533f752&chksm=e9ad8c22deda0534c3fb9b81e9ff6cd7d35dc14969bbb77841bc396482821b54e0cdd57e86f4#rd
+武汉炎夏开班 | 注册信息安全专业人员（CISP）:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484229&idx=1&sn=e8812828791fffd837df76fe7309ad7d&chksm=e9ad8c2ddeda053bf0d24b9404045e98958e8712e7c29a5a78c7c823edc7fb030e08379aae0c#rd
+浙江移动 | 注册软件安全开发人员（CWASP CSSD）认证培训班圆满举办:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484185&idx=1&sn=83c0cae1065046004d5b88a6ef2d6710&chksm=e9ad8c71deda0567c8ae65e6dcd493645fa6b53078de4ce939ca048fa1605b265a9d68673671#rd
+从软件开发角度解密OWASP Top 10:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484170&idx=1&sn=7fbd26451f457edc410368ead6c5f51e&chksm=e9ad8c62deda0574d8e17f738541c0da9737679cc91b5ed34d8b0a96eb47a44971eb2c0e8b6a#rd
+SecZone携软件安全开发议题亮相首届全国信息安全企业家高峰论坛:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484158&idx=1&sn=e7fcc40868d34e499163ba3e2bffbdd2&chksm=e9ad8d96deda0480623c5165ccf808132a7b536e487b8c7216a74f550932f73322b94ac15333#rd
+SecZone升职加油站 | Web安全技术之道（第二期）暑假培训班火热报名中:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484149&idx=1&sn=c7ce399a89c70a10166290f8a3bdae76&chksm=e9ad8d9ddeda048bee27e1b3a1ae9571846685101885e95748e60a78514c0c1af1f080dab67d#rd
+中国石化江汉油田网络安全培训班顺利召开:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484141&idx=1&sn=eac1d3b33c80425d3e73c70c55880129&chksm=e9ad8d85deda0493fa8d42ec4d213485b2d4c5ffba4f8f386c6be54c6b583f8f5c749f52730a#rd
+武汉盛夏之约 | 2018 SecZone “Web安全技术之道暑假培训班” 火热招生中！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484141&idx=2&sn=9a01e9a498439de3dcacb9d2963396bf&chksm=e9ad8d85deda049361ca7df7c2fa79532ed014cf8306ace310a07f4ff124ee2d8e436a0318a5#rd
+《网络安全法》正式实施一周年:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484115&idx=1&sn=e84ad71868069f090f8a4183fa83e91f&chksm=e9ad8dbbdeda04ad5f3653084c7fbc0ad44373dc1a31e7461fed8dcb086843aea86859ed9a0f#rd
+SecZone获邀参加第十一届深圳新兴技术创新交流会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484104&idx=1&sn=a825acb95de5e07fb6d0eb32920c31cb&chksm=e9ad8da0deda04b6c36fc40d00a019993687c0d991d11e833a66f7d88bac53670f82039b9748#rd
+北京 | CWASP CSSP认证培训班圆满完成！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247484009&idx=2&sn=767a95f13d5c6c38e7fe34cf0a6952e8&chksm=e9ad8d01deda0417b0a743f5b0da789292ddbdf0c6ca4e28ebe77bd34fae446ed58b8ec0c941#rd
+阿里巴巴集团安全部联合SecZone组织的功守道·软件供应链安全大赛开战！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483971&idx=1&sn=c98de28f4cda806ef668bcc2ee111ff3&chksm=e9ad8d2bdeda043d974c866899dea8270365c2d7f9937f552dd2076fb219ca8b84ea315d6ff2#rd
+由SecZone提供支持的阿里软件供应链安全大赛已正式启动，大家快来参与吧！:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483939&idx=1&sn=261198c2f8e99860e71c21ca9ca4b8db&chksm=e9ad8d4bdeda045d95e56e6b47c21aeb8e13c6008b13581c08b075f5d3db6374930dbdbf021f#rd
+2018年度“中国信息安全从业人员现状调查”活动开始了:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483918&idx=1&sn=0a75a8977e69a1d7defd17a1eba602ff&chksm=e9ad8d66deda0470810615ec7de40051ca464cada0aba1f203eb76b702e7a67dd174f3bcfce5#rd
+开源网安全国研发中心及软件安全基地落户武汉:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483891&idx=1&sn=8ad2b19bcfef61c77fbb6ba5a0b8d11b&chksm=e9ad8e9bdeda078dc8463b30602c2e4b5f37d41fe791e6a7f2ad0bf39cd4ba20fd3ddd665b43#rd
+共商数据安全 | 脸书泄密门的警示:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483891&idx=2&sn=0c82f93fb5944f63080fa00bb736a1ef&chksm=e9ad8e9bdeda078d8922b2732739d5cfe0c20bbc76a09818313d96687b9358ad4302dbebdac7#rd
+行业联合|SecZone加入深圳互联网行业联合会成立大会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483842&idx=2&sn=72ef45781a7d8b2f25de8e1b20f6bb52&chksm=e9ad8eaadeda07bce4842f1d830f5f29831aa437eacc4f2bd43734c0b2f7e65af1cc4fac3a05#rd
+SecZone携自研成果VulHunter亮相香港春季电子产品展览会:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483805&idx=1&sn=f99ff99458bfe556266ab8a2e2ab1df9&chksm=e9ad8ef5deda07e3f63b9606cdc0ec7105ac53adc4f1a0b05fed7f662e44376ff173a5cddbee#rd
+注册软件安全专业人员（CWASP CSSP）认证考试圆满举行:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483771&idx=1&sn=aa6a6c2aa2c055d20371bf7f3db71bc2&chksm=e9ad8e13deda0705dd0afd84e1970f6535453e3f2c0efb736133808ae944db1a446aeb812c6a#rd
+武汉开班 | 注册软件安全开发人员（CWASP CSSD）认证培训:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483764&idx=1&sn=fc49902f58a86ac33041e17808ce80c6&chksm=e9ad8e1cdeda070aae5d25eca1f3c1f5413033d42d2e1d72c6acece0828c3e5e378587d220bd#rd
+武汉东西湖区政府领导视察开源网络安全有限公司:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483758&idx=1&sn=4ee9b103550468add36518ea2ae6f087&chksm=e9ad8e06deda0710ec53bb0edffd80a5e133eb44640823dd1d7869f3d6a216f23b1af6151c34#rd
+注册软件安全专业人员|CWASP CSSP 临空港开班:
+http://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247483758&idx=2&sn=8200679c4e4ee5d2374d8d3615537809&chksm=e9ad8e06deda0710fccea3313cf2924cb02fc7d4fc6ac70864e08ebff25ec769fc314845b5bb#rd
